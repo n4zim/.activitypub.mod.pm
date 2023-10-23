@@ -39,5 +39,5 @@ if(missing.index.length !== 0) await writeInstances(instances)
 
 for(const instance of missing.file) {
   console.log(`Missing ${instance}${EXT} file, attempting to discover...`)
-  await discoverInstance(instance)
+  discoverInstance(instance)
 }

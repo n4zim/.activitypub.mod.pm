@@ -1,0 +1,28 @@
+name: ActivityPub - Links
+
+on:
+  workflow_dispatch:
+  schedule: [ { cron: '45 23 * * *' } ]
+
+permissions: { contents: write }
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+      - name: Update links
+        working-directory: src/activitypub
+        run: bun run links.ts
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: ActivityPub - Links - ${{ github.event.repository.updated_at }}
+          directory: data/activitypub

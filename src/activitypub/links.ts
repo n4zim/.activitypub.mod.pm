@@ -4,7 +4,8 @@ import { TIMEOUT } from "./values.ts"
 const MIN = 200
 const NOW = new Date()
 
-for(const domain of await readInstances()) await scanInstance(domain)
+//for(const domain of await readInstances()) await scanInstance(domain)
+await Promise.all((await readInstances()).map(scanInstance))
 
 async function scanInstance(instance: string) {
   if(!await exists(instance)) return

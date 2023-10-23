@@ -15,7 +15,7 @@ instances.sort()
 
 for(const instance of instances) {
   console.log(`Fetching ${instance}...`)
-  discoverInstance(instance)
+  await discoverInstance(instance)
 }
 
 Bun.write(DIR + EXT, JSON.stringify(instances))

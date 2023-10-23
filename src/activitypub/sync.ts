@@ -1,6 +1,5 @@
-
-const DIR = "../../data/activitypub/"
-const EXT = ".json"
+import { discoverInstance } from "./api"
+import { DIR, EXT } from "./values"
 
 const instances = await Bun.file(DIR + EXT).json<string[]>()
 
@@ -14,39 +13,9 @@ for(const server of await servers.json()) {
 
 instances.sort()
 
-for(const domain of instances) {
-  console.log(`Fetching ${domain}...`)
-  const node = await nodeInfo(domain)
-  if(node) {
-    Bun.write(DIR + domain + EXT, JSON.stringify(node))
-  }
+for(const instance of instances) {
+  console.log(`Fetching ${instance}...`)
+  discoverInstance(instance)
 }
 
 Bun.write(DIR + EXT, JSON.stringify(instances))
-
-async function nodeInfo(manifestDomain: string) {
-  try {
-    const nodeManifestData = await fetch(`https://${manifestDomain}/.well-known/nodeinfo`, {
-      timeout: true,
-    })
-    const nodeManifestInfo = await nodeManifestData.json()
-    if(!nodeManifestInfo.links) return
-    const nodePath = nodeManifestInfo.links[0].href
-    const nodeData = await fetch(nodePath)
-    const nodeInfo = await nodeData.json()
-    return {
-      open: nodeInfo?.openRegistrations,
-      total: {
-        users: nodeInfo?.usage?.users?.total,
-        posts: nodeInfo?.usage?.localPosts,
-      },
-      hostname: new URL(nodePath).hostname,
-      software: {
-        name: nodeInfo?.software?.name,
-        version: nodeInfo?.software?.version,
-      },
-    }
-  } catch (e) {
-    console.error("[DISCOVER ERROR]", e)
-  }
-}

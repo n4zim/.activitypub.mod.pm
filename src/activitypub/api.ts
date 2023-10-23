@@ -1,4 +1,4 @@
-import { DIR, EXT } from "./values"
+import { DIR, EXT, TIMEOUT } from "./values"
 
 export async function discoverInstance(instance: string, additional: any = {}) {
   const node = await nodeInfo(instance)
@@ -13,11 +13,11 @@ async function nodeInfo(manifestDomain: string) {
   const url = `https://${manifestDomain}/.well-known/nodeinfo`
   try {
     const controller = new AbortController()
-    const id = setTimeout(() => controller.abort(), 5000)
+    const id = setTimeout(() => controller.abort(), TIMEOUT)
     const nodeManifestData = await fetch(url, { signal: controller.signal })
     const nodeManifestInfo = await nodeManifestData.json()
     if(!nodeManifestInfo.links) return
-    console.log(`Found ${nodeManifestInfo?.links?.length} links for ${manifestDomain}`)
+    //console.log(`Found ${nodeManifestInfo?.links?.length} links for ${manifestDomain}`)
     const nodePath = nodeManifestInfo.links[0].href
     const nodeData = await fetch(nodePath, { signal: controller.signal })
     clearTimeout(id)

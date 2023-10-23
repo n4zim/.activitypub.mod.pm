@@ -1,35 +1,16 @@
-import { readdir } from "node:fs/promises"
-import { discoverInstance } from "./api"
-import { DIR, EXT } from "./values"
+import { discoverInstance, readDir, readFile, readInstances, writeInstances } from "./helpers.ts"
+import { EXT } from "./values.ts"
 
-const instances = await Bun.file(DIR + EXT).json<string[]>()
-const dir = await readdir(DIR)
+const instances = await readInstances()
+const dir = await readDir()
 
 const missing: { index: string[], file: string[] } = { index: [], file: [] }
 
-for(const instance of instances) await checkJSON(instance)
-for(const file of dir) checkJSONIndex(file)
-
-for(const instance of missing.index) {
-  console.log(`Missing ${EXT} index for ${instance}`)
-  instances.push(instance)
-}
-
-if(missing.index.length !== 0) {
-  instances.sort()
-  await Bun.write(DIR + EXT, JSON.stringify(instances))
-}
-
-for(const instance of missing.file) {
-  console.log(`Missing ${instance}${EXT} file, attempting to discover...`)
-  await discoverInstance(instance)
-}
-
-async function checkJSON(instance: string) {
-  if(!dir.includes(instance + EXT)) {
+for(const instance of instances) {
+  if(!dir.includes(instance)) {
     if(!missing.file.includes(instance)) missing.file.push(instance)
   } else {
-    const file = await Bun.file(DIR + instance + EXT).json()
+    const file = await readFile(instance)
     if(file?.links) {
       for(const link of file.links) {
         if(!instances.includes(link) && !missing.index.includes(link)) {
@@ -43,10 +24,20 @@ async function checkJSON(instance: string) {
   }
 }
 
-function checkJSONIndex(file: string) {
-  const instance = file.slice(0, -EXT.length)
-  if(instance === "") return
-  if(!instances.includes(instance) && !missing.index.includes(instance)) {
-    missing.index.push(instance)
+for(const file in dir) {
+  if(!instances.includes(file) && !missing.index.includes(file)) {
+    missing.index.push(file)
   }
+}
+
+for(const instance of missing.index) {
+  console.log(`Missing ${EXT} index for ${instance}`)
+  instances.push(instance)
+}
+
+if(missing.index.length !== 0) await writeInstances(instances)
+
+for(const instance of missing.file) {
+  console.log(`Missing ${instance}${EXT} file, attempting to discover...`)
+  await discoverInstance(instance)
 }

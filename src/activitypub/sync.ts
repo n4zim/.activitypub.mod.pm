@@ -1,7 +1,6 @@
-import { discoverInstance } from "./api"
-import { DIR, EXT } from "./values"
+import { discoverInstance, readInstances, writeInstances } from "./helpers.ts"
 
-const instances = await Bun.file(DIR + EXT).json<string[]>()
+const instances = await readInstances()
 
 const servers = await fetch("https://api.joinmastodon.org/servers")
 for(const server of await servers.json()) {
@@ -11,11 +10,9 @@ for(const server of await servers.json()) {
   }
 }
 
-instances.sort()
-
 for(const instance of instances) {
   console.log(`Fetching ${instance}...`)
   await discoverInstance(instance)
 }
 
-Bun.write(DIR + EXT, JSON.stringify(instances))
+await writeInstances(instances)

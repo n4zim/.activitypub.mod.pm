@@ -5,6 +5,9 @@ on:
   schedule: [ { cron: '20 4 * * *' } ]
   push: { branches: [ main ] }
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest

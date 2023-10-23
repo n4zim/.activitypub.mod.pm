@@ -1,6 +1,7 @@
 import { discoverInstance } from "./api"
-import { DIR, EXT } from "./values"
+import { DIR, EXT, TIMEOUT } from "./values"
 
+const MIN = 0
 const NOW = new Date()
 
 for(const domain of await readInstances()) {
@@ -13,6 +14,7 @@ async function scanInstance(instance: string) {
   if(!await file.exists()) return
   let fileJson = await file.json()
 
+  if(MIN && typeof fileJson.links !== "undefined") return
   const links: string[] = fileJson.links || []
   let linksUpdated = false
 
@@ -24,9 +26,11 @@ async function scanInstance(instance: string) {
     let skip = false
     for(const status of statuses) {
       if(
-        status.date.getFullYear() === NOW.getFullYear()
-        && status.date.getMonth() === NOW.getMonth()
-        && status.date.getDate() === NOW.getDate()
+        (MIN && page <= MIN) || (!MIN
+          && status.date.getFullYear() === NOW.getFullYear()
+          && status.date.getMonth() === NOW.getMonth()
+          && status.date.getDate() === NOW.getDate()
+        )
       ) {
         if(!links.includes(status.hostname) && status.hostname !== instance) {
           links.push(status.hostname)
@@ -70,14 +74,17 @@ async function fetchStatuses(domain: string, offset: number = 0, page: number = 
   const url = `https://${domain}/api/v1/trends/statuses${offset ? `?offset=${offset * page}` : ""}`
   console.log(`Fetching ${url}...`)
   try {
-    const response = await fetch(url)
+    const controller = new AbortController()
+    const id = setTimeout(() => controller.abort(), TIMEOUT)
+    const response = await fetch(url, { signal: controller.signal })
+    clearTimeout(id)
     const json = await response.json()
     return json.map((status: any) => ({
       date: new Date(status.created_at),
       hostname: new URL(status.url).hostname,
     }))
   } catch(e) {
-    console.error(e)
+    //console.error(e)
     return []
   }
 }

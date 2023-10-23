@@ -23,9 +23,6 @@ if(missing.index.length !== 0) {
 for(const instance of missing.file) {
   console.log(`Missing ${instance}${EXT} file, attempting to discover...`)
   await discoverInstance(instance)
-  if(!await Bun.file(DIR + instance + EXT).exists()) {
-    console.log(`Failed to discover ${instance}`)
-  }
 }
 
 async function checkJSON(instance: string) {

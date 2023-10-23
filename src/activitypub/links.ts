@@ -10,7 +10,7 @@ for(const domain of await readInstances()) {
 async function scanInstance(instance: string) {
   const filePath = DIR + instance + EXT
   const file = Bun.file(filePath)
-  if(!file.exists()) return
+  if(!await file.exists()) return
   let fileJson = await file.json()
 
   const links: string[] = fileJson.links || []

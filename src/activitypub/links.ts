@@ -4,9 +4,7 @@ import { TIMEOUT } from "./values.ts"
 const MIN = 0
 const NOW = new Date()
 
-for(const domain of await readInstances()) {
-  await scanInstance(domain)
-}
+for(const domain of await readInstances()) await scanInstance(domain)
 
 async function scanInstance(instance: string) {
   if(!await exists(instance)) return
@@ -46,9 +44,7 @@ async function scanInstance(instance: string) {
 
   if(links.length === 0) return
 
-  if(linksUpdated) {
-    await discoverInstance(instance, { links })
-  }
+  if(linksUpdated) await discoverInstance(instance, { links })
 
   const instances = await readInstances()
   let instancesUpdated = false
@@ -61,7 +57,7 @@ async function scanInstance(instance: string) {
   if(instancesUpdated) await writeInstances(instances)
 }
 
-async function fetchStatuses(domain: string, offset: number = 0, page: number = 1) {
+async function fetchStatuses(domain: string, offset = 0, page = 1) {
   const url = `https://${domain}/api/v1/trends/statuses${offset ? `?offset=${offset * page}` : ""}`
   console.log(`Fetching ${url}...`)
   try {
@@ -74,7 +70,7 @@ async function fetchStatuses(domain: string, offset: number = 0, page: number = 
       date: new Date(status.created_at),
       hostname: new URL(status.url).hostname,
     }))
-  } catch(e) {
+  } catch(_) {
     //console.error(e)
     return []
   }

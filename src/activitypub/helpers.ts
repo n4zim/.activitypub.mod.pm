@@ -66,9 +66,9 @@ async function nodeInfo(manifestDomain: string) {
   }
 }
 
-export async function exists(path: string): Promise<boolean> {
+export async function exists(instance: string): Promise<boolean> {
   try {
-    await Deno.stat(path)
+    await Deno.stat(DIR + instance + EXT)
     return true
   } catch(error) {
     if(error instanceof Deno.errors.NotFound) {

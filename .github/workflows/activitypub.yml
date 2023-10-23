@@ -1,0 +1,26 @@
+name: Sync ActivityPub data
+
+on:
+  workflow_dispatch:
+  schedule: [ { cron: '20 4 * * *' } ]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@master
+      - name: Sync data
+        working-directory: src/activitypub
+        run: bun run sync.ts
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: Sync ActivityPub - ${date}
+          directory: data/activitypub

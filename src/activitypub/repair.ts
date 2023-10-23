@@ -16,7 +16,7 @@ for(const instance of instances) {
         if(!instances.includes(link) && !missing.index.includes(link)) {
           missing.index.push(link)
         }
-        if(!dir.includes(link + EXT) && !missing.file.includes(link)) {
+        if(!dir.includes(link) && !missing.file.includes(link)) {
           missing.file.push(link)
         }
       }
@@ -24,7 +24,7 @@ for(const instance of instances) {
   }
 }
 
-for(const file in dir) {
+for(const file of dir) {
   if(!instances.includes(file) && !missing.index.includes(file)) {
     missing.index.push(file)
   }

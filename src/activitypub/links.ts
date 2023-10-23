@@ -1,7 +1,7 @@
 import { discoverInstance, exists, readFile, readInstances, writeInstances } from "./helpers.ts"
 import { TIMEOUT } from "./values.ts"
 
-const MIN = 200
+const MIN = 10
 const NOW = new Date()
 
 //for(const domain of await readInstances()) await scanInstance(domain)
@@ -11,7 +11,7 @@ async function scanInstance(instance: string) {
   if(!await exists(instance)) return
   const fileJson = await readFile(instance)
 
-  if(MIN && typeof fileJson.links !== "undefined") return
+  //if(MIN && typeof fileJson.links !== "undefined") return
   const links: string[] = fileJson.links || []
   let linksUpdated = false
 

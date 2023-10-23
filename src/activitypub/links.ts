@@ -1,7 +1,7 @@
 import { discoverInstance, exists, readFile, readInstances, writeInstances } from "./helpers.ts"
 import { TIMEOUT } from "./values.ts"
 
-const MIN = 0
+const MIN = 200
 const NOW = new Date()
 
 for(const domain of await readInstances()) await scanInstance(domain)

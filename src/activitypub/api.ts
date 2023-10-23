@@ -10,14 +10,17 @@ export async function discoverInstance(instance: string, additional: any = {}) {
 }
 
 async function nodeInfo(manifestDomain: string) {
+  const url = `https://${manifestDomain}/.well-known/nodeinfo`
   try {
-    const nodeManifestData = await fetch(`https://${manifestDomain}/.well-known/nodeinfo`, {
-      timeout: true,
-    })
+    const controller = new AbortController()
+    const id = setTimeout(() => controller.abort(), 5000)
+    const nodeManifestData = await fetch(url, { signal: controller.signal })
     const nodeManifestInfo = await nodeManifestData.json()
     if(!nodeManifestInfo.links) return
+    console.log(`Found ${nodeManifestInfo?.links?.length} links for ${manifestDomain}`)
     const nodePath = nodeManifestInfo.links[0].href
-    const nodeData = await fetch(nodePath)
+    const nodeData = await fetch(nodePath, { signal: controller.signal })
+    clearTimeout(id)
     const nodeInfo = await nodeData.json()
     return {
       open: nodeInfo?.openRegistrations,
@@ -32,6 +35,6 @@ async function nodeInfo(manifestDomain: string) {
       },
     }
   } catch (e) {
-    console.error("[DISCOVER ERROR]", e)
+    console.error("[DISCOVER ERROR]", url)
   }
 }

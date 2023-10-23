@@ -1,5 +1,5 @@
-import { discoverInstance } from "./api"
-import { DIR, EXT, TIMEOUT } from "./values"
+import { discoverInstance, exists, readFile, readInstances, writeInstances } from "./helpers.ts"
+import { TIMEOUT } from "./values.ts"
 
 const MIN = 0
 const NOW = new Date()
@@ -9,10 +9,8 @@ for(const domain of await readInstances()) {
 }
 
 async function scanInstance(instance: string) {
-  const filePath = DIR + instance + EXT
-  const file = Bun.file(filePath)
-  if(!await file.exists()) return
-  let fileJson = await file.json()
+  if(!await exists(instance)) return
+  const fileJson = await readFile(instance)
 
   if(MIN && typeof fileJson.links !== "undefined") return
   const links: string[] = fileJson.links || []
@@ -60,14 +58,7 @@ async function scanInstance(instance: string) {
       instancesUpdated = true
     }
   }
-  if(instancesUpdated) {
-    instances.sort()
-    await Bun.write(DIR + EXT, JSON.stringify(instances))
-  }
-}
-
-function readInstances() {
-  return Bun.file(DIR + EXT).json<string[]>()
+  if(instancesUpdated) await writeInstances(instances)
 }
 
 async function fetchStatuses(domain: string, offset: number = 0, page: number = 1) {

@@ -17,9 +17,6 @@ jobs:
           fetch-depth: 0
       - name: Setup Deno
         uses: denoland/setup-deno@v1
-      - name: Repair data
-        working-directory: src/activitypub
-        run: deno run --allow-all repair.ts
       - name: Sync data
         working-directory: src/activitypub
         run: deno run --allow-all sync.ts

@@ -15,14 +15,14 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
       - name: Repair data
         working-directory: src/activitypub
-        run: bun run repair.ts
+        run: deno run --allow-all repair.ts
       - name: Sync data
         working-directory: src/activitypub
-        run: bun run sync.ts
+        run: deno run --allow-all sync.ts
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:

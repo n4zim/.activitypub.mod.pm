@@ -15,11 +15,11 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
       - name: Update links
         working-directory: src/activitypub
-        run: bun run links.ts
+        run: deno run --allow-all links.ts
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:

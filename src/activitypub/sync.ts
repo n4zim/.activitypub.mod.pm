@@ -10,9 +10,14 @@ for(const server of await servers.json()) {
   }
 }
 
-for(const instance of instances) {
+/*for(const instance of instances) {
   console.log(`Fetching ${instance}...`)
   await discoverInstance(instance)
-}
+}*/
+
+await Promise.all(instances.map(async instance => {
+  console.log(`Fetching ${instance}...`)
+  await discoverInstance(instance)
+}))
 
 await writeInstances(instances)

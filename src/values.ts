@@ -1,5 +1,5 @@
 
-export const DIR = "../../data/activitypub/"
+export const DIR = "../data/"
 
 export const EXT = ".json"
 

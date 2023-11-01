@@ -1,4 +1,4 @@
-name: ActivityPub - Links
+name: Links
 
 on:
   workflow_dispatch:
@@ -18,14 +18,14 @@ jobs:
       - name: Setup Deno
         uses: denoland/setup-deno@v1
       - name: Repair data
-        working-directory: src/activitypub
+        working-directory: src
         run: deno run --allow-all repair.ts
       - name: Update links
-        working-directory: src/activitypub
+        working-directory: src
         run: deno run --allow-all links.ts
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: ActivityPub - Links - ${{ github.event.repository.updated_at }}
-          directory: data/activitypub
+          message: Links - ${{ github.event.repository.updated_at }}
+          directory: data

@@ -1,4 +1,4 @@
-name: ActivityPub - Sync
+name: Sync
 
 on:
   workflow_dispatch:
@@ -18,11 +18,11 @@ jobs:
       - name: Setup Deno
         uses: denoland/setup-deno@v1
       - name: Sync data
-        working-directory: src/activitypub
+        working-directory: src
         run: deno run --allow-all sync.ts
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: ActivityPub - Sync - ${{ github.event.repository.updated_at }}
-          directory: data/activitypub
+          message: Sync - ${{ github.event.repository.updated_at }}
+          directory: data

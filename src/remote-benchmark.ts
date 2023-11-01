@@ -10,17 +10,17 @@ await Promise.all(files.map(async (file, i) => {
 console.log("#", files.length, "files in", totalTime(now), "seconds without LFS")
 
 now = Date.now()
-await Promise.all(files.map(file => getFile(file, true)))
+await Promise.all(files.map(file => getFile(file)))
 console.log("#", files.length, "files in", totalTime(now), "seconds with LFS")
 
 function totalTime(start: number) {
   return (Date.now() - start) / 1000
 }
 
-async function getFile(name: string, lfs = false) {
-  const url = lfs
+async function getFile(name: string/*, lfs = false*/) {
+  const url = /*lfs
     ? ("https://media.githubusercontent.com/media/n4zim/.mod.pm/lfs/data/activitypub/" + name + EXT + "?download=")
-    : ("https://raw.githubusercontent.com/n4zim/.mod.pm/main/data/activitypub/" + name + EXT)
+    : (*/"https://raw.githubusercontent.com/n4zim/.activitypub.mod.pm/main/data/" + name + EXT/*)*/
   //console.log("#", url)
   const response = await fetch(url)
   if(!response.ok) return

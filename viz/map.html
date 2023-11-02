@@ -54,46 +54,73 @@
 <body>
   <div id="map"></div>
   <script>
-    var s = new sigma(
-      {
-        renderer: {
-          container: document.getElementById('map'),
-          type: 'canvas'
-        },
-        settings: {
-          minArrowSize: 10
+    const map = new sigma({
+      renderer: {
+        container: document.getElementById('map'),
+        type: 'canvas'
+      },
+      //settings: { minArrowSize: 10 },
+    })
+
+    map.startForceAtlas2()
+
+    let remainingEdges = []
+
+    getFile("").then(async data => {
+      for(const host of data) {
+        console.log("Getting", host)
+        const instance = await getFile(host)
+        const size = instance?.total?.users, links = instance?.links
+        if(!size || !links) continue
+        map.graph.read({
+          nodes: [
+            {
+              id: host,
+              label: host,
+              x: Math.random(),
+              y: Math.random(),
+              color: '#EE651D',
+              size,
+            },
+          ],
+          edges: manageDependencies(host, links),
+        })
+        map.refresh()
+      }
+    })
+
+    function manageDependencies(host, links) {
+      const edges = []
+      remainingEdges = remainingEdges.filter(edge => {
+        if(edge.source === host) {
+          edges.push(edge)
+          return false
+        }
+        return true
+      })
+      for(const link of links) {
+        const edge = {
+          id: host + link,
+          source: host,
+          target: link,
+          type: 'curvedArrow',
+          color: '#84888b',
+        }
+        if(map.graph.nodes(link)) {
+          edges.push(edge)
+        } else {
+          remainingEdges.push(edge)
         }
       }
-    )
+      return edges
+    }
 
-    var nbNode = 50;
-    var nbEdge = 100;
-    var graph = {
-      nodes: [],
-      edges: []
-    };
-    for (i = 0; i < nbNode; i++)
-      graph.nodes.push({
-        id:  i,
-        label: 'Node ' + i,
-        x: Math.random(),
-        y: Math.random(),
-        size: 1,
-        color: '#EE651D'
-      });
-
-    for (i = 0; i < nbEdge; i++)
-      graph.edges.push({
-        id: i,
-        source: '' + (Math.random() * nbNode | 0),
-        target: '' + (Math.random() * nbNode | 0),
-        color: '#202020',
-        type: 'curvedArrow'
-      });
-
-    s.graph.read(graph)
-    s.refresh()
-    s.startForceAtlas2()
+    async function getFile(name) {
+      const url = "https://raw.githubusercontent.com/n4zim/.activitypub.mod.pm/main/data/" + name + ".json"
+      const response = await fetch(url)
+      if(!response.ok) return
+      return response.json()
+    }
   </script>
 </body>
 </html>

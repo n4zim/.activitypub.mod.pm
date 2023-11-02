@@ -5,7 +5,17 @@ export async function readInstances(): Promise<string[]> {
 }
 
 export async function writeInstances(instances: string[]) {
-  instances.sort()
+  const users: { [key: string]: number } = {}
+  for(const instance of instances) {
+    try {
+      const file = await readFile(instance)
+      users[instance] = file?.total?.users || 0
+    } catch(error) {
+      console.error("[WRITE INSTANCES ERROR]", error)
+      users[instance] = 0
+    }
+  }
+  instances.sort((a, b) => users[b] - users[a])
   await Deno.writeTextFile(DIR + EXT, JSON.stringify(instances))
 }
 

@@ -1,4 +1,4 @@
-import { DIR, EXT, TIMEOUT } from "./values.ts"
+import { CONCURRENCY, DIR, EXT, TIMEOUT } from "./values.ts"
 
 export async function readInstances(): Promise<string[]> {
   return JSON.parse(await Deno.readTextFile(DIR + EXT))
@@ -10,8 +10,9 @@ export async function writeInstances(instances: string[]) {
     try {
       const file = await readFile(instance)
       users[instance] = file?.total?.users || 0
-    } catch(error) {
-      console.error("[WRITE INSTANCES ERROR]", error)
+    } catch(_error) {
+      console.log("Ignored instance update for", instance)
+      //console.error("[WRITE INSTANCES ERROR]", error)
       users[instance] = 0
     }
   }
@@ -48,9 +49,13 @@ export async function discoverInstance(instance: string, additional: any = {}) {
 
 async function nodeInfo(manifestDomain: string) {
   const url = `https://${manifestDomain}/.well-known/nodeinfo`
+  let aborted = false
   try {
     const controller = new AbortController()
-    const id = setTimeout(() => controller.abort(), TIMEOUT)
+    const id = setTimeout(() => {
+      aborted = true
+      controller.abort()
+    }, TIMEOUT)
     const nodeManifestData = await fetch(url, { signal: controller.signal })
     const nodeManifestInfo = await nodeManifestData.json()
     if(!nodeManifestInfo.links) return
@@ -71,8 +76,12 @@ async function nodeInfo(manifestDomain: string) {
         version: nodeInfo?.software?.version,
       },
     }
-  } catch(_) {
-    console.error("[DISCOVER ERROR]", url)
+  } catch(_error) {
+    if(aborted) {
+      console.log("/!\\ Aborted instance discovery for", url)
+    } else {
+      console.error("Error discovering", url)
+    }
   }
 }
 
@@ -85,5 +94,12 @@ export async function exists(instance: string): Promise<boolean> {
       return false
     }
     throw error
+  }
+}
+
+export async function chunkPromises(promises: (() => Promise<void>)[]) {
+  for(let i = 0; i < promises.length; i += CONCURRENCY) {
+    console.log(`Executing ${i + 1}-${i + CONCURRENCY + 1} of ${promises.length} promises...`)
+    await Promise.all(promises.slice(i, i + CONCURRENCY).map(promise => promise()))
   }
 }

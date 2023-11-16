@@ -1,4 +1,4 @@
-import { discoverInstance, readInstances, writeInstances } from "./helpers.ts"
+import { chunkPromises, discoverInstance, readInstances, writeInstances } from "./helpers.ts"
 
 const instances = await readInstances()
 
@@ -10,14 +10,9 @@ for(const server of await servers.json()) {
   }
 }
 
-/*for(const instance of instances) {
-  console.log(`Fetching ${instance}...`)
-  await discoverInstance(instance)
-}*/
-
-await Promise.all(instances.map(async instance => {
-  console.log(`Fetching ${instance}...`)
-  await discoverInstance(instance)
+await chunkPromises(instances.map(instance => () => {
+  //console.log(`Fetching ${instance}...`)
+  return discoverInstance(instance)
 }))
 
 await writeInstances(instances)

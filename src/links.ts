@@ -1,11 +1,11 @@
-import { discoverInstance, exists, readFile, readInstances, writeInstances } from "./helpers.ts"
+import { chunkPromises, discoverInstance, exists, readFile, readInstances, writeInstances } from "./helpers.ts"
 import { TIMEOUT } from "./values.ts"
 
 const MIN = 10
 const NOW = new Date()
 
 //for(const domain of await readInstances()) await scanInstance(domain)
-await Promise.all((await readInstances()).map(scanInstance))
+await chunkPromises((await readInstances()).map(i => () => scanInstance(i)))
 
 async function scanInstance(instance: string) {
   if(!await exists(instance)) return

@@ -1,1 +1,1 @@
-{"total":{},"hostname":"seal.cafe","software":{}}
+{"total":{"users":123,"posts":157017},"hostname":"seal.cafe","software":{"name":"pleroma","version":"2.6.50+soapbox"},"open":true}

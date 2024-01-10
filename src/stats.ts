@@ -61,6 +61,10 @@ function formatNumber(number: number | string): string {
   return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
 }
 
+function formatLink(link: string): string {
+  return `<a href="https://${link}" target="_blank">${link}</a>`
+}
+
 let file = `
 # ActivityPub data (activitypub.mod.pm/n4zim)
 
@@ -87,12 +91,12 @@ ${Object.entries(softwares).map(([name, instances]) => `| ${name} | **${formatNu
 ### Total users
 | Instance | Users | Posts | Open |
 | -------- | ----- | ----- | ---- |
-${Object.entries(usersByInstance).map(([instance, users]) => `| [${instance}](https://${instance}){target="_blank"} | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+${Object.entries(usersByInstance).map(([instance, users]) => `| ${formatLink(instance)} | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
 
 ### Total posts
 | Instance | Posts | Users | Open |
 | -------- | ----- | ----- | ---- |
-${Object.entries(postsByInstance).map(([instance, posts]) => `| [${instance}](https://${instance}){:target="_blank"} | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+${Object.entries(postsByInstance).map(([instance, posts]) => `| ${formatLink(instance)} | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
 `
 
 await Deno.writeTextFile("../README.md", file)

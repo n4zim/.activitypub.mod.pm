@@ -20,9 +20,11 @@ jobs:
       - name: Sync data
         working-directory: src
         run: deno run --allow-all sync.ts
+      - name: Update stats
+        working-directory: src
+        run: deno run --allow-all stats.ts
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: Sync - ${{ github.event.repository.updated_at }}
-          directory: data

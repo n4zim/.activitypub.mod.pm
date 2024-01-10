@@ -62,8 +62,15 @@ async function nodeInfo(manifestDomain: string) {
     //console.log(`Found ${nodeManifestInfo?.links?.length} links for ${manifestDomain}`)
     const nodePath = nodeManifestInfo.links[0].href
     const nodeData = await fetch(nodePath, { signal: controller.signal })
-    clearTimeout(id)
     const nodeInfo = await nodeData.json()
+
+    let mastodonInfo
+    if(nodeInfo?.software?.name === "mastodon") {
+      const mastodonData = await fetch("https://" + manifestDomain + "/api/v2/instance", { signal: controller.signal })
+      mastodonInfo = await mastodonData.json()
+    }
+    clearTimeout(id)
+
     return {
       open: nodeInfo?.openRegistrations,
       total: {
@@ -75,6 +82,9 @@ async function nodeInfo(manifestDomain: string) {
         name: nodeInfo?.software?.name,
         version: nodeInfo?.software?.version,
       },
+      name: mastodonInfo?.title || nodeInfo?.metadata?.nodeName,
+      description: mastodonInfo?.description || nodeInfo?.metadata?.description,
+      languages: mastodonInfo?.languages || nodeInfo?.metadata?.languages,
     }
   } catch(_error) {
     if(aborted) {

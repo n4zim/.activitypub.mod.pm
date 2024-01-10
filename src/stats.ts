@@ -8,6 +8,8 @@ let usersByInstance: { [instance: string]: number } = {}
 let postsByInstance: { [instance: string]: number } = {}
 
 const usersBySoftware: { [software: string]: number } = {}
+const descriptions: { [instance: string]: string } = {}
+const languages: { [instance: string]: string[] } = {}
 const isOpen: string[] = []
 
 for(const instance of instances) {
@@ -36,6 +38,8 @@ for(const instance of instances) {
       usersBySoftware[file.software.name] += Number(file.total.users)
     }
   }
+  if(file.description) descriptions[instance] = file.description
+  if(file.languages) languages[instance] = file.languages
 }
 
 /*for(const software in softwares) {
@@ -65,6 +69,11 @@ function formatLink(link: string): string {
   return `[${link}](https://${link})`
 }
 
+function formatDescription(description: string): string {
+  if(!description) return "?"
+  return description.replace(/(\r\n|\n|\r)/gm, " ")
+}
+
 let file = `
 # ActivityPub data (activitypub.mod.pm/n4zim)
 
@@ -85,18 +94,18 @@ let file = `
 
 ### Softwares used
 | Software | Users | Instances |
-| -------- | ------| --------- |
+| -------- | ----- | --------- |
 ${Object.entries(softwares).map(([name, instances]) => `| ${name} | **${formatNumber(usersBySoftware[name] || "?")}** | ${formatNumber(instances)} |`).join("\n")}
 
 ### Total users
-| Instance | Users | Posts | Open |
-| -------- | ----- | ----- | ---- |
-${Object.entries(usersByInstance).map(([instance, users]) => `| ${formatLink(instance)} | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+| Instance | Users | Posts | Open | Description | Languages |
+| -------- | ----- | ----- | ---- | ----------- | --------- |
+${Object.entries(usersByInstance).map(([instance, users]) => `| ${formatLink(instance)} | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} | ${formatDescription(descriptions[instance])} | ${languages[instance]?.join(", ") || "?"} |`).join("\n")}
 
 ### Total posts
-| Instance | Posts | Users | Open |
-| -------- | ----- | ----- | ---- |
-${Object.entries(postsByInstance).map(([instance, posts]) => `| ${formatLink(instance)} | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+| Instance | Posts | Users | Open | Description | Languages |
+| -------- | ----- | ----- | ---- | ----------- | --------- |
+${Object.entries(postsByInstance).map(([instance, posts]) => `| ${formatLink(instance)} | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} | ${formatDescription(descriptions[instance])} | ${languages[instance]?.join(", ") || "?"} |`).join("\n")}
 `
 
 await Deno.writeTextFile("../README.md", file)

@@ -62,7 +62,7 @@ function formatNumber(number: number | string): string {
 }
 
 function formatLink(link: string): string {
-  return `<a href="https://${link}" target="_blank">${link}</a>`
+  return `[${link}](https://${link})`
 }
 
 let file = `

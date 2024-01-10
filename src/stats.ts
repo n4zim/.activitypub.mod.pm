@@ -42,7 +42,7 @@ for(const instance of instances) {
   const ratio = Math.round(softwares[software] / instances.length * 100)
   if(ratio < 1) delete softwares[software]
 }*/
-softwares = Object.fromEntries(Object.entries(softwares).sort(([,a],[,b]) => usersBySoftware[b] - usersBySoftware[a]))
+softwares = Object.fromEntries(Object.entries(softwares).sort(([,a],[,b]) => (usersBySoftware[b] || 0) - (usersBySoftware[a] || 0)))
 
 /*for(const instance in usersByInstance) {
   const ratio = Math.round(usersByInstance[instance] / users * 100)
@@ -64,6 +64,12 @@ function formatNumber(number: number | string): string {
 let file = `
 # ActivityPub data (activitypub.mod.pm/n4zim)
 
+## Summary
+- [Latest stats](#latest-stats)
+  - [Global data](#global-data)
+  - [Softwares used](#softwares-used)
+  - [Total users](#total-users)
+
 ## Latest stats
 
 ### Global data
@@ -81,12 +87,12 @@ ${Object.entries(softwares).map(([name, instances]) => `| ${name} | **${formatNu
 ### Total users
 | Instance | Users | Posts | Open |
 | -------- | ----- | ----- | ---- |
-${Object.entries(usersByInstance).map(([instance, users]) => `| [${instance}](https://${instance}) | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+${Object.entries(usersByInstance).map(([instance, users]) => `| [${instance}](https://${instance}){:target="_blank" rel="noopener"} | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
 
 ### Total posts
 | Instance | Posts | Users | Open |
 | -------- | ----- | ----- | ---- |
-${Object.entries(postsByInstance).map(([instance, posts]) => `| [${instance}](https://${instance}) | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+${Object.entries(postsByInstance).map(([instance, posts]) => `| [${instance}](https://${instance}){:target="_blank" rel="noopener"} | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
 `
 
 await Deno.writeTextFile("../README.md", file)

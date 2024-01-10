@@ -87,12 +87,12 @@ ${Object.entries(softwares).map(([name, instances]) => `| ${name} | **${formatNu
 ### Total users
 | Instance | Users | Posts | Open |
 | -------- | ----- | ----- | ---- |
-${Object.entries(usersByInstance).map(([instance, users]) => `| [${instance}](https://${instance}){:target="_blank" rel="noopener"} | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+${Object.entries(usersByInstance).map(([instance, users]) => `| [${instance}](https://${instance}){target="_blank"} | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
 
 ### Total posts
 | Instance | Posts | Users | Open |
 | -------- | ----- | ----- | ---- |
-${Object.entries(postsByInstance).map(([instance, posts]) => `| [${instance}](https://${instance}){:target="_blank" rel="noopener"} | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+${Object.entries(postsByInstance).map(([instance, posts]) => `| [${instance}](https://${instance}){:target="_blank"} | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
 `
 
 await Deno.writeTextFile("../README.md", file)

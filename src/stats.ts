@@ -51,17 +51,21 @@ for(const instance in postsByInstance) {
 }
 postsByInstance = Object.fromEntries(Object.entries(postsByInstance).sort(([,a],[,b]) => b-a))
 
+function formatNumber(number: number): string {
+  return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
+}
+
 let file = `
 # ActivityPub data (activitypub.mod.pm/n4zim)
 
 ## Latest stats
 
 ### Global data
-- **${instances.length}** total instances
-- **${users}** total users
-- **${posts}** total posts
+- **${formatNumber(instances.length)}** total instances
+- **${formatNumber(users)}** total users
+- **${formatNumber(posts)}** total posts
 - **${(open / instances.length * 100).toFixed(2)}%** of instances are open
-- **${links}** in average per instance links with other instances
+- **${formatNumber(links)}** in average per instance links with other instances
 
 ### Total users (for instances with more than 1% of total users)
 | Instance | Users | Posts | Open |

@@ -4,11 +4,11 @@
 ## Latest stats
 
 ### Global data
-- **4316** total instances
-- **10177578** total users
-- **991774639** total posts
+- **4 316** total instances
+- **10 177 578** total users
+- **991 774 639** total posts
 - **50.37%** of instances are open
-- **232184** in average per instance links with other instances
+- **232 184** in average per instance links with other instances
 
 ### Total users (for instances with more than 1% of total users)
 | Instance | Users | Posts | Open |

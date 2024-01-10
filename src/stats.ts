@@ -7,6 +7,7 @@ let softwares: { [key: string]: number } = {}
 let usersByInstance: { [instance: string]: number } = {}
 let postsByInstance: { [instance: string]: number } = {}
 
+const usersBySoftware: { [software: string]: number } = {}
 const isOpen: string[] = []
 
 for(const instance of instances) {
@@ -30,6 +31,10 @@ for(const instance of instances) {
   if(file.software.name) {
     if(!softwares[file.software.name]) softwares[file.software.name] = 0
     softwares[file.software.name] += 1
+    if(file.total?.users) {
+      if(!usersBySoftware[file.software.name]) usersBySoftware[file.software.name] = 0
+      usersBySoftware[file.software.name] += Number(file.total.users)
+    }
   }
 }
 
@@ -37,7 +42,7 @@ for(const instance of instances) {
   const ratio = Math.round(softwares[software] / instances.length * 100)
   if(ratio < 1) delete softwares[software]
 }*/
-softwares = Object.fromEntries(Object.entries(softwares).sort(([,a],[,b]) => b-a))
+softwares = Object.fromEntries(Object.entries(softwares).sort(([,a],[,b]) => usersBySoftware[b] - usersBySoftware[a]))
 
 /*for(const instance in usersByInstance) {
   const ratio = Math.round(usersByInstance[instance] / users * 100)
@@ -51,7 +56,8 @@ usersByInstance = Object.fromEntries(Object.entries(usersByInstance).sort(([,a],
 }*/
 postsByInstance = Object.fromEntries(Object.entries(postsByInstance).sort(([,a],[,b]) => b-a))
 
-function formatNumber(number: number): string {
+function formatNumber(number: number | string): string {
+  if(typeof number === "string") return number
   return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ")
 }
 
@@ -68,19 +74,19 @@ let file = `
 - **${formatNumber(links)}** in average per instance links with other instances
 
 ### Softwares used
-| Software | Instances |
-| -------- | --------- |
-${Object.entries(softwares).map(([name, instances]) => `| ${name} | ${instances} |`).join("\n")}
+| Software | Users | Instances |
+| -------- | ------| --------- |
+${Object.entries(softwares).map(([name, instances]) => `| ${name} | **${formatNumber(usersBySoftware[name] || "?")}** | ${formatNumber(instances)} |`).join("\n")}
 
 ### Total users
 | Instance | Users | Posts | Open |
 | -------- | ----- | ----- | ---- |
-${Object.entries(usersByInstance).map(([instance, users]) => `| [${instance}](https://${instance}) | **${users}** | ${postsByInstance[instance] || "?"} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+${Object.entries(usersByInstance).map(([instance, users]) => `| [${instance}](https://${instance}) | **${formatNumber(users)}** | ${formatNumber(postsByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
 
 ### Total posts
 | Instance | Posts | Users | Open |
 | -------- | ----- | ----- | ---- |
-${Object.entries(postsByInstance).map(([instance, posts]) => `| [${instance}](https://${instance}) | **${posts}** | ${usersByInstance[instance] || "?"} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
+${Object.entries(postsByInstance).map(([instance, posts]) => `| [${instance}](https://${instance}) | **${formatNumber(posts)}** | ${formatNumber(usersByInstance[instance] || "?")} | ${isOpen.includes(instance) ? "✅" : "❌"} |`).join("\n")}
 `
 
 await Deno.writeTextFile("../README.md", file)

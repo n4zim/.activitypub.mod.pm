@@ -1,3 +1,4 @@
+import { SKIP_LIST } from "./skip.ts"
 import { CONCURRENCY, DIR, EXT, TIMEOUT } from "./values.ts"
 
 export async function readInstances(): Promise<string[]> {
@@ -39,6 +40,7 @@ export async function writeFile(instance: string, data: any) {
 }
 
 export async function discoverInstance(instance: string, additional: any = {}) {
+  if(SKIP_LIST.includes(instance)) return
   const node = await nodeInfo(instance)
   if(node) {
     let file = {}
@@ -66,7 +68,10 @@ async function nodeInfo(manifestDomain: string) {
 
     let mastodonInfo
     if(nodeInfo?.software?.name === "mastodon") {
-      const mastodonData = await fetch("https://" + manifestDomain + "/api/v2/instance", { signal: controller.signal })
+      const mastodonData = await fetch("https://" + manifestDomain + "/api/v2/instance", {
+        signal: controller.signal,
+        headers: { "User-Agent": "Mozilla/5.0" },
+      })
       mastodonInfo = await mastodonData.json()
     }
     clearTimeout(id)

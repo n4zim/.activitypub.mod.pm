@@ -10,19 +10,19 @@
 ## Latest stats
 
 ### Global data
-- **5 126** total instances
-- **-4 578 779** total users
-- **1 046 780 403** total posts
-- **46.74%** of instances are open
-- **309 413** in average per instance links with other instances
+- **5 150** total instances
+- **10 423 693** total users
+- **1 047 329 365** total posts
+- **46.76%** instances are open
+- **60.42** average links with other instances
 
 ### Softwares used
 | Software | Users | Instances |
 | -------- | ----- | --------- |
-| mastodon | **8 366 966** | 3 372 |
+| mastodon | **8 369 405** | 3 386 |
 | misskey | **586 229** | 83 |
-| lemmy | **496 817** | 135 |
-| pixelfed | **187 723** | 42 |
+| lemmy | **496 822** | 136 |
+| pixelfed | **187 724** | 43 |
 | diaspora | **294 449** | 42 |
 | kbin | **61 929** | 4 |
 | brighteon | **52 869** | 1 |
@@ -34,7 +34,7 @@
 | mostr | **15 861** | 1 |
 | Mobilizon | **14 869** | 10 |
 | writefreely | **11 824** | 15 |
-| peertube | **27 794** | 61 |
+| peertube | **27 800** | 62 |
 | firefish | **17 384** | 98 |
 | friendica | **16 254** | 115 |
 | mbin | **4 560** | 6 |
@@ -43,10 +43,10 @@
 | bridgy-fed | **2 569** | 1 |
 | foundkey | **4 459** | 5 |
 | kmyblue | **2 268** | 1 |
-| hometown | **13 900** | 74 |
-| akkoma | **14 734** | 205 |
+| hometown | **13 901** | 74 |
+| akkoma | **14 740** | 207 |
 | hubzilla | **4 772** | 19 |
-| sharkey | **6 504** | 94 |
+| sharkey | **6 515** | 95 |
 | socialhome | **1 590** | 2 |
 | glitchcafe | **1 382** | 1 |
 | iceshrimp | **2 122** | 45 |
@@ -60,8 +60,8 @@
 | gancio | **264** | 5 |
 | calckey | **346** | 5 |
 | PieFed | **139** | 1 |
-| gotosocial | **361** | 93 |
-| wordpress | **356** | 177 |
+| gotosocial | **362** | 94 |
+| wordpress | **358** | 179 |
 | pleroma_anni | **52** | 1 |
 | mitra | **71** | 4 |
 | bovine | **36** | 1 |
@@ -86,164 +86,164 @@
 ### Total users
 | Instance | Users | Posts | Open | Description | Languages |
 | -------- | ----- | ----- | ---- | ----------- | --------- |
-| [mastodon.social](https://mastodon.social) | **1 833 714** | 83 545 068 | ✅ | The original server operated by the Mastodon gGmbH non-profit | en |
+| [mastodon.social](https://mastodon.social) | **1 835 080** | 83 636 945 | ✅ | The original server operated by the Mastodon gGmbH non-profit | en |
 | [pawoo.net](https://pawoo.net) | **932 288** | 71 490 203 | ✅ | The Social Coop Limited が運営するマストドンインスタンス「Pawoo」は、文章や画像を投稿して楽しむSNSです。 「創作活動や自由なコミュニケーションを楽しめる場」として、どなたにも幅広く使っていただけます。  | en |
 | [misskey.io](https://misskey.io) | **454 208** | 57 390 123 | ✅ | ? | ? |
-| [mstdn.jp](https://mstdn.jp) | **404 857** | 74 037 973 | ✅ | Mastodon日本鯖です． よろしくお願いいたします。  (Maintained by Sujitech, LLC) | en |
-| [baraag.net](https://baraag.net) | **293 699** | 11 610 134 | ❌ | By clicking past warnings of any sensitive content, you affirm to be 18 years of age or older, and agree to the Terms of Service. | en |
-| [mastodon.cloud](https://mastodon.cloud) | **273 604** | 5 478 954 | ✅ | Everyone is welcome as long as you follow our code of conduct! Thank you.  Mastodon.cloud is maintained by Sujitech, LLC.  | en |
+| [mstdn.jp](https://mstdn.jp) | **404 874** | 74 058 698 | ✅ | Mastodon日本鯖です． よろしくお願いいたします。  (Maintained by Sujitech, LLC) | en |
+| [baraag.net](https://baraag.net) | **293 693** | 11 621 654 | ❌ | By clicking past warnings of any sensitive content, you affirm to be 18 years of age or older, and agree to the Terms of Service. | en |
+| [mastodon.cloud](https://mastodon.cloud) | **273 611** | 5 480 584 | ✅ | Everyone is welcome as long as you follow our code of conduct! Thank you.  Mastodon.cloud is maintained by Sujitech, LLC.  | en |
 | [pravda.me](https://pravda.me) | **228 895** | 1 546 220 | ✅ | «Вот скажи мне, американец, в чём сила? Разве в деньгах? Вот и брат говорит, что в деньгах. У тебя много денег, и чего? Я вот думаю, что сила в правде: у кого Правда, тот и сильнее» (с) Данила Багров. | en |
-| [mstdn.social](https://mstdn.social) | **223 918** | 15 342 589 | ✅ | A general-purpose Mastodon server with a 500 character limit. All languages are welcome. | en |
-| [mastodon.online](https://mastodon.online) | **192 626** | 7 980 479 | ❌ | A newer server operated by the Mastodon gGmbH non-profit | en |
+| [mstdn.social](https://mstdn.social) | **224 014** | 15 357 211 | ✅ | A general-purpose Mastodon server with a 500 character limit. All languages are welcome. | en |
+| [mastodon.online](https://mastodon.online) | **192 624** | 7 989 415 | ❌ | A newer server operated by the Mastodon gGmbH non-profit | en |
 | [mastodon.world](https://mastodon.world) | **181 327** | 5 075 365 | ✅ | Generic Mastodon server for anyone to use. | en |
-| [mas.to](https://mas.to) | **170 220** | 7 225 596 | ✅ | Hello! mas.to is a fast, up-to-date and fun Mastodon server. | en |
+| [mas.to](https://mas.to) | **170 243** | 7 234 370 | ✅ | Hello! mas.to is a fast, up-to-date and fun Mastodon server. | en |
 | [lemmy.world](https://lemmy.world) | **150 935** | 242 000 | ✅ | ? | ? |
 | [pixelfed.social](https://pixelfed.social) | **108 574** | 19 036 183 | ❌ | ? | ? |
 | [diasp.org](https://diasp.org) | **105 872** | 933 521 | ✅ | ? | ? |
-| [techhub.social](https://techhub.social) | **79 713** | 1 463 763 | ✅ | A hub primarily for passionate technologists, but everyone is welcome | en |
-| [mastodonapp.uk](https://mastodonapp.uk) | **79 384** | 2 877 421 | ✅ | UK Hosted and Managed Mastodon Instance. General communal space for discussion, everyone welcome! | en |
-| [universeodon.com](https://universeodon.com) | **78 681** | 2 935 497 | ✅ | Be one with the #fediverse. Join millions of humans building, creating, and collaborating on Mastodon Social Network. | en |
-| [masto.ai](https://masto.ai) | **73 533** | 2 066 663 | ❌ | A general Mastodon server for all languages. | en |
-| [mastodon.sdf.org](https://mastodon.sdf.org) | **72 820** | 1 911 679 | ✅ | "I appreciate SDF but it's a general-purpose server and the name doesn't make it obvious that it's about art." - Eugen Rochko | en |
-| [mastodon.uno](https://mastodon.uno) | **71 691** | 1 294 778 | ✅ | Mastodon.Uno è la prima comunità generalista italiana. Con oltre 70.000 iscritti è il più grande nodo Mastodon italiano.  Anima ambientalista a supporto della privacy e del mondo Open Source. | it |
-| [c.im](https://c.im) | **66 308** | 2 205 459 | ✅ | C.IM is a general, mainly English-speaking Mastodon instance. | en |
-| [infosec.exchange](https://infosec.exchange) | **64 708** | 2 566 776 | ✅ | A Mastodon instance for info/cyber security-minded people.  | en |
-| [fosstodon.org](https://fosstodon.org) | **61 720** | 3 103 254 | ❌ | Fosstodon is a Mastodon instance that is open to anyone who is interested in technology; particularly free & open source software. | en |
+| [techhub.social](https://techhub.social) | **79 723** | 1 456 870 | ✅ | A hub primarily for passionate technologists, but everyone is welcome | en |
+| [mastodonapp.uk](https://mastodonapp.uk) | **79 408** | 2 879 453 | ✅ | UK Hosted and Managed Mastodon Instance. General communal space for discussion, everyone welcome! | en |
+| [universeodon.com](https://universeodon.com) | **78 701** | 2 938 312 | ✅ | Be one with the #fediverse. Join millions of humans building, creating, and collaborating on Mastodon Social Network. | en |
+| [masto.ai](https://masto.ai) | **73 530** | 2 069 004 | ❌ | A general Mastodon server for all languages. | en |
+| [mastodon.sdf.org](https://mastodon.sdf.org) | **72 819** | 1 913 179 | ✅ | "I appreciate SDF but it's a general-purpose server and the name doesn't make it obvious that it's about art." - Eugen Rochko | en |
+| [mastodon.uno](https://mastodon.uno) | **71 701** | 1 296 148 | ✅ | Mastodon.Uno è la prima comunità generalista italiana. Con oltre 70.000 iscritti è il più grande nodo Mastodon italiano.  Anima ambientalista a supporto della privacy e del mondo Open Source. | it |
+| [c.im](https://c.im) | **66 316** | 2 207 908 | ✅ | C.IM is a general, mainly English-speaking Mastodon instance. | en |
+| [infosec.exchange](https://infosec.exchange) | **64 756** | 2 570 179 | ✅ | A Mastodon instance for info/cyber security-minded people.  | en |
+| [fosstodon.org](https://fosstodon.org) | **61 720** | 3 106 594 | ❌ | Fosstodon is a Mastodon instance that is open to anyone who is interested in technology; particularly free & open source software. | en |
 | [kbin.social](https://kbin.social) | **60 802** | 93 968 | ✅ | ? | ? |
 | [brighteon.social](https://brighteon.social) | **52 869** | 2 798 192 | ✅ | ? | ? |
-| [hachyderm.io](https://hachyderm.io) | **51 702** | 2 608 576 | ✅ | Hachyderm is a safe space, LGBTQIA+ and BLM, primarily comprised of tech industry professionals world wide. Note that many non-user account types have restrictions - please see our About page. | en |
-| [mastodon.top](https://mastodon.top) | **51 544** | 697 816 | ✅ | Mastodon.top est une instance francophone stable, régulièrement mise à jour et accessible à tous hébergée par VirtuBox | fr |
+| [hachyderm.io](https://hachyderm.io) | **51 708** | 2 612 472 | ✅ | Hachyderm is a safe space, LGBTQIA+ and BLM, primarily comprised of tech industry professionals world wide. Note that many non-user account types have restrictions - please see our About page. | en |
+| [mastodon.top](https://mastodon.top) | **51 546** | 698 260 | ✅ | Mastodon.top est une instance francophone stable, régulièrement mise à jour et accessible à tous hébergée par VirtuBox | fr |
 | [lemmy.ml](https://lemmy.ml) | **50 986** | 115 102 | ✅ | ? | ? |
-| [mstdn.party](https://mstdn.party) | **50 462** | 1 431 677 | ✅ | Mastodon Party is a general-purpose Mastodon instance. Welcome to the fediverse! | en |
+| [mstdn.party](https://mstdn.party) | **50 464** | 1 432 475 | ✅ | Mastodon Party is a general-purpose Mastodon instance. Welcome to the fediverse! | en |
 | [diaspora-fr.org](https://diaspora-fr.org) | **49 831** | 266 140 | ✅ | ? | ? |
 | [lemmynsfw.com](https://lemmynsfw.com) | **47 178** | 63 761 | ✅ | ? | ? |
 | [social.vivaldi.net](https://social.vivaldi.net) | **44 698** | 1 784 899 | ✅ | Vivaldi Social is part of the Mastodon network and is hosted in Iceland by the makers of Vivaldi Browser. Everyone is welcome to join. | en |
-| [m.cmx.im](https://m.cmx.im) | **43 824** | 5 183 550 | ✅ | 长毛象中文站是一个开放、友好、有爱的社区。长毛象中文站主题为喵、汪、各种动物、社交、科技、编程及生活。我们欢迎友好、热情、乐于分享的朋友，无论你的兴趣点是什么。 | zh-CN |
-| [troet.cafe](https://troet.cafe) | **43 192** | 4 070 973 | ✅ | Hallo im troet.cafe! Dies ist die derzeit größte deutschsprachige Mastodon Instanz zum tröten, neue Leute kennenlernen, sich auszutauschen und Spaß zu haben. | de |
+| [m.cmx.im](https://m.cmx.im) | **43 839** | 5 183 021 | ✅ | 长毛象中文站是一个开放、友好、有爱的社区。长毛象中文站主题为喵、汪、各种动物、社交、科技、编程及生活。我们欢迎友好、热情、乐于分享的朋友，无论你的兴趣点是什么。 | zh-CN |
+| [troet.cafe](https://troet.cafe) | **43 198** | 4 078 668 | ✅ | Hallo im troet.cafe! Dies ist die derzeit größte deutschsprachige Mastodon Instanz zum tröten, neue Leute kennenlernen, sich auszutauschen und Spaß zu haben. | de |
 | [mastodon.nl](https://mastodon.nl) | **41 005** | 1 769 526 | ✅ | Mastodon voor de Nederlandse community - door de Nederlandse community | en |
-| [ohai.social](https://ohai.social) | **39 084** | 1 213 578 | ✅ | ohai.social is a cozy, fast and secure Mastodon server where everyone is welcome. Run by the folks at ohai.is. | en |
+| [ohai.social](https://ohai.social) | **39 083** | 1 214 952 | ✅ | ohai.social is a cozy, fast and secure Mastodon server where everyone is welcome. Run by the folks at ohai.is. | en |
 | [diasp.eu](https://diasp.eu) | **39 081** | 583 697 | ✅ | ? | ? |
 | [fedibird.com](https://fedibird.com) | **38 893** | 15 140 018 | ❌ | ? | ? |
-| [sfba.social](https://sfba.social) | **38 622** | 2 016 121 | ✅ | A Mastodon instance for the San Francisco Bay Area. Come on in and join us! | en |
-| [mamot.fr](https://mamot.fr) | **38 357** | 6 360 167 | ❌ | Mamot.fr est un serveur Mastodon francophone, géré par La Quadrature du Net. | en |
-| [kolektiva.social](https://kolektiva.social) | **37 407** | 2 355 225 | ✅ | Kolektiva is an anti-colonial anarchist collective that offers federated social media to anarchist collectives and individuals in the fediverse. For the social movements and liberation! | en |
-| [mastodon.art](https://mastodon.art) | **36 512** | 3 254 551 | ✅ | Mastodon.ART — Your friendly home on the fediverse for all things creative, all on a platform that is community-owned and ad-free. NO AI OR NFTs ALLOWED. | en |
-| [mindly.social](https://mindly.social) | **35 674** | 1 256 920 | ✅ | Mindly.Social is an English speaking, friendly Mastodon instance created for people who want to use their brains and their hearts to make social networking more social. 🧠💖 | en |
+| [sfba.social](https://sfba.social) | **38 622** | 2 018 858 | ✅ | A Mastodon instance for the San Francisco Bay Area. Come on in and join us! | en |
+| [mamot.fr](https://mamot.fr) | **38 357** | 6 361 553 | ❌ | Mamot.fr est un serveur Mastodon francophone, géré par La Quadrature du Net. | en |
+| [kolektiva.social](https://kolektiva.social) | **37 407** | 2 358 245 | ✅ | Kolektiva is an anti-colonial anarchist collective that offers federated social media to anarchist collectives and individuals in the fediverse. For the social movements and liberation! | en |
+| [mastodon.art](https://mastodon.art) | **36 524** | 3 256 892 | ✅ | Mastodon.ART — Your friendly home on the fediverse for all things creative, all on a platform that is community-owned and ad-free. NO AI OR NFTs ALLOWED. | en |
+| [mindly.social](https://mindly.social) | **35 671** | 1 257 780 | ✅ | Mindly.Social is an English speaking, friendly Mastodon instance created for people who want to use their brains and their hearts to make social networking more social. 🧠💖 | en |
 | [mstdn.ca](https://mstdn.ca) | **34 874** | 2 209 816 | ✅ | A community for Canadians, First Nations, Metis, and Inuit Peoples of the great white north. | en |
 | [social.quodverum.com](https://social.quodverum.com) | **34 311** | 7 873 958 | ✅ | Those who label words as violence do so with the sole purpose of justifying violence against words. | en |
-| [mast.lat](https://mast.lat) | **34 261** | 60 957 | ✅ | Servidor de Mastodon en Español de temática general para todos los hispanohablantes unidos. ¡Tu lugar ideal para empezar en esta red social! | es |
-| [tkz.one](https://tkz.one) | **34 259** | 466 203 | ✅ | La comunidad Mastodon más grande en Español para gamers, otakus y geeks. Libre de toxicidad. Contenido de anime, manga, videojuegos, tecnología, cómics, literatura, cine... ¡Únete a la familia! | es |
+| [mast.lat](https://mast.lat) | **34 268** | 59 890 | ✅ | Servidor de Mastodon en Español de temática general para todos los hispanohablantes unidos. ¡Tu lugar ideal para empezar en esta red social! | es |
+| [tkz.one](https://tkz.one) | **34 266** | 466 611 | ✅ | La comunidad Mastodon más grande en Español para gamers, otakus y geeks. Libre de toxicidad. Contenido de anime, manga, videojuegos, tecnología, cómics, literatura, cine... ¡Únete a la familia! | es |
 | [misskey.design](https://misskey.design) | **33 535** | 4 508 707 | ✅ | ? | ? |
 | [pixelfed.de](https://pixelfed.de) | **31 664** | 7 732 701 | ✅ | ? | ? |
 | [nijimiss.moe](https://nijimiss.moe) | **31 552** | 7 319 662 | ❌ | ? | ? |
+| [mastodon.gamedev.place](https://mastodon.gamedev.place) | **31 178** | 1 201 402 | ✅ | Mastodon server focused on game development and related topics. | en |
 | [poa.st](https://poa.st) | **31 105** | 5 929 784 | ✅ | ? | ? |
-| [mastodon.gamedev.place](https://mastodon.gamedev.place) | **31 031** | 1 199 946 | ✅ | Mastodon server focused on game development and related topics. | en |
-| [toot.community](https://toot.community) | **30 875** | 1 345 703 | ✅ | A worldwide Mastodon instance from The Netherlands. Run by digital enthusiasts, inviting everyone, everywhere to join us in the #fediverse. | en |
+| [toot.community](https://toot.community) | **30 880** | 1 347 442 | ✅ | A worldwide Mastodon instance from The Netherlands. Run by digital enthusiasts, inviting everyone, everywhere to join us in the #fediverse. | en |
 | [alive.bar](https://alive.bar) | **30 801** | 4 520 268 | ✅ | ? | ? |
 | [piaille.fr](https://piaille.fr) | **29 285** | 1 886 368 | ✅ | Piaille.fr est un serveur mastodon public francophone accessible à toutes et à tous.  | fr |
-| [mastodon.scot](https://mastodon.scot) | **28 742** | 1 780 899 | ✅ | A server intended for (but not limited to) users in Scotland or who identify as Scottish. | en |
-| [mastodon.xyz](https://mastodon.xyz) | **28 511** | 2 005 840 | ❌ | A Mastodon instance, open to everyone, but mainly English and French speaking. | en |
+| [mastodon.scot](https://mastodon.scot) | **28 742** | 1 784 040 | ✅ | A server intended for (but not limited to) users in Scotland or who identify as Scottish. | en |
+| [mastodon.xyz](https://mastodon.xyz) | **28 510** | 2 006 628 | ❌ | A Mastodon instance, open to everyone, but mainly English and French speaking. | en |
 | [lemm.ee](https://lemm.ee) | **27 332** | 33 503 | ✅ | ? | ? |
 | [qoto.org](https://qoto.org) | **26 687** | 1 541 077 | ✅ | ? | ? |
-| [mastodon.au](https://mastodon.au) | **26 360** | 586 477 | ✅ | No description because we couldn't make up our minds and went fishing instead 🎣 (*or pat the cat or doggo 🐱🐶) | en |
-| [ravenation.club](https://ravenation.club) | **26 018** | 429 019 | ✅ | ravenation.club is an instance for all the ravers in the universe. Anyone who listens to electronic music (or not) is welcome. Operated by https://cgnfs.de | en |
-| [ioc.exchange](https://ioc.exchange) | **25 970** | 424 903 | ✅ | INDICATORS OF COMPROMISE (IOC) InfoSec Community within the Fediverse. Newbies, experts, gurus - Everyone is Welcome! Instance is supposed to be fast and secure. | en |
+| [mastodon.au](https://mastodon.au) | **26 360** | 586 880 | ✅ | No description because we couldn't make up our minds and went fishing instead 🎣 (*or pat the cat or doggo 🐱🐶) | en |
+| [ravenation.club](https://ravenation.club) | **26 021** | 429 276 | ✅ | ravenation.club is an instance for all the ravers in the universe. Anyone who listens to electronic music (or not) is welcome. Operated by https://cgnfs.de | en |
+| [ioc.exchange](https://ioc.exchange) | **25 974** | 425 519 | ✅ | INDICATORS OF COMPROMISE (IOC) InfoSec Community within the Fediverse. Newbies, experts, gurus - Everyone is Welcome! Instance is supposed to be fast and secure. | en |
 | [hexbear.net](https://hexbear.net) | **25 863** | 312 234 | ✅ | ? | ? |
 | [sh.itjust.works](https://sh.itjust.works) | **25 592** | 38 629 | ✅ | ? | ? |
-| [det.social](https://det.social) | **25 508** | 721 129 | ❌ | Mastodon Server des Unterhaltungsfernsehen Ehrenfeld zum dezentralen Diskurs.  | en |
-| [aus.social](https://aus.social) | **25 004** | 2 191 843 | ✅ | Welcome to thundertoot! A Mastodon Instance for the People. | en |
-| [masto.es](https://masto.es) | **24 818** | 489 325 | ✅ | Bienvenidos a masto.es, el mayor servidor de Mastodon para hispanohablantes de temática general. | es |
+| [det.social](https://det.social) | **25 499** | 721 915 | ❌ | Mastodon Server des Unterhaltungsfernsehen Ehrenfeld zum dezentralen Diskurs.  | en |
+| [aus.social](https://aus.social) | **25 005** | 2 194 151 | ✅ | Welcome to thundertoot! A Mastodon Instance for the People. | en |
+| [masto.es](https://masto.es) | **24 819** | 490 512 | ✅ | Bienvenidos a masto.es, el mayor servidor de Mastodon para hispanohablantes de temática general. | es |
 | [planet.moe](https://planet.moe) | **24 714** | 5 532 179 | ❌ | 서브컬쳐 향유자들을 위한 한국어 마스토돈 인스턴스, 플래닛이에요. | ko |
 | [wxw.moe](https://wxw.moe) | **22 642** | 8 928 213 | ✅ | 一个 泛ACGN 实例，讨论主题不限 ~ | en |
-| [social.tchncs.de](https://social.tchncs.de) | **21 930** | 2 681 354 | ✅ | A friendly server from Germany – which tends to attract techy people, but welcomes everybody. This is one of the oldest Mastodon instances. | en |
+| [social.tchncs.de](https://social.tchncs.de) | **21 931** | 2 681 251 | ✅ | A friendly server from Germany – which tends to attract techy people, but welcomes everybody. This is one of the oldest Mastodon instances. | en |
 | [spinster.xyz](https://spinster.xyz) | **21 511** | 2 142 458 | ✅ | ? | ? |
-| [mastouille.fr](https://mastouille.fr) | **21 487** | 171 600 | ✅ | Mastouille est une instance Mastodon durable, ouverte, et hébergée en France. | fr |
-| [mastodon.ie](https://mastodon.ie) | **20 893** | 1 202 481 | ✅ | Irish Mastodon - run from Ireland, we welcome all who respect the community rules and members. | en |
+| [mastouille.fr](https://mastouille.fr) | **21 489** | 171 785 | ✅ | Mastouille est une instance Mastodon durable, ouverte, et hébergée en France. | fr |
+| [aethy.com](https://aethy.com) | **20 906** | 870 876 | ✅ | A community that strives on self-expression and creativity which has zero tolerance for hate, abuse and harassment! (18+ Only) | en |
+| [mastodon.ie](https://mastodon.ie) | **20 892** | 1 203 710 | ✅ | Irish Mastodon - run from Ireland, we welcome all who respect the community rules and members. | en |
 | [mastodon.com.tr](https://mastodon.com.tr) | **20 864** | 474 176 | ✅ | mastodon.com.tr, genel amaçlı ilk Türkçe Mastodon sunucusudur. | tr |
-| [aethy.com](https://aethy.com) | **20 852** | 868 733 | ✅ | A community that strives on self-expression and creativity which has zero tolerance for hate, abuse and harassment! (18+ Only) | en |
 | [fediverse.blog](https://fediverse.blog) | **20 839** | 16 016 | ❌ | ? | ? |
-| [newsie.social](https://newsie.social) | **20 828** | 997 728 | ❌ | A stable and professionally administered Mastodon server that hosts a large number of journalists and news outlets. Content focuses heavily on news and current events. #newstodon | en |
+| [newsie.social](https://newsie.social) | **20 827** | 998 994 | ❌ | A stable and professionally administered Mastodon server that hosts a large number of journalists and news outlets. Content focuses heavily on news and current events. #newstodon | en |
 | [masto.nu](https://masto.nu) | **20 752** | 83 870 | ✅ | General purpose Mastodon server. All languages are welcome but English, Dutch and Spanish are preferred. | en |
 | [mastodon.bida.im](https://mastodon.bida.im) | **20 715** | 893 520 | ✅ | ? | ? |
-| [me.dm](https://me.dm) | **20 124** | 138 466 | ❌ | Ideas and information to deepen your understanding of the world. Run by the folks at Medium. | en |
+| [me.dm](https://me.dm) | **20 153** | 138 760 | ❌ | Ideas and information to deepen your understanding of the world. Run by the folks at Medium. | en |
 | [juick.com](https://juick.com) | **18 472** | 1 923 436 | ✅ | ? | ? |
-| [o3o.ca](https://o3o.ca) | **18 092** | 7 052 108 | ❌ | 欢迎来到o3o(嘟站)！这是一个泛话题社区，无论你的兴趣是什么，你都可以自由地通过发布“嘟嘟”来吐槽一切、摸鱼扯皮。 本社区由位于加拿大的 O3O.Foundation 项目运营。我们相信由社会组织运营基本通讯软件和设施是必要的，它们不应被控制在大型企业和政府手中。 | zh-CN |
-| [nrw.social](https://nrw.social) | **18 021** | 1 083 370 | ✅ | Wir sind eine freundliche Mastodon Instanz aus Nordrhein-Westfalen. Ob NRW'ler oder NRW-Sympathifanten, jeder ist hier willkommen. | de |
+| [o3o.ca](https://o3o.ca) | **18 092** | 7 052 641 | ❌ | 欢迎来到o3o(嘟站)！这是一个泛话题社区，无论你的兴趣是什么，你都可以自由地通过发布“嘟嘟”来吐槽一切、摸鱼扯皮。 本社区由位于加拿大的 O3O.Foundation 项目运营。我们相信由社会组织运营基本通讯软件和设施是必要的，它们不应被控制在大型企业和政府手中。 | zh-CN |
+| [nrw.social](https://nrw.social) | **18 021** | 1 085 441 | ✅ | Wir sind eine freundliche Mastodon Instanz aus Nordrhein-Westfalen. Ob NRW'ler oder NRW-Sympathifanten, jeder ist hier willkommen. | de |
 | [mathstodon.xyz](https://mathstodon.xyz) | **16 963** | 1 031 935 | ✅ | A Mastodon instance for maths people. We have LaTeX rendering in the web interface! | en |
-| [abdl.link](https://abdl.link) | **16 741** | 300 902 | ✅ | ABDL.link is a community-led microblogging platform. We’re part of a decentralised federated network. ABDL.link is run on our own servers, supported by our patrons – we don’t sell your personal data. | en |
-| [mastodon.nu](https://mastodon.nu) | **16 663** | 613 987 | ✅ | Mastodon.nu är den största servern i Norden och är öppen för alla. Den drivs ideellt på ett professionellt vis och med 100% förnybar energi. Välkommen! Velkommen! Tervetuloa! Velkominn! | sv |
-| [mastodontech.de](https://mastodontech.de) | **16 509** | 387 271 | ✅ | Offen für alle (über 16) und bereitgestellt von Markus'Blog | de |
+| [abdl.link](https://abdl.link) | **16 741** | 300 971 | ✅ | ABDL.link is a community-led microblogging platform. We’re part of a decentralised federated network. ABDL.link is run on our own servers, supported by our patrons – we don’t sell your personal data. | en |
+| [mastodon.nu](https://mastodon.nu) | **16 663** | 614 792 | ✅ | Mastodon.nu är den största servern i Norden och är öppen för alla. Den drivs ideellt på ett professionellt vis och med 100% förnybar energi. Välkommen! Velkommen! Tervetuloa! Velkominn! | sv |
+| [mastodontech.de](https://mastodontech.de) | **16 509** | 387 776 | ✅ | Offen für alle (über 16) und bereitgestellt von Markus'Blog | de |
 | [bookwyrm.social](https://bookwyrm.social) | **16 374** | 824 369 | ✅ | ? | ? |
 | [pod.g3l.org](https://pod.g3l.org) | **16 064** | 14 882 | ✅ | ? | ? |
 | [mostr.pub](https://mostr.pub) | **15 861** | ? | ❌ | ? | ? |
-| [mastodon-japan.net](https://mastodon-japan.net) | **15 748** | 3 052 139 | ✅ | こちらはMastodon Japan Server、日本居住および日本語話者向けの汎用サーバーです。 ただし日本国外居住者及び非日本語話者を除外するものではありません。ルール（利用規約）をご確認の上で平和に遊ぼう。 | ja |
+| [mastodon-japan.net](https://mastodon-japan.net) | **15 751** | 3 058 752 | ✅ | こちらはMastodon Japan Server、日本居住および日本語話者向けの汎用サーバーです。 ただし日本国外居住者及び非日本語話者を除外するものではありません。ルール（利用規約）をご確認の上で平和に遊ぼう。 | ja |
 | [theblower.au](https://theblower.au) | **15 300** | 239 497 | ✅ | Do you need to sort it out? Get on The Blower, a public social network site that's part of a global federation! Give it a go!  You don't have to be Australian to post here, but it helps. | en |
-| [glasgow.social](https://glasgow.social) | **14 794** | 213 860 | ✅ | A place for communities in and around Glasgow, Scotland. | en |
+| [glasgow.social](https://glasgow.social) | **14 796** | 214 053 | ✅ | A place for communities in and around Glasgow, Scotland. | en |
 | [mao.mastodonhub.com](https://mao.mastodonhub.com) | **14 684** | 1 428 217 | ✅ | 本站是Mastodon猫站实例。略略略。。。:-) | en |
-| [sueden.social](https://sueden.social) | **14 416** | 559 229 | ✅ | Eine Community für alle, die sich dem Süden hingezogen fühlen. Wir können alles außer Hochdeutsch. | de |
-| [ieji.de](https://ieji.de) | **14 164** | 286 394 | ✅ | ieji.de is a generalistic mastodon instance, with the goal of being the fastest mastodon instance in Europe and with a focus on user privacy, like being usable via the tor network. | en |
+| [sueden.social](https://sueden.social) | **14 416** | 560 667 | ✅ | Eine Community für alle, die sich dem Süden hingezogen fühlen. Wir können alles außer Hochdeutsch. | de |
+| [ieji.de](https://ieji.de) | **14 163** | 286 847 | ✅ | ieji.de is a generalistic mastodon instance, with the goal of being the fastest mastodon instance in Europe and with a focus on user privacy, like being usable via the tor network. | en |
 | [tech.lgbt](https://tech.lgbt) | **13 452** | 2 601 533 | ✅ | We welcome all marginalized identities. This Mastodon instance is generally for folks who are LGBTQIA+ and Allies with an interest in tech work, academics, or technology in general. | en |
 | [beehaw.org](https://beehaw.org) | **13 370** | 18 004 | ✅ | ? | ? |
 | [noc.social](https://noc.social) | **13 353** | 351 740 | ✅ | This instance is focused on technology, networking, linux, privacy, security, infosec, engineering, but open to anyone. Civil discourse, polite and open. Managed by the noc.org / trunc.org team.  | en |
-| [kinky.business](https://kinky.business) | **13 233** | 485 788 | ✅ | kinky.business is a Mastodon instance for the kink community. Safe, sane, consensual.  | en |
-| [norden.social](https://norden.social) | **13 144** | 2 054 624 | ✅ | Moin! Dies ist eine Mastodon Instanz für Nordlichter, Schnacker und was sonst noch so aus dem Norden kommt. Folge dem Leuchtturm. | en |
+| [kinky.business](https://kinky.business) | **13 234** | 486 073 | ✅ | kinky.business is a Mastodon instance for the kink community. Safe, sane, consensual.  | en |
+| [norden.social](https://norden.social) | **13 144** | 2 057 812 | ✅ | Moin! Dies ist eine Mastodon Instanz für Nordlichter, Schnacker und was sonst noch so aus dem Norden kommt. Folge dem Leuchtturm. | en |
 | [meow.social](https://meow.social) | **13 016** | 1 779 001 | ❌ | This instance run by Tiwy57, Nomaxice, Deki, Blur and Roy is focused around the furry fandom and is open to all fluffies and scalies! | en |
-| [toot.wales](https://toot.wales) | **12 889** | 628 542 | ✅ | We are the Mastodon social network for Wales and the Welsh, at home and abroad! Y rhwydwaith cymdeithasol annibynnol i Gymru, wedi'i bweru gan Mastodon! | en |
+| [toot.wales](https://toot.wales) | **12 886** | 629 155 | ✅ | We are the Mastodon social network for Wales and the Welsh, at home and abroad! Y rhwydwaith cymdeithasol annibynnol i Gymru, wedi'i bweru gan Mastodon! | en |
 | [eldritch.cafe](https://eldritch.cafe) | **12 789** | 2 590 499 | ❌ | Une instance se voulant accueillante pour les personnes queers, féministes et anarchistes ainsi que pour leurs sympathisant·e·s. Nous sommes principalement francophone. | en |
 | [freemasonry.social](https://freemasonry.social) | **12 613** | 9 888 | ✅ | For Freemasons everywhere. It’s like a Festive Board on your phone only without the rubber chicken.  | en |
 | [lemmy.dbzer0.com](https://lemmy.dbzer0.com) | **12 384** | 14 998 | ✅ | ? | ? |
 | [octodon.social](https://octodon.social) | **12 224** | 2 926 542 | ❌ | queer anarchist communist cyber pirate ship | en |
-| [social.cologne](https://social.cologne) | **11 969** | 516 744 | ✅ | social.cologne is eine Mastodon Instanz für jede:n Kölner:in und alle, die sich mit Köln verbunden fühlen. Betrieben von https://cgnfs.de | en |
-| [chaos.social](https://chaos.social) | **11 945** | 5 907 807 | ❌ | chaos.social – a Fediverse instance for & by the Chaos community | en |
-| [mastodon.green](https://mastodon.green) | **11 928** | 896 193 | ✅ | Plant trees while you use Mastodon. A server originally for people in the EU, but now open for anyone in the world | en |
+| [social.cologne](https://social.cologne) | **11 969** | 517 611 | ✅ | social.cologne is eine Mastodon Instanz für jede:n Kölner:in und alle, die sich mit Köln verbunden fühlen. Betrieben von https://cgnfs.de | en |
+| [chaos.social](https://chaos.social) | **11 949** | 5 913 793 | ❌ | chaos.social – a Fediverse instance for & by the Chaos community | en |
+| [mastodon.green](https://mastodon.green) | **11 927** | 897 123 | ✅ | Plant trees while you use Mastodon. A server originally for people in the EU, but now open for anyone in the world | en |
 | [diasp.de](https://diasp.de) | **11 709** | 149 755 | ✅ | ? | ? |
-| [mstdn.plus](https://mstdn.plus) | **11 529** | 119 275 | ✅ | MSTDN+ is a general-purpose Mastodon instance. Welcome to the fediverse! | en |
-| [defcon.social](https://defcon.social) | **11 504** | 193 966 | ✅ | DEFCON.social is a place for hackers, researchers, artists, infosec, cyberpunks & those interested in the intersection of technology and society. | en |
-| [social.linux.pizza](https://social.linux.pizza) | **11 437** | 583 980 | ✅ | A instance dedicated - but not limited - to people with an interest in the GNU+Linux ecosystem and/or general tech. Sysadmins to enthusiasts, creators to movielovers - Welcome!   | en |
-| [toot.io](https://toot.io) | **11 415** | 137 669 | ✅ | toot.io is a fast, mainly english-speaking Mastodon instance. | en |
-| [indieweb.social](https://indieweb.social) | **11 309** | 470 749 | ✅ | INDIEWEB.SOCIAL is an instance focused on the evolution of #Openweb, #Indieweb, #Fediverse, #Mastodon, #Humanetech and #Calm technologies.  | en |
+| [mstdn.plus](https://mstdn.plus) | **11 529** | 119 478 | ✅ | MSTDN+ is a general-purpose Mastodon instance. Welcome to the fediverse! | en |
+| [defcon.social](https://defcon.social) | **11 508** | 194 210 | ✅ | DEFCON.social is a place for hackers, researchers, artists, infosec, cyberpunks & those interested in the intersection of technology and society. | en |
+| [social.linux.pizza](https://social.linux.pizza) | **11 439** | 584 535 | ✅ | A instance dedicated - but not limited - to people with an interest in the GNU+Linux ecosystem and/or general tech. Sysadmins to enthusiasts, creators to movielovers - Welcome!   | en |
+| [toot.io](https://toot.io) | **11 416** | 137 641 | ✅ | toot.io is a fast, mainly english-speaking Mastodon instance. | en |
+| [indieweb.social](https://indieweb.social) | **11 314** | 471 387 | ✅ | INDIEWEB.SOCIAL is an instance focused on the evolution of #Openweb, #Indieweb, #Fediverse, #Mastodon, #Humanetech and #Calm technologies.  | en |
 | [feddit.de](https://feddit.de) | **11 218** | 40 336 | ✅ | ? | ? |
-| [awscommunity.social](https://awscommunity.social) | **11 184** | 217 314 | ✅ | AWS (Amazon Web Services) Community-Focused Mastodon Server bringing together a global user group. Not affiliated with Amazon, but interested in AWS Technology. | en |
-| [mastodon.iriseden.eu](https://mastodon.iriseden.eu) | **11 147** | 78 875 | ✅ | Instance Mastodon hébergée en France chez OVH (AS16276) et maintenue par @iriseden. Vos données ne seront jamais partagées à qui que ce soit et sont sauvegardées tous les jours. Les inscriptions sont ouvertes, les sujets sont libres tant que vous respectez les quelques conditions. Vous pouvez aussi vous inscrire sur mon instance <a href="https://peertube.iriseden.eu"> Peertube</a> ou une autre :) | en |
-| [med-mastodon.com](https://med-mastodon.com) | **10 847** | 397 240 | ✅ | Medical community on Mastodon | en |
-| [muenchen.social](https://muenchen.social) | **10 839** | 463 575 | ✅ | Hallo auf muenchen.social  Dies ist eine deutschsprachige Mastodon Instanz für München zum tröten, neue Leute kennenlernen, sich auszutauschen und Spass zu haben. | de |
-| [framapiaf.org](https://framapiaf.org) | **10 791** | 2 452 007 | ❌ | Un service Mastodon fourni par l'association d’éducation populaire Framasoft. | fr |
+| [awscommunity.social](https://awscommunity.social) | **11 183** | 217 590 | ✅ | AWS (Amazon Web Services) Community-Focused Mastodon Server bringing together a global user group. Not affiliated with Amazon, but interested in AWS Technology. | en |
+| [mastodon.iriseden.eu](https://mastodon.iriseden.eu) | **11 147** | 78 935 | ✅ | Instance Mastodon hébergée en France chez OVH (AS16276) et maintenue par @iriseden. Vos données ne seront jamais partagées à qui que ce soit et sont sauvegardées tous les jours. Les inscriptions sont ouvertes, les sujets sont libres tant que vous respectez les quelques conditions. Vous pouvez aussi vous inscrire sur mon instance <a href="https://peertube.iriseden.eu"> Peertube</a> ou une autre :) | en |
+| [med-mastodon.com](https://med-mastodon.com) | **10 851** | 397 458 | ✅ | Medical community on Mastodon | en |
+| [muenchen.social](https://muenchen.social) | **10 840** | 464 065 | ✅ | Hallo auf muenchen.social  Dies ist eine deutschsprachige Mastodon Instanz für München zum tröten, neue Leute kennenlernen, sich auszutauschen und Spass zu haben. | de |
+| [framapiaf.org](https://framapiaf.org) | **10 791** | 2 453 062 | ❌ | Un service Mastodon fourni par l'association d’éducation populaire Framasoft. | fr |
 | [sigmoid.social](https://sigmoid.social) | **10 633** | 173 316 | ✅ | A social space for people researching, working with, or just interested in AI! | en |
 | [social.dev-wiki.de](https://social.dev-wiki.de) | **10 558** | 173 214 | ✅ | Wir für das freie Internet! <br> Instance for everyone.<br> Keine Bots!! <br><br>  #BeFree  | en |
 | [ruhr.social](https://ruhr.social) | **10 453** | 581 850 | ✅ | Eine Mastodon-Gemeinschaft rund um das Ruhrgebiet und die Menschen dort. Diese Instanz wird ehrenamtlich von Enthusiasten moderiert und technisch betreut. | de |
 | [lemmygrad.ml](https://lemmygrad.ml) | **10 322** | 58 601 | ✅ | ? | ? |
-| [social.anoxinon.de](https://social.anoxinon.de) | **10 271** | 381 410 | ✅ | Die offizielle Mastodon Instanz des Vereins Anoxinon e.V. | de |
+| [social.anoxinon.de](https://social.anoxinon.de) | **10 271** | 381 926 | ✅ | Die offizielle Mastodon Instanz des Vereins Anoxinon e.V. | de |
 | [mstdn.tokyocameraclub.com](https://mstdn.tokyocameraclub.com) | **10 159** | 130 062 | ✅ | mstdn.tokyocameraclub.comは東京カメラ部が運営するMastodonのインスタンス（サーバー）です。 「カメラがある暮らし」をより楽しくすることを目的として、写真や動画などを投稿・閲覧するためのグループです。こちらの趣旨に賛同いただける方はどなたでも無料で参加いただけます。 | en |
 | [oekakiskey.com](https://oekakiskey.com) | **10 083** | 1 701 192 | ✅ | ? | ? |
-| [hessen.social](https://hessen.social) | **9 902** | 486 530 | ✅ | hessen.social ist die Mastodongemeinschaft für alle Hessen:innen und alle, die sich Hessen verbunden fühlen | de |
-| [climatejustice.social](https://climatejustice.social) | **9 783** | 446 888 | ✅ | Welcome to this official Fediverse instance for climate justice activists. | en |
+| [hessen.social](https://hessen.social) | **9 903** | 487 521 | ✅ | hessen.social ist die Mastodongemeinschaft für alle Hessen:innen und alle, die sich Hessen verbunden fühlen | de |
+| [climatejustice.social](https://climatejustice.social) | **9 785** | 447 776 | ✅ | Welcome to this official Fediverse instance for climate justice activists. | en |
 | [nota.404.mn](https://nota.404.mn) | **9 756** | 61 337 | ✅ | ? | ? |
 | [diaspora.psyco.fr](https://diaspora.psyco.fr) | **9 636** | 198 775 | ✅ | ? | ? |
 | [mobilizon.fr](https://mobilizon.fr) | **9 595** | 8 315 | ✅ | ? | ? |
 | [pxlmo.com](https://pxlmo.com) | **9 507** | 4 047 569 | ✅ | ? | ? |
-| [cyberplace.social](https://cyberplace.social) | **9 414** | 51 554 | ✅ | Cybersecurity, fandom, video games, technology, dog photos and most importantly, you. | en |
+| [cyberplace.social](https://cyberplace.social) | **9 416** | 51 692 | ✅ | Cybersecurity, fandom, video games, technology, dog photos and most importantly, you. | en |
 | [feddit.cl](https://feddit.cl) | **9 274** | 1 233 | ✅ | ? | ? |
-| [stranger.social](https://stranger.social) | **9 209** | 144 974 | ✅ | Welcome to Stranger Social, where strangers become friends and the world becomes a little smaller. We're a friendly and welcoming community that's open to everyone - so come on in and join the party! | en |
-| [mastodon.nz](https://mastodon.nz) | **9 046** | 874 648 | ✅ | A Mastodon instance hosted in New Zealand. Made for kiwis and honorary kiwis home and abroad!  Status page @ https://status.fediservices.nz/ | en |
+| [stranger.social](https://stranger.social) | **9 219** | 145 200 | ✅ | Welcome to Stranger Social, where strangers become friends and the world becomes a little smaller. We're a friendly and welcoming community that's open to everyone - so come on in and join the party! | en |
+| [mastodon.nz](https://mastodon.nz) | **9 046** | 875 509 | ✅ | A Mastodon instance hosted in New Zealand. Made for kiwis and honorary kiwis home and abroad!  Status page @ https://status.fediservices.nz/ | en |
 | [sysad.org](https://sysad.org) | **8 990** | ? | ✅ | ? | ? |
-| [noagendasocial.com](https://noagendasocial.com) | **8 964** | 3 952 410 | ❌ | ? | en |
+| [noagendasocial.com](https://noagendasocial.com) | **8 964** | 3 951 379 | ❌ | ? | en |
 | [dice.camp](https://dice.camp) | **8 815** | 873 676 | ✅ | A Mastodon server for RPG folks to hang out and talk. Not owned by a billionaire. | en |
 | [botsin.space](https://botsin.space) | **8 771** | 26 604 575 | ✅ | A Mastodon instance for bots and bot allies. | en |
 | [pixelfed.uno](https://pixelfed.uno) | **8 739** | 736 621 | ✅ | ? | ? |
 | [nerdculture.de](https://nerdculture.de) | **8 513** | 561 110 | ✅ | Be excellent to each other, live humanism, no nazis, no hate speech. Not only for nerds, but the domain is somewhat cool. ;) No bots in general. Languages: DE, EN, FR, NL, ES, IT | en |
-| [aipi.social](https://aipi.social) | **8 480** | 23 554 | ✅ | aipi ist Dienstleister in Sachen IT-Sicherheit und Kommunikation. Wir bieten hier eine Kommunikationsmöglichkeit mit der Mastodon-Föderation an.  | en |
+| [aipi.social](https://aipi.social) | **8 480** | 23 572 | ✅ | aipi ist Dienstleister in Sachen IT-Sicherheit und Kommunikation. Wir bieten hier eine Kommunikationsmöglichkeit mit der Mastodon-Föderation an.  | en |
 | [misskey-square.net](https://misskey-square.net) | **8 443** | 3 062 442 | ✅ | ? | ? |
 | [socel.net](https://socel.net) | **8 433** | 358 754 | ✅ | Socel is a place for animation professionals, freelancers, independents, students, and fans to connect and grow together. Everyone in related fields are also welcome.  | en |
-| [hostux.social](https://hostux.social) | **8 284** | 444 273 | ✅ | European mastodon instance hosted in Luxembourg. Also beer, privacy and free software lovers. Join us! This service is managed by alarig and valere. Photo from https://www.flickr.com/photos/cogdog/ | en |
-| [101010.pl](https://101010.pl) | **8 283** | 455 373 | ✅ | 101010.pl czyli najstarszy polski serwer Mastodon. Posiadamy wpisy do 2048 znaków. | en |
+| [hostux.social](https://hostux.social) | **8 285** | 444 515 | ✅ | European mastodon instance hosted in Luxembourg. Also beer, privacy and free software lovers. Join us! This service is managed by alarig and valere. Photo from https://www.flickr.com/photos/cogdog/ | en |
+| [101010.pl](https://101010.pl) | **8 281** | 455 608 | ✅ | 101010.pl czyli najstarszy polski serwer Mastodon. Posiadamy wpisy do 2048 znaków. | en |
 | [persiansmastodon.com](https://persiansmastodon.com) | **8 265** | 30 605 | ✅ | Persians communities all around the world. بزرگترین سرور فارسی ماستودون  جامعه ای برای فارسی زبانان در سرتاسر جهان | en |
 | [bae.st](https://bae.st) | **8 262** | 3 967 902 | ✅ | ? | ? |
 | [h4.io](https://h4.io) | **8 237** | 86 859 | ✅ | h4.io est une instance Mastodon française, généraliste et stable. Inscris-toi, présente-toi et découvre simplement de nouvelles personnes ! | fr |
-| [twit.social](https://twit.social) | **8 216** | 358 671 | ✅ | The official Mastodon of the TWiT Podcast Network | en |
+| [twit.social](https://twit.social) | **8 216** | 359 130 | ✅ | The official Mastodon of the TWiT Podcast Network | en |
 | [me.ns.ci](https://me.ns.ci) | **8 111** | 1 063 404 | ✅ | NS中文嘟嘟（Mastodon中文社区）致力于维护一个安宁、平和的社区环境，欢迎在这里安家！ | en |
 | [mastodon.fun](https://mastodon.fun) | **8 111** | 1 063 404 | ✅ | NS中文嘟嘟（Mastodon中文社区）致力于维护一个安宁、平和的社区环境，欢迎在这里安家！ | en |
 | [geekdom.social](https://geekdom.social) | **8 088** | 89 723 | ✅ | Geekdom is a high-performance Mastodon server for geeks of any variety. | en |
-| [econtwitter.net](https://econtwitter.net) | **8 007** | 225 685 | ✅ | A Mastodon instance for Economists. | en |
+| [econtwitter.net](https://econtwitter.net) | **8 007** | 225 701 | ✅ | A Mastodon instance for Economists. | en |
 | [lemmy.one](https://lemmy.one) | **7 869** | 3 612 | ❌ | ? | ? |
 | [ttrpg.network](https://ttrpg.network) | **7 768** | 4 585 | ✅ | ? | ? |
 | [programming.dev](https://programming.dev) | **7 700** | 9 939 | ✅ | ? | ? |
@@ -252,7 +252,7 @@
 | [lemmy.blahaj.zone](https://lemmy.blahaj.zone) | **7 532** | 12 349 | ✅ | ? | ? |
 | [truthsocial.co.in](https://truthsocial.co.in) | **7 210** | 61 805 | ✅ | Let's Make Social Media Great Again. Truth Social coin is run by AGK FIRE INC to provide a space that lets users be themselves.  | en |
 | [lemmy.ca](https://lemmy.ca) | **7 158** | 29 232 | ✅ | ? | ? |
-| [graphics.social](https://graphics.social) | **7 109** | 22 767 | ✅ | A gathering place for the computer graphics community to discuss 3D and 2D graphics, computer science, and any related topics. Everyone is welcome here. | en |
+| [graphics.social](https://graphics.social) | **7 109** | 22 830 | ✅ | A gathering place for the computer graphics community to discuss 3D and 2D graphics, computer science, and any related topics. Everyone is welcome here. | en |
 | [novelskey.tarbin.net](https://novelskey.tarbin.net) | **7 080** | 2 986 938 | ✅ | ? | ? |
 | [mstdn.science](https://mstdn.science) | **7 041** | 284 631 | ✅ | http://mstdn.science is a place for people our field (microbiology), scientists in general, and science enthusiasts to discuss research and topics surrounding our work. | en |
 | [pol.social](https://pol.social) | **7 009** | 153 206 | ✅ | Serwer dla osób polskojęzycznych, zlokalizowany w Krakowie, szybki, dobrze i przyjaźnie moderowany. Prowadzony przez Fundację Technologie dla Ludzi. | pl |
@@ -261,15 +261,15 @@
 | [nojack.easydns.ca](https://nojack.easydns.ca) | **6 949** | 32 867 | ❌ | Clean, civil, clueful Mastodon instance for easyDNS members, techies and weirdos. SPAM BOTS WILL BE SUSPENDED | en |
 | [social.librem.one](https://social.librem.one) | **6 917** | 151 183 | ❌ | ? | ? |
 | [occm.cc](https://occm.cc) | **6 909** | 5 062 761 | ✅ | 자커마스는 자작 캐릭터 커뮤니티, 즉 자캐커뮤를 위한 마스토돈 인스턴스입니다. 자캐커뮤에 특화된 서버 설정을 제공하며, 한국어 검색을 지원합니다. | ko |
-| [moth.social](https://moth.social) | **6 745** | 39 316 | ✅ | Welcome to Moth.social. Our mission is to make Mastodon fun & user friendly for everyone. We also build Mammoth for iPhone, iPad & Mac --the easiest way to Mastodon. | en |
+| [moth.social](https://moth.social) | **6 748** | 39 455 | ✅ | Welcome to Moth.social. Our mission is to make Mastodon fun & user friendly for everyone. We also build Mammoth for iPhone, iPad & Mac --the easiest way to Mastodon. | en |
 | [nekomiya.net](https://nekomiya.net) | **6 562** | 1 517 447 | ✅ | ? | ? |
 | [write.as](https://write.as) | **6 546** | 77 577 | ✅ | ? | ? |
 | [nerdpol.ch](https://nerdpol.ch) | **6 368** | 121 251 | ❌ | ? | ? |
 | [submarin.online](https://submarin.online) | **6 331** | 1 889 356 | ✅ | ? | ? |
-| [urbanists.social](https://urbanists.social) | **6 232** | 356 335 | ✅ | We're a server for people who like bikes, transit, and walkable cities. Let's get to know each other! | en |
+| [urbanists.social](https://urbanists.social) | **6 234** | 356 899 | ✅ | We're a server for people who like bikes, transit, and walkable cities. Let's get to know each other! | en |
 | [vis.social](https://vis.social) | **6 223** | 182 574 | ✅ | vis.social is a community for creative people, especially anyone in SciArt, SciComm, data, visualization, creative coding, and related arts and research. English is the shared language.  | en |
 | [queer.party](https://queer.party) | **6 144** | 1 041 462 | ❌ | A silly instance of Mastodon for queer folk and non-queer folk alike. Let's be friends! | en |
-| [ruby.social](https://ruby.social) | **5 868** | 248 712 | ✅ | If you are interested in the Ruby programming language, come join us! Tell us about yourself when signing up.  If you just want to join Mastodon, another server will be a better place for you. | en |
+| [ruby.social](https://ruby.social) | **5 870** | 249 044 | ✅ | If you are interested in the Ruby programming language, come join us! Tell us about yourself when signing up.  If you just want to join Mastodon, another server will be a better place for you. | en |
 | [discuss.tchncs.de](https://discuss.tchncs.de) | **5 754** | 8 013 | ✅ | ? | ? |
 | [dju.social](https://dju.social) | **5 747** | 92 696 | ❌ | Die Deutsche Journalistinnen- und Journalisten-Union (dju) in ver.di bietet hier einen Raum für Medienmenschen und alle, die an einem freundlichen und konstruktiven Austausch interessiert sind. | de |
 | [union.place](https://union.place) | **5 737** | 268 646 | ✅ | The Union Place: a federated server for union members, organizations, friends, and allies. If you support labor and labor rights, you have a place here! | en |
@@ -277,25 +277,25 @@
 | [imastodon.net](https://imastodon.net) | **5 667** | 15 367 245 | ✅ | im@stodon is unofficial mastodon instance for fans of THE IDOLM@STER.  アイマストドンはアイマスに興味がある皆さんのための非公式なマストドンインスタンスです。 | ja |
 | [pixel.tchncs.de](https://pixel.tchncs.de) | **5 663** | 913 107 | ❌ | ? | ? |
 | [toot.funami.tech](https://toot.funami.tech) | **5 654** | 126 197 | ✅ | Safe and free-for-all hang out space without hate, discrimination, operated by YuruVerse / YuruVerse에 의해 운영되는 혐오와 차별이 없는 자유로운 대화 공간. | ko |
-| [zirk.us](https://zirk.us) | **5 651** | 691 530 | ✅ | Literature, philosophy, film, music, culture, politics, history, architecture: join the circus of the arts and humanities! For readers, writers, academics or anyone wanting to follow the conversation. | en |
-| [metalhead.club](https://metalhead.club) | **5 446** | 454 534 | ✅ | Metalhead.club is a Mastodon instance hosted in Germany and powered by 100% green energy. | en |
+| [zirk.us](https://zirk.us) | **5 651** | 692 091 | ✅ | Literature, philosophy, film, music, culture, politics, history, architecture: join the circus of the arts and humanities! For readers, writers, academics or anyone wanting to follow the conversation. | en |
+| [metalhead.club](https://metalhead.club) | **5 446** | 455 288 | ✅ | Metalhead.club is a Mastodon instance hosted in Germany and powered by 100% green energy. | en |
 | [fediscience.org](https://fediscience.org) | **5 444** | 447 217 | ✅ | Fediscience is the social network for scientists. | en |
 | [social.politicaconciencia.org](https://social.politicaconciencia.org) | **5 381** | 291 171 | ✅ | Foro que privilegia el diálogo informado y respetuoso; un entorno apropiado para expresarte sin ser censurado por tu ideología o tus creencias. Temáticas: Política, Ciencia y Cultura. 850 caracteres. | es |
-| [mastodonczech.cz](https://mastodonczech.cz) | **5 261** | 176 045 | ✅ | Mastodon pro českou komunitu | cs |
-| [bark.lgbt](https://bark.lgbt) | **5 258** | 170 413 | ✅ | Furry focused instance for critters that like to bark! LGBTQ+ run and friendly, active moderation | en |
+| [mastodonczech.cz](https://mastodonczech.cz) | **5 260** | 176 487 | ✅ | Mastodon pro českou komunitu | cs |
+| [bark.lgbt](https://bark.lgbt) | **5 259** | 170 929 | ✅ | Furry focused instance for critters that like to bark! LGBTQ+ run and friendly, active moderation | en |
 | [diasporabr.com.br](https://diasporabr.com.br) | **5 243** | 184 949 | ✅ | ? | ? |
 | [mastodontti.fi](https://mastodontti.fi) | **5 240** | 306 759 | ✅ | Tämä on ihmisille tarkoitettu suomenkielinen Mastodon-instanssi, jota moderoidaan aktiivisesti. | fi |
-| [ecoevo.social](https://ecoevo.social) | **5 228** | 237 369 | ✅ | Dedicated to Ecology and Evolution. We welcome academics, students, industry scientists, folks from other fields with links to E&E, scientific societies, and nature enthusiasts in general. | en |
-| [toot.aquilenet.fr](https://toot.aquilenet.fr) | **5 203** | 289 970 | ✅ | Cette instance est hébergée par Aquilenet, FAI associatif, local et militant en Aquitaine. Elle est administrée et modérée par des bénévoles sous leurs propres responsabilités et non celle de l'asso. | fr |
+| [ecoevo.social](https://ecoevo.social) | **5 228** | 237 649 | ✅ | Dedicated to Ecology and Evolution. We welcome academics, students, industry scientists, folks from other fields with links to E&E, scientific societies, and nature enthusiasts in general. | en |
+| [toot.aquilenet.fr](https://toot.aquilenet.fr) | **5 203** | 290 171 | ✅ | Cette instance est hébergée par Aquilenet, FAI associatif, local et militant en Aquitaine. Elle est administrée et modérée par des bénévoles sous leurs propres responsabilités et non celle de l'asso. | fr |
 | [metapixl.com](https://metapixl.com) | **5 193** | 1 849 888 | ✅ | ? | ? |
-| [masto.pt](https://masto.pt) | **5 161** | 390 221 | ✅ | Masto.pt é uma instância de Mastodon para pessoas que falam Português. | pt-PT |
+| [masto.pt](https://masto.pt) | **5 161** | 390 745 | ✅ | Masto.pt é uma instância de Mastodon para pessoas que falam Português. | pt-PT |
 | [cupoftea.social](https://cupoftea.social) | **5 112** | 153 590 | ✅ | A Small Community Mastodon Server for Casual Chit-Chat. UK Based, A place for good and wholesome content open to everyone. Pets, Photos, Music & Food are popular topics.  | en |
 | [convo.casa](https://convo.casa) | **5 048** | 44 632 | ✅ | ? | ? |
 | [securitymastod.one](https://securitymastod.one) | **5 002** | 46 751 | ✅ | ? | ? |
 | [infinimatix.net](https://infinimatix.net) | **4 993** | 45 642 | ✅ | ? | ? |
 | [dancingbanana.party](https://dancingbanana.party) | **4 993** | 45 642 | ✅ | ? | ? |
 | [neumastodon.com](https://neumastodon.com) | **4 993** | 45 642 | ✅ | ? | ? |
-| [kinkyelephant.com](https://kinkyelephant.com) | **4 805** | 291 556 | ✅ | A kinky community for fetish models, photographers, producers and fans.  | en |
+| [kinkyelephant.com](https://kinkyelephant.com) | **4 805** | 291 783 | ✅ | A kinky community for fetish models, photographers, producers and fans.  | en |
 | [scholar.social](https://scholar.social) | **4 789** | 543 819 | ❌ | Microblogging for researchers, grad students, librarians, archivists, undergrads, high schoolers, educators, research assistants, profs—anyone involved in learning who engages with others respectfully | en |
 | [tilvids.com](https://tilvids.com) | **4 770** | 3 185 | ✅ | ? | ? |
 | [reddthat.com](https://reddthat.com) | **4 758** | 4 177 | ✅ | ? | ? |
@@ -305,30 +305,30 @@
 | [pixey.org](https://pixey.org) | **4 607** | 2 124 465 | ✅ | ? | ? |
 | [diaspora.permutationsofchaos.com](https://diaspora.permutationsofchaos.com) | **4 599** | 15 931 | ✅ | ? | ? |
 | [sopuli.xyz](https://sopuli.xyz) | **4 538** | 17 323 | ✅ | ? | ? |
-| [rollenspiel.social](https://rollenspiel.social) | **4 535** | 265 006 | ✅ | rollenspiel.social wird von RollenspielMonster bereitgestellt. Wir bieten einen Platz für Rollenspiel, Pen & Paper, Tabletop, TCG und vieles mehr. Die primäre Sprache ist Deutsch. | de |
-| [mastodon.eus](https://mastodon.eus) | **4 491** | 307 603 | ✅ | Mastodon.eus euskara eta euskal kulturaren komunitatearentzat sortutako Mastodon instantzia bat da.  2018an hauek sortua: Azkue Fund, Dinahosting, iametza, Laborategia.eus, PuntuEUS eta Talaios Koop | eu |
+| [rollenspiel.social](https://rollenspiel.social) | **4 535** | 265 425 | ✅ | rollenspiel.social wird von RollenspielMonster bereitgestellt. Wir bieten einen Platz für Rollenspiel, Pen & Paper, Tabletop, TCG und vieles mehr. Die primäre Sprache ist Deutsch. | de |
+| [mastodon.eus](https://mastodon.eus) | **4 492** | 307 951 | ✅ | Mastodon.eus euskara eta euskal kulturaren komunitatearentzat sortutako Mastodon instantzia bat da.  2018an hauek sortua: Azkue Fund, Dinahosting, iametza, Laborategia.eus, PuntuEUS eta Talaios Koop | eu |
 | [phpc.social](https://phpc.social) | **4 465** | 214 085 | ✅ | A server for PHP programmers & friends. Join us for discussions on the PHP programming language, frameworks, packages, tools, open source, tech, life, and more. | en |
-| [lor.sh](https://lor.sh) | **4 464** | 521 474 | ✅ | lor.sh is yet another mastodon instance. | en |
+| [lor.sh](https://lor.sh) | **4 464** | 522 032 | ✅ | lor.sh is yet another mastodon instance. | en |
 | [fedia.io](https://fedia.io) | **4 364** | 3 379 | ✅ | ? | ? |
 | [witches.live](https://witches.live) | **4 363** | 597 573 | ✅ | ? | ? |
 | [writefreely.ethibox.fr](https://writefreely.ethibox.fr) | **4 336** | 9 800 | ✅ | ? | ? |
 | [sciences.social](https://sciences.social) | **4 308** | 148 468 | ✅ | Non-profit, ad-free social media for social scientists. Join thousands of social scientists here and across the fediverse. | en |
-| [muenster.im](https://muenster.im) | **4 306** | 210 323 | ✅ | Aus Münster für Münster und für alle anderen netten Menschen. | en |
+| [muenster.im](https://muenster.im) | **4 306** | 210 864 | ✅ | Aus Münster für Münster und für alle anderen netten Menschen. | en |
 | [firefish.ranranhome.info](https://firefish.ranranhome.info) | **4 289** | 655 927 | ✅ | ? | ? |
-| [wien.rocks](https://wien.rocks) | **4 288** | 215 084 | ✅ | Fediverse/Mastodon Instanz für und aus Wien.   | de |
-| [todon.eu](https://todon.eu) | **4 276** | 539 416 | ❌ | Radical leftist anti-authoritarian server. For anarchists, socialists, (climate) activists, LGBTQIA+, anti-racists, anti-fascists, anti-capitalists, intersectionalists, vegans, human rights, etc. | en |
-| [linuxrocks.online](https://linuxrocks.online) | **4 254** | 225 205 | ✅ | Linux geeks doing what Linux geeks do...  Special thanks go out to Altispeed Technologies for hosting our hardware! https://www.altispeed.com/ | en |
+| [wien.rocks](https://wien.rocks) | **4 289** | 215 389 | ✅ | Fediverse/Mastodon Instanz für und aus Wien.   | de |
+| [todon.eu](https://todon.eu) | **4 276** | 539 962 | ❌ | Radical leftist anti-authoritarian server. For anarchists, socialists, (climate) activists, LGBTQIA+, anti-racists, anti-fascists, anti-capitalists, intersectionalists, vegans, human rights, etc. | en |
+| [linuxrocks.online](https://linuxrocks.online) | **4 254** | 225 285 | ✅ | Linux geeks doing what Linux geeks do...  Special thanks go out to Altispeed Technologies for hosting our hardware! https://www.altispeed.com/ | en |
 | [1234.as](https://1234.as) | **4 195** | 756 901 | ✅ | ? | ? |
 | [mastodon.com.py](https://mastodon.com.py) | **4 143** | 27 089 | ✅ | Primer servidor federado de Mastodon en Paraguay: todos los latinos y hablantes de español bienvenidos! | es-AR |
 | [sociale.network](https://sociale.network) | **4 136** | 364 693 | ❌ | Sociale.network è un ambiente di confronto per pacifisti, anarcolibertari, ecologisti, antimilitaristi, antirazzisti, antifascisti e ogni altro genere di persone che sogna un mondo pulito e solidale | it |
 | [lemmy.sdf.org](https://lemmy.sdf.org) | **4 070** | 6 652 | ✅ | ? | ? |
 | [mobilizon.it](https://mobilizon.it) | **4 005** | 3 567 | ✅ | ? | ? |
-| [mastodonbooks.net](https://mastodonbooks.net) | **4 004** | 63 765 | ✅ | We are 'the' book-dedicated space on Mastodon. If you are an avid reader, an author, a librarian, a bookstore, a publisher or just a nice person and you love books! Then, this is home 🥰 | en |
-| [mastodon.zaclys.com](https://mastodon.zaclys.com) | **3 975** | 254 349 | ✅ | La place de village francophone familiale | en |
+| [mastodonbooks.net](https://mastodonbooks.net) | **4 004** | 63 862 | ✅ | We are 'the' book-dedicated space on Mastodon. If you are an avid reader, an author, a librarian, a bookstore, a publisher or just a nice person and you love books! Then, this is home 🥰 | en |
+| [mastodon.zaclys.com](https://mastodon.zaclys.com) | **3 976** | 254 567 | ✅ | La place de village francophone familiale | en |
 | [fgc.network](https://fgc.network) | **3 972** | 48 962 | ✅ | ? | ? |
 | [artsio.com](https://artsio.com) | **3 966** | 20 560 | ❌ | Artsio is a creativity and art focused community on the fediverse. | en |
 | [bear.community](https://bear.community) | **3 957** | 68 645 | ✅ | ? | ? |
-| [lou.lt](https://lou.lt) | **3 947** | 108 595 | ❌ | Instance francophone toujours là depuis 2017 et qui n'a pas prévu de s'arrêter ! Ici on pouette un peu de tout mais toujours dans le respect de la loi et des autres.  | en |
+| [lou.lt](https://lou.lt) | **3 947** | 108 644 | ❌ | Instance francophone toujours là depuis 2017 et qui n'a pas prévu de s'arrêter ! Ici on pouette un peu de tout mais toujours dans le respect de la loi et des autres.  | en |
 | [labo.wovs.tk](https://labo.wovs.tk) | **3 930** | 498 853 | ❌ | ? | ? |
 | [diasp.nl](https://diasp.nl) | **3 866** | 118 005 | ✅ | ? | ? |
 | [pixelfed.tokyo](https://pixelfed.tokyo) | **3 847** | 284 439 | ✅ | ? | ? |
@@ -336,109 +336,109 @@
 | [rubber.social](https://rubber.social) | **3 823** | 160 676 | ✅ | Be pervy, be kind. A kink, gear, and BDSM-friendly Mastodon instance. | en |
 | [freeatlantis.com](https://freeatlantis.com) | **3 798** | 1 851 797 | ✅ | ? | en |
 | [social.targaryen.house](https://social.targaryen.house) | **3 782** | 109 659 | ❌ | ? | en |
-| [kind.social](https://kind.social) | **3 774** | 301 381 | ✅ | We're a generalist server consisting heavily of queer, disabled, and neurodivergent users. We strive to foster a genuinely enjoyable shared social experience, and we hope to make you feel welcome! | en |
+| [kind.social](https://kind.social) | **3 778** | 301 977 | ✅ | We're a generalist server consisting heavily of queer, disabled, and neurodivergent users. We strive to foster a genuinely enjoyable shared social experience, and we hope to make you feel welcome! | en |
 | [open.audio](https://open.audio) | **3 771** | ? | ✅ | ? | ? |
 | [bookrastinating.com](https://bookrastinating.com) | **3 766** | 109 209 | ❌ | ? | ? |
-| [genomic.social](https://genomic.social) | **3 764** | 128 339 | ✅ | A Mastodon server for the Genomic Science Community. | en |
+| [genomic.social](https://genomic.social) | **3 764** | 128 461 | ✅ | A Mastodon server for the Genomic Science Community. | en |
 | [misskey.gg](https://misskey.gg) | **3 761** | 1 976 207 | ✅ | ? | ? |
 | [infosec.pub](https://infosec.pub) | **3 742** | 3 972 | ✅ | ? | ? |
 | [wandering.shop](https://wandering.shop) | **3 730** | 1 818 683 | ❌ | Wandering.Shop aims to have the vibe of a quality coffee shop at a busy SF&F Convention. Think tables of writers, fans and interested passers-by sharing drinks and conversation on a variety of topics. | en |
-| [bgme.me](https://bgme.me) | **3 720** | 4 650 465 | ❌ | 一个中文长毛象(Mastodon)实例。 | zh-CN |
-| [mastodon.berlin](https://mastodon.berlin) | **3 713** | 19 805 | ✅ | MIT ÖKOSTROM BETRIEBEN´: Erste Instanz, wenn dir Berliner Luft nicht reicht...! | en |
-| [dresden.network](https://dresden.network) | **3 712** | 285 815 | ✅ | Dresden.Network ist eine Mastodon Instanz für alle aus Dresden und Umgebung,dennoch offen für alle. | de |
+| [bgme.me](https://bgme.me) | **3 721** | 4 654 384 | ❌ | 一个中文长毛象(Mastodon)实例。 | zh-CN |
+| [mastodon.berlin](https://mastodon.berlin) | **3 712** | 19 828 | ✅ | MIT ÖKOSTROM BETRIEBEN´: Erste Instanz, wenn dir Berliner Luft nicht reicht...! | en |
+| [dresden.network](https://dresden.network) | **3 711** | 286 311 | ✅ | Dresden.Network ist eine Mastodon Instanz für alle aus Dresden und Umgebung,dennoch offen für alle. | de |
 | [yiff.life](https://yiff.life) | **3 697** | 1 059 609 | ❌ | Yiff.Life is oriented towards those in the furry and LGBTQA+ communities. | en |
 | [pubpod.alqualonde.org](https://pubpod.alqualonde.org) | **3 681** | ? | ✅ | ? | ? |
 | [cr8r.gg](https://cr8r.gg) | **3 674** | 47 554 | ✅ | A community for all types of creators, those who consume the creations & everyone else (except for automated/bot accounts, they are highly discouraged). | en |
 | [stella.place](https://stella.place) | **3 647** | 691 016 | ✅ | ? | ? |
-| [gensokyo.social](https://gensokyo.social) | **3 643** | 112 176 | ❌ | A generalistic mastodon instance seeking to host Touhou (and other shootemup) fans!  | en |
+| [gensokyo.social](https://gensokyo.social) | **3 643** | 112 215 | ❌ | A generalistic mastodon instance seeking to host Touhou (and other shootemup) fans!  | en |
 | [writing.exchange](https://writing.exchange) | **3 630** | 476 548 | ❌ | A small, intentional community for poets, authors, and every kind of writer. | en |
 | [mastodon.elte.hu](https://mastodon.elte.hu) | **3 588** | 9 869 | ❌ | ELTE-seknek tudományról, művészetről, szakmáról, hobbiról, egyetemi életről... For ELTE university people on science, art, profession, hobby, university life... | en |
 | [mastodon-belgium.be](https://mastodon-belgium.be) | **3 574** | 174 926 | ✅ | This server is provided free of charge to all Mastodon users but aims specifically at users in Belgium. | nl |
 | [qdon.space](https://qdon.space) | **3 523** | 529 784 | ✅ | 성소수자 친화적인 마스토돈 인스턴스입니다. 성소수자들이 마음 놓고 이용할 수 있는 안전한 공간을 목적으로 개설되었습니다. | ko |
 | [liker.social](https://liker.social) | **3 415** | 421 802 | ✅ | 我們是一個基於 LikeCoin 和 Mastodon 的去中心化微博平台，致力於幫助用戶創造收入。在這裡，您可以自由發言、積累粉絲、擴大社群，並通過創作和分享內容獲得加密貨幣和廣告收入！ | en |
-| [masto.nobigtech.es](https://masto.nobigtech.es) | **3 397** | 108 013 | ✅ | Servidor de Mastodon del proyecto nobigtech.es, se aloja en Bilbao, Euskal Herria. Temas generales, políticas de izquierdas. | es |
+| [masto.nobigtech.es](https://masto.nobigtech.es) | **3 397** | 108 089 | ✅ | Servidor de Mastodon del proyecto nobigtech.es, se aloja en Bilbao, Euskal Herria. Temas generales, políticas de izquierdas. | es |
 | [shitposter.club](https://shitposter.club) | **3 392** | 2 835 796 | ❌ | ? | ? |
-| [tooot.im](https://tooot.im) | **3 385** | 554 381 | ✅ | Tooot.im, a Mastodon instance (He | En mostly) רשת מסטודון עברית | חופשית משיקולים תאגידיים | פדרטיבית עם הFediverse  | he |
-| [rheinneckar.social](https://rheinneckar.social) | **3 380** | 84 104 | ✅ | Das soziale Netzwerk für die Rhein-Neckar-Region im Fediverse. Mannheim, Heidelberg, Ludwigshafen und alles drumherum. | en |
-| [todon.nl](https://todon.nl) | **3 355** | 1 410 826 | ❌ | Radicaal linkse anti-autoritaire server. Voor anarchisten, socialisten, (klimaat)activisten, LHBTQIA+, antiracisten, antifascisten, antikapitalisten, intersectionelen, veganisten, mensenrechten, enz. | en |
+| [tooot.im](https://tooot.im) | **3 385** | 554 664 | ✅ | Tooot.im, a Mastodon instance (He | En mostly) רשת מסטודון עברית | חופשית משיקולים תאגידיים | פדרטיבית עם הFediverse  | he |
+| [rheinneckar.social](https://rheinneckar.social) | **3 380** | 84 342 | ✅ | Das soziale Netzwerk für die Rhein-Neckar-Region im Fediverse. Mannheim, Heidelberg, Ludwigshafen und alles drumherum. | en |
+| [todon.nl](https://todon.nl) | **3 355** | 1 411 497 | ❌ | Radicaal linkse anti-autoritaire server. Voor anarchisten, socialisten, (klimaat)activisten, LHBTQIA+, antiracisten, antifascisten, antikapitalisten, intersectionelen, veganisten, mensenrechten, enz. | en |
 | [diode.zone](https://diode.zone) | **3 354** | 32 614 | ❌ | ? | ? |
 | [donphan.social](https://donphan.social) | **3 345** | 130 439 | ✅ | This generalist Mastodon server welcomes enthusiasts of the Pokémon franchise, to talk about it or anything else. Join the federation! | en |
-| [uri.life](https://uri.life) | **3 316** | 434 515 | ✅ | 우리.인생(uri.life)은 다툼과 차별, 혐오에 지친 나와 여러분, 우리를 위한 안식처입니다. | ko |
+| [uri.life](https://uri.life) | **3 318** | 437 827 | ✅ | 우리.인생(uri.life)은 다툼과 차별, 혐오에 지친 나와 여러분, 우리를 위한 안식처입니다. | ko |
 | [photog.social](https://photog.social) | **3 253** | 469 978 | ❌ | A place for your photos and banter. Photog first is our motto  Please refer to the site rules before posting. | en |
 | [mastodon.radio](https://mastodon.radio) | **3 250** | 269 894 | ✅ | Mastodon.Radio is a space for the Amateur (Ham) Radio community, anyone interested in Shortwave Listening (SWL), etc. Come join us and talk radio, technology, and more! | en |
 | [iviv.hu](https://iviv.hu) | **3 201** | 34 324 | ✅ | ? | ? |
-| [fulda.social](https://fulda.social) | **3 197** | 59 366 | ✅ | Öffentliche Mastodon Instanz von dasnetzundich.de. Frei für alle die Spass an Mastodon haben und die eine andere Art des sozialen Netzwerks erleben wollen. Info für Gmail Nutzer: nutzt @googlemail.com | en |
+| [fulda.social](https://fulda.social) | **3 196** | 59 400 | ✅ | Öffentliche Mastodon Instanz von dasnetzundich.de. Frei für alle die Spass an Mastodon haben und die eine andere Art des sozialen Netzwerks erleben wollen. Info für Gmail Nutzer: nutzt @googlemail.com | en |
 | [feddit.uk](https://feddit.uk) | **3 174** | 8 755 | ✅ | ? | ? |
 | [tabletop.social](https://tabletop.social) | **3 159** | 153 923 | ❌ | We are an inclusive Mastodon community for everything tabletop (and more). | en |
-| [climatejustice.rocks](https://climatejustice.rocks) | **3 154** | 94 777 | ❌ | Welcome to this official Fediverse instance for climate justice activists. | en |
-| [best-friends.chat](https://best-friends.chat) | **3 125** | 12 280 323 | ✅ | 友人と、くだらない話をしよう。Best Friends はあなたにとって最も居心地がいい場所でありたいと願って作られた Mastodon サーバーです。 | en |
-| [expressional.social](https://expressional.social) | **3 109** | 91 824 | ✅ | Mastodon server hosted in Copenhagen, Denmark, by a dane.   All languages are welcome, Federated with other Danish servers. Focus on safety, transparency and security. | en |
-| [discuss.systems](https://discuss.systems) | **3 106** | 132 358 | ✅ | Discussion of computer systems research & practice -- OSes, distributed systems, networks, databases, architecture, etc -- for researchers, academics, & professionals. | en |
-| [lile.cl](https://lile.cl) | **3 105** | 517 877 | ✅ | Servidor chileno de Mastodon cuyo nombre hace referencia a un ave nativa del país. Aspiramos a ser una comunidad acogedora y respetuosa de la privacidad de nuestros usuarios.  Banner por Marcisol | es |
+| [climatejustice.rocks](https://climatejustice.rocks) | **3 154** | 94 873 | ❌ | Welcome to this official Fediverse instance for climate justice activists. | en |
+| [best-friends.chat](https://best-friends.chat) | **3 125** | 12 286 024 | ✅ | 友人と、くだらない話をしよう。Best Friends はあなたにとって最も居心地がいい場所でありたいと願って作られた Mastodon サーバーです。 | en |
+| [expressional.social](https://expressional.social) | **3 111** | 92 195 | ✅ | Mastodon server hosted in Copenhagen, Denmark, by a dane.   All languages are welcome, Federated with other Danish servers. Focus on safety, transparency and security. | en |
+| [discuss.systems](https://discuss.systems) | **3 106** | 132 684 | ✅ | Discussion of computer systems research & practice -- OSes, distributed systems, networks, databases, architecture, etc -- for researchers, academics, & professionals. | en |
+| [lile.cl](https://lile.cl) | **3 105** | 517 973 | ✅ | Servidor chileno de Mastodon cuyo nombre hace referencia a un ave nativa del país. Aspiramos a ser una comunidad acogedora y respetuosa de la privacidad de nuestros usuarios.  Banner por Marcisol | es |
 | [startrek.website](https://startrek.website) | **3 090** | 5 140 | ✅ | ? | ? |
 | [toad.social](https://toad.social) | **3 078** | 479 342 | ✅ | Mastodon server operated by David Troy, a tech pioneer and investigative journalist addressing threats to democracy. Thoughtful participation and discussion welcome.  | en |
-| [cryptodon.lol](https://cryptodon.lol) | **3 048** | 112 240 | ✅ | A mastodon server for the crypto community, with easy to follow rules and community-focused moderation and maintenance.  Donate - 0x6Bc8A978bac589737d1fF903eeA8Eb53E03dAFD4 | en |
-| [androiddev.social](https://androiddev.social) | **3 039** | 78 249 | ✅ | Public sign ups limited. Please include reason for joining Mastodon server for Android Community https://androiddev.blog/#/portal/ if you want to help with a donation.  | en |
-| [journa.host](https://journa.host) | **3 007** | 286 236 | ❌ | The server for working journalists and news outlets on Mastodon. Home to active & retired journalists, media scholars, and a variety of news and journalism adjacent professionals.  #Newstodon | en |
-| [mastodon.arch-linux.cz](https://mastodon.arch-linux.cz) | **2 973** | 108 530 | ✅ | Instance otevřena všem českým uživatelům. Komunikujte s přáteli a objevujte nové,to vše na platformě vlastněné komunitou a nadšenci open source.  | cs |
+| [cryptodon.lol](https://cryptodon.lol) | **3 048** | 123 523 | ✅ | A mastodon server for the crypto community, with easy to follow rules and community-focused moderation and maintenance.  Donate - 0x6Bc8A978bac589737d1fF903eeA8Eb53E03dAFD4 | en |
+| [androiddev.social](https://androiddev.social) | **3 035** | 78 316 | ✅ | Public sign ups limited. Please include reason for joining Mastodon server for Android Community https://androiddev.blog/#/portal/ if you want to help with a donation.  | en |
+| [journa.host](https://journa.host) | **3 007** | 286 660 | ❌ | The server for working journalists and news outlets on Mastodon. Home to active & retired journalists, media scholars, and a variety of news and journalism adjacent professionals.  #Newstodon | en |
+| [mastodon.arch-linux.cz](https://mastodon.arch-linux.cz) | **2 974** | 108 836 | ✅ | Instance otevřena všem českým uživatelům. Komunikujte s přáteli a objevujte nové,to vše na platformě vlastněné komunitou a nadšenci open source.  | cs |
 | [mastodon.in.th](https://mastodon.in.th) | **2 969** | 276 556 | ✅ | ? | th |
-| [flipboard.social](https://flipboard.social) | **2 950** | 116 045 | ✅ | Welcome to Flipboard on Mastodon. A place for our community of curators and enthusiasts to inform and inspire each other.   If you'd like to join please request an invitation via the sign-up page.  | en |
-| [equestria.social](https://equestria.social) | **2 949** | 253 131 | ✅ | The instance for fans of little ponies. 🦄 L'instance pour les fans de petits poneys. | en |
-| [bildung.social](https://bildung.social) | **2 936** | 300 677 | ✅ | Bildung unter den Bedingungen der digitalen Transformation. | de |
+| [flipboard.social](https://flipboard.social) | **2 950** | 116 641 | ✅ | Welcome to Flipboard on Mastodon. A place for our community of curators and enthusiasts to inform and inspire each other.   If you'd like to join please request an invitation via the sign-up page.  | en |
+| [equestria.social](https://equestria.social) | **2 948** | 253 290 | ✅ | The instance for fans of little ponies. 🦄 L'instance pour les fans de petits poneys. | en |
+| [bildung.social](https://bildung.social) | **2 936** | 301 219 | ✅ | Bildung unter den Bedingungen der digitalen Transformation. | de |
 | [kemonodon.club](https://kemonodon.club) | **2 915** | 759 129 | ✅ | ケモ好きが集まってまったりするどん | ja |
-| [veganism.social](https://veganism.social) | **2 891** | 102 422 | ✅ | Veganism Social is a welcoming space on the internet for vegans to connect and engage with the broader decentralized social media community. | en |
+| [veganism.social](https://veganism.social) | **2 891** | 102 419 | ✅ | Veganism Social is a welcoming space on the internet for vegans to connect and engage with the broader decentralized social media community. | en |
 | [toot.cafe](https://toot.cafe) | **2 883** | 357 390 | ❌ | A Mastodon instance mostly populated by folks interested in web design and development. | en |
 | [berlin.social](https://berlin.social) | **2 844** | 293 130 | ✅ | Alles rund um, über, aus & für Berlin | en |
 | [tooting.ch](https://tooting.ch) | **2 835** | 211 662 | ✅ | Instance Mastodon suisse pour les personnes de suisses et hébergée par l'association FairSocialNet |  Swiss Mastodon instance for people of Switzerland hosted by the FairSocialNet association. | fr |
-| [digitalcourage.social](https://digitalcourage.social) | **2 814** | 566 696 | ✅ | Diese Instanz wird betrieben von Digitalcourage e.V. für die Allgemeinheit. Damit wir das nachhaltig tun können, erheben wir einen Kostenbeitrag von 1€/Monat per SEPA-Lastschrifteinzug. | de |
-| [hispagatos.space](https://hispagatos.space) | **2 809** | 88 486 | ✅ | Hispagatos - Anarcho hacker collective a(A)a - A Hacker culture and a Anarchist hacker friendly mastodon instance. | en |
+| [digitalcourage.social](https://digitalcourage.social) | **2 814** | 567 506 | ✅ | Diese Instanz wird betrieben von Digitalcourage e.V. für die Allgemeinheit. Damit wir das nachhaltig tun können, erheben wir einen Kostenbeitrag von 1€/Monat per SEPA-Lastschrifteinzug. | de |
+| [hispagatos.space](https://hispagatos.space) | **2 809** | 88 579 | ✅ | Hispagatos - Anarcho hacker collective a(A)a - A Hacker culture and a Anarchist hacker friendly mastodon instance. | en |
 | [oc.todon.fr](https://oc.todon.fr) | **2 807** | 173 640 | ✅ | oc.todon.fr is a mostly French-speaking Mastodon instance with an active moderation. oc.todon.fr est une instance Mastodon principalement francophone et avec une modération active. | en |
 | [ursal.zone](https://ursal.zone) | **2 787** | 361 523 | ❌ | A URSAL.zone é uma instância moderada com foco em militantes progressistas, feministas e antifascistas da América Latina. | pt-BR |
-| [disabled.social](https://disabled.social) | **2 782** | 234 695 | ✅ | A place for people who are chronically ill, mentally ill, disabled, and friends/families/allies to come together, meet, share knowledge and random banter, and just about anything else. | en |
+| [disabled.social](https://disabled.social) | **2 783** | 235 160 | ✅ | A place for people who are chronically ill, mentally ill, disabled, and friends/families/allies to come together, meet, share knowledge and random banter, and just about anything else. | en |
 | [peoplemaking.games](https://peoplemaking.games) | **2 777** | 175 979 | ✅ | We're a community of folks who celebrate the craft of creating interactive experiences, whether they're working in games or around them! This is a space for games folks and creatives to call home! | en |
-| [freeradical.zone](https://freeradical.zone) | **2 763** | 597 483 | ❌ | Infosec and privacy and technology and leftward politics and cats and dogs and... | en |
+| [freeradical.zone](https://freeradical.zone) | **2 763** | 597 985 | ❌ | Infosec and privacy and technology and leftward politics and cats and dogs and... | en |
 | [mastodon.london](https://mastodon.london) | **2 744** | 24 045 | ✅ | Hi, this is the fediverse instance for Londoners and for everyone associated with London | en |
-| [mastodon.ml](https://mastodon.ml) | **2 710** | 829 243 | ✅ | Русскоязычный сервер социальной сети Mastodon. Зона общения, свободная от рекламы и шпионажа, теперь и на русском языке. | ru |
+| [mastodon.ml](https://mastodon.ml) | **2 711** | 830 045 | ✅ | Русскоязычный сервер социальной сети Mastodon. Зона общения, свободная от рекламы и шпионажа, теперь и на русском языке. | ru |
 | [diaspora.freifunk-naila.net](https://diaspora.freifunk-naila.net) | **2 663** | 3 194 | ✅ | ? | ? |
 | [k.lapy.link](https://k.lapy.link) | **2 658** | 822 082 | ❌ | ? | ? |
-| [fairy.id](https://fairy.id) | **2 612** | 103 701 | ✅ | 銀河耿耿兮寒氣侵，月色橫斜兮玉漏沉。憂心炳炳兮發我哀吟，吟復吟兮寄我知音。 The time is gone, the story is over, thought we'd something more to say. | en |
+| [fairy.id](https://fairy.id) | **2 623** | 103 955 | ✅ | 銀河耿耿兮寒氣侵，月色橫斜兮玉漏沉。憂心炳炳兮發我哀吟，吟復吟兮寄我知音。 The time is gone, the story is over, thought we'd something more to say. | en |
 | [toot.cat](https://toot.cat) | **2 603** | 597 084 | ✅ | On the internet, everyone knows you're a cat — and that's totally okay. | en |
 | [fed.brid.gy](https://fed.brid.gy) | **2 569** | ? | ✅ | ? | ? |
-| [tribe.net](https://tribe.net) | **2 554** | 15 365 | ✅ | Welcome (back) to tribe!  | en |
+| [tribe.net](https://tribe.net) | **2 561** | 15 394 | ✅ | Welcome (back) to tribe!  | en |
 | [astrodon.social](https://astrodon.social) | **2 543** | 133 345 | ✅ | A Mastodon community server for anyone interested in astronomy, astrophysics, astrophotography, and adjacent sciences. | en |
-| [mastodon.me.uk](https://mastodon.me.uk) | **2 541** | 334 681 | ✅ | Open, user-supported, corporation-free social media for the UK. | en |
-| [freiburg.social](https://freiburg.social) | **2 534** | 174 876 | ✅ | Ein Mastodon-Server für Freiburg und Umland betrieben durch den Verein freiburg.social e.V.: https://wir.freiburg.social | en |
-| [mastodon.partipirate.org](https://mastodon.partipirate.org) | **2 533** | 41 930 | ✅ | Instance officielle du Parti Pirate Français. CW : Contenus éminemment politiques. / French Pirate Party official server. CW : Firstly Political Contents. | en |
+| [mastodon.me.uk](https://mastodon.me.uk) | **2 541** | 335 058 | ✅ | Open, user-supported, corporation-free social media for the UK. | en |
+| [freiburg.social](https://freiburg.social) | **2 534** | 175 222 | ✅ | Ein Mastodon-Server für Freiburg und Umland betrieben durch den Verein freiburg.social e.V.: https://wir.freiburg.social | en |
+| [mastodon.partipirate.org](https://mastodon.partipirate.org) | **2 533** | 41 969 | ✅ | Instance officielle du Parti Pirate Français. CW : Contenus éminemment politiques. / French Pirate Party official server. CW : Firstly Political Contents. | en |
 | [liberdon.com](https://liberdon.com) | **2 533** | 440 711 | ✅ | Liberdon is an instance for libertarians, ancaps, anarchists, voluntaryists, agorists, etc to sound off without fear of reprisal. It was created in the wake of the Great Twitter Cullings of 2018. | en |
 | [feddit.nl](https://feddit.nl) | **2 533** | 4 620 | ✅ | ? | ? |
-| [hci.social](https://hci.social) | **2 521** | 109 704 | ✅ | A social platform for Human-computer Interaction researchers and practitioners. Hosted by Princeton HCI. Managed by a group of volunteers. | en |
+| [hci.social](https://hci.social) | **2 521** | 109 820 | ✅ | A social platform for Human-computer Interaction researchers and practitioners. Hosted by Princeton HCI. Managed by a group of volunteers. | en |
 | [mstdn.fr](https://mstdn.fr) | **2 506** | 321 324 | ❌ | ? | en |
 | [wetdry.world](https://wetdry.world) | **2 502** | 513 030 | ✅ | We are a community based around gaming, tech, entertainment, and more! Come join the Scuttlebug jamboree! (Signups currently undergoing manual review.) | en |
+| [mastodon.la](https://mastodon.la) | **2 502** | 509 808 | ✅ | Mastodon.la es una instancia generalista y ligeramente moderada. Bienvenidos todos los temas con buena onda, respeto y sin desnudos innecesarios :). Castellano/Español y otros lenguages bienvenidos. / Mastodon.la is a generalist instance lightly moderated. All opinions are welcome. Be cool, respectful and leave your clothes on if possible :)  Spanish preferred but all languages are welcome. | es |
 | [varishangout.net](https://varishangout.net) | **2 501** | 1 036 839 | ❌ | ? | ? |
-| [mastodon.la](https://mastodon.la) | **2 501** | 509 347 | ✅ | Mastodon.la es una instancia generalista y ligeramente moderada. Bienvenidos todos los temas con buena onda, respeto y sin desnudos innecesarios :). Castellano/Español y otros lenguages bienvenidos. / Mastodon.la is a generalist instance lightly moderated. All opinions are welcome. Be cool, respectful and leave your clothes on if possible :)  Spanish preferred but all languages are welcome. | es |
-| [snabelen.no](https://snabelen.no) | **2 479** | 166 289 | ✅ | Ein norsk heimstad for den desentraliserte mikroblogge-plattformen. | no |
-| [vmst.io](https://vmst.io) | **2 476** | 235 470 | ✅ | vmst·io is Mastodon for respectful technologists. Geeks and nerds of every type and stripe. Highly available, well federated, and community minded. | en |
+| [snabelen.no](https://snabelen.no) | **2 480** | 166 476 | ✅ | Ein norsk heimstad for den desentraliserte mikroblogge-plattformen. | no |
+| [vmst.io](https://vmst.io) | **2 476** | 235 754 | ✅ | vmst·io is Mastodon for respectful technologists. Geeks and nerds of every type and stripe. Highly available, well federated, and community minded. | en |
 | [donotban.com](https://donotban.com) | **2 454** | 738 137 | ❌ | ? | ? |
 | [hello.2heng.xin](https://hello.2heng.xin) | **2 425** | 229 166 | ❌ | ? | ? |
-| [layer8.space](https://layer8.space) | **2 414** | 196 082 | ✅ | Welcome to the 8th Layer of Madness Most topics are related to Linux, Anime, Music, Software and maaaany more  PS: BSD is also welcome 😜 | en |
+| [layer8.space](https://layer8.space) | **2 415** | 196 204 | ✅ | Welcome to the 8th Layer of Madness Most topics are related to Linux, Anime, Music, Software and maaaany more  PS: BSD is also welcome 😜 | en |
 | [miruku.cafe](https://miruku.cafe) | **2 413** | 216 126 | ✅ | ? | ? |
 | [mstdn.id](https://mstdn.id) | **2 412** | 65 392 | ✅ | ? | ? |
-| [pouet.chapril.org](https://pouet.chapril.org) | **2 389** | 407 239 | ❌ | Chapril https://www.chapril.org est un projet de l'April https://www.april.org | fr |
+| [pouet.chapril.org](https://pouet.chapril.org) | **2 389** | 406 352 | ❌ | Chapril https://www.chapril.org est un projet de l'April https://www.april.org | fr |
 | [pod.dapor.net](https://pod.dapor.net) | **2 369** | 38 662 | ❌ | ? | ? |
 | [federated.press](https://federated.press) | **2 364** | 156 537 | ✅ | A Mastodon server for journalists—by profession or temperament. Please click "Learn more" and read our rules and Code of Ethics before applying. | en |
-| [woof.group](https://woof.group) | **2 355** | 299 207 | ✅ | We're a Mastodon instance for LGBTQ+ leather people. Come say hi! | en |
+| [woof.group](https://woof.group) | **2 356** | 299 550 | ✅ | We're a Mastodon instance for LGBTQ+ leather people. Come say hi! | en |
+| [noauthority.social](https://noauthority.social) | **2 352** | 192 978 | ✅ | Long live NAS! | en |
 | [kfem.cat](https://kfem.cat) | **2 350** | 37 866 | ✅ | La xarxa social del futur. Sense publicitats, feta per joves, pels joves de totes les edats. Servidors de proximitat. | en |
-| [noauthority.social](https://noauthority.social) | **2 347** | 190 106 | ✅ | Long live NAS! | en |
 | [elekk.xyz](https://elekk.xyz) | **2 336** | 1 575 490 | ✅ | ? | en |
 | [ani.work](https://ani.work) | **2 330** | 112 150 | ✅ | This is Aniwork Network, which aims to discuss animation. We welcome animations from all over the world. (Maintained by Elysia Root L.C.) | ko, en, ja |
-| [dizl.de](https://dizl.de) | **2 313** | 108 014 | ✅ | dizl.de ist eine kleine Mastodon Instanz. Wir bieten einen kleinen Gemeinschaftsraum - Be excellent to each other. Die Hauptsprache dieser Instanz ist deutsch. | de |
+| [dizl.de](https://dizl.de) | **2 314** | 108 148 | ✅ | dizl.de ist eine kleine Mastodon Instanz. Wir bieten einen kleinen Gemeinschaftsraum - Be excellent to each other. Die Hauptsprache dieser Instanz ist deutsch. | de |
 | [data-folks.masto.host](https://data-folks.masto.host) | **2 310** | 34 961 | ✅ | A server for people interested in data professions, tooling and ecosystem. | en |
 | [lemmings.world](https://lemmings.world) | **2 295** | 951 | ✅ | ? | ? |
-| [libretooth.gr](https://libretooth.gr) | **2 291** | 274 262 | ✅ | a mastodon instance run by LibreOps | en |
+| [libretooth.gr](https://libretooth.gr) | **2 291** | 274 377 | ✅ | a mastodon instance run by LibreOps | en |
 | [tovari.ch](https://tovari.ch) | **2 277** | 3 643 | ✅ | ? | ? |
 | [mastodon.cipherbliss.com](https://mastodon.cipherbliss.com) | **2 273** | 71 682 | ✅ | la meilleure instance mastodon du fédiverse, rien que ça. Arts et choses diverses en Français et anglais. | en |
-| [kmy.blue](https://kmy.blue) | **2 268** | 325 638 | ✅ | ? | ? |
-| [oslo.town](https://oslo.town) | **2 260** | 69 528 | ✅ | An online home for the people of Oslo, Norway 🇳🇴 but a gateway to the world. | en |
+| [kmy.blue](https://kmy.blue) | **2 268** | 326 752 | ✅ | ? | ? |
+| [oslo.town](https://oslo.town) | **2 260** | 69 581 | ✅ | An online home for the people of Oslo, Norway 🇳🇴 but a gateway to the world. | en |
 | [szmer.info](https://szmer.info) | **2 257** | 37 821 | ✅ | ? | ? |
 | [lgbt.io](https://lgbt.io) | **2 252** | 336 442 | ✅ | We are a Mastodon instance for LGBT+ and allies! | en |
 | [venera.social](https://venera.social) | **2 245** | 96 010 | ✅ | ? | ? |
@@ -448,78 +448,78 @@
 | [monyet.cc](https://monyet.cc) | **2 219** | 3 198 | ✅ | ? | ? |
 | [tube.tchncs.de](https://tube.tchncs.de) | **2 211** | 21 893 | ✅ | ? | ? |
 | [tea.codes](https://tea.codes) | **2 203** | 34 937 | ✅ | ? | ? |
-| [mastodon.oeru.org](https://mastodon.oeru.org) | **2 200** | 12 884 | ✅ | This instance is run by the OER Foundation. It is a home for open educators & learners involved in the OERu. Accounts of learners not involved in OERu courses may be removed. | en |
-| [mastodon.cat](https://mastodon.cat) | **2 194** | 22 338 | ❌ | La teva xarxa social en català | ca |
+| [mastodon.oeru.org](https://mastodon.oeru.org) | **2 200** | 12 889 | ✅ | This instance is run by the OER Foundation. It is a home for open educators & learners involved in the OERu. Accounts of learners not involved in OERu courses may be removed. | en |
+| [mastodon.cat](https://mastodon.cat) | **2 194** | 22 340 | ❌ | La teva xarxa social en català | ca |
 | [aussie.zone](https://aussie.zone) | **2 191** | 7 273 | ✅ | ? | ? |
 | [mstdn.games](https://mstdn.games) | **2 189** | 276 119 | ✅ | We are a gaming-focused space on Mastodon. We welcome everyone who enjoys any type of gaming - it doesn't just need to be video games. Let's build a diverse and inclusive community together!  | en |
 | [freespeechextremist.com](https://freespeechextremist.com) | **2 188** | 2 122 827 | ✅ | ? | ? |
 | [pixelfed.fr](https://pixelfed.fr) | **2 187** | 1 238 891 | ✅ | ? | ? |
 | [mstdn.maud.io](https://mstdn.maud.io) | **2 167** | 6 435 067 | ✅ | The place to express your ❤️ more freely. / あなたの「すき」をもっと自由に書き表すための場所。 | en |
 | [friendica.eskimo.com](https://friendica.eskimo.com) | **2 144** | 17 650 | ✅ | ? | ? |
-| [cubhub.social](https://cubhub.social) | **2 138** | 154 562 | ✅ | The fuzziest cubhub on the fediverse! A Mastodon instance for babyfurs, diaperfurs, middles, caretakers, and anyone interested in the community! 18+ Users Only | en |
-| [social.veraciousnetwork.com](https://social.veraciousnetwork.com) | **2 130** | 4 819 | ✅ | Veracious Network hosted in central Ohio, US is comprised of folks interested in gaming, technology, science, and open source. 18+ content allowed (only with content warning included) | en |
-| [anarchism.space](https://anarchism.space) | **2 122** | 255 010 | ❌ | ? | en |
+| [cubhub.social](https://cubhub.social) | **2 136** | 154 716 | ✅ | The fuzziest cubhub on the fediverse! A Mastodon instance for babyfurs, diaperfurs, middles, caretakers, and anyone interested in the community! 18+ Users Only | en |
+| [social.veraciousnetwork.com](https://social.veraciousnetwork.com) | **2 130** | 4 823 | ✅ | Veracious Network hosted in central Ohio, US is comprised of folks interested in gaming, technology, science, and open source. 18+ content allowed (only with content warning included) | en |
+| [anarchism.space](https://anarchism.space) | **2 122** | 255 037 | ❌ | ? | en |
 | [cloud-native.social](https://cloud-native.social) | **2 119** | 11 363 | ✅ | A platform for technical people interested in the cloud native community. A safe place to post about cloud native technologies and anything else tech related. Hosted by www.civo.com | en |
-| [mas.town](https://mas.town) | **2 114** | 31 372 | ❌ | mas.town is a social media alternative focused on robust and responsible public dialogue. All information hosted in the USA and housed on AWS for data security, privacy, and resiliency.  | en |
-| [mapstodon.space](https://mapstodon.space) | **2 112** | 68 092 | ✅ | Mapstodon.space is a online community dedicated to cartography & geospatial enthusiasts. | en |
+| [mapstodon.space](https://mapstodon.space) | **2 117** | 68 242 | ✅ | Mapstodon.space is a online community dedicated to cartography & geospatial enthusiasts. | en |
+| [mas.town](https://mas.town) | **2 114** | 31 380 | ❌ | mas.town is a social media alternative focused on robust and responsible public dialogue. All information hosted in the USA and housed on AWS for data security, privacy, and resiliency.  | en |
 | [midwest.social](https://midwest.social) | **2 104** | 6 716 | ✅ | ? | ? |
 | [hcommons.social](https://hcommons.social) | **2 102** | 158 679 | ✅ | ? | ? |
-| [swiss.social](https://swiss.social) | **2 097** | 169 936 | ✅ | Grüezi! A server for nice people from Switzerland. Diese Mastodon-Instanz wird betrieben vom Verein „swiss.social“ mit Sitz in Bern. | en |
+| [swiss.social](https://swiss.social) | **2 097** | 170 096 | ✅ | Grüezi! A server for nice people from Switzerland. Diese Mastodon-Instanz wird betrieben vom Verein „swiss.social“ mit Sitz in Bern. | en |
 | [libranet.de](https://libranet.de) | **2 086** | 381 674 | ✅ | ? | ? |
 | [mstdn.dk](https://mstdn.dk) | **2 066** | 28 315 | ✅ | Just your average friendly Danish Mastodon server. New users tooting in Danish/English welcome. Administered from Denmark. Hosted on bare-metal Kubernetes in the EU.  | en |
 | [tilde.zone](https://tilde.zone) | **2 062** | 275 820 | ✅ | mastodon instance of the tildeverse, a collection of small public access *nix systems for collaboration, creativity, and socializing. a proud part of the small internet. | en |
-| [twiukraine.com](https://twiukraine.com) | **2 060** | 116 112 | ✅ | Український Mastodon для біженців з Twitterу. Twiukraine twiukraine.com Щоб додати посилання сюди з Твіттеру, використовуйте https://gotwu.me/@twiukraine/109523576844900640 | uk |
-| [historians.social](https://historians.social) | **2 060** | 204 547 | ✅ | Historians.social is open to all who are interested in history.  | en |
-| [mastodon.com.br](https://mastodon.com.br) | **2 037** | 201 018 | ❌ | O mastodon.com.br é uma instância voltada para falantes de português brasileiro. Com a intenção de ser um espaço acolhedor e menos tóxico, tentamos ser uma instância que abriga pessoas de todas nacionalidades, etnias, formatos de corpos, gêneros, neurodivergentes, de identidades e orientações sexuais diversas. | pt-BR |
+| [twiukraine.com](https://twiukraine.com) | **2 060** | 116 239 | ✅ | Український Mastodon для біженців з Twitterу. Twiukraine twiukraine.com Щоб додати посилання сюди з Твіттеру, використовуйте https://gotwu.me/@twiukraine/109523576844900640 | uk |
+| [historians.social](https://historians.social) | **2 060** | 204 916 | ✅ | Historians.social is open to all who are interested in history.  | en |
+| [mastodon.com.br](https://mastodon.com.br) | **2 037** | 201 094 | ❌ | O mastodon.com.br é uma instância voltada para falantes de português brasileiro. Com a intenção de ser um espaço acolhedor e menos tóxico, tentamos ser uma instância que abriga pessoas de todas nacionalidades, etnias, formatos de corpos, gêneros, neurodivergentes, de identidades e orientações sexuais diversas. | pt-BR |
 | [fsmi.social](https://fsmi.social) | **2 028** | 13 964 | ✅ | ? | ? |
-| [mastorol.es](https://mastorol.es) | **2 021** | 112 041 | ✅ | Una instancia para la comunidad hispana de juegos de rol y juegos de mesa. | es |
+| [mastorol.es](https://mastorol.es) | **2 021** | 112 378 | ✅ | Una instancia para la comunidad hispana de juegos de rol y juegos de mesa. | es |
 | [minidisc.tokyo](https://minidisc.tokyo) | **2 015** | 57 168 | ❌ | ? | ? |
 | [irsoluciones.social](https://irsoluciones.social) | **2 011** | 5 255 | ✅ | ¡¡¡ De La Rioja para el mundo !!! Mastodon alojado en los servidores de IR Soluciones. Iniciativa social sin ánimo de lucro, la mejor alternativa descentralizada a Twitter. | en |
 | [iusearchlinux.fyi](https://iusearchlinux.fyi) | **2 009** | 579 | ✅ | ? | ? |
-| [paquita.masto.host](https://paquita.masto.host) | **2 006** | 363 761 | ✅ | Esta es una instancia feminista, antifascista, antirracista y LGTBIQ-friendly que lucha activamente contra el acoso a sus usuarios y usuarias en todas sus formas, explícitas e implícitas. | en |
+| [paquita.masto.host](https://paquita.masto.host) | **2 007** | 364 407 | ✅ | Esta es una instancia feminista, antifascista, antirracista y LGTBIQ-friendly que lucha activamente contra el acoso a sus usuarios y usuarias en todas sus formas, explícitas e implícitas. | en |
 | [mast.dragon-fly.club](https://mast.dragon-fly.club) | **2 003** | 163 182 | ✅ | 这里是属于每一个人与众不同的岛屿，然而每座岛屿间却又紧密相连。来建设专属于你的岛屿吧！无论世界多么纷纷扰扰，这里总会有你所向往的一片宁静…… | en |
 | [rivals.space](https://rivals.space) | **1 980** | 230 308 | ✅ | Serveur français généraliste, durable et rapide, créé en 2018 & toujours présent!  Modération active, discord/matrix disponible en cas de problème. | en |
 | [anticapitalist.party](https://anticapitalist.party) | **1 961** | 318 973 | ❌ | ? | en |
 | [photodn.net](https://photodn.net) | **1 954** | 138 844 | ✅ | 写真やカメラ関係の人たちが集まるマストドンサーバです。 サービスオープンから7年半経過しており、安定したサービスを提供しています。 | en |
 | [mstdn.business](https://mstdn.business) | **1 943** | 92 857 | ✅ | Business-friendly Mastodon server,open for everyone interested to contribute with their real name, business, brand, or startup to build a professional community. Hosted on Hetzner Cloud in Helsinki. | en |
 | [peertube.stream](https://peertube.stream) | **1 912** | 110 377 | ✅ | ? | ? |
-| [mastodon.org.uk](https://mastodon.org.uk) | **1 908** | 188 823 | ✅ | General purpose mastodon instance | en |
+| [mastodon.org.uk](https://mastodon.org.uk) | **1 908** | 188 981 | ✅ | General purpose mastodon instance | en |
 | [kurry.social](https://kurry.social) | **1 904** | 117 885 | ✅ | 한국 퍼리(수인) 모두를 위한 마스토돈 서버, kurry(k-furry)입니다! 퍼리(수인)에 관심이 있거나 퍼리(수인)이신 분들, 퍼슈터분들 모두 환영합니다! | ko |
 | [hometech.social](https://hometech.social) | **1 898** | 6 930 | ✅ | HomeTech.Social — Your friendly home on the fediverse for all things home automation, all on a platform that is community-owned and ad-free. | en |
-| [mastodon.cc](https://mastodon.cc) | **1 895** | 78 178 | ✅ | Mastodon for Art | en |
+| [mastodon.cc](https://mastodon.cc) | **1 895** | 78 257 | ✅ | Mastodon for Art | en |
 | [sunbeam.city](https://sunbeam.city) | **1 890** | 526 155 | ❌ | Sunbeam City is a anticapitalist, antifascist solarpunk instance that is run collectively. | en |
-| [mastodon.gougere.fr](https://mastodon.gougere.fr) | **1 877** | 230 390 | ✅ | ? | en |
-| [social.coop](https://social.coop) | **1 872** | 660 483 | ❌ | A Fediverse instance for people interested in cooperative and collective projects. If you are interested in joining our community, please apply at https://join.social.coop/registration-form.html. | en |
-| [mastodon-uk.net](https://mastodon-uk.net) | **1 854** | 92 992 | ✅ | A UK based and hosted general server; all welcome! | en |
+| [mastodon.gougere.fr](https://mastodon.gougere.fr) | **1 877** | 230 469 | ✅ | ? | en |
+| [social.coop](https://social.coop) | **1 872** | 661 152 | ❌ | A Fediverse instance for people interested in cooperative and collective projects. If you are interested in joining our community, please apply at https://join.social.coop/registration-form.html. | en |
+| [mastodon-uk.net](https://mastodon-uk.net) | **1 871** | 93 363 | ✅ | A UK based and hosted general server; all welcome! | en |
 | [blob.cat](https://blob.cat) | **1 838** | 588 467 | ✅ | ? | ? |
-| [girlcock.club](https://girlcock.club) | **1 838** | 484 793 | ✅ | Gc.c is an instance by trans women for trans folk and strives to keep the security and enjoyment of our users in mind. | en |
+| [girlcock.club](https://girlcock.club) | **1 837** | 485 138 | ✅ | Gc.c is an instance by trans women for trans folk and strives to keep the security and enjoyment of our users in mind. | en |
 | [mustard.blog](https://mustard.blog) | **1 834** | 98 884 | ✅ | 머스타드(Mustard)는 한국어 사용자를 위한 자유주제 서버로, 머스타드처럼 친숙하고 편한 서버를 지향합니다! | en |
-| [social.lol](https://social.lol) | **1 834** | 248 866 | ❌ | social.lol is a lighthearted social hangout for the omg.lol community. | en |
+| [social.lol](https://social.lol) | **1 834** | 249 595 | ❌ | social.lol is a lighthearted social hangout for the omg.lol community. | en |
 | [mastodon.juggler.jp](https://mastodon.juggler.jp) | **1 831** | 758 578 | ✅ | 日本語で楽しめるMastodonサーバを提供しています。 | ja |
-| [romancelandia.club](https://romancelandia.club) | **1 817** | 187 012 | ✅ | A place for readers and writers of romance. | en |
+| [romancelandia.club](https://romancelandia.club) | **1 817** | 187 114 | ✅ | A place for readers and writers of romance. | en |
 | [gametoots.de](https://gametoots.de) | **1 809** | 9 700 | ✅ | German and English Mastodon server for gamers and streamers. Actively moderated and administrated. | en |
 | [feddit.it](https://feddit.it) | **1 809** | 7 501 | ✅ | ? | ? |
 | [sunny.garden](https://sunny.garden) | **1 807** | 161 855 | ✅ | sunny.garden is a community for indie creators who draw, paint, sculpt, write, design, program, play, sing or build, and anyone else who thinks that sounds like a nice place to be. | en |
 | [childlove.space](https://childlove.space) | **1 792** | 12 597 | ✅ | ? | ? |
 | [vkl.world](https://vkl.world) | **1 780** | 49 781 | ✅ | Першы беларускамоўны сервер у сеціве Mastodon. Размовы з тымі, хто разумее 😏 Server only for Belarusian-language users.  | be |
 | [mastodon.mnetwork.co.kr](https://mastodon.mnetwork.co.kr) | **1 779** | 227 528 | ❌ | mNetwork Mastodon은 mNetwork OÜ에서 운영하는 자유롭게 다양한 주제를 나누는 마스토돈 인스턴스입니다. | ko |
-| [spore.social](https://spore.social) | **1 779** | 212 616 | ✅ | A community platform for justice and action. | en |
+| [spore.social](https://spore.social) | **1 779** | 212 917 | ✅ | A community platform for justice and action. | en |
 | [typo.social](https://typo.social) | **1 764** | 72 947 | ✅ | Welcome to Typo.social! This is a Mastodon instance open to any typo and type enthusiastic. We are offering this service out of sheer courtesy without being held responsible for any disadvantages.  | en |
 | [shakedown.social](https://shakedown.social) | **1 759** | 199 556 | ✅ | A community for live music fans with roots in the jam scene. Shakedown Social is run by a team of volunteers (led by @clifff and @sethadam1) and funded by donations. | en |
 | [hub.netzgemeinde.eu](https://hub.netzgemeinde.eu) | **1 753** | 133 552 | ✅ | ? | ? |
-| [bolha.us](https://bolha.us) | **1 745** | 61 437 | ✅ | We're a Brazilian IT Community. We love IT/DevOps/Cloud, but we also love to talk about life, the universe, and more. | Nós somos uma comunidade de TI Brasileira, gostamos de Dev/DevOps/Cloud e mais! | en |
+| [bolha.us](https://bolha.us) | **1 745** | 61 610 | ✅ | We're a Brazilian IT Community. We love IT/DevOps/Cloud, but we also love to talk about life, the universe, and more. | Nós somos uma comunidade de TI Brasileira, gostamos de Dev/DevOps/Cloud e mais! | en |
 | [video.hardlimit.com](https://video.hardlimit.com) | **1 744** | 7 322 | ✅ | ? | ? |
 | [lounge.town](https://lounge.town) | **1 735** | 14 172 | ✅ | A chill server for folks to hang out. | en |
 | [awoo.space](https://awoo.space) | **1 727** | 647 239 | ❌ | ? | ? |
 | [misskey.04.si](https://misskey.04.si) | **1 703** | 503 787 | ❌ | ? | ? |
 | [mastodon.pirateparty.be](https://mastodon.pirateparty.be) | **1 688** | 82 268 | ✅ | ? | en |
-| [is.nota.live](https://is.nota.live) | **1 657** | 367 458 | ✅ | timeline's always dead 'round these parts | en |
+| [is.nota.live](https://is.nota.live) | **1 657** | 367 611 | ✅ | timeline's always dead 'round these parts | en |
 | [arsenalfc.social](https://arsenalfc.social) | **1 655** | 30 860 | ✅ | ArsenalFC.social is the world's FIRST and ONLY Arsenal Football Club-specific Mastodon Server - run BY Gooners FOR Gooners.  | en |
 | [aleph.land](https://aleph.land) | **1 647** | 217 226 | ✅ | A small island of the fediverse. א | en |
 | [arvr.social](https://arvr.social) | **1 646** | 14 745 | ✅ | arvr.social was started as a place where people that are interested in AR/VR can exchange information. However, anyone is welcome to join and post :-) | en |
-| [blorbo.social](https://blorbo.social) | **1 638** | 206 009 | ✅ | Blorbo.Social is a community of fandom nerds. We talk about our favourite blorbos from our shows, create fanart, fanfic, fanvids and other transformative works, and share our weird unique selves.  | en |
-| [medibubble.org](https://medibubble.org) | **1 621** | 111 819 | ✅ | Auf diesem Server ist jede* und jeder* willkommen, ungeachtet des medizinischen Hintergrundes.  | de |
-| [shelter.moe](https://shelter.moe) | **1 618** | 362 579 | ✅ | Bienvenue sur Shelter ! Au menu, discussions adultes, otaku et geek, avec des gens sympas et dans le plus grand respect possible.  | fr |
+| [blorbo.social](https://blorbo.social) | **1 645** | 206 543 | ✅ | Blorbo.Social is a community of fandom nerds. We talk about our favourite blorbos from our shows, create fanart, fanfic, fanvids and other transformative works, and share our weird unique selves.  | en |
+| [medibubble.org](https://medibubble.org) | **1 621** | 111 875 | ✅ | Auf diesem Server ist jede* und jeder* willkommen, ungeachtet des medizinischen Hintergrundes.  | de |
+| [shelter.moe](https://shelter.moe) | **1 620** | 362 998 | ✅ | Bienvenue sur Shelter ! Au menu, discussions adultes, otaku et geek, avec des gens sympas et dans le plus grand respect possible.  | fr |
 | [blahaj.zone](https://blahaj.zone) | **1 618** | 166 247 | ✅ | ? | ? |
 | [computerfairi.es](https://computerfairi.es) | **1 610** | 472 961 | ✅ | ? | ? |
 | [cawfee.club](https://cawfee.club) | **1 605** | 303 071 | ❌ | ? | ? |
@@ -528,26 +528,26 @@
 | [socialhome.network](https://socialhome.network) | **1 586** | 34 544 | ✅ | ? | ? |
 | [pleroma.noellabo.jp](https://pleroma.noellabo.jp) | **1 580** | 26 179 | ❌ | ? | ? |
 | [fe.disroot.org](https://fe.disroot.org) | **1 580** | 27 843 | ❌ | ? | ? |
-| [pnw.zone](https://pnw.zone) | **1 562** | 51 660 | ✅ | Come join the Pacific Northwest (US/Canada) Community! A regional instance for anyone that lives in or enjoys the PNW. | en |
-| [blacktwitter.io](https://blacktwitter.io) | **1 550** | 79 944 | ✅ | Remember when you first heard about Black twitter and thought it was actually a separate website? Was that just me? | en |
+| [pnw.zone](https://pnw.zone) | **1 562** | 51 747 | ✅ | Come join the Pacific Northwest (US/Canada) Community! A regional instance for anyone that lives in or enjoys the PNW. | en |
+| [blacktwitter.io](https://blacktwitter.io) | **1 552** | 79 974 | ✅ | Remember when you first heard about Black twitter and thought it was actually a separate website? Was that just me? | en |
 | [miniwa.moe](https://miniwa.moe) | **1 529** | 139 907 | ❌ | ? | ? |
-| [graz.social](https://graz.social) | **1 517** | 105 569 | ✅ | Ein Mastodon-Server für Graz und Umland betrieben durch den Verein graz.social - Verein zur Förderung ethischer Digitalkultur: https://info.graz.social | en |
-| [masto.nyc](https://masto.nyc) | **1 515** | 30 480 | ✅ | Regional New York City 🐘 🗽 instance! A place to engage with your local neighbors and friends | en |
+| [graz.social](https://graz.social) | **1 516** | 105 618 | ✅ | Ein Mastodon-Server für Graz und Umland betrieben durch den Verein graz.social - Verein zur Förderung ethischer Digitalkultur: https://info.graz.social | en |
+| [masto.nyc](https://masto.nyc) | **1 515** | 30 561 | ✅ | Regional New York City 🐘 🗽 instance! A place to engage with your local neighbors and friends | en |
 | [douchi.space](https://douchi.space) | **1 508** | 434 185 | ❌ | 豆豉是一个开放、友善的长毛象实例，欢迎不同爱好、职业的象友进行交流，在法律允许的前提下保证言论自由。豆豉的服务器位于美国，站长保证不会泄露大家数据，但来自某些地区的象友请务必注意隐私保护。请在提醒某些地区的朋友们注意隐私的前提下尽情邀请他们来玩吧！(没有申请理由的自动拒绝） | en |
 | [misskey.id](https://misskey.id) | **1 507** | 29 996 | ❌ | ? | ? |
 | [cunnyborea.top](https://cunnyborea.top) | **1 486** | 120 030 | ✅ | ? | ? |
 | [opalstack.social](https://opalstack.social) | **1 485** | 37 296 | ✅ | For professionals and brands. Focus on your market, not administration. | en |
 | [peervideo.ru](https://peervideo.ru) | **1 482** | 5 746 | ✅ | ? | ? |
 | [go5.dev](https://go5.dev) | **1 481** | 389 807 | ❌ | 1. 驴肉火烧是一个开放的长毛象(Mastodon)实例，在法律允许的前提下保证言论自由。 2. 驴肉火烧的服务器位于德国，站长定居加拿大，站长保证不会主动泄露大家数据，但来自某些地区的象友请务必注意隐私保护。 3. 申请时会默认关注管理员，注册成功后可取消关注。 4. 请勿使用网易系邮箱或QQ邮箱注册，注册后14天内无任何操作（发嘟、换头像或关注）的账号将被删除。 | en |
-| [scicomm.xyz](https://scicomm.xyz) | **1 461** | 130 216 | ✅ | An instance for scientists, researchers, science students, communicators, and enthusiasts! Please visit https://about.scicomm.xyz for details. | en |
-| [witter.cz](https://witter.cz) | **1 449** | 53 686 | ✅ | Witter.cz je otevřený každému, kdo chce s respektem k ostatním sdílet, informovat a diskutovat.  Bez reklam, sbírání osobních informací a sledování uživatelů. | cs |
+| [scicomm.xyz](https://scicomm.xyz) | **1 461** | 130 351 | ✅ | An instance for scientists, researchers, science students, communicators, and enthusiasts! Please visit https://about.scicomm.xyz for details. | en |
+| [witter.cz](https://witter.cz) | **1 449** | 53 753 | ✅ | Witter.cz je otevřený každému, kdo chce s respektem k ostatním sdílet, informovat a diskutovat.  Bez reklam, sbírání osobních informací a sledování uživatelů. | cs |
 | [feuerwehr.social](https://feuerwehr.social) | **1 448** | 15 961 | ✅ | Eine Mastodon Instanz für Feuerwehren sowie deren Mitglieder und Förderer. | en |
 | [pokemon.mastportal.info](https://pokemon.mastportal.info) | **1 447** | 3 106 258 | ❌ | ポケモン非公認マストドンです。  ゲーム「ポケットモンスター」だけでなく、「ポケモンカードゲーム」や「ポケモンGO」、「ポケットモンスターSPECIAL」などポケモンが大好きな方は是非どうぞ。  ポケモン以外の話題も自由にできます。  イラストの投稿や好きなポケモンなどを話してみるのも良いかもしれません。 | ja |
 | [fandom.ink](https://fandom.ink) | **1 447** | 306 327 | ✅ | fandom.ink is a small, community supported instance for lovers of fanfic, fan art, fan meta/acafandom, fannish communities, and blorbos of all kinds. | en |
 | [nnia.space](https://nnia.space) | **1 444** | 323 632 | ✅ | This site is for paraphiliacs, allies, and everyone adjacent. It is not for porn. APPLICATION RULES: - no NSFW usernames - explain your interest Blank or vague applications will be rejected. | en |
 | [mona.do](https://mona.do) | **1 435** | 579 623 | ❌ | ? | ? |
 | [pawb.fun](https://pawb.fun) | **1 434** | 130 440 | ✅ | This instance aimed at any and all within the furry fandom, though anyone is welcome! We're friendly towards members of the LGBTQ+ community and aiming to offer a safe space for our users. | en |
-| [norcal.social](https://norcal.social) | **1 433** | 33 618 | ✅ | Welcome to NorCal.social! This is a Mastodon instance specifically intended for  anyone who lives in or has a connection to Northern California. All are welcome, join today :) | en |
+| [norcal.social](https://norcal.social) | **1 434** | 33 614 | ✅ | Welcome to NorCal.social! This is a Mastodon instance specifically intended for  anyone who lives in or has a connection to Northern California. All are welcome, join today :) | en |
 | [newsmast.social](https://newsmast.social) | **1 429** | 20 456 | ✅ | Welcome to Newsmast. Knowledge-sharing social media with a conscience, built around communities and powered by Mastodon. | en |
 | [backend.newsmast.org](https://backend.newsmast.org) | **1 429** | 20 456 | ✅ | Welcome to Newsmast. Knowledge-sharing social media with a conscience, built around communities and powered by Mastodon. | en |
 | [mi.nakn.jp](https://mi.nakn.jp) | **1 424** | 267 060 | ❌ | ? | ? |
@@ -555,22 +555,22 @@
 | [social.opendesktop.org](https://social.opendesktop.org) | **1 421** | 3 672 | ❌ | ? | en |
 | [discuss.online](https://discuss.online) | **1 414** | 1 727 | ✅ | ? | ? |
 | [sciencemastodon.com](https://sciencemastodon.com) | **1 411** | 49 569 | ✅ | A mastodon instance designed primarily for science journalists and scientists. Those who wish to join: to avoid significant delays in accepting your application please let us know your real name, your affiliation, and your area of expertise. Thank you! | en |
-| [openbiblio.social](https://openbiblio.social) | **1 409** | 197 626 | ✅ | Der Einstieg in das Mastodon-Netzwerk für Bibliotheksmenschen | en |
+| [openbiblio.social](https://openbiblio.social) | **1 409** | 197 829 | ✅ | Der Einstieg in das Mastodon-Netzwerk für Bibliotheksmenschen | en |
 | [wehavecookies.social](https://wehavecookies.social) | **1 407** | 36 469 | ✅ | Join us, we have cookies! Everything and everyone is welcome here: humor, technology, politics, cats, dogs, nerds, entertainment, incoherent thoughts, you name it.  | de |
 | [famichiki.jp](https://famichiki.jp) | **1 404** | 278 052 | ✅ | We are a community-driven server operated by a diverse group of foreigners residing in Japan. While we primarily have English speakers in our community, we welcome users of all languages. | en |
-| [mastodon.coffee](https://mastodon.coffee) | **1 390** | 275 072 | ❌ | A coffee-purpose, English speaking Mastodon server that runs on coffee. | en |
-| [h-net.social](https://h-net.social) | **1 385** | 31 256 | ✅ | H-Net Humanities and Social Sciences Online | en |
+| [mastodon.coffee](https://mastodon.coffee) | **1 390** | 275 288 | ❌ | A coffee-purpose, English speaking Mastodon server that runs on coffee. | en |
+| [h-net.social](https://h-net.social) | **1 386** | 31 312 | ✅ | H-Net Humanities and Social Sciences Online | en |
 | [plural.cafe](https://plural.cafe) | **1 382** | 236 423 | ❌ | ? | ? |
 | [nederland.online](https://nederland.online) | **1 379** | 3 012 | ✅ | De oerrr-Hollandse community voor online Nederlanders! | nl |
 | [mstdn.in.th](https://mstdn.in.th) | **1 379** | 70 325 | ✅ | สมัครฟรี เพื่อร่วมชุมชน Mastodon ของไทย | th |
-| [pkm.social](https://pkm.social) | **1 378** | 40 477 | ✅ | PKM.social is an Mastodon instance that is open to anyone who is interested in Personal Knowledge Management. | en |
-| [bonn.social](https://bonn.social) | **1 375** | 249 156 | ✅ | Bonn.social ist ein Mastodon-Instanz für Bonn, Rhein-Sieg und für alle, die Bonn und die Region mögen. ❤️ | de |
-| [mastodon.uy](https://mastodon.uy) | **1 374** | 119 289 | ✅ | Nodo de Uruguay en servidor autogestionado y libre de corporaciones. Registro abierto, sujeto a revisión. Leer las normas, completar el formulario y esperar confirmación por mail (puede llegar a spam) | es |
-| [mstdn.mx](https://mstdn.mx) | **1 374** | 213 331 | ✅ | Primera instancia de Mastodon de México, desde Abr 2017. Aquí hablamos de tecnología, literatura, ciencia, cultura, música, anime, series, películas, el acontecer diario y lo que te nazca del corazón | es |
-| [uwu.social](https://uwu.social) | **1 368** | 319 873 | ✅ | A public Mastodon instance run by the same people who run owo (the file sharing website).  Everyone is welcome... as long as you like to uwu. | en |
+| [pkm.social](https://pkm.social) | **1 379** | 40 550 | ✅ | PKM.social is an Mastodon instance that is open to anyone who is interested in Personal Knowledge Management. | en |
+| [bonn.social](https://bonn.social) | **1 375** | 249 368 | ✅ | Bonn.social ist ein Mastodon-Instanz für Bonn, Rhein-Sieg und für alle, die Bonn und die Region mögen. ❤️ | de |
+| [mastodon.uy](https://mastodon.uy) | **1 374** | 119 356 | ✅ | Nodo de Uruguay en servidor autogestionado y libre de corporaciones. Registro abierto, sujeto a revisión. Leer las normas, completar el formulario y esperar confirmación por mail (puede llegar a spam) | es |
+| [mstdn.mx](https://mstdn.mx) | **1 374** | 213 414 | ✅ | Primera instancia de Mastodon de México, desde Abr 2017. Aquí hablamos de tecnología, literatura, ciencia, cultura, música, anime, series, películas, el acontecer diario y lo que te nazca del corazón | es |
+| [uwu.social](https://uwu.social) | **1 368** | 319 920 | ✅ | A public Mastodon instance run by the same people who run owo (the file sharing website).  Everyone is welcome... as long as you like to uwu. | en |
 | [lemmy.eco.br](https://lemmy.eco.br) | **1 364** | 3 040 | ✅ | ? | ? |
 | [seo.chat](https://seo.chat) | **1 360** | 4 875 | ✅ | The largest Search Engine Optimization (#SEO) community on Mastodon. | en |
-| [eupolicy.social](https://eupolicy.social) | **1 358** | 128 401 | ✅ | This is a Mastodon instance for the EU policy bubble. We aim to be a friendly and respectful discussion space for people working in EU policy and to contribute to the growth of the Fediverse. | en |
+| [eupolicy.social](https://eupolicy.social) | **1 359** | 128 694 | ✅ | This is a Mastodon instance for the EU policy bubble. We aim to be a friendly and respectful discussion space for people working in EU policy and to contribute to the growth of the Fediverse. | en |
 | [burma.social](https://burma.social) | **1 355** | 5 790 | ✅ | Burma Social. Our platform is free from censorship and we do not engage in advertising or promotion. Our aim is to provide a free and open environment. | en |
 | [fedi.absturztau.be](https://fedi.absturztau.be) | **1 354** | 855 540 | ✅ | ? | ? |
 | [nafo.uk](https://nafo.uk) | **1 353** | 403 058 | ✅ | nafo.uk is an open and federated mastodon instance, initially setup for #NAFO devotees, but anyone who supports Ukraine is welcome. Слава Україні! 🇺🇦 | en |
@@ -579,14 +579,14 @@
 | [stop.voring.me](https://stop.voring.me) | **1 342** | 135 349 | ✅ | ? | ? |
 | [podcastindex.social](https://podcastindex.social) | **1 340** | 128 816 | ❌ | Intended for all stake holders of podcasting who are interested in improving the eco system  | en |
 | [social.treehouse.systems](https://social.treehouse.systems) | **1 338** | 307 646 | ✅ | A community of friends mostly surviving in the technology industry.  If you sign up, please provide a Twitter, GitHub, or personal blog or website link for us to get to know you better. | en |
-| [poweredbygay.social](https://poweredbygay.social) | **1 334** | 17 829 | ✅ | Server for those LGBTQIA+ (and Allies) that are into fun adventurous things, like playing/watching sports, hiking, camping, etc! #sports #hiking #camping #adventure #LGBT #LGBTQIA | en |
-| [social.chinwag.org](https://social.chinwag.org) | **1 333** | 106 625 | ✅ | Consider this place your friendly, local Australian pub. Make yourself at home, bring your friends, have a good time! Meet new people, have a laugh, enjoy the ambience, and the Oxford commas. | en |
+| [poweredbygay.social](https://poweredbygay.social) | **1 334** | 17 842 | ✅ | Server for those LGBTQIA+ (and Allies) that are into fun adventurous things, like playing/watching sports, hiking, camping, etc! #sports #hiking #camping #adventure #LGBT #LGBTQIA | en |
+| [social.chinwag.org](https://social.chinwag.org) | **1 333** | 106 666 | ✅ | Consider this place your friendly, local Australian pub. Make yourself at home, bring your friends, have a good time! Meet new people, have a laugh, enjoy the ambience, and the Oxford commas. | en |
 | [gram.social](https://gram.social) | **1 323** | 1 060 496 | ✅ | ? | ? |
 | [lemdro.id](https://lemdro.id) | **1 315** | 3 026 | ✅ | ? | ? |
 | [furry.engineer](https://furry.engineer) | **1 300** | 245 547 | ✅ | An instance aimed at techies and engineers of all types within the furry fandom, but anyone is welcome. We're an LGBTQ+ friendly community and aiming to offer a safe space for our users. | en |
 | [zeroes.ca](https://zeroes.ca) | **1 300** | 271 944 | ✅ | COVID-aware Twitter escapees ♥️ COVID content, science, resources, advocacy, social, meetup, chat, etc. | en |
 | [animalliberation.social](https://animalliberation.social) | **1 298** | 4 886 | ✅ | ? | ? |
-| [gulp.cafe](https://gulp.cafe) | **1 286** | 155 240 | ✅ | Welcome to Cafe Gulp! We put the "Fed" in Fediverse.   We are an adult oriented website themed around vore and endosomaphila. 🔞 | en |
+| [gulp.cafe](https://gulp.cafe) | **1 288** | 155 378 | ✅ | Welcome to Cafe Gulp! We put the "Fed" in Fediverse.   We are an adult oriented website themed around vore and endosomaphila. 🔞 | en |
 | [mozilla.social](https://mozilla.social) | **1 286** | 31 730 | ❌ | ? | en |
 | [pawb.social](https://pawb.social) | **1 281** | 2 633 | ✅ | ? | ? |
 | [mastodon.vlaanderen](https://mastodon.vlaanderen) | **1 280** | 26 551 | ✅ | De Vlaamse/Belgische Mastodon instance.     | nl |
@@ -596,20 +596,20 @@
 | [social.slat.org](https://social.slat.org) | **1 259** | 22 320 | ✅ | 這是中華民國軟體自由協會 (SLAT) 的 Mastodon 社交平台。 | en |
 | [kopiti.am](https://kopiti.am) | **1 257** | 69 610 | ✅ | For Singaporeans by Singaporeans | en |
 | [vocalounge.cafe](https://vocalounge.cafe) | **1 257** | 58 965 | ❌ | A Mastodon instance specializing in Vocaloid, UTAU, and anything relevant to vocalsynth culture. | en |
-| [mograph.social](https://mograph.social) | **1 257** | 37 402 | ✅ | mograph.social is a space for the Motion Design community. VFX artists, 3D artists, animators, designers and coders with an interest in moving images are all welcome. NO CRYPTOART / NFTs ALLOWED. | en |
+| [mograph.social](https://mograph.social) | **1 257** | 37 470 | ✅ | mograph.social is a space for the Motion Design community. VFX artists, 3D artists, animators, designers and coders with an interest in moving images are all welcome. NO CRYPTOART / NFTs ALLOWED. | en |
 | [stereodon.social](https://stereodon.social) | **1 255** | 23 165 | ✅ | <a href="https://stereodon.social/">Stereodon.social</a> è un social network autogestito e open source dedicato alla musica.<br> Stanchi di scambiarci informazioni tramite sistemi eticamente in contrasto con i nostri principi, abbiamo deciso di dar vita a questa istanza.<br> Siamo convinti che slegare la diffusione di musica da logiche competitive, possa favorire il fare comunità, quindi un maggiore e più sincero scambio di informazioni.<br><br><br>  [ENG]<br><br>  <a href="https://stereodon.social/">Stereodon.social</a> is a self-managed social network devoted to underground music.<br> Tired of exchanging information through systems that are ethically in contrast to our principles, we decided to give life to this instance.<br> We are convinced that unlink the diffusion of music from competitive logics can favor making communities, therefore a greater and more sincere exchange of information.<br><br><br>  languages accepted: Italian, English (for moderation reasons) <br><br> contact: admin [AT] stereodon.social <br><br>  | it |
 | [mastodon.gal](https://mastodon.gal) | **1 253** | 93 837 | ✅ | mastodon.gal é unha instancia en galego de Mastodon para a comunidade galega. | gl |
 | [tyrol.social](https://tyrol.social) | **1 249** | 51 952 | ✅ | Die Social Media Plattform für Tirol und allen Menschen, die sich in den Alpen wohlfühlen. | de |
-| [lgbtqia.space](https://lgbtqia.space) | **1 241** | 198 209 | ✅ | This is a cute server for all LGBTQIA ppl out there that want a caring and safe environment.  If you are part of the LGBTQIA community you are very cordially invited to join this server. | en |
+| [lgbtqia.space](https://lgbtqia.space) | **1 242** | 198 737 | ✅ | This is a cute server for all LGBTQIA ppl out there that want a caring and safe environment.  If you are part of the LGBTQIA community you are very cordially invited to join this server. | en |
 | [nofan.xyz](https://nofan.xyz) | **1 240** | 689 069 | ❌ | 给饭友的自留地 | zh-CN |
-| [4bear.com](https://4bear.com) | **1 231** | 105 664 | ✅ | Mastodon Server for the LGBT+ Bear Community. Be Nice. Be over 18 years old. Fill out "Why do you want to join?" so we know you're here for the right reasons. | en |
+| [4bear.com](https://4bear.com) | **1 231** | 105 950 | ✅ | Mastodon Server for the LGBT+ Bear Community. Be Nice. Be over 18 years old. Fill out "Why do you want to join?" so we know you're here for the right reasons. | en |
 | [bbq.snoot.com](https://bbq.snoot.com) | **1 228** | 83 624 | ✅ | A Mastodon community for film and tv people. | en |
-| [mstdn.io](https://mstdn.io) | **1 218** | 1 629 696 | ❌ | ? | en |
-| [darmstadt.social](https://darmstadt.social) | **1 208** | 79 539 | ✅ | Willkommen in der digitalen Darmstädter Nachbarschaft aus dem Rhein-Main-Gebiet - komm doch mal auf einen Kaffee vorbei! | en |
+| [mstdn.io](https://mstdn.io) | **1 217** | 1 630 193 | ❌ | ? | en |
+| [darmstadt.social](https://darmstadt.social) | **1 208** | 79 650 | ✅ | Willkommen in der digitalen Darmstädter Nachbarschaft aus dem Rhein-Main-Gebiet - komm doch mal auf einen Kaffee vorbei! | en |
 | [weirder.earth](https://weirder.earth) | **1 205** | 1 138 076 | ❌ | ? | ? |
 | [apobangpo.space](https://apobangpo.space) | **1 202** | 102 147 | ✅ | A fediverse home for BTS ARMY and KPop Fans. All welcome! Share your favourite Korean music, scream for your favourite Idol(s), learn together. All fun and no drama. Bangtan Forever, ARMY forever.  | en |
 | [mander.xyz](https://mander.xyz) | **1 197** | 7 030 | ✅ | ? | ? |
-| [social.sciences.re](https://social.sciences.re) | **1 191** | 108 127 | ✅ | Sciences·Re souhaite offrir un espace de partage, de collaboration et de discussion en ligne pour la communauté scientifique, académique, éducative francophone. Elle est sans coloration thématique. | fr |
+| [social.sciences.re](https://social.sciences.re) | **1 191** | 108 479 | ✅ | Sciences·Re souhaite offrir un espace de partage, de collaboration et de discussion en ligne pour la communauté scientifique, académique, éducative francophone. Elle est sans coloration thématique. | fr |
 | [social.kyiv.dcomm.net.ua](https://social.kyiv.dcomm.net.ua) | **1 186** | 131 044 | ✅ | Київський інстанс є частиною https://dcomm.net.ua.  Українські локальні інстанси Mastodon були розгорнуті в 9 українських містах у серпні-вересні 2022 року  | en |
 | [jorts.horse](https://jorts.horse) | **1 179** | 944 911 | ✅ | Unstoppable shitposting engine. | en |
 | [chitter.xyz](https://chitter.xyz) | **1 175** | 1 186 506 | ✅ | Chitter is a social network fostering a friendly, inclusive, and incredibly soft community. | en |
@@ -619,23 +619,23 @@
 | [est.social](https://est.social) | **1 129** | 24 273 | ✅ | est.social on mõeldud Eestis üldkasutatavaks Mastodoni serveriks.  est.social is meant to be a general use Mastodon server for Estonia. | et |
 | [slrpnk.net](https://slrpnk.net) | **1 127** | 12 500 | ✅ | ? | ? |
 | [esperanto.masto.host](https://esperanto.masto.host) | **1 121** | 93 694 | ✅ | This is an Esperanto-speaking instance, so it goes without saying that users are expected to toot in Esperanto. There are a million other instances to create your account if you intend to toot in English or any other language.  | eo |
-| [thecanadian.social](https://thecanadian.social) | **1 114** | 214 571 | ✅ | Politics,sports,current events and laughs from Canada and across the fediverse.   | en |
+| [thecanadian.social](https://thecanadian.social) | **1 115** | 214 711 | ✅ | Politics,sports,current events and laughs from Canada and across the fediverse.   | en |
 | [emacs.ch](https://emacs.ch) | **1 114** | 82 386 | ✅ | A safe and friendly Mastodon instance, operated for Emacs, Lisp and FOSS enthusiasts, developers and all open-minded humans. 5000 character limit. | en |
 | [oulipo.social](https://oulipo.social) | **1 111** | 148 097 | ✅ | A spot for chatting with a lipogrammatic constraint. 25 out of 26 symbols in latin script comply. | en-OU |
 | [seocommunity.social](https://seocommunity.social) | **1 111** | 29 443 | ✅ | Mastodon server for the SEO (Search Engine Optimization) Community. | en |
 | [bsd.network](https://bsd.network) | **1 108** | 382 887 | ❌ | ? | ? |
-| [gruene.social](https://gruene.social) | **1 098** | 173 265 | ❌ | Die Mastodon-Instanz für BÜNDNIS 90/DIE GRÜNEN, betrieben von Netzbegrünung e.V. | en |
+| [gruene.social](https://gruene.social) | **1 098** | 173 472 | ❌ | Die Mastodon-Instanz für BÜNDNIS 90/DIE GRÜNEN, betrieben von Netzbegrünung e.V. | en |
 | [neurodifferent.me](https://neurodifferent.me) | **1 083** | 234 013 | ✅ | A friendly space for neurodifferent folks. | en |
-| [iosdev.space](https://iosdev.space) | **1 080** | 64 822 | ✅ | A Mastodon server for all swift developers. Donations are encouraged and accepted at https://opencollective.com/iosdevspace to keep this space running and healthy.  | en |
+| [iosdev.space](https://iosdev.space) | **1 080** | 64 920 | ✅ | A Mastodon server for all swift developers. Donations are encouraged and accepted at https://opencollective.com/iosdevspace to keep this space running and healthy.  | en |
 | [glammr.us](https://glammr.us) | **1 077** | 163 498 | ✅ | glammr.us is a space for folks interested in galleries, libraries, archives, museums, memory work and records. But you don't only have to post about GLAMMR-related topics, bring your whole self! | en |
-| [kanoa.de](https://kanoa.de) | **1 073** | 38 257 | ✅ | Eine deutschsprachige Mastodon Instanz um neue Leute kennenzulernen und Spaß zu haben. "ka noa" ist hawaiisch und bedeutet "die Freiheit". Ein Service von adminForge.de | de |
-| [dotnet.social](https://dotnet.social) | **1 064** | 45 455 | ✅ | <code>Console.WriteLine("Hello W🌍rld!");</code> .NET Community on Mastodon; not affiliated with Microsoft. We welcome all people interested in coding, technologies and .NET. | en |
+| [kanoa.de](https://kanoa.de) | **1 073** | 38 336 | ✅ | Eine deutschsprachige Mastodon Instanz um neue Leute kennenzulernen und Spaß zu haben. "ka noa" ist hawaiisch und bedeutet "die Freiheit". Ein Service von adminForge.de | de |
+| [dotnet.social](https://dotnet.social) | **1 064** | 45 488 | ✅ | <code>Console.WriteLine("Hello W🌍rld!");</code> .NET Community on Mastodon; not affiliated with Microsoft. We welcome all people interested in coding, technologies and .NET. | en |
 | [pixelfed.bachgau.social](https://pixelfed.bachgau.social) | **1 063** | 51 079 | ✅ | ? | ? |
-| [macaw.social](https://macaw.social) | **1 062** | 63 609 | ❌ | A small server by some ex-tweeps mostly for other *tweeps and friends. | en |
+| [macaw.social](https://macaw.social) | **1 062** | 63 640 | ❌ | A small server by some ex-tweeps mostly for other *tweeps and friends. | en |
 | [vtdon.com](https://vtdon.com) | **1 062** | 105 308 | ✅ | Vtuber星こにあが運営する、VtuberによるVtuberとVtuberファンのためのインスタンスです。 | en |
 | [mastodon.energy](https://mastodon.energy) | **1 061** | 80 488 | ✅ | We are a server dedicated to professional and academic individuals and organizations working on energy transition policy, infrastructure, technology, journalism, and science. | en |
 | [dobbs.town](https://dobbs.town) | **1 059** | 216 293 | ❌ | Church of the SubGenius Members-Only MastoDobbs. | en |
-| [im-in.space](https://im-in.space) | **1 057** | 118 358 | ❌ | A generalist Mastodon instance with a nice domain name. Running on Glitch Social's fork with a custom theme and a 1024 characters limit! | en |
+| [im-in.space](https://im-in.space) | **1 057** | 118 444 | ❌ | A generalist Mastodon instance with a nice domain name. Running on Glitch Social's fork with a custom theme and a 1024 characters limit! | en |
 | [beekeeping.ninja](https://beekeeping.ninja) | **1 053** | 32 043 | ✅ | Friendly instance for those interested in gardening, beekeeping and the outdoors in general. Newcomers welcome! | en |
 | [vt.social](https://vt.social) | **1 040** | 117 944 | ✅ | The biggest VTuber instance, by VTubers for VTubers and adjacent content creators. | en |
 | [books.theunseen.city](https://books.theunseen.city) | **1 033** | 84 235 | ✅ | ? | ? |
@@ -644,42 +644,42 @@
 | [karab.in](https://karab.in) | **1 026** | 3 869 | ✅ | ? | ? |
 | [zotum.net](https://zotum.net) | **1 025** | 140 260 | ✅ | ? | ? |
 | [dormi.zone](https://dormi.zone) | **1 025** | 428 | ✅ | ? | ? |
-| [mastodon.design](https://mastodon.design) | **1 023** | 92 545 | ✅ | A small instance for and by people who make things! We stand for an open, independent, sustainable, inclusive, and accessible web. | en |
+| [mastodon.design](https://mastodon.design) | **1 025** | 92 770 | ✅ | A small instance for and by people who make things! We stand for an open, independent, sustainable, inclusive, and accessible web. | en |
 | [wobbl.xyz](https://wobbl.xyz) | **1 002** | 152 757 | ✅ | Mastodon instance for furries of the larger, tubbier persuasion. | en |
 | [oldbytes.space](https://oldbytes.space) | **998** | 307 951 | ✅ | Full of old bytes. Please don't demagnetize the core memory, thanks. Do you like old hardware ? Do you use them ? Perfect you're welcome here ! | en |
 | [genserver.social](https://genserver.social) | **991** | 5 982 | ✅ | ? | ? |
-| [retro.pizza](https://retro.pizza) | **987** | 257 454 | ✅ | A poly-fandom instance for nerds to talk about nerd culture. No Nazis, no TERFs. | en |
+| [retro.pizza](https://retro.pizza) | **987** | 257 892 | ✅ | A poly-fandom instance for nerds to talk about nerd culture. No Nazis, no TERFs. | en |
 | [mastodon.acm.org](https://mastodon.acm.org) | **979** | 22 265 | ✅ | This server is generally intended to provide a trustworthy space for computing professionals from around the world to connect and engage with each other in a meaningful way.  | en |
 | [warhammer.social](https://warhammer.social) | **977** | 66 638 | ✅ | A server for wargamers and hobbyists. Any topic welcome - we just have Warhammer in common! A Warhammer Community! | en |
 | [jawns.club](https://jawns.club) | **960** | 101 858 | ❌ | Welcome to the first mastodon based community for Philadelphians who ❤️Philadelphia! Think of this instance as a new neighborhood in Philly that anyone can be a part of, because it's online. | en |
 | [cdrom.tokyo](https://cdrom.tokyo) | **958** | 120 732 | ✅ | ? | ? |
 | [stereophonic.space](https://stereophonic.space) | **954** | 423 509 | ❌ | ? | ? |
-| [mastoot.fr](https://mastoot.fr) | **947** | 19 407 | ✅ | Serveur généraliste où la bienveillance, le respect, la fraternité et la sororité sont de mise.  | en |
+| [mastoot.fr](https://mastoot.fr) | **947** | 19 424 | ✅ | Serveur généraliste où la bienveillance, le respect, la fraternité et la sororité sont de mise.  | en |
 | [metalverse.social](https://metalverse.social) | **946** | 5 837 | ✅ | metalverse.social is a Mastodon instance hosted in Germany from Metalheads for everybody.  -Where the Metal connects- | en |
-| [maly.io](https://maly.io) | **944** | 174 918 | ✅ | ? | en |
-| [gaygeek.social](https://gaygeek.social) | **933** | 64 523 | ✅ | This server is intended as a safe place for LGBTQIA+ individuals to socialize. You do not have to be LGBTQIA to join, so long as you are an ally.  | en |
+| [maly.io](https://maly.io) | **943** | 174 961 | ✅ | ? | en |
+| [gaygeek.social](https://gaygeek.social) | **934** | 64 724 | ✅ | This server is intended as a safe place for LGBTQIA+ individuals to socialize. You do not have to be LGBTQIA to join, so long as you are an ally.  | en |
 | [lemmy.today](https://lemmy.today) | **932** | 1 203 | ✅ | ? | ? |
-| [toot.berlin](https://toot.berlin) | **931** | 59 066 | ✅ | The Mastodon instance for Berlin. Open to all. Die Mastoden-Instanz für Berlin, offen für Alle, selbst Brandenburger 😉 | en |
+| [toot.berlin](https://toot.berlin) | **931** | 59 101 | ✅ | The Mastodon instance for Berlin. Open to all. Die Mastoden-Instanz für Berlin, offen für Alle, selbst Brandenburger 😉 | en |
 | [greenish.red](https://greenish.red) | **930** | 18 381 | ❌ | ? | ? |
-| [machteburch.social](https://machteburch.social) | **919** | 67 268 | ✅ | Magdeburg im Fediverse - Machteburch.social ist eine Mastodon-Instanz für Magdeburg und alle, die Magdeburg mögen, oder sich mit Magdeburg verbunden fühlen. Betrieben vom Softwerke Magdeburg e. V. | de |
+| [machteburch.social](https://machteburch.social) | **919** | 67 375 | ✅ | Magdeburg im Fediverse - Machteburch.social ist eine Mastodon-Instanz für Magdeburg und alle, die Magdeburg mögen, oder sich mit Magdeburg verbunden fühlen. Betrieben vom Softwerke Magdeburg e. V. | de |
 | [lethallava.land](https://lethallava.land) | **919** | 91 793 | ✅ | ? | ? |
-| [furries.club](https://furries.club) | **917** | 52 981 | ✅ | Another server for the furry community. We have some special features related to higher quality images and video on our instance. Check out https://furries.club/about | en |
-| [epicure.social](https://epicure.social) | **908** | 69 243 | ✅ | A Mastodon community with a food and wine focus. Mainly English speaking, open to all epicurians. | en |
+| [furries.club](https://furries.club) | **918** | 53 076 | ✅ | Another server for the furry community. We have some special features related to higher quality images and video on our instance. Check out https://furries.club/about | en |
+| [epicure.social](https://epicure.social) | **908** | 69 349 | ✅ | A Mastodon community with a food and wine focus. Mainly English speaking, open to all epicurians. | en |
 | [macrofurs.social](https://macrofurs.social) | **907** | 96 903 | ✅ | This instance focuses on the macro/micro side of furries. We're open to both big and small~ | en |
 | [pixelfed.nz](https://pixelfed.nz) | **901** | 185 033 | ✅ | ? | ? |
-| [mastodon.mit.edu](https://mastodon.mit.edu) | **898** | 211 821 | ✅ | An instance for the extended MIT community. Run by volunteers at SIPB, MIT's computer club. NOT run or endorsed by the MIT administration. | en |
-| [gearheads.social](https://gearheads.social) | **898** | 17 444 | ✅ | For gearheads, by gearheads — a federated network for those into gear: the heavy stuff, the light wear, the fetish made, the safety built, and everything in-between. | en |
+| [mastodon.mit.edu](https://mastodon.mit.edu) | **898** | 211 861 | ✅ | An instance for the extended MIT community. Run by volunteers at SIPB, MIT's computer club. NOT run or endorsed by the MIT administration. | en |
+| [gearheads.social](https://gearheads.social) | **898** | 17 461 | ✅ | For gearheads, by gearheads — a federated network for those into gear: the heavy stuff, the light wear, the fetish made, the safety built, and everything in-between. | en |
 | [jlai.lu](https://jlai.lu) | **890** | 8 211 | ✅ | ? | ? |
 | [icosahedron.website](https://icosahedron.website) | **886** | 476 982 | ❌ | Icosahedron.website is a mastodon instance and part of the ActivityPub network / the Fediverse. | en |
 | [mastodon-swiss.org](https://mastodon-swiss.org) | **883** | 11 427 | ✅ | Dieser Mastodon-Server wird durch Lukas Frey betrieben (privat).  | en |
 | [xarxa.cloud](https://xarxa.cloud) | **882** | 121 313 | ✅ | Un node més al Fedivers amb l'objectiu d'agrupar col·lectius socials. Un nodo más en el Fediverso con el objetivo de agrupar colectivos sociales. No guardamos tus datos. No guardamos logs. | en |
 | [Xarxa.cloud](https://Xarxa.cloud) | **882** | 121 313 | ✅ | Un node més al Fedivers amb l'objectiu d'agrupar col·lectius socials. Un nodo más en el Fediverso con el objetivo de agrupar colectivos sociales. No guardamos tus datos. No guardamos logs. | en |
-| [masto.yttrx.com](https://masto.yttrx.com) | **881** | 9 194 | ❌ | A community of Mastodon enthusiasts run by friends | en |
+| [masto.yttrx.com](https://masto.yttrx.com) | **881** | 9 198 | ❌ | A community of Mastodon enthusiasts run by friends | en |
 | [yiffit.net](https://yiffit.net) | **880** | 2 869 | ✅ | ? | ? |
 | [dvd.chat](https://dvd.chat) | **874** | 86 128 | ✅ | ? | ? |
 | [toot.thoughtworks.com](https://toot.thoughtworks.com) | **871** | 14 348 | ❌ | A Mastodon instance hosted on Thoughtworks’ infrastructure to connect our employees with the Fediverse and make an extraordinary impact on social networks. | en |
 | [parfait.day](https://parfait.day) | **871** | 280 247 | ✅ | 개성적인 밀레시안들이 모이는 마비노기 특화 SNS입니다. | en |
-| [mastodon.mim-libre.fr](https://mastodon.mim-libre.fr) | **866** | 39 059 | ❌ | Mutualisation Inter-Ministérielle Logiciels Libres | fr |
+| [mastodon.mim-libre.fr](https://mastodon.mim-libre.fr) | **866** | 39 085 | ❌ | Mutualisation Inter-Ministérielle Logiciels Libres | fr |
 | [mastodon.tetaneutral.net](https://mastodon.tetaneutral.net) | **859** | 192 044 | ✅ | Instance de Mastodon, réseau social de micro-blogging libre et décentralisé hébergée par l'association Tetaneutral.net. | fr |
 | [mstdn.beer](https://mstdn.beer) | **858** | 6 167 958 | ❌ | ? | en |
 | [mastodon.free-solutions.org](https://mastodon.free-solutions.org) | **857** | 8 440 | ✅ | MASTODON 100% Suisse hébergé et géré par Free-Solutions sàrl Bienvenue aux francophones. Inscriptions libres et immédiates Suisse, Logiciels LIBRES, Fédiverse, Visioconférences et webRTC | fr |
@@ -687,17 +687,17 @@
 | [pointless.chat](https://pointless.chat) | **852** | 109 029 | ✅ | 포인트리스에 어서오세요! 여기는 뻘글을 생산하는 공장입니다. 기록하고, 표현하고, 공유하세요. | ko |
 | [types.pl](https://types.pl) | **850** | 278 114 | ❌ | A queer, leftist instance for programming languages enthusiasts and friends. | en |
 | [lemmy.whynotdrs.org](https://lemmy.whynotdrs.org) | **849** | 745 | ✅ | ? | ? |
-| [literatur.social](https://literatur.social) | **848** | 314 589 | ✅ | Der Einstieg ins Fediverse für Autor:innen und Literaturmenschen ...    The gateway into the fediverse for authors and all people interested in literature. | de |
+| [literatur.social](https://literatur.social) | **849** | 315 106 | ✅ | Der Einstieg ins Fediverse für Autor:innen und Literaturmenschen ...    The gateway into the fediverse for authors and all people interested in literature. | de |
 | [lemmy.nz](https://lemmy.nz) | **843** | 4 913 | ✅ | ? | ? |
 | [otadon.com](https://otadon.com) | **839** | 402 852 | ❌ | 好きなことを好きな時に。趣味～日常などタイムラインを気にせず自由に投稿できるオタク（マニア）向けサービスです。テーマフリーで投稿できます。 | ja |
 | [kazv.moe](https://kazv.moe) | **829** | 106 269 | ✅ | ? | ? |
 | [gleasonator.com](https://gleasonator.com) | **828** | 220 794 | ✅ | ? | ? |
-| [toot.portes-imaginaire.org](https://toot.portes-imaginaire.org) | **824** | 42 913 | ✅ | Une instance du réseau Mastodon ouverte à celles et ceux qui souhaitent y diffuser du contenu autour du jeu de rôle et de la culture de l'imaginaire. | en |
-| [bitbang.social](https://bitbang.social) | **822** | 139 105 | ✅ | Hey, do you like old things? Beeps and boops? Welcome home! | en |
-| [ludosphere.fr](https://ludosphere.fr) | **821** | 94 737 | ✅ | Communauté ludique (jeux vidéo, de rôle, de société, etc) destinée aux joueuses et joueurs francophones de tous horizons. French speaking people only. | fr |
+| [toot.portes-imaginaire.org](https://toot.portes-imaginaire.org) | **824** | 42 925 | ✅ | Une instance du réseau Mastodon ouverte à celles et ceux qui souhaitent y diffuser du contenu autour du jeu de rôle et de la culture de l'imaginaire. | en |
+| [bitbang.social](https://bitbang.social) | **822** | 139 296 | ✅ | Hey, do you like old things? Beeps and boops? Welcome home! | en |
+| [ludosphere.fr](https://ludosphere.fr) | **821** | 94 863 | ✅ | Communauté ludique (jeux vidéo, de rôle, de société, etc) destinée aux joueuses et joueurs francophones de tous horizons. French speaking people only. | fr |
 | [pixelfed.cz](https://pixelfed.cz) | **815** | 267 288 | ✅ | ? | ? |
 | [social.edu.nl](https://social.edu.nl) | **810** | 10 499 | ❌ | This is the Mastodon Pilot instance run by SURF for the Dutch research and education community - more info https://surf.nl/mastodon-pilot | en |
-| [social.bau-ha.us](https://social.bau-ha.us) | **808** | 112 390 | ✅ | social.bau-ha.us is your friendly neighbourhood mastodon instance proudly presented by Maschinenraum Weimar. Our focus is community. Feel free to join, but please be aware that there are some rules! | en |
+| [social.bau-ha.us](https://social.bau-ha.us) | **809** | 112 423 | ✅ | social.bau-ha.us is your friendly neighbourhood mastodon instance proudly presented by Maschinenraum Weimar. Our focus is community. Feel free to join, but please be aware that there are some rules! | en |
 | [mastodon.holeyfox.co](https://mastodon.holeyfox.co) | **804** | 27 428 | ✅ | A Mastodon instance for Nigerians. Everyone is welcome. | en |
 | [noagendatube.com](https://noagendatube.com) | **804** | 15 710 | ✅ | ? | ? |
 | [en.osm.town](https://en.osm.town) | **804** | 68 241 | ✅ | An independent, community of OpenStreetMap people on the Fediverse/Mastodon.   Funding graciously provided by the OpenStreetMap Foundation. | en |
@@ -706,12 +706,12 @@
 | [mastodon.triggerphra.se](https://mastodon.triggerphra.se) | **798** | 35 416 | ✅ | A Mastodon instance for the hypnosis community; 18+, queer, and getting very sleepy. | en |
 | [sakurajima.moe](https://sakurajima.moe) | **795** | 93 542 | ✅ | A comfy, non-toxic, and inclusive Mastodon Server for Anime/Manga/Japanese Media fans and Anime/Japanese Media Content Creators (Bloggers/Video Creators/Podcasters/etc.) | en |
 | [digforfire.org](https://digforfire.org) | **794** | 238 525 | ❌ | A change of speed, a change of style<br> A change of scene, with no regrets<br> | en |
-| [masto.bike](https://masto.bike) | **791** | 182 959 | ✅ | Cette instance Mastodon est ouverte à toutes et tous, dans le respect des règles barrière (https://masto.bike/about/more). Faire du vélo ou juste envisager d'essayer est un plus ;)  | en |
-| [urusai.social](https://urusai.social) | **791** | 127 319 | ✅ | A friendly and non-toxic English-first Mastodon community for anime, manga, and other otaku subjects. | en |
+| [masto.bike](https://masto.bike) | **791** | 183 411 | ✅ | Cette instance Mastodon est ouverte à toutes et tous, dans le respect des règles barrière (https://masto.bike/about/more). Faire du vélo ou juste envisager d'essayer est un plus ;)  | en |
+| [urusai.social](https://urusai.social) | **791** | 127 445 | ✅ | A friendly and non-toxic English-first Mastodon community for anime, manga, and other otaku subjects. | en |
 | [opensocial.at](https://opensocial.at) | **790** | 79 246 | ❌ | ? | ? |
 | [outerheaven.club](https://outerheaven.club) | **788** | 462 534 | ✅ | ? | ? |
 | [video.liberta.vip](https://video.liberta.vip) | **787** | 72 338 | ✅ | ? | ? |
-| [babka.social](https://babka.social) | **787** | 167 459 | ✅ | A site where you can be unapologetically Jewish, with a healthy, diverse community of Jews and Jewish allies. | en |
+| [babka.social](https://babka.social) | **787** | 167 815 | ✅ | A site where you can be unapologetically Jewish, with a healthy, diverse community of Jews and Jewish allies. | en |
 | [bassam.social](https://bassam.social) | **786** | 51 445 | ✅ | ? | ? |
 | [eightpoint.app](https://eightpoint.app) | **780** | 257 316 | ✅ | A general mastodon instance for former twitter users. However it seems very popular with transfemmes so keep that in mind. | en |
 | [jaxbeach.social](https://jaxbeach.social) | **776** | 562 | ✅ | Community for and about Jacksonville Beach, Neptune Beach, Atlantic Beach, Ponte Vedra Beach and Jacksonville on Florida's First Coast. | en |
@@ -719,11 +719,11 @@
 | [9kb.me](https://9kb.me) | **770** | 227 508 | ✅ | 一个自由、开放、多元、包容的中文 Mastodon 社区。Mastodon 是一个建立在开放式网络协议和自由、开源软件之上的社交网络，有着类似于电子邮件的分布式设计。 | en |
 | [cztwitter.cz](https://cztwitter.cz) | **769** | 62 587 | ✅ | Osada Tootřanů :-) | cs |
 | [ramen-fsm.eu.org](https://ramen-fsm.eu.org) | **763** | 239 671 | ✅ | ? | ? |
-| [swiss-talk.net](https://swiss-talk.net) | **760** | 63 133 | ✅ | Swiss-Talk ist ein freundlicher und nützlicher Raum für Menschen in der Schweiz. Der Verein Swiss-Talk ist für diese Instanz verantwortlich. Menschen, die mithelfen, sind willkommen! | de |
+| [swiss-talk.net](https://swiss-talk.net) | **760** | 63 173 | ✅ | Swiss-Talk ist ein freundlicher und nützlicher Raum für Menschen in der Schweiz. Der Verein Swiss-Talk ist für diese Instanz verantwortlich. Menschen, die mithelfen, sind willkommen! | de |
 | [m.otter.homes](https://m.otter.homes) | **755** | 245 477 | ✅ | 欢迎来到海獭之家 （m.otter.homes）! Welcome to m.otter.homes!  m.otter.homes是一个自由、开放、多语言的长毛象实例。在这里你可以和Fediverse中不同背景、爱好的任何人友好地交流，而免于任何政府或大公司的言论审查。 | zh-CN |
-| [lewacki.space](https://lewacki.space) | **749** | 23 742 | ✅ | lewacki.space to fed skierowany przede wszystkim do osób o szeroko rozumianych poglądach lewicowych. | pl |
-| [moresci.sale](https://moresci.sale) | **747** | 529 516 | ✅ | SCI站是学术奇思妙想所创造的空间，初衷是为饱受学术之苦的小象们创造一块自留地，能够分享学术时期的心路历程从而互相安慰与互相鼓励。同时我们也欢迎所有朋友加入我们一起碎碎念，让小象们的生活哲学能够交融于此。 | en |
-| [thicc.horse](https://thicc.horse) | **741** | 120 918 | ✅ | THICC.HORSE -- Lewd not rude! Body positivity, LGBTQIA+, Furry, horny on main!  A small instance with active moderation.  | en |
+| [lewacki.space](https://lewacki.space) | **748** | 23 750 | ✅ | lewacki.space to fed skierowany przede wszystkim do osób o szeroko rozumianych poglądach lewicowych. | pl |
+| [moresci.sale](https://moresci.sale) | **747** | 529 868 | ✅ | SCI站是学术奇思妙想所创造的空间，初衷是为饱受学术之苦的小象们创造一块自留地，能够分享学术时期的心路历程从而互相安慰与互相鼓励。同时我们也欢迎所有朋友加入我们一起碎碎念，让小象们的生活哲学能够交融于此。 | en |
+| [thicc.horse](https://thicc.horse) | **740** | 121 071 | ✅ | THICC.HORSE -- Lewd not rude! Body positivity, LGBTQIA+, Furry, horny on main!  A small instance with active moderation.  | en |
 | [xn--lofll-1sat.is](https://xn--lofll-1sat.is) | **740** | 15 066 | ✅ | loðfíll.is, íslenski mastodon vefþjónninn. Öll velkomin! | en |
 | [skippers-bin.com](https://skippers-bin.com) | **740** | 36 948 | ✅ | ? | ? |
 | [biplus.date](https://biplus.date) | **738** | 157 666 | ✅ | ? | ? |
@@ -731,20 +731,20 @@
 | [miraiverse.xyz](https://miraiverse.xyz) | **736** | 47 759 | ❌ | ? | ? |
 | [dalek.zone](https://dalek.zone) | **732** | 550 642 | ✅ | ? | ? |
 | [mastodon.com.pl](https://mastodon.com.pl) | **732** | 74 248 | ✅ | (PL): Mastodon Polska - Bezpieczna, wolna instancja otwartej sieci społecznościowej Mastodon. (EN): Mastodon Poland - A safe, free instance of the Mastodon open social network. | en |
-| [jasette.facil.services](https://jasette.facil.services) | **731** | 56 608 | ✅ | Jasette FACiLe est une instance de Mastodon opérée par FACiL (Québec). Vos dons et adhésions nous permettent de faire fonctionner cette instance, de même que tous nos autres Services FACiLes. | en |
-| [toot.kif.rocks](https://toot.kif.rocks) | **728** | 112 493 | ✅ | ? | de |
-| [col.social](https://col.social) | **725** | 103 461 | ✅ | Un mastodonte colombiano.  | en |
+| [jasette.facil.services](https://jasette.facil.services) | **731** | 56 665 | ✅ | Jasette FACiLe est une instance de Mastodon opérée par FACiL (Québec). Vos dons et adhésions nous permettent de faire fonctionner cette instance, de même que tous nos autres Services FACiLes. | en |
+| [toot.kif.rocks](https://toot.kif.rocks) | **728** | 112 580 | ✅ | ? | de |
+| [col.social](https://col.social) | **726** | 103 590 | ✅ | Un mastodonte colombiano.  | en |
 | [toot.pizza](https://toot.pizza) | **724** | 18 453 | ✅ | An NYC-based instance geared towards urbanism and transit nerds. | en |
-| [colearn.social](https://colearn.social) | **722** | 27 723 | ✅ | Colearn.social wird von der Corporate Learning Community bereitgestellt. Als Kommunikationsplattform für alle, die sich mit Lernen in Organisationen beschäftigen. Als Beitrag zum Aufbau des Fediverse! | en |
+| [colearn.social](https://colearn.social) | **722** | 27 750 | ✅ | Colearn.social wird von der Corporate Learning Community bereitgestellt. Als Kommunikationsplattform für alle, die sich mit Lernen in Organisationen beschäftigen. Als Beitrag zum Aufbau des Fediverse! | en |
 | [mstdn.es](https://mstdn.es) | **715** | 68 918 | ✅ | A free and federated social network for the Spanish community - and everyone else, too! | en |
 | [worldkey.io](https://worldkey.io) | **714** | 128 542 | ✅ | Discussion of Disney history, theme parks, music, movies, and related topics.  | en |
 | [toot.si](https://toot.si) | **714** | 47 622 | ❌ | Toot.si je slovensko Mastodon vozlišče katere osnovni cilj je omogočati prijazno skupnost in varen prostor za vse. | en |
 | [digipres.club](https://digipres.club) | **713** | 110 892 | ✅ | ? | ? |
 | [functional.cafe](https://functional.cafe) | **705** | 227 467 | ✅ | functional.cafe is an instance for people interested in functional programming and languages. | en |
 | [social.yesterweb.org](https://social.yesterweb.org) | **705** | 44 848 | ✅ | The Yesterweb is a community which acknowledges that today's internet is lacking in creativity, self-expression, and good digital social infrastructure and wants to change that. | en |
-| [tooters.org](https://tooters.org) | **703** | 67 277 | ✅ | Tooters is a New York and Puerto Rico based, queer owned and operated Mastodon instance providing a safe and moderated space on the fediverse for everyone under the rainbow. | en |
-| [occitania.social](https://occitania.social) | **700** | 14 165 | ✅ | Servidor creat tà aufrir as occitans a amics un espaci pròpri en hilat sociau de Mastodon.  Eth hilat sociau deth futur, sense publicitat, hèt pes joeni, tàs joeni damb un servidor de proximitat. | oc |
-| [spacey.space](https://spacey.space) | **695** | 83 140 | ✅ | The place for all things Space! Rocket Launches, Space Weather, Human exploration of the cosmos, and dreams of the future! Welcome to your new space for all things space! | en |
+| [tooters.org](https://tooters.org) | **703** | 67 624 | ✅ | Tooters is a New York and Puerto Rico based, queer owned and operated Mastodon instance providing a safe and moderated space on the fediverse for everyone under the rainbow. | en |
+| [occitania.social](https://occitania.social) | **701** | 14 176 | ✅ | Servidor creat tà aufrir as occitans a amics un espaci pròpri en hilat sociau de Mastodon.  Eth hilat sociau deth futur, sense publicitat, hèt pes joeni, tàs joeni damb un servidor de proximitat. | oc |
+| [spacey.space](https://spacey.space) | **695** | 83 301 | ✅ | The place for all things Space! Rocket Launches, Space Weather, Human exploration of the cosmos, and dreams of the future! Welcome to your new space for all things space! | en |
 | [podling.oksocial.net](https://podling.oksocial.net) | **690** | 4 532 | ✅ | ? | ? |
 | [federatedfandom.net](https://federatedfandom.net) | **688** | 133 596 | ✅ | This is a fandom instance run by imp (stopthatimp on Tumblr) and kate (madecunningly on tumblr). We are here to have fun.  | en |
 | [hayu.sh](https://hayu.sh) | **687** | 6 349 | ✅ | ? | ? |
@@ -752,14 +752,14 @@
 | [drumstodon.net](https://drumstodon.net) | **681** | 3 555 | ✅ | Server intended primarily for drummers of all kinds and ages, but all other musicians and music lovers are welcome here! | en |
 | [social.trom.tf](https://social.trom.tf) | **672** | 64 430 | ✅ | ? | ? |
 | [post.lurk.org](https://post.lurk.org) | **663** | 129 183 | ❌ | ? | ? |
-| [xoxo.zone](https://xoxo.zone) | **663** | 186 543 | ❌ | A community space for attendees and speakers of the XOXO Festival, held in Portland, Oregon. | en |
+| [xoxo.zone](https://xoxo.zone) | **663** | 186 692 | ❌ | A community space for attendees and speakers of the XOXO Festival, held in Portland, Oregon. | en |
 | [bologna.one](https://bologna.one) | **662** | 7 307 | ✅ | Questa è un'istanza Mastodon in italiano della città di Bologna. Ma non serve essere bolognesi per iscriversi! | it |
 | [qaf.men](https://qaf.men) | **657** | 8 631 | ✅ | QAF (Queer as Folk) sincerely invites the LGBTQIA+ community to join us, where we offer a safe and friendly home. | en |
-| [gaypirates.club](https://gaypirates.club) | **656** | 53 351 | ✅ | An instance for fans of Our Flag Means Death | en |
+| [gaypirates.club](https://gaypirates.club) | **656** | 53 448 | ✅ | An instance for fans of Our Flag Means Death | en |
 | [merveilles.town](https://merveilles.town) | **655** | 512 765 | ❌ | ? | ? |
 | [noblogo.org](https://noblogo.org) | **655** | 5 464 | ❌ | ? | ? |
 | [mastodon.content.town](https://mastodon.content.town) | **654** | 11 353 | ✅ | The Official Mastodon Server of Brad & Will Made a Tech Pod. If you'd like to support the server, please consider supporting our Patreon at https://patreon.com/techpod | en |
-| [sauropods.win](https://sauropods.win) | **653** | 163 595 | ✅ | A Mastodon instance for sauropod appreciators everywhere.  | en |
+| [sauropods.win](https://sauropods.win) | **653** | 163 846 | ✅ | A Mastodon instance for sauropod appreciators everywhere.  | en |
 | [mstdn-bike.net](https://mstdn-bike.net) | **653** | 748 497 | ✅ | バイク乗りやバイクが好きな人やバイクに興味がある人が、バイクの話をしたりしなかったりするインスタンスです。よく話されている話題は「バイク（オン・オフ・ミニ）・キャンプ・ツーリング・レース・美味しいもの・美しい景色・山・海・写真・模型・図書・乗り物全般」だったりします。 | ja |
 | [lemmy.fmhy.net](https://lemmy.fmhy.net) | **652** | 545 | ❌ | ? | ? |
 | [infosec.town](https://infosec.town) | **650** | 40 902 | ❌ | ? | ? |
@@ -767,18 +767,18 @@
 | [anime.kona.moe](https://anime.kona.moe) | **647** | 1 727 | ✅ | Animedon（アニメ丼）is dedicated to all sorts of Otaku and Japanese cultures like anime, Vtubers, Manga, Games, and more! Technology included! | en |
 | [mastodon.hams.social](https://mastodon.hams.social) | **646** | 37 538 | ✅ | A home on the Fediverse for Amateur Radio operators. | en |
 | [wargamers.social](https://wargamers.social) | **642** | 28 785 | ✅ | Mastodon server for people who are interested in tabletop wargames of the board, card, and hex and counter variety.  | en |
-| [gardenstate.social](https://gardenstate.social) | **640** | 33 823 | ✅ | A place for all things New Jersey. You don't have live in the Garden State to join because you can love New Jersey from anywhere in the world. | en |
+| [gardenstate.social](https://gardenstate.social) | **640** | 33 855 | ✅ | A place for all things New Jersey. You don't have live in the Garden State to join because you can love New Jersey from anywhere in the world. | en |
 | [shpposter.club](https://shpposter.club) | **640** | 132 838 | ❌ | ? | ? |
 | [better.boston](https://better.boston) | **636** | 92 326 | ✅ | A server for people in Greater Boston and Massachusetts interested in a more inclusive, equitable, and sustainable region. | en |
 | [maniakey.com](https://maniakey.com) | **635** | 310 779 | ❌ | ? | ? |
 | [mastodon.education](https://mastodon.education) | **629** | 52 237 | ✅ | #k12 #VO #PO #OP #OOP #Educatie & #Education  **DUTCH** "de" plek voor ieder die Onderwijs een warm hart toedraagt. **English** "the" place for everyone who work for and with Education. | en |
 | [misskey.social](https://misskey.social) | **627** | 24 282 | ✅ | ? | ? |
-| [social.seattle.wa.us](https://social.seattle.wa.us) | **619** | 36 611 | ✅ | An instance for people who live in the Seattle region | en |
+| [social.seattle.wa.us](https://social.seattle.wa.us) | **619** | 36 641 | ✅ | An instance for people who live in the Seattle region | en |
 | [app.wafrn.net](https://app.wafrn.net) | **618** | 30 838 | ✅ | ? | ? |
 | [peertube.tv](https://peertube.tv) | **615** | 15 308 | ❌ | ? | ? |
-| [transfur.social](https://transfur.social) | **615** | 35 165 | ✅ | A space for the furry transformation community. | en |
-| [neovibe.app](https://neovibe.app) | **611** | 22 609 | ✅ | LGBTQIA+ friendly community that aims to provide a safe and friendly environment for all members. Anyone is welcome to join! Love and respect are the vibes. | en |
-| [toot.bike](https://toot.bike) | **609** | 98 292 | ✅ | A Mastodon instance aimed at (but not limited to) the cycling community. | en |
+| [transfur.social](https://transfur.social) | **615** | 35 204 | ✅ | A space for the furry transformation community. | en |
+| [neovibe.app](https://neovibe.app) | **610** | 22 640 | ✅ | LGBTQIA+ friendly community that aims to provide a safe and friendly environment for all members. Anyone is welcome to join! Love and respect are the vibes. | en |
+| [toot.bike](https://toot.bike) | **609** | 98 513 | ✅ | A Mastodon instance aimed at (but not limited to) the cycling community. | en |
 | [mastodon.cisti.org](https://mastodon.cisti.org) | **609** | 262 534 | ✅ | ? | it |
 | [plush.city](https://plush.city) | **609** | 862 736 | ✅ | This is a space for soft friends and friends of soft friends to  gather together to share compassion and care for one another!  Please review our Code of Conduct prior signing up! | en |
 | [oransns.com](https://oransns.com) | **605** | 958 065 | ✅ | ? | ja |
@@ -792,12 +792,12 @@
 | [pixel.livellosegreto.it](https://pixel.livellosegreto.it) | **586** | 113 726 | ❌ | ? | ? |
 | [rcsocial.net](https://rcsocial.net) | **585** | 34 998 | ✅ | RCsocial.net: a friendly social networking space for those with an interest in Catholicism. | en |
 | [social.freetalklive.com](https://social.freetalklive.com) | **585** | 95 116 | ✅ | Escaping centralized megacorporate platforms is important, so we've launched this Mastodon server targeted at voluntarists, freedom-loving anarchists, libertarians, & listeners of Free Talk Live. | en |
-| [assemblag.es](https://assemblag.es) | **580** | 49 715 | ✅ | ? | ? |
-| [esq.social](https://esq.social) | **579** | 79 499 | ✅ | A Mastodon instance for legal professionals and folks in law-adjacent fields.   We abide by the Mastodon Server Covenant, available (here)[https://joinmastodon.org/covenant].  | en |
-| [mast.hpc.social](https://mast.hpc.social) | **577** | 19 066 | ✅ | Mastodon instance to support and encourage communication among the High Performance Computing community and related fields. (Personal use permitted.) More community features at https://hpc.social | en |
+| [assemblag.es](https://assemblag.es) | **581** | 49 829 | ✅ | ? | ? |
+| [esq.social](https://esq.social) | **579** | 79 628 | ✅ | A Mastodon instance for legal professionals and folks in law-adjacent fields.   We abide by the Mastodon Server Covenant, available (here)[https://joinmastodon.org/covenant].  | en |
+| [mast.hpc.social](https://mast.hpc.social) | **579** | 19 087 | ✅ | Mastodon instance to support and encourage communication among the High Performance Computing community and related fields. (Personal use permitted.) More community features at https://hpc.social | en |
 | [mikumikudance.cloud](https://mikumikudance.cloud) | **570** | 66 244 | ✅ | MikuMikuDanceで動画や静画を製作しているMMDerさん、MMDの鑑賞が好きな視聴者さん、誰もがMMD関連について気軽に交流できるインスタンスです。Since 2017/04/21 | ja |
 | [blimps.xyz](https://blimps.xyz) | **569** | 194 939 | ✅ | Devoted to furries who love big things, puffy things, and puffy things getting bigger! | en-SQ |
-| [federate.social](https://federate.social) | **566** | 69 292 | ✅ | Cultivating a new billionaire-proof network of networks, the FEDERATE.SOCIAL community seeks to remake new social media alternatives and return to the internet's default settings. | en |
+| [federate.social](https://federate.social) | **566** | 69 373 | ✅ | Cultivating a new billionaire-proof network of networks, the FEDERATE.SOCIAL community seeks to remake new social media alternatives and return to the internet's default settings. | en |
 | [trpg-o.xyz](https://trpg-o.xyz) | **565** | 239 139 | ✅ | 이 인스턴스는 TRPG(Tabletop/Table-talk Role Playing Game)를 중심 주제로 자유롭고 안전하게 대화를 나눌 수 있는 인스턴스입니다! | en |
 | [feddit.ch](https://feddit.ch) | **562** | 2 950 | ✅ | ? | ? |
 | [lemmus.org](https://lemmus.org) | **562** | 2 813 | ✅ | ? | ? |
@@ -805,10 +805,10 @@
 | [bookwor.ms](https://bookwor.ms) | **560** | 316 614 | ❌ | a Mastodon instance for book lovers. | en |
 | [mastodon.bayern](https://mastodon.bayern) | **560** | 69 494 | ✅ | ? | en |
 | [social.datalabour.com](https://social.datalabour.com) | **558** | 52 524 | ✅ | ? | ? |
-| [deadinsi.de](https://deadinsi.de) | **557** | 336 988 | ✅ | ? | en |
+| [deadinsi.de](https://deadinsi.de) | **557** | 337 169 | ✅ | ? | en |
 | [snug.moe](https://snug.moe) | **556** | 240 344 | ❌ | ? | ? |
 | [birds.town](https://birds.town) | **555** | 36 761 | ❌ | A server primarily meant for people who like birds, birding and nature in general, but obviously everyone is equally welcome here! 🪶 Have fun cawing about 🪶 | en |
-| [tooter.social](https://tooter.social) | **554** | 23 099 | ✅ | Tooter est un serveur Mastodon généraliste, principalement francophone. Illustration par David Revoy. | fr |
+| [tooter.social](https://tooter.social) | **554** | 23 132 | ✅ | Tooter est un serveur Mastodon généraliste, principalement francophone. Illustration par David Revoy. | fr |
 | [kirishima.cloud](https://kirishima.cloud) | **553** | 2 485 912 | ✅ | このインスタンスは霧島ひなたによって管理運営されているmastodonのインスタンスの一つです 面白そうな機能を実装したり外したりを繰り返しているインスタンスのため それなりに不具合があったりもします。お許しください投稿内容に制限はありません。 ペットのインコの日常から政治の内容まで思うがままに投稿してください。 莫大な量の文字数が投稿できます。話し合いの場としても活用していただけたら幸いです。         霧島ひなた アスタルテは以下の支援者様に支えられて運営しています。 <a href="https://kirishima.cloud/@mopopo">mopopo様</a> <a href="https://kirishima.cloud/@greentea_cr">こっちゃー様</a> <a href="https://kirishima.cloud/@septem_vesperum">🔥NanaYū❄様</a> <a href="https://kirishima.cloud/@Cutls">Cutls P様</a> <a href="https://kirishima.cloud/@umbobo800">うんぼぼ様</a> <a href="https://kirishima.cloud/@marugen">まるげん様</a> <a href="https://kirishima.cloud/@iMomushi">🐛様</a> <a href="https://kirishima.cloud/@227">えんだまどかちゃん</a> <a href="https://kirishima.cloud/@oikura">おいくらことみ様</a> <a href="https://kirishima.cloud/@Cinderella">シンデレラ様</a> <a href="https://kirishima.cloud/@ot_inc">ot_inc様</a> <a href="https://kirishima.cloud/@yuzu">ねじりわさび様</a> <a href="https://kirishima.cloud/@khirio">古山キリヲ様</a> <a href="https://kirishima.cloud/@shiromu">しろ様</a> <a href="https://kirishima.cloud/@ALOZ">みぷ様</a> <a href="https://kirishima.cloud/@314121523_165380764_732964502">める様</a> <a href="https://kirishima.cloud/@wazakkyd">わさぎ様</a> 支援ありがとうございます！これかもアスタルテをよりよいSNSとして成長させていけるよう頑張っていきたいと思います   現在実装されている機能に関しては下記のページに書いてあります。 <a href="https://kirishima.cloud/about/more">アスタルテについて</a> アスタルテはCutls Pさんが制作しているTheDeskを公認クライアントとしています。 <a href="https://thedesk.top/">TheDeskホームページ</a> | en |
 | [fediverse.tv](https://fediverse.tv) | **551** | 30 819 | ✅ | ? | ? |
 | [heads.social](https://heads.social) | **550** | 100 744 | ✅ | We're like licorice. Not everybody likes licorice, but the people who like licorice really like licorice. | en |
@@ -818,36 +818,36 @@
 | [transfem.social](https://transfem.social) | **544** | 91 354 | ✅ | ? | ? |
 | [videos.pair2jeux.tube](https://videos.pair2jeux.tube) | **539** | 84 647 | ✅ | ? | ? |
 | [bookstodon.com](https://bookstodon.com) | **539** | 27 351 | ✅ | A place for bibliophiles, bookworms, book lovers, and all things bookish 📚📚📚 hosted by Thunderhost.com 📚📚📚 | en |
-| [dmv.community](https://dmv.community) | **536** | 85 835 | ✅ | A small regional Mastodon instance for those in the DC, Maryland, and Virginia areas. Local news, commentary, and conversation. | en |
+| [dmv.community](https://dmv.community) | **536** | 86 069 | ✅ | A small regional Mastodon instance for those in the DC, Maryland, and Virginia areas. Local news, commentary, and conversation. | en |
 | [loma.ml](https://loma.ml) | **536** | 35 708 | ✅ | ? | ? |
 | [feddit.dk](https://feddit.dk) | **536** | 1 297 | ✅ | ? | ? |
-| [genealysis.social](https://genealysis.social) | **535** | 27 881 | ✅ | Social interaction for anyone interested in #Genealogy. | en |
+| [genealysis.social](https://genealysis.social) | **535** | 27 920 | ✅ | Social interaction for anyone interested in #Genealogy. | en |
 | [quietplace.xyz](https://quietplace.xyz) | **534** | 43 589 | ✅ | ? | ? |
-| [osna.social](https://osna.social) | **530** | 32 364 | ✅ | Das soziale Netzwerk für Osnabrück und Umgebung: Umgesetzt mit freier Software, betrieben vom Chaostreff Osnabrück und frei von Massenüberwachung. Lokal und trotzdem mit der ganzen Welt verknüpft. | en |
+| [osna.social](https://osna.social) | **530** | 32 402 | ✅ | Das soziale Netzwerk für Osnabrück und Umgebung: Umgesetzt mit freier Software, betrieben vom Chaostreff Osnabrück und frei von Massenüberwachung. Lokal und trotzdem mit der ganzen Welt verknüpft. | en |
 | [mk.absturztau.be](https://mk.absturztau.be) | **530** | 792 960 | ✅ | ? | ? |
 | [lemmy.wtf](https://lemmy.wtf) | **526** | 466 | ✅ | ? | ? |
 | [comfy.social](https://comfy.social) | **525** | 21 904 | ❌ | ? | ? |
 | [indieauthors.social](https://indieauthors.social) | **525** | 22 659 | ✅ | This server is dedicated to self-published, indie authors who want to help, encourage, and socialize with other indies. It's also for all the fans that love and support indie authors.  | en |
 | [musicians.today](https://musicians.today) | **523** | 53 621 | ✅ | Fediverse community for musicians of all levels, instruments, regions, languages, and genres. | en |
 | [fair.tube](https://fair.tube) | **520** | 44 047 | ❌ | ? | ? |
-| [theatl.social](https://theatl.social) | **519** | 48 753 | ✅ | theATL.social is a regional-focused Mastodon server for those living, working, or otherwise interested in the Metro Atlanta, Georgia (USA) area. | en |
+| [theatl.social](https://theatl.social) | **519** | 48 762 | ✅ | theATL.social is a regional-focused Mastodon server for those living, working, or otherwise interested in the Metro Atlanta, Georgia (USA) area. | en |
 | [poliverso.org](https://poliverso.org) | **517** | 24 701 | ✅ | ? | ? |
 | [lemmyf.uk](https://lemmyf.uk) | **517** | 755 | ✅ | ? | ? |
 | [merovingian.club](https://merovingian.club) | **513** | 84 648 | ✅ | ? | ? |
 | [mastodon.pl](https://mastodon.pl) | **510** | 35 215 | ✅ | Mastodon Polska, to instancja wolnej i otwartej sieci społecznościowej, dostępna dla każdego kto chce dzielić się swoim światem z innymi. Zapraszamy! | pl |
-| [fedi.at](https://fedi.at) | **510** | 18 038 | ✅ | Der Mastodon Fediverse Server für Österreich. | de |
+| [fedi.at](https://fedi.at) | **510** | 18 055 | ✅ | Der Mastodon Fediverse Server für Österreich. | de |
 | [rss-mstdn.studiofreesia.com](https://rss-mstdn.studiofreesia.com) | **509** | 603 769 | ✅ | RSSフィードの内容を投稿するbotアカウント用のサーバーです。 アカウント登録はできませんが、リモートフォローはウェルカム🤗🤗🤗 | en |
 | [friendica.opensocial.space](https://friendica.opensocial.space) | **509** | 3 968 | ✅ | ? | ? |
-| [pdx.social](https://pdx.social) | **505** | 134 282 | ❌ | pdx.social is a community for the Portland, Oregon, USA region. 🌲 Established April 6th, 2017 🌲 | en |
+| [pdx.social](https://pdx.social) | **505** | 134 397 | ❌ | pdx.social is a community for the Portland, Oregon, USA region. 🌲 Established April 6th, 2017 🌲 | en |
 | [thelemmy.club](https://thelemmy.club) | **505** | 451 | ✅ | ? | ? |
 | [rebel.ar](https://rebel.ar) | **501** | 24 208 | ✅ | Servidor Argentino de mastodon por la soberanía del cómputo y los datos. | es |
 | [glaceon.social](https://glaceon.social) | **501** | 600 499 | ✅ | A general fediverse instance for people who generally like pokemon at least a little bit. Newly registered users must be manually approved due to an increasing number of spam bots; if you look like a person, your account will be approved as soon as possible. | en |
 | [corteximplant.com](https://corteximplant.com) | **501** | 124 634 | ✅ | CORTEX IMPLANT - an international cyberpunk'ish LGBTQIA+ friendly Fediverse instance for edgerunners, netrunners and cyberpunks and all who want to become one. | en |
 | [mountains.social](https://mountains.social) | **494** | 24 536 | ✅ | Mastodon instance focusing on hiking, mountaineering, climbing, backpacking and the outdoors. | en |
 | [genart.social](https://genart.social) | **492** | 53 327 | ❌ | genart.social is a home on the fediverse for artists working in the #generative, #AI, and #glitch spaces.  Registration is currently invite-only. | en |
-| [pagan.plus](https://pagan.plus) | **489** | 76 795 | ✅ | ? | ? |
 | [unstable.icu](https://unstable.icu) | **489** | 100 983 | ✅ | ? | ? |
-| [idlethumbs.social](https://idlethumbs.social) | **488** | 27 147 | ✅ | Idle Mastodon is brought to you by the Idle Thumbs team, for our community (or anyone who wants to join it). | en |
+| [pagan.plus](https://pagan.plus) | **488** | 76 845 | ✅ | ? | ? |
+| [idlethumbs.social](https://idlethumbs.social) | **488** | 27 178 | ✅ | Idle Mastodon is brought to you by the Idle Thumbs team, for our community (or anyone who wants to join it). | en |
 | [mastodon.sandwich.net](https://mastodon.sandwich.net) | **486** | 79 946 | ✅ | ? | en |
 | [lemy.lol](https://lemy.lol) | **486** | 363 | ✅ | ? | ? |
 | [lemmy.tf](https://lemmy.tf) | **484** | 7 912 | ✅ | ? | ? |
@@ -862,22 +862,22 @@
 | [elizur.me](https://elizur.me) | **466** | 7 599 | ✅ | Wir bieten einen kleinen Gemeinschaftsraum zum Thema Bibel und Schöpfer. Die primäre Sprache ist Deutsch. | de |
 | [misskey.de](https://misskey.de) | **465** | 22 851 | ✅ | ? | ? |
 | [mastodon.scollectif.fr](https://mastodon.scollectif.fr) | **462** | 20 056 | ✅ | Instance éducative et pédagogique à destination des classes francophones et leur.s enseignants.s participant ou souhaitant participer aux projets proposés par l'association SCOllectif. | en |
+| [ni.hil.ist](https://ni.hil.ist) | **462** | 165 580 | ✅ | ? | ? |
 | [gingadon.com](https://gingadon.com) | **461** | 463 331 | ✅ | ? | en |
-| [ni.hil.ist](https://ni.hil.ist) | **461** | 165 379 | ✅ | ? | ? |
 | [friendsofdesoto.social](https://friendsofdesoto.social) | **458** | 63 398 | ✅ | Greatest Trek Podcast Fans! This is a Star Trek Podcast Community for people a little embarrassed to be part of a Star Trek Podcast Community. A home for fans of Greatest Gen & Greatest Trek. | en |
 | [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) | **457** | 54 023 | ✅ | Mastodon @ SUNET is a public Mastodon instance operated by the Academic Computer Club in Umeå. Välkommen!  Majority of posts in English and Swedish, but we welcome language diversity! | en |
 | [mastodon.schule](https://mastodon.schule) | **457** | 659 | ✅ | Microblogging rund um die Schule. Lehrkräfte, Eltern und Schüler:innen, Professor:innen und Student:innen treffen sich hier. | de |
 | [linux.social](https://linux.social) | **451** | 1 933 | ✅ | Official Mastodon for the Linux.Chat multi-platform community, for people who are passionate about, support, or work with Linux. See https://Linux.Chat for more info. | en |
 | [mastodonsweden.se](https://mastodonsweden.se) | **450** | 110 230 | ✅ | Svensk version av Mastodon. | en |
 | [pleroma.soykaf.com](https://pleroma.soykaf.com) | **447** | 280 752 | ❌ | ? | ? |
-| [hear-me.social](https://hear-me.social) | **444** | 13 640 | ✅ | Speak your mind with respect. Administrated in the Boston, MA area, but open to the entire galaxy. Posting size is 12,000 characters because you have interesting things to say. | en |
+| [hear-me.social](https://hear-me.social) | **444** | 13 662 | ✅ | Speak your mind with respect. Administrated in the Boston, MA area, but open to the entire galaxy. Posting size is 12,000 characters because you have interesting things to say. | en |
 | [mastodon.de](https://mastodon.de) | **444** | 48 297 | ✅ | Mastodon für die DACH Region (Deutschland, Österreich, Schweiz) - and everyone is welcome! | en |
 | [fedihum.org](https://fedihum.org) | **441** | 37 545 | ✅ | [EN] A community for Digital Humanities aficionados. \n [DE] Eine Community für Digital Humanities-Aficionados.<br/>  | en |
 | [spectra.video](https://spectra.video) | **440** | 34 291 | ✅ | ? | ? |
 | [mastodonmusic.social](https://mastodonmusic.social) | **438** | 32 072 | ✅ | A place for musicians and those who love music to share. | en |
 | [societas.online](https://societas.online) | **436** | 20 734 | ✅ | ? | ? |
+| [musicworld.social](https://musicworld.social) | **434** | 11 402 | ✅ | Server for all music enthusiasts. Concerts, festivals, new music discovery, music collectors, artists, music charts etc. | en |
 | [mastodon.hosnet.fr](https://mastodon.hosnet.fr) | **433** | 898 | ✅ | Libre accès à l'information et le partage, décentralisé et Open-Source, tout le contraire des toxicités des concurrents méta-méga pisteurs ^^ | en |
-| [musicworld.social](https://musicworld.social) | **433** | 11 377 | ✅ | Server for all music enthusiasts. Concerts, festivals, new music discovery, music collectors, artists, music charts etc. | en |
 | [meemu.org](https://meemu.org) | **432** | 148 383 | ✅ | We’re here! We’re queer! We’ve got cats! | en |
 | [kitsune.moe](https://kitsune.moe) | **432** | 20 121 | ✅ | ? | ? |
 | [monero.town](https://monero.town) | **432** | 1 425 | ✅ | ? | ? |
@@ -886,9 +886,9 @@
 | [mastodon.cf](https://mastodon.cf) | **429** | 21 595 | ❌ | ? | ? |
 | [friendica.me](https://friendica.me) | **426** | 12 169 | ❌ | ? | ? |
 | [calckey.jp](https://calckey.jp) | **425** | 87 155 | ❌ | ? | ? |
-| [mastodon.lawprofs.org](https://mastodon.lawprofs.org) | **424** | 27 650 | ✅ | A Mastodon Instance for Legal Academics. Please provide your institutional affiliation when registering. | en |
+| [mastodon.lawprofs.org](https://mastodon.lawprofs.org) | **425** | 27 668 | ✅ | A Mastodon Instance for Legal Academics. Please provide your institutional affiliation when registering. | en |
 | [deacon.social](https://deacon.social) | **421** | 37 024 | ✅ | A respectful, loving, and diverse community of Christians of all traditions | en |
-| [a2mi.social](https://a2mi.social) | **418** | 215 898 | ✅ | 👋 A2mi.social is a friendly social network for people living, working, studying around Ann Arbor — including Ypsilanti and elsewhere — and our friends. | en |
+| [a2mi.social](https://a2mi.social) | **418** | 216 232 | ✅ | 👋 A2mi.social is a friendly social network for people living, working, studying around Ann Arbor — including Ypsilanti and elsewhere — and our friends. | en |
 | [social.prepedia.org](https://social.prepedia.org) | **413** | 327 448 | ❌ | Mastodon-Instanz für PrePedia, https://meta.prepedia.org | de |
 | [red.niboe.info](https://red.niboe.info) | **412** | 14 115 | ✅ | ? | ? |
 | [kitty.social](https://kitty.social) | **412** | 51 157 | ✅ | ? | ? |
@@ -900,16 +900,16 @@
 | [academiccloud.social](https://academiccloud.social) | **405** | 2 831 | ❌ | Willkommen auf der Mastodon Instanz der AcademicCloud | de |
 | [mastodon.babb.be](https://mastodon.babb.be) | **403** | 2 533 | ❌ | This Norwegian Mastodon server is an unofficial meeting place for University of Oslo people, and more! | en |
 | [kokonect.link](https://kokonect.link) | **402** | 69 588 | ✅ | ? | ? |
-| [mastodon.cr](https://mastodon.cr) | **399** | 92 988 | ✅ | Servidor de Mastodon para gente de Costa Rica. Espacio seguro libre de discursos de odio, homofobia, transfobia y racismo. | es |
+| [mastodon.cr](https://mastodon.cr) | **399** | 93 087 | ✅ | Servidor de Mastodon para gente de Costa Rica. Espacio seguro libre de discursos de odio, homofobia, transfobia y racismo. | es |
 | [udongein.xyz](https://udongein.xyz) | **399** | 629 504 | ❌ | ? | ? |
-| [dair-community.social](https://dair-community.social) | **399** | 43 434 | ❌ | A mastodon instance hosted by the Distributed AI Research Institute (DAIR) for those invested in independent, community-rooted AI research. | en |
+| [dair-community.social](https://dair-community.social) | **399** | 43 507 | ❌ | A mastodon instance hosted by the Distributed AI Research Institute (DAIR) for those invested in independent, community-rooted AI research. | en |
 | [shitpost.poridge.club](https://shitpost.poridge.club) | **396** | 41 923 | ✅ | ? | ? |
 | [akkoma.mercurywork.shop](https://akkoma.mercurywork.shop) | **394** | 2 452 | ✅ | ? | ? |
 | [feddit.nu](https://feddit.nu) | **394** | 623 | ✅ | ? | ? |
 | [procial.tchncs.de](https://procial.tchncs.de) | **393** | 43 571 | ✅ | ? | ? |
 | [tweesecake.social](https://tweesecake.social) | **393** | 175 550 | ✅ | This server is for people to socialize and just generally have fun! | en |
 | [pullopen.xyz](https://pullopen.xyz) | **391** | 649 443 | ❌ | 这里是在宇宙中漂流的蓝盒子，Speak friend and enter！ | en |
-| [linernotes.club](https://linernotes.club) | **391** | 45 222 | ✅ | The premiere Fediverse destination for music lovers who nod knowingly at each other from across the room when that song comes on. | en |
+| [linernotes.club](https://linernotes.club) | **391** | 45 248 | ✅ | The premiere Fediverse destination for music lovers who nod knowingly at each other from across the room when that song comes on. | en |
 | [pebble.social](https://pebble.social) | **391** | 21 429 | ✅ | Why "Pebble"? A tiny stone can cause ripples across a whole pond. Just like every one of you, sharing your stories and insights, can create waves in our online community. | en |
 | [dragonscave.space](https://dragonscave.space) | **391** | 380 454 | ✅ | A fun, happy little Mastodon/Glitch instance. | en |
 | [pone.social](https://pone.social) | **390** | 22 097 | ✅ | Pone.Social is a Mastodon-enabled social network for bronies, pegasisters, and all the rest of you fellow pony degenerates. | en |
@@ -920,16 +920,16 @@
 | [eientei.org](https://eientei.org) | **387** | 115 510 | ✅ | ? | ? |
 | [mastodon.skrimmage.com](https://mastodon.skrimmage.com) | **386** | 16 943 | ✅ | Skrimmage is a friendly community of sports enthusiasts! Let's make this a welcoming environment for all those who want to enjoy discussing sports, analytics, and sports analytics. | en |
 | [chirp.enworld.org](https://chirp.enworld.org) | **386** | 35 102 | ✅ | Tabletop gaming chatter in a moderated space. An inclusive community we'd like to hang out in. | en |
-| [aoir.social](https://aoir.social) | **386** | 15 384 | ✅ | The Association of Internet Researchers is sponsoring this Mastodon server for its members. Members in good standing are welcome to join and have a home on the fediverse! | en |
+| [aoir.social](https://aoir.social) | **386** | 15 414 | ✅ | The Association of Internet Researchers is sponsoring this Mastodon server for its members. Members in good standing are welcome to join and have a home on the fediverse! | en |
 | [cyberfurz.social](https://cyberfurz.social) | **384** | 45 110 | ✅ | A Mastodon Instance open to all! That said we do have a minor focus on Tech, 3D Art, VRChat, Resonite, ChillOut, SecondLife, etc... Come chill with other CyberFurz! | en |
-| [birdon.social](https://birdon.social) | **384** | 12 947 | ✅ | A Mastodon server dedicated to bird and nature lovers.  | en |
+| [birdon.social](https://birdon.social) | **384** | 12 962 | ✅ | A Mastodon server dedicated to bird and nature lovers.  | en |
 | [mstdn.love](https://mstdn.love) | **382** | 512 677 | ✅ | オールジャンル歓迎の汎用インスタンスです。 | ja |
 | [ruhrpott.social](https://ruhrpott.social) | **381** | 26 925 | ✅ | Du bist ein Kind des Ruhrgebiets? Das Ruhrgebiet ist deine Heimat? Du machst gern Urlaub im Pott? Du bist einfach nur neugierig? Dann tritt dieser Instanz bei und tausche dich mit netten Menschen aus. | de |
 | [mastodon.nzoss.nz](https://mastodon.nzoss.nz) | **381** | 100 339 | ✅ | This is a mostly te reo Māori and English language instance, for folks in Aotearoa New Zealand. We talk a lot about openness, technology, and improving our society. Helping folk associated with Aotearoa New Zealand engage in the Fediverse since 2017.  | en |
 | [cwb.social](https://cwb.social) | **381** | 21 776 | ✅ | Servidor Mastodon de propósito geral para pessoas ligadas a Curitiba. Português é a língua primária mas todas as línguas são permitidas. | en |
 | [iddqd.social](https://iddqd.social) | **377** | 144 788 | ❌ | ? | ? |
 | [mastodon.pirati.cz](https://mastodon.pirati.cz) | **377** | 12 313 | ✅ | Pirátská instance nejen pro členy. Budujeme Fediverse od roku 2019. Jsme připojeni k české relay.witter.cz (ve federované ose uvidíte mnoho českých příspěvků). | en |
-| [library.love](https://library.love) | **375** | 6 406 | ✅ | library.love is a mastodon instance for library workers and library lovers! Run by Califa Group (califa.org), a nonprofit library consortium in San Francisco, CA, USA.  | en |
+| [library.love](https://library.love) | **375** | 6 412 | ✅ | library.love is a mastodon instance for library workers and library lovers! Run by Califa Group (califa.org), a nonprofit library consortium in San Francisco, CA, USA.  | en |
 | [toot.garden](https://toot.garden) | **373** | 41 449 | ✅ | A server for the creative mind. Focused primarily on casual gaming, art, and the general things in life. We are all linked through nature, kindness, humanity, and now- the internet. | en |
 | [xn--69aa8bzb.xn--y9a3aq](https://xn--69aa8bzb.xn--y9a3aq) | **372** | 83 288 | ❌ | ? | ? |
 | [mastodon.sk](https://mastodon.sk) | **372** | 223 253 | ✅ | ? | sk |
@@ -939,16 +939,16 @@
 | [indieapps.space](https://indieapps.space) | **369** | 5 587 | ✅ | indieapps.space is dedicated to hosting accounts for mobile and desktop applications developed by small, independent developers and development teams (no personal accounts, please). | en |
 | [pixelfed.ru](https://pixelfed.ru) | **369** | 139 278 | ✅ | ? | ? |
 | [squawk.mytransponder.com](https://squawk.mytransponder.com) | **366** | 20 871 | ✅ | myTransponder makes aviation more social. | en |
-| [allthingstech.social](https://allthingstech.social) | **366** | 37 906 | ✅ | AllThingsTech.social is a Mastodon instance geared for those that love all things tech/technology.  | en |
-| [liverpoolfootballclub.social](https://liverpoolfootballclub.social) | **366** | 7 326 | ✅ | The world's first Mastodon server for supporters of Liverpool Football Club. 100% independent. By fans, for fans. Not affiliated to the club in any way. Non commercial and ad-free. All welcome. | en |
+| [liverpoolfootballclub.social](https://liverpoolfootballclub.social) | **366** | 7 332 | ✅ | The world's first Mastodon server for supporters of Liverpool Football Club. 100% independent. By fans, for fans. Not affiliated to the club in any way. Non commercial and ad-free. All welcome. | en |
+| [allthingstech.social](https://allthingstech.social) | **365** | 36 723 | ✅ | AllThingsTech.social is a Mastodon instance geared for those that love all things tech/technology.  | en |
 | [triangletoot.party](https://triangletoot.party) | **365** | 101 603 | ❌ | Mastodon instance focused on the Triangle region of North Carolina. Keeping out jerks since 2019. Anti-racist, anti-fascist, and anti-TERF. | en |
 | [feral.cafe](https://feral.cafe) | **363** | 11 049 | ✅ | We're a small feral furry space for those who want a calmer environment where they can express the all the diverse facets of who they are. | en |
-| [beige.party](https://beige.party) | **363** | 774 196 | ✅ | A home to friendly weirdos. The Grey Gardens of the Fediverse. Definitely probably not a cult (though you'll never be 100% sure). Beige-bless 🙏 | en |
+| [beige.party](https://beige.party) | **363** | 776 357 | ✅ | A home to friendly weirdos. The Grey Gardens of the Fediverse. Definitely probably not a cult (though you'll never be 100% sure). Beige-bless 🙏 | en |
 | [pod.mttv.it](https://pod.mttv.it) | **362** | 6 177 | ❌ | ? | ? |
 | [pixelfed.eu](https://pixelfed.eu) | **361** | 280 148 | ❌ | ? | ? |
 | [pari.cafe](https://pari.cafe) | **361** | 20 528 | ✅ | ? | ? |
 | [nightly.fedibird.com](https://nightly.fedibird.com) | **360** | 221 393 | ❌ | ? | ? |
-| [kafeneio.social](https://kafeneio.social) | **359** | 398 587 | ✅ | All people are welcome, except those who don't accept other people. | en |
+| [kafeneio.social](https://kafeneio.social) | **359** | 398 783 | ✅ | All people are welcome, except those who don't accept other people. | en |
 | [social.mpdl.mpg.de](https://social.mpdl.mpg.de) | **358** | 3 839 | ✅ | The original server for the Max Planck Society maintained by the Max Planck Digital Library (MPDL). Join the MPG-family! | en |
 | [hackers.town](https://hackers.town) | **356** | 627 669 | ❌ | A bunch of technomancers in the fediverse. This arcology is for all who wash up upon it's digital shore. | en |
 | [nerdica.net](https://nerdica.net) | **355** | 22 939 | ✅ | ? | ? |
@@ -972,7 +972,7 @@
 | [nixnet.social](https://nixnet.social) | **330** | 30 238 | ❌ | ? | ? |
 | [gigaohm.bio](https://gigaohm.bio) | **329** | 4 220 | ✅ | ? | ? |
 | [strangeobject.space](https://strangeobject.space) | **328** | 198 448 | ❌ | A strange object in space and a space for strange objects | en |
-| [social.horrorhub.club](https://social.horrorhub.club) | **327** | 88 874 | ✅ | A Mastodon server for Horror fans. | en |
+| [social.horrorhub.club](https://social.horrorhub.club) | **327** | 89 025 | ✅ | A Mastodon server for Horror fans. | en |
 | [social.diva.exchange](https://social.diva.exchange) | **326** | 1 922 | ✅ | Willkommen - teile, lerne und erweitere dein Wissen. Welcome - share, learn and grow your knowledge.  Tags: #FOSS #banking #blockchain #DIVA #privacy #I2P #science | en |
 | [eyepod.oksocial.net](https://eyepod.oksocial.net) | **325** | 3 810 | ✅ | ? | ? |
 | [toast.ooo](https://toast.ooo) | **324** | 236 | ✅ | ? | ? |
@@ -983,14 +983,14 @@
 | [indiepocalypse.social](https://indiepocalypse.social) | **319** | 52 620 | ✅ | Inspired by itch.io - a place for independent creators of all sorts. If you create and publish independent art, comics, music, table top games, video games or the written word, you're welcome here. | en |
 | [khiar.net](https://khiar.net) | **317** | 46 005 | ✅ | Khiar is a Mastodon instance for Farsi/English speakers   خیار یک نمونه ماستودون برای فارسی/انگلیسی‌زبانان است | en |
 | [mstdn.my](https://mstdn.my) | **316** | 13 625 | ✅ | Mastodon Malaysia Community powered by TopBridge | en |
-| [mastodon.tedomum.net](https://mastodon.tedomum.net) | **315** | 171 808 | ❌ | Instance généraliste majoritairement francophone. | en |
-| [aut.social](https://aut.social) | **315** | 15 110 | ✅ | Die Mastodon-Instanz aus Österreich. Welcome to Austria! | de |
+| [mastodon.tedomum.net](https://mastodon.tedomum.net) | **315** | 171 936 | ❌ | Instance généraliste majoritairement francophone. | en |
+| [aut.social](https://aut.social) | **315** | 15 171 | ✅ | Die Mastodon-Instanz aus Österreich. Welcome to Austria! | de |
 | [opencoaster.net](https://opencoaster.net) | **315** | 4 839 | ✅ | A community of coaster and themed entertainment enthusiasts. Coasters, churros, you name it we love it. We also run a number of theme park cross-posting bots. Spam not welcome here. | en |
 | [zug.network](https://zug.network) | **314** | 202 969 | ✅ | Du magst Züge? Dann bist du hier richtig! | en |
 | [social.darc.de](https://social.darc.de) | **313** | 7 188 | ❌ | Offizielle Mastodon-Instanz des Deutschen Amateur-Radio-Clubs e. V. (DARC)  | en |
 | [kiritan.work](https://kiritan.work) | **311** | 2 031 742 | ❌ | きりたん丼だよ〜 | en |
 | [wonkodon.com](https://wonkodon.com) | **309** | 30 299 | ✅ | ? | ? |
-| [social.saarland](https://social.saarland) | **308** | 66 745 | ❌ | Mastodon Instanz rund um das #Saarland. Gemacht von Saarländern für Saarländer/innen. | de |
+| [social.saarland](https://social.saarland) | **308** | 66 832 | ❌ | Mastodon Instanz rund um das #Saarland. Gemacht von Saarländern für Saarländer/innen. | de |
 | [imsb.app](https://imsb.app) | **308** | 59 689 | ✅ | Share. Explore. Communicate. Social networking, back in your hands. <br> A <em>mastodon</em> instance hosts by @im.sb | en |
 | [mastodon.beer](https://mastodon.beer) | **307** | 17 279 | ✅ | An English speaking Mastodon instance that is a home for brewers, amateur and professional, and for people of all kinds who enjoy beer. | en |
 | [lingo.lol](https://lingo.lol) | **307** | 48 989 | ✅ | A place for linguists, philologists, and other lovers of languages. | en |
@@ -1004,24 +1004,24 @@
 | [dragon.style](https://dragon.style) | **302** | 379 932 | ❌ | I'm a grumpy queer dragon lady and this is my quiet cave for me and some friends. | en |
 | [bhre.social](https://bhre.social) | **301** | 2 922 | ✅ | BHRE.Social is a Mastodon instance for the discussion of business, human rights and the environment (BHRE). We welcome all humans with an interest in corporate accountability for human rights and the environment, including climate change. You are welcome whether you’re just starting out or are already an expert on these questions: students, doctoral students, early-career researchers, more established scholars, practitioners, workers, NGO/union/corporate professionals, lawyers, consultants, concerned consumers, politicians, civil servants, etc. | en |
 | [chaosfem.tw](https://chaosfem.tw) | **300** | 168 660 | ✅ | Another transfem server.  Rules:  1. No buttheads | en |
-| [seda.social](https://seda.social) | **300** | 11 210 | ✅ | Instancia de la comunidad S.E.D.A.  S.E.D.A. es un podcast chileno grabado simultáneamente desde Chile y Alemania gracias a la magia de la tecnología. Hecho por @carlitos_huerta y @Flipartico. | en |
-| [podvibes.co](https://podvibes.co) | **299** | 21 467 | ✅ | A corner of the #Fediverse carved out and cared for by audio fiction creators and fans.  If you love audio dramas, fiction podcasts, audiobooks, radio plays, and more—welcome!  | en |
+| [seda.social](https://seda.social) | **300** | 11 209 | ✅ | Instancia de la comunidad S.E.D.A.  S.E.D.A. es un podcast chileno grabado simultáneamente desde Chile y Alemania gracias a la magia de la tecnología. Hecho por @carlitos_huerta y @Flipartico. | en |
+| [podvibes.co](https://podvibes.co) | **299** | 21 486 | ✅ | A corner of the #Fediverse carved out and cared for by audio fiction creators and fans.  If you love audio dramas, fiction podcasts, audiobooks, radio plays, and more—welcome!  | en |
 | [mastodon.hongkongers.net](https://mastodon.hongkongers.net) | **298** | 432 589 | ✅ | 無論在海外定係在香港，有關生活/留學/工作/旅遊/旅居/問題，想識同路人想講故事想問想呻想分享想鬧想讚，我們都是香港人。  我們的伺服器在德國，所有個人資料有 GDPR 保障。 | en |
 | [canada.masto.host](https://canada.masto.host) | **297** | 40 230 | ❌ | Canadian Mastodon Server, eh! 🇨🇦 | en |
-| [body.social](https://body.social) | **295** | 7 132 | ✅ | Body positivity and acceptance social network celebrating our bodies. | en |
+| [body.social](https://body.social) | **295** | 7 175 | ✅ | Body positivity and acceptance social network celebrating our bodies. | en |
 | [fandom.garden](https://fandom.garden) | **294** | 53 505 | ❌ | Fandom Garden is a queer instance where you are free to gush about the content you like, whether it's books, comics, TV shows, movies or music. This is an LGBT+, anti-racist, anti-ableist space. | en |
 | [efdn.club](https://efdn.club) | **294** | 998 010 | ✅ | ? | en |
 | [hed.im](https://hed.im) | **291** | 13 087 | ✅ | ? | he |
 | [social.wxcafe.net](https://social.wxcafe.net) | **291** | 148 274 | ❌ | This is a mastodon instance for queer people and friends | en |
 | [ukadon.shillest.net](https://ukadon.shillest.net) | **291** | 197 157 | ✅ | うかどんはデスクトップマスコットソフト「伺か」向け主体（専用とは言ってない）のMastodonサーバです。うどんでも新手のどんぶりでもありません。 | ja |
-| [social.sdf.org](https://social.sdf.org) | **290** | 50 974 | ✅ | SDF Social is a private Mastodon instance for members of the SDF Public Access UNIX System | en |
+| [social.sdf.org](https://social.sdf.org) | **290** | 50 999 | ✅ | SDF Social is a private Mastodon instance for members of the SDF Public Access UNIX System | en |
 | [radikal.social](https://radikal.social) | **288** | 11 762 | ✅ | radikal.social was created by a group of activists to offer federated social media for the radical left in and around Denmark. | en |
 | [archaeology.social](https://archaeology.social) | **286** | 4 983 | ✅ | Online community for the latest discoveries and research in archaeology and associated disciplines. This server is maintained and managed by the editorial team behind www.heritagedaily.com | en |
 | [allships.run](https://allships.run) | **285** | 241 808 | ✅ | 本实例是小说《银河英雄传说》以及其衍生作品的相关实例。角色生日/忌日有可能开放注册申请。申请理由请填写about页面当日版头里的人物全名。 | en |
-| [mstdn.y-zu.org](https://mstdn.y-zu.org) | **285** | 465 293 | ❌ | 分散型SNSのインスタンス、Yづドンです。 | en |
+| [mstdn.y-zu.org](https://mstdn.y-zu.org) | **285** | 465 541 | ❌ | 分散型SNSのインスタンス、Yづドンです。 | en |
 | [jvm.social](https://jvm.social) | **285** | 2 815 | ✅ | This is a JVM technologies related mastodon server. Our goal is to have a place to talk about our beloved ecosystem.  | en |
 | [wank.social](https://wank.social) | **282** | 46 873 | ✅ | Looking for an adult-oriented social network?  This is it! | en |
-| [dftba.club](https://dftba.club) | **282** | 64 133 | ✅ | Mastodon Instance for Nerdfighers. dftba! Get more information at https://info.dftba.club Check service status at https://status.dftba.club | en |
+| [dftba.club](https://dftba.club) | **282** | 64 230 | ✅ | Mastodon Instance for Nerdfighers. dftba! Get more information at https://info.dftba.club Check service status at https://status.dftba.club | en |
 | [clubcyberia.co](https://clubcyberia.co) | **282** | 179 425 | ✅ | ? | ? |
 | [learningdisability.social](https://learningdisability.social) | **281** | 1 382 | ✅ | ? | ? |
 | [misskey.resonite.love](https://misskey.resonite.love) | **281** | 150 300 | ❌ | ? | ? |
@@ -1029,8 +1029,8 @@
 | [nwb.social](https://nwb.social) | **280** | 1 890 | ✅ | Nieuw West-Brabant is een initiatief van Brabantse burgers en ondernemers die een lokale en regionale zelfdragende samenleving bouwen. #gelijkwaardig #positiviteit #verbinding #respect | nl |
 | [mastodon.opencloud.lu](https://mastodon.opencloud.lu) | **280** | 34 687 | ✅ | A Mastodon instance for Luxembourg and beyond. | en |
 | [pounced-on.me](https://pounced-on.me) | **279** | 142 490 | ✅ | a generalistic furry mastodon instance  [ art of @Lio by angiewolfartist ] | en |
-| [mastodo.neoliber.al](https://mastodo.neoliber.al) | **278** | 38 653 | ✅ | An instance for reddit.com/r/neoliberal | en |
-| [social.ridetrans.it](https://social.ridetrans.it) | **276** | 57 009 | ✅ | We are organizers, transit riders, renters, union members, tech workers, musicians, climate activists; we are passionate about mobility justice, a right to housing, and intersectional communities. | en |
+| [mastodo.neoliber.al](https://mastodo.neoliber.al) | **278** | 38 747 | ✅ | An instance for reddit.com/r/neoliberal | en |
+| [social.ridetrans.it](https://social.ridetrans.it) | **276** | 57 099 | ✅ | We are organizers, transit riders, renters, union members, tech workers, musicians, climate activists; we are passionate about mobility justice, a right to housing, and intersectional communities. | en |
 | [creativewriting.social](https://creativewriting.social) | **275** | 20 891 | ✅ | A Social space for creative writers. | en |
 | [im.allmendenetz.de](https://im.allmendenetz.de) | **275** | 98 257 | ✅ | ? | ? |
 | [lemmy.kde.social](https://lemmy.kde.social) | **275** | 217 | ✅ | ? | ? |
@@ -1040,36 +1040,36 @@
 | [catodon.social](https://catodon.social) | **274** | 19 931 | ✅ | ? | ? |
 | [tabletop.vip](https://tabletop.vip) | **270** | 17 186 | ✅ | A growing Mastodon community for all things tabletop gaming related as well as other geekery at large. | en |
 | [etheirys.masto.host](https://etheirys.masto.host) | **269** | 26 872 | ❌ | A server for Final Fantasy XIV, Final Fantasy as a whole, and it's fans! <3 | en |
-| [x0r.be](https://x0r.be) | **268** | 35 417 | ✅ | ? | en |
+| [x0r.be](https://x0r.be) | **269** | 35 433 | ✅ | ? | en |
 | [federation.network](https://federation.network) | **267** | 48 564 | ✅ | ? | ? |
 | [kcmo.social](https://kcmo.social) | **267** | 132 863 | ✅ | Hey Kansas City, be friendly! | en |
 | [leminal.space](https://leminal.space) | **267** | 536 | ✅ | ? | ? |
 | [mstdn.poyo.me](https://mstdn.poyo.me) | **265** | 1 280 015 | ✅ | Mastodonぽよ鯖 かわいい絵文字もあるよ！ぽよぽよしていってね！ | ja |
-| [mefi.social](https://mefi.social) | **265** | 123 671 | ❌ | ? | ? |
+| [mefi.social](https://mefi.social) | **265** | 123 897 | ❌ | ? | ? |
 | [kitsunes.club](https://kitsunes.club) | **265** | 71 253 | ✅ | ? | ? |
 | [jazztodon.com](https://jazztodon.com) | **265** | 11 769 | ✅ | The Jazztodon instance is the home on Mastodon for jazz people! Join the discussion of all types of jazz and related music.   Donations for server expenses: https://tinyurl.com/3sc2y2fs  | en |
 | [front-end.social](https://front-end.social) | **264** | 95 456 | ❌ | Front-end web makers who value humans over technology & embrace diversity on an accessible web. We hope to stay small & grow slowly. Mascots by @stephaniewalter. More at https://about.front-end.social | en |
+| [chilemasto.casa](https://chilemasto.casa) | **264** | 30 652 | ✅ | Chilemasto quiere ser instancias agradables con un contexto chileno. Ex- chile.masto.host Ayuda en https://www.skrlet13.xyz/ayudame | es |
 | [masto.donte.com.br](https://masto.donte.com.br) | **263** | 498 375 | ❌ | O masto.donte.com.br é uma instância moderada com um foco em usuários do Brasil, mas usuários de outros lugares (e outras línguas) são bem vindos. Discursos de ódio são proibidos. Usuários que não respeitem as regras serão silenciados ou suspensos, dependendo da severidade da violação. | pt-BR |
-| [chilemasto.casa](https://chilemasto.casa) | **263** | 30 623 | ✅ | Chilemasto quiere ser instancias agradables con un contexto chileno. Ex- chile.masto.host Ayuda en https://www.skrlet13.xyz/ayudame | es |
 | [thejuniverse.no](https://thejuniverse.no) | **263** | 680 | ✅ | A brand new free topich, free speech online community. | en |
 | [biologists.social](https://biologists.social) | **262** | 50 115 | ✅ | Run by The Company of Biologists, this is a space for biologists to discuss science, research, teaching, life, and more. We would like to build a community and support communication between biologists | en |
 | [rheinneckar.events](https://rheinneckar.events) | **261** | 310 | ✅ | ? | ? |
 | [mastodon.sergal.org](https://mastodon.sergal.org) | **261** | 84 883 | ❌ | ? | en |
 | [hoto.moe](https://hoto.moe) | **261** | 50 861 | ✅ | ? | ? |
 | [localization.cafe](https://localization.cafe) | **259** | 7 929 | ✅ | A cozy little home for localization professionals on the fediverse. ☕ | en |
-| [meteo.social](https://meteo.social) | **258** | 43 138 | ❌ | Mastodon-Instanz für alle Wetterverrückten, betrieben von der Kachelmann GmbH aus Sattel, Schweiz. | en |
+| [meteo.social](https://meteo.social) | **258** | 43 216 | ❌ | Mastodon-Instanz für alle Wetterverrückten, betrieben von der Kachelmann GmbH aus Sattel, Schweiz. | en |
 | [mastodos.com](https://mastodos.com) | **257** | 187 588 | ✅ | マストどすは京都府在住者、勤務者、出身者、または京都に興味がある方を対象としたSNSです。話題は京都に限りません。マストドンに興味がある方の登録も歓迎します！ Mastodos is a SNS for Kyoto residents, workers, students, people interested in Kyoto, Japan. The topic is not limited to Kyoto. Registration of those interested in Mastodon is also welcome! | en |
 | [diaspodon.fr](https://diaspodon.fr) | **256** | 156 444 | ✅ | Diaspodon.fr est une instance majoritairement francophone et généraliste.  Aucun contenu du fédiverse n'est filtré par une décision d'administrateur ou de modérateur. | fr |
 | [unipar.online](https://unipar.online) | **256** | 1 884 | ✅ | ? | ? |
 | [recurse.social](https://recurse.social) | **256** | 23 672 | ❌ | ? | ? |
 | [fanaticus.social](https://fanaticus.social) | **256** | 9 439 | ✅ | ? | ? |
-| [postchat.io](https://postchat.io) | **255** | 19 899 | ❌ | A place for all postproduction professionals, enthusiasts and anyone who wants to be part of Mastodon. | en |
+| [postchat.io](https://postchat.io) | **255** | 19 956 | ❌ | A place for all postproduction professionals, enthusiasts and anyone who wants to be part of Mastodon. | en |
 | [cybervillains.com](https://cybervillains.com) | **255** | 6 110 | ✅ | This server was specifically built as a playground for security professionals to understand the security, privacy and safety issues of Mastodon. Unstable and crazy, as social media should be.  | en |
-| [mementomori.social](https://mementomori.social) | **253** | 94 224 | ✅ | Mementomori.social is a social media for mortals. We connect with the Fediverse, used by millions. This instance is backed by a Finnish company, digital web agency Digitoimisto Dude Oy. | en |
+| [mementomori.social](https://mementomori.social) | **255** | 94 588 | ✅ | Mementomori.social is a social media for mortals. We connect with the Fediverse, used by millions. This instance is backed by a Finnish company, digital web agency Digitoimisto Dude Oy. | en |
 | [brands.town](https://brands.town) | **252** | 17 233 | ✅ | Brands Town is the first ever Mastodon Instance dedicated solely to corporate brand promotion. | en |
 | [www.librepunk.club](https://www.librepunk.club) | **252** | 132 141 | ✅ | a friendly general instance for coders, queers, and leftists! | en |
 | [mastodon.jalgi.eus](https://mastodon.jalgi.eus) | **251** | 35 695 | ✅ | ? | ? |
-| [vermont.masto.host](https://vermont.masto.host) | **250** | 10 188 | ✅ | A Mastodon instance for Vermonters and Vermonters at heart. | en |
+| [vermont.masto.host](https://vermont.masto.host) | **250** | 10 199 | ✅ | A Mastodon instance for Vermonters and Vermonters at heart. | en |
 | [social.gibberfish.org](https://social.gibberfish.org) | **249** | 93 571 | ❌ | ? | ? |
 | [mendeddrum.org](https://mendeddrum.org) | **248** | 105 498 | ✅ | This is the Mended Drum, Discworlds best known disreputable tavern. | en |
 | [sakurajima.social](https://sakurajima.social) | **247** | 43 100 | ✅ | ? | ? |
@@ -1088,59 +1088,59 @@
 | [social.sndevs.com](https://social.sndevs.com) | **237** | 2 050 | ✅ | The largest independent ServiceNow developer community with over 11,000 registered members and 500 active daily users. SNDevs.com | en |
 | [mst3k.interlinked.me](https://mst3k.interlinked.me) | **237** | 345 795 | ✅ | this is mst3k | en |
 | [techtoots.com](https://techtoots.com) | **237** | 3 300 | ✅ | An english Mastodon community focused around technology (any vintage!). We welcome technologists, coders, engineers, gadget lovers, self professed “geeks” and anyone with an interest and love of tech. | en |
-| [norrebro.space](https://norrebro.space) | **236** | 43 020 | ✅ | Nørrebro.space er et hyggeligt sted på nettet - uden reklamer eller unødvendig sporing. Ligesom virkelighedens Nørrebro, er alle velkomne her. Nørrebro.space er et etisk socialt medie - fordi vi kan. | da |
+| [norrebro.space](https://norrebro.space) | **236** | 43 150 | ✅ | Nørrebro.space er et hyggeligt sted på nettet - uden reklamer eller unødvendig sporing. Ligesom virkelighedens Nørrebro, er alle velkomne her. Nørrebro.space er et etisk socialt medie - fordi vi kan. | da |
 | [beta.noyaskey.net](https://beta.noyaskey.net) | **236** | 75 859 | ❌ | ? | ? |
-| [frikiverse.zone](https://frikiverse.zone) | **236** | 47 092 | ✅ | El Frikiverse es una comunidad para frikis de todas las tendencias. Por defecto en castellano, pero todo idioma es bienvenido. Las solicitudes son revisadas lo antes posible. | es |
 | [utopia.cool](https://utopia.cool) | **236** | 291 387 | ✅ | utopia.cool 基于 Mastodon 搭建。致力于提供自由、友善、开放的「言论广场」。 我们重视公共讨论，鼓励表达和对话，希望一起创造良好的网络社交环境。 | zh-CN |
+| [frikiverse.zone](https://frikiverse.zone) | **235** | 47 143 | ✅ | El Frikiverse es una comunidad para frikis de todas las tendencias. Por defecto en castellano, pero todo idioma es bienvenido. Las solicitudes son revisadas lo antes posible. | es |
 | [pleroma.envs.net](https://pleroma.envs.net) | **235** | 22 700 | ✅ | ? | ? |
 | [julialang.social](https://julialang.social) | **235** | 11 051 | ✅ | Come and chat with the Julia Programming Language Community! | en |
 | [ausglam.space](https://ausglam.space) | **235** | 30 285 | ✅ | ? | ? |
 | [kpop.social](https://kpop.social) | **234** | 120 740 | ✅ | The federated kpop social network | en |
 | [unnerv.jp](https://unnerv.jp) | **234** | 1 344 408 | ❌ | ? | ? |
-| [m.g3l.org](https://m.g3l.org) | **233** | 181 132 | ✅ | Instance de l'association G3L basée à Valence, Drôme, France | fr |
-| [woof.tech](https://woof.tech) | **232** | 23 899 | ✅ | Queer, tech and furry instance. Open to anyone that fits the atmosphere, come on in! | en |
+| [m.g3l.org](https://m.g3l.org) | **233** | 181 185 | ✅ | Instance de l'association G3L basée à Valence, Drôme, France | fr |
+| [woof.tech](https://woof.tech) | **232** | 23 924 | ✅ | Queer, tech and furry instance. Open to anyone that fits the atmosphere, come on in! | en |
 | [mastodon.africa](https://mastodon.africa) | **231** | 20 293 | ✅ | Mastodon.Africa is run by South Africans, for South Africans, Africans and everybody else looking for a friendly and welcoming Mastodon instance. | en |
-| [bagarrosphere.fr](https://bagarrosphere.fr) | **230** | 22 626 | ✅ | Bienvenue sur le serveur Mastodon orienté principalement sur la chose militaire mais vous êtes tous les bienvenues. | en |
+| [bagarrosphere.fr](https://bagarrosphere.fr) | **230** | 22 680 | ✅ | Bienvenue sur le serveur Mastodon orienté principalement sur la chose militaire mais vous êtes tous les bienvenues. | en |
 | [minohdon.jp](https://minohdon.jp) | **230** | 101 074 | ✅ | 大阪の奥座敷「箕面」のように穏やかなMastodonサーバーです（大阪府箕面市とは無関係です）。箕面の話題に限らず、好きな音楽、映画、コンピュータのことなど自由に投稿できます。特に参加資格はありません。 箕面どんが大切にしていることは、「ネットでの居場所」になることです。安心できて、穏やかで上質なコミュニケーションを提供します。 ネットでのやり取りに疲れた方こそ、是非ご登録ください。 | en |
-| [mastodon.iow.social](https://mastodon.iow.social) | **229** | 5 115 | ✅ | Server by @cleatsandcode's business Isitmeanttodothat.io. Keep it friendly, insulting Gallybagger will get you banned, probably.  Banner photo: https://unsplash.com/@lison | en |
+| [mastodon.iow.social](https://mastodon.iow.social) | **229** | 5 127 | ✅ | Server by @cleatsandcode's business Isitmeanttodothat.io. Keep it friendly, insulting Gallybagger will get you banned, probably.  Banner photo: https://unsplash.com/@lison | en |
 | [gaybdsm.group](https://gaybdsm.group) | **229** | 6 367 | ✅ | This server is devoted to LGBTQ+ people into or interested in BDSM. Share your experiences and learn from others. Perhaps you'll make some connections and learn about BDSM events along the way. | en |
 | [fluffy.social](https://fluffy.social) | **228** | 55 277 | ❌ | ? | ? |
 | [gear.pictures](https://gear.pictures) | **228** | 20 555 | ✅ | ? | ? |
 | [detroitriotcity.com](https://detroitriotcity.com) | **228** | 71 878 | ✅ | ? | ? |
-| [bne.social](https://bne.social) | **227** | 89 380 | ✅ | A community for residents and friends of Brisbane, Meanjin, South-east Queensland, and the region. Come say hey! | en |
-| [heislandmine.work](https://heislandmine.work) | **227** | 1 377 556 | ✅ | ? | en |
+| [bne.social](https://bne.social) | **227** | 89 503 | ✅ | A community for residents and friends of Brisbane, Meanjin, South-east Queensland, and the region. Come say hey! | en |
+| [heislandmine.work](https://heislandmine.work) | **227** | 1 377 631 | ✅ | ? | en |
 | [dataplatform.social](https://dataplatform.social) | **225** | 9 076 | ✅ | dataplatform.social is a social network for Microsoft Data Platform professionals. | en |
 | [mast.mastodonsports.social](https://mast.mastodonsports.social) | **225** | 4 937 | ❌ | Mastodon Sports is a server for people who want a friendly space to talk about all sports. Mastodon Sports will cease operations on January 20, 2024 | en |
+| [paktodon.asia](https://paktodon.asia) | **225** | 5 193 | ✅ | Paktodon is an Independent social-platform for the Global South – an ‘azad’ space for ordinary citizens, students, and activists to share, learn, grow, and collaborate in. | en |
 | [campaign.openworlds.info](https://campaign.openworlds.info) | **224** | 82 161 | ✅ | ? | ? |
 | [kolektiva.media](https://kolektiva.media) | **223** | 20 898 | ✅ | ? | ? |
-| [mastodon.pnpde.social](https://mastodon.pnpde.social) | **223** | 65 471 | ✅ | Wir sind eine inklusive Mastodon-Community für alle Themen rund um Pen and Paper und Rollenspiel, oder kurz: #pnpde | de |
+| [mastodon.pnpde.social](https://mastodon.pnpde.social) | **223** | 65 706 | ✅ | Wir sind eine inklusive Mastodon-Community für alle Themen rund um Pen and Paper und Rollenspiel, oder kurz: #pnpde | de |
 | [fpl.social](https://fpl.social) | **222** | 12 315 | ✅ | fpl.social is the first and only Mastodon server dedicated to the Fantasy Premier League (FPL) football / soccer community.   Run by FPL managers for FPL managers.  | en |
 | [soc.punktrash.club](https://soc.punktrash.club) | **222** | 69 445 | ✅ | ? | ? |
-| [dragonchat.org](https://dragonchat.org) | **222** | 44 537 | ✅ | Dragonchat- By dragons, for dragons. | en |
-| [frankfurt.social](https://frankfurt.social) | **222** | 18 253 | ✅ | Willkommen bei der Frankfurter Mastodon-Instanz! Sie soll wie Frankfurt sein: Im Herzen von Europa, offen, bunt und mit klarer Kante gegen Rassisums, Sexismus, Homophobie und Transphobie. | en |
-| [paktodon.asia](https://paktodon.asia) | **222** | 5 182 | ✅ | Paktodon is an Independent social-platform for the Global South – an ‘azad’ space for ordinary citizens, students, and activists to share, learn, grow, and collaborate in. | en |
+| [dragonchat.org](https://dragonchat.org) | **222** | 44 649 | ✅ | Dragonchat- By dragons, for dragons. | en |
+| [frankfurt.social](https://frankfurt.social) | **222** | 18 285 | ✅ | Willkommen bei der Frankfurter Mastodon-Instanz! Sie soll wie Frankfurt sein: Im Herzen von Europa, offen, bunt und mit klarer Kante gegen Rassisums, Sexismus, Homophobie und Transphobie. | en |
 | [mastodon.teia.art](https://mastodon.teia.art) | **221** | 15 507 | ✅ | Mastodon instance for the global Teia community. Teia.art is an open source, non-profit digital art marketplace, owned, maintained and developed by its community on the eco-friendly Tezos Blockchain. | en |
 | [w3c.social](https://w3c.social) | **221** | 9 604 | ✅ | w3c.social is a friendly and respectful instance for people involved in the activities of the World Wide Web Consortium (W3C). The instance is run on a volunteer basis by a few of the W3C team.  | en |
-| [toot.lgbt](https://toot.lgbt) | **220** | 86 333 | ✅ | A safe Mastodon (posting) and Matrix (chat) for all women and/or LGBTQ+ identifying people. Our admins and mods are all drawn from within our membership. All sign-ups are approved by a mod. | en |
+| [toot.lgbt](https://toot.lgbt) | **220** | 86 482 | ✅ | A safe Mastodon (posting) and Matrix (chat) for all women and/or LGBTQ+ identifying people. Our admins and mods are all drawn from within our membership. All sign-ups are approved by a mod. | en |
 | [lemmy.radio](https://lemmy.radio) | **220** | 119 | ✅ | ? | ? |
 | [bookstodon.thestorygraph.com](https://bookstodon.thestorygraph.com) | **219** | 3 319 | ✅ | A fun place to discuss reading, and all things books!  Hosted by The StoryGraph | en |
 | [gnusocial.jp](https://gnusocial.jp) | **219** | 7 968 | ✅ | ? | ? |
 | [den.raccoon.quest](https://den.raccoon.quest) | **219** | 63 329 | ✅ | ? | ? |
 | [ottawa.place](https://ottawa.place) | **218** | 60 428 | ✅ | ? | ? |
-| [towns.gay](https://towns.gay) | **218** | 43 680 | ✅ | Collectively managed by radical queers, who believe that cities are for us too. #VisionQueero #GayTowns #acab 🏳️‍🌈🚒🌆🌼🔰🐈♿️🍆🍭🗼⛺️🚡🌳🦋🕺🏽🌈♋ | en |
-| [leftodon.social](https://leftodon.social) | **218** | 25 794 | ✅ | ? | ? |
+| [towns.gay](https://towns.gay) | **218** | 43 707 | ✅ | Collectively managed by radical queers, who believe that cities are for us too. #VisionQueero #GayTowns #acab 🏳️‍🌈🚒🌆🌼🔰🐈♿️🍆🍭🗼⛺️🚡🌳🦋🕺🏽🌈♋ | en |
+| [leftodon.social](https://leftodon.social) | **218** | 25 827 | ✅ | ? | ? |
 | [kitsunes.gay](https://kitsunes.gay) | **217** | 47 013 | ✅ | ? | ? |
 | [mastodon.sg](https://mastodon.sg) | **217** | 7 960 | ✅ | Hosted in Singapore 🇸🇬 For Singaporeans local and abroad or friends of Singapore, welcome! | en |
-| [toots.matapacos.dog](https://toots.matapacos.dog) | **217** | 25 785 | ✅ | ? | ? |
-| [mastdn.social](https://mastdn.social) | **215** | 29 889 | ✅ | Generic Mastodon server for anyone to use.United Mastodon Instance of mastdn.social in union with mstodon/mstodn/mstdon/mstn/mastn.social and  welt/erde.social,fedi.center,fediverse.center | en |
-| [toot.re](https://toot.re) | **215** | 12 832 | ✅ | Mastodon server gericht op Nederlandstalige gebruikers.  | nl |
+| [toots.matapacos.dog](https://toots.matapacos.dog) | **217** | 25 830 | ✅ | ? | ? |
+| [india.goonj.xyz](https://india.goonj.xyz) | **216** | 18 106 | ✅ | Goonj India is an open, privacy conscious community focussed on Indians and India specific issues. | en |
+| [mastdn.social](https://mastdn.social) | **215** | 29 891 | ✅ | Generic Mastodon server for anyone to use.United Mastodon Instance of mastdn.social in union with mstodon/mstodn/mstdon/mstn/mastn.social and  welt/erde.social,fedi.center,fediverse.center | en |
+| [toot.re](https://toot.re) | **215** | 12 856 | ✅ | Mastodon server gericht op Nederlandstalige gebruikers.  | nl |
 | [plasmatrap.com](https://plasmatrap.com) | **214** | 63 378 | ✅ | ? | ? |
-| [india.goonj.xyz](https://india.goonj.xyz) | **214** | 17 984 | ✅ | Goonj India is an open, privacy conscious community focussed on Indians and India specific issues. | en |
 | [bookwormstory.social](https://bookwormstory.social) | **214** | 464 | ✅ | ? | ? |
 | [helvede.net](https://helvede.net) | **213** | 86 511 | ✅ | Velkommen til Helvede, fediversets hotteste instance! Vi er en queerfeministisk server, der shitposter i den 9. cirkel. Welcome to Hell, We’re a DK-based queerfeminist server. Read our server rules! | en |
 | [rankett.net](https://rankett.net) | **213** | 24 058 | ✅ | ? | ? |
 | [floofy.tech](https://floofy.tech) | **213** | 26 731 | ✅ | A primary furry/tech instance full of wonderful beans. | en |
-| [thepit.social](https://thepit.social) | **212** | 39 577 | ✅ | A Mastodon instance populated by the denizens of #bikeDC, #bikeVA, #bikeMD, and various other friends and communities. Share opinions, news, photos of your bike, food takes, and memes. There may be some horsing around. In this house, we #bancars. All hail The Pit! | en |
+| [thepit.social](https://thepit.social) | **212** | 39 637 | ✅ | A Mastodon instance populated by the denizens of #bikeDC, #bikeVA, #bikeMD, and various other friends and communities. Share opinions, news, photos of your bike, food takes, and memes. There may be some horsing around. In this house, we #bancars. All hail The Pit! | en |
 | [social.xenofem.me](https://social.xenofem.me) | **212** | 109 705 | ❌ | ? | ? |
 | [k8s.social](https://k8s.social) | **212** | 4 692 | ✅ | Unofficial ⎈Kubernetes Mastodon instance for container and cloud native enthusiasts. | en |
 | [songbird.cloud](https://songbird.cloud) | **210** | 223 095 | ❌ | 特に決まったテーマはありませんが、主に生活や社会、文化全般の話題に興味のある方に向いている Mastodon サーバーです。多様な方々が安心して過ごせる場所を目指しています。 | en |
@@ -1148,31 +1148,31 @@
 | [persadon.com](https://persadon.com) | **209** | 101 924 | ❌ | با دوستان خود گفتگو کنید و دوستان تازه بیابید. عکس، ویدیو، و نوشته‌های خود را به اشتراک بگذارید. پرسادون بخشی از شبکهٔ اجتماعی ماستودون است و می‌خواهد محیطی ایمن و پایدار برای کاربران فارسی‌زبان باشد. | fa |
 | [gamepad.club](https://gamepad.club) | **208** | 83 863 | ✅ | Gamepad.Club has a video games focus, but we're open to all forms of gaming from tabletop RPGs to trading card games. Hosted in the UK and EU but everyone is welcome! | en |
 | [talk.artsculture.media](https://talk.artsculture.media) | **207** | 3 685 | ❌ | ? | ? |
-| [forfuture.social](https://forfuture.social) | **206** | 5 360 | ✅ | ForFuture@Mastodon   Ein neues Zuhause für alle ForFuture-Gruppen und -Aktivisten. | en |
+| [forfuture.social](https://forfuture.social) | **206** | 5 362 | ✅ | ForFuture@Mastodon   Ein neues Zuhause für alle ForFuture-Gruppen und -Aktivisten. | en |
 | [librosphere.fr](https://librosphere.fr) | **206** | 22 782 | ✅ | ? | ? |
 | [cathode.church](https://cathode.church) | **205** | 114 062 | ✅ | A place for trans makers, coders, tinkerers and dreamers. | en |
 | [clj.social](https://clj.social) | **205** | 3 309 | ✅ | Clojure Community on Fediverse, the accounts on this server are managed by the community, it will not post only about Clojure related content. | en |
-| [438punk.house](https://438punk.house) | **205** | 20 188 | ❌ | ? | ? |
+| [438punk.house](https://438punk.house) | **205** | 20 361 | ❌ | ? | ? |
 | [zhub.link](https://zhub.link) | **205** | 93 122 | ✅ | ? | en |
-| [musician.social](https://musician.social) | **204** | 17 577 | ✅ | Mastodon site for Musicians and people into Music | en |
+| [musician.social](https://musician.social) | **205** | 17 642 | ✅ | Mastodon site for Musicians and people into Music | en |
 | [aana.site](https://aana.site) | **204** | 43 118 | ❌ | ഫെഡറേറ്റഡ് സോഷ്യൽ വെബ്ബിലെ മലയാളിക്കൂട്ടം. | en |
 | [mstdn.schoolidol.club](https://mstdn.schoolidol.club) | **204** | 12 373 | ✅ | ラブライバーの、ラブライバーによる、ラブライバーのためのMastodonインスタンス | ja |
 | [blackrock.city](https://blackrock.city) | **203** | 2 384 | ❌ | You don't have to go to burning man to be a Burner. <P>  A community of doers celebrating life, creativity, and self-expression.   | en |
-| [leftist.network](https://leftist.network) | **203** | 44 014 | ✅ | Leftist Network is an instance of Mastodon, the social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! This Mastodon instance is designed for those with Leftist politics to share posts with each other. We strongly recommend using secure and decentralized communications for your private discussions, and we have recommendations! | en |
+| [leftist.network](https://leftist.network) | **203** | 44 011 | ✅ | Leftist Network is an instance of Mastodon, the social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! This Mastodon instance is designed for those with Leftist politics to share posts with each other. We strongly recommend using secure and decentralized communications for your private discussions, and we have recommendations! | en |
 | [fedia.social](https://fedia.social) | **202** | 31 235 | ✅ | ? | ? |
 | [hyan.ink](https://hyan.ink) | **202** | 21 528 | ✅ | ? | ? |
 | [freespeech.group](https://freespeech.group) | **202** | 36 097 | ❌ | ? | ? |
 | [cultur.social](https://cultur.social) | **202** | 6 291 | ✅ | Für alle Wesen, die unsere Welt kreativ gestalten und Neues erschaffen wollen. | en |
 | [pixelfed.art](https://pixelfed.art) | **201** | 443 468 | ❌ | ? | ? |
 | [planetearth.social](https://planetearth.social) | **201** | 5 733 | ✅ | 🌍 Join planetearth.social: Show Your Love for Earth on a General-Purpose Mastodon Server! 🌿 | en |
-| [furry.energy](https://furry.energy) | **200** | 11 040 | ✅ | Furry.Energy is a UK based Mastodon Server oriented towards those in the furry & LGBTQA+ communities.  Techie? Musician? Gamer? Hiking? Share your hobbies too, all are welcome! | en |
+| [furry.energy](https://furry.energy) | **200** | 11 052 | ✅ | Furry.Energy is a UK based Mastodon Server oriented towards those in the furry & LGBTQA+ communities.  Techie? Musician? Gamer? Hiking? Share your hobbies too, all are welcome! | en |
 | [soc.ua-fediland.de](https://soc.ua-fediland.de) | **200** | 16 637 | ✅ | Вітаємо в українськомовному федеративному інстансі "UA Fediland"! | uk |
 | [orwell.fun](https://orwell.fun) | **200** | 15 491 | ✅ | ? | ? |
 | [futurology.today](https://futurology.today) | **199** | 633 | ✅ | ? | ? |
 | [social.rebellion.global](https://social.rebellion.global) | **198** | 46 530 | ❌ | The Extinction Rebellion Mastodon, for use by XR Groups around the world. | en |
 | [friendicarg.nsupdate.info](https://friendicarg.nsupdate.info) | **196** | 25 899 | ✅ | ? | ? |
-| [climatejustice.global](https://climatejustice.global) | **196** | 63 725 | ✅ | This is a Fediverse instance for climate justice groups.  If you're an individual please instead sign up at: climatejustice.social | en |
-| [piipitin.fi](https://piipitin.fi) | **196** | 62 844 | ✅ | Suomalaisille vasemmistolaisille suunnattu mastodon instanssi, minkä pointtina on avata fediverseenkin paikka meille goblineille, jotka ollaan paossa Twitteristä! | fi |
+| [climatejustice.global](https://climatejustice.global) | **196** | 63 761 | ✅ | This is a Fediverse instance for climate justice groups.  If you're an individual please instead sign up at: climatejustice.social | en |
+| [piipitin.fi](https://piipitin.fi) | **196** | 62 984 | ✅ | Suomalaisille vasemmistolaisille suunnattu mastodon instanssi, minkä pointtina on avata fediverseenkin paikka meille goblineille, jotka ollaan paossa Twitteristä! | fi |
 | [duk.space](https://duk.space) | **196** | 25 343 | ✅ | 한국어를 사용하는 유저들을 위한 마스토돈 서버입니다. 서로의 일상 및 덕질을 존중하는 공간을 지향합니다. | en |
 | [suppo.fi](https://suppo.fi) | **195** | 258 | ✅ | ? | ? |
 | [unvernunft.social](https://unvernunft.social) | **195** | 4 435 | ✅ | BDSM ist absolut unvernünftig und braucht auch im Fediverse einen Ort um sich zu entfalten. | en |
@@ -1181,21 +1181,21 @@
 | [skastodon.com](https://skastodon.com) | **194** | 7 195 | ✅ | A Mastodon server for ska musicians, artists, fans, and anyone else in the ska community. | en |
 | [silversword.online](https://silversword.online) | **194** | 5 954 | ✅ | Silversword is a general English-speaking instance for gamers. No matter if you are a Steam gamer, Xbox, PlayStation, Nintendo, Amiga, Atari... You get the point :-) Hop on and let's talk video games! | en |
 | [foojay.social](https://foojay.social) | **194** | 9 207 | ✅ | This Foojay.social Mastodon server is aimed at anyone active in the OpenJDK, Java, JavaFX, JVM, and related communities. | en |
-| [raphus.social](https://raphus.social) | **194** | 14 104 | ✅ | Raphus Social 🦤 is a better bird site, a safe and inclusive place for bringing together open minded people interested in technology, open source, tabletop games, and other general geekery. | en |
-| [fursuits.online](https://fursuits.online) | **193** | 22 912 | ✅ | A server for fursuiters, fursuit makers, and fursuit enthusiasts. | en |
+| [raphus.social](https://raphus.social) | **194** | 14 119 | ✅ | Raphus Social 🦤 is a better bird site, a safe and inclusive place for bringing together open minded people interested in technology, open source, tabletop games, and other general geekery. | en |
+| [fursuits.online](https://fursuits.online) | **193** | 22 898 | ✅ | A server for fursuiters, fursuit makers, and fursuit enthusiasts. | en |
 | [muensterland.social](https://muensterland.social) | **193** | 3 347 | ✅ | Ein kostenloses und werbefreies soziales Netzwerk f&uuml;r Personen aus M&uuml;nster und Umgebung - und auch alle anderen! | en |
 | [shrike.club](https://shrike.club) | **192** | 1 049 755 | ❌ | ? | ? |
 | [mastodon.escepticos.es](https://mastodon.escepticos.es) | **192** | 5 044 | ✅ | Esta instancia persigue el cumplimiento de los objetivos sociales de ARP Sociedad para el Avance del Pensamiento crítico. ARP-SAPC | en |
 | [synapse.cafe](https://synapse.cafe) | **192** | 4 442 | ✅ | A Mastodon instance for anyone interested in neuroscience, from cell biology to electrophysiology to behavior to clinical applications, anyone is welcome! | en |
 | [rape.pet](https://rape.pet) | **190** | 27 087 | ✅ | ? | ? |
 | [unbound.social](https://unbound.social) | **189** | 14 371 | ❌ | A general social gathering space to discuss a wide range of topics and thoughts. | en |
+| [snaggletooth.life](https://snaggletooth.life) | **189** | 217 727 | ✅ | 18+ queer, furry and nerd friendly general interest instance. Quieter and less chaotic than big instances, with relaxed moderation policies. Perfect for folk who want a peaceful corner to themselves. | en |
 | [misskey.takehi.to](https://misskey.takehi.to) | **188** | 150 361 | ❌ | ? | ? |
 | [creators.social](https://creators.social) | **188** | 5 314 | ❌ | Friendly Creator Community 🙂 exclusively for YouTubers, Streamers and other people from the video, film, gaming and social media industry. 🇩🇪🇺🇸🇬🇧 | en |
-| [snaggletooth.life](https://snaggletooth.life) | **188** | 217 571 | ✅ | 18+ queer, furry and nerd friendly general interest instance. Quieter and less chaotic than big instances, with relaxed moderation policies. Perfect for folk who want a peaceful corner to themselves. | en |
-| [smutlandia.com](https://smutlandia.com) | **187** | 29 155 | ✅ | Welcome to the Smutlandia community! This space is for members of the adult content-driven literary arts community.  | en |
+| [smutlandia.com](https://smutlandia.com) | **187** | 29 195 | ✅ | Welcome to the Smutlandia community! This space is for members of the adult content-driven literary arts community.  | en |
 | [mastodon.matrix.org](https://mastodon.matrix.org) | **186** | 8 396 | ❌ | ? | en |
 | [vancity.social](https://vancity.social) | **185** | 2 489 | ✅ | ? | ? |
-| [super-gay.co](https://super-gay.co) | **185** | 37 862 | ✅ | A place for queer folk and allies to congregate. | en |
+| [super-gay.co](https://super-gay.co) | **185** | 38 014 | ✅ | A place for queer folk and allies to congregate. | en |
 | [eslemmy.es](https://eslemmy.es) | **184** | 1 603 | ✅ | ? | ? |
 | [episcodon.net](https://episcodon.net) | **184** | 3 171 | ✅ | a Mastodon instance for Episcopalians | en |
 | [lemmy.cafe](https://lemmy.cafe) | **184** | 555 | ✅ | ? | ? |
@@ -1205,7 +1205,7 @@
 | [dads.cool](https://dads.cool) | **179** | 220 167 | ✅ | ? | ? |
 | [no-pony.farm](https://no-pony.farm) | **177** | 13 068 | ✅ | Aamvõlv Domeen Pahemakäeline OÜ,  Aamvõlv-Domeen-Pahemakäeline.eu,  adp.gg,  p7press.eu | en |
 | [lemmy.basedcount.com](https://lemmy.basedcount.com) | **177** | 607 | ✅ | ? | ? |
-| [hoosier.social](https://hoosier.social) | **176** | 30 064 | ✅ | A small, independent Mastodon server focused on serving Indiana residents. | en |
+| [hoosier.social](https://hoosier.social) | **176** | 30 150 | ✅ | A small, independent Mastodon server focused on serving Indiana residents. | en |
 | [t.chadole.com](https://t.chadole.com) | **175** | 47 590 | ❌ | 마스토돈 차돌이는 모두가 자유롭게 이용할수 있는 곳입니다(참고로 차돌이는 사진속 고양이 이름). 차돌이 인스턴스는 고양이를 키우는 집사님들을 위한 인스턴스 입니다. | ko |
 | [mastd.racing](https://mastd.racing) | **174** | 49 527 | ✅ | 🇬🇧 Instance dedicated to Motorsports,any kind of topic is accepted. Moderation is done in English or in French.  🇫🇷 Petite instance dédiée aux Sports Mécaniques, tout type de sujet y est accepté. | en |
 | [queer.af](https://queer.af) | **174** | 127 331 | ❌ | queer.af, an eclectic queer space   queer.af is a mastodon instance for those who are queer or queer-adjacent who would like a more pleasant social media experience. | en |
@@ -1227,7 +1227,7 @@
 | [mobilizon.extinctionrebellion.fr](https://mobilizon.extinctionrebellion.fr) | **167** | 1 644 | ❌ | ? | ? |
 | [nomanssky.social](https://nomanssky.social) | **167** | 16 380 | ✅ | A community for all No Man's Sky fans!🚀 We strive to keep this server safe & fun for all travelers!☄️  NOTE: This is a Fan Project & We are NOT affiliated with Hello Games | en |
 | [eveningzoo.club](https://eveningzoo.club) | **166** | 75 355 | ✅ | ? | ? |
-| [darkfriend.social](https://darkfriend.social) | **165** | 24 685 | ✅ | This is a social community inspired by the Wheel of Time. Talk about anything, connect with people and interests across the open social web, and swear your body and soul to the Great Lord of the Dark. | en |
+| [darkfriend.social](https://darkfriend.social) | **165** | 24 718 | ✅ | This is a social community inspired by the Wheel of Time. Talk about anything, connect with people and interests across the open social web, and swear your body and soul to the Great Lord of the Dark. | en |
 | [social.handholding.io](https://social.handholding.io) | **165** | 90 059 | ❌ | ? | ? |
 | [fairmove.net](https://fairmove.net) | **164** | 12 162 | ✅ | We do, host and support fair moves!  ▶ GDPR compliant | green hosting | free registration with fairlogin | translations ▶ Für Menschen und Organisationen, die etwas bewegen wollen. | en |
 | [m.lanciano.it](https://m.lanciano.it) | **163** | 6 974 | ❌ | Lanciano.it è la community dove nei primi anni del 2000 i lancianesi già sperimentavano quello che sarebbe stato internet con i social.  Nel 2022 lanciano.it rinasce, ed entra nel fediverso. | it |
@@ -1235,7 +1235,7 @@
 | [webperf.social](https://webperf.social) | **163** | 5 674 | ✅ | webperf.social is a place for professionals working in the field of web development who care about web performance.  Sponsored by TWNSND.com | en |
 | [lemmy.myserv.one](https://lemmy.myserv.one) | **163** | 300 | ✅ | ? | ? |
 | [meta.masto.host](https://meta.masto.host) | **162** | 58 281 | ✅ | ? | en |
-| [mastodon.floe.earth](https://mastodon.floe.earth) | **161** | 33 167 | ✅ | Concerned about the climate, authoritarianism, war, billionaires and the power of big tech – but still looking for a community that posts about less scary things too? This is for you. | en |
+| [mastodon.floe.earth](https://mastodon.floe.earth) | **161** | 33 174 | ✅ | Concerned about the climate, authoritarianism, war, billionaires and the power of big tech – but still looking for a community that posts about less scary things too? This is for you. | en |
 | [c18.masto.host](https://c18.masto.host) | **160** | 26 288 | ✅ | This is a Mastodon instance for scholars of eighteenth-century global culture, history, literature, philosophy, and ideas. | en |
 | [fim.social](https://fim.social) | **160** | 12 388 | ✅ | Instância do Mastodon brasileira e não temática, quer dizer, aqui (quase) todo assunto é bem vindo. | en |
 | [procursus.social](https://procursus.social) | **159** | 1 656 | ✅ | A general instance for Procursus, contributors, and other software development adjacent folks. | en |
@@ -1245,7 +1245,7 @@
 | [social.bitwig.community](https://social.bitwig.community) | **158** | 12 011 | ✅ | Bitwig Studio is a modern music production and performance application for Windows, macOS and Linux. This is where users and music enthusiasts gather and exchange ideas.  | en |
 | [mastoxiv.page](https://mastoxiv.page) | **158** | 809 592 | ❌ | Under construction. First plan is to run unofficial bots for all arXiv categories by https://github.com/so-okada/toXiv  | en |
 | [mkkey.net](https://mkkey.net) | **158** | 382 947 | ❌ | ? | ? |
-| [beach.city](https://beach.city) | **157** | 271 710 | ✅ | Beach City is our private beach-side sanctuary for close friends and awesome folks. We are various flavors of trans, queer, non-binary, polyamorous, disabled, furry, etc. | en |
+| [beach.city](https://beach.city) | **157** | 271 786 | ✅ | Beach City is our private beach-side sanctuary for close friends and awesome folks. We are various flavors of trans, queer, non-binary, polyamorous, disabled, furry, etc. | en |
 | [hsnl.social](https://hsnl.social) | **157** | 10 697 | ✅ | A fediverse server for the community of Dutch hackerspaces (HSNL) contact: admin@hsnl.social | en |
 | [endlesstalk.org](https://endlesstalk.org) | **157** | 309 | ✅ | ? | ? |
 | [zenzone.social](https://zenzone.social) | **156** | 827 | ✅ | ZenZone.social Your Path to Mindful Connections.  This Mastodon server is designed to connect individuals who seek peace and tranquility through Meditation in their daily lives. | en |
@@ -1253,10 +1253,10 @@
 | [hyper.equipment](https://hyper.equipment) | **155** | 3 131 | ✅ | ? | ? |
 | [poliversity.it](https://poliversity.it) | **155** | 7 519 | ✅ | Poliversity è una comunità dedicata alla ricerca scientifica e al giornalismo, all'università e all'istruzione ed è nata per promuovere il diritto alla conoscenza e la corretta informazione | en |
 | [tacobelllabs.net](https://tacobelllabs.net) | **154** | 89 005 | ✅ | an exchange office in a tiny corner of the Internet. live más. | en |
-| [mcr.wtf](https://mcr.wtf) | **153** | 14 731 | ✅ | A community open to all whilst intended for people in, from, identify with or are just interested in Greater Manchester! | en |
+| [mcr.wtf](https://mcr.wtf) | **153** | 14 739 | ✅ | A community open to all whilst intended for people in, from, identify with or are just interested in Greater Manchester! | en |
 | [spojnik.works](https://spojnik.works) | **153** | 412 | ✅ | Serwer Stowarzyszenia Spójnik, którego celem jest integracja środowisk lewicowych. Zapraszamy wszystkie osoby, którym bliskie są idee wolności, równości, siostrzeństwa i sprawiedliwości społecznej. | pl |
 | [leafposter.club](https://leafposter.club) | **152** | 78 326 | ❌ | ? | ? |
-| [mast.eu.org](https://mast.eu.org) | **152** | 119 504 | ✅ | ? | fr |
+| [mast.eu.org](https://mast.eu.org) | **152** | 119 538 | ✅ | ? | fr |
 | [cum.salon](https://cum.salon) | **152** | 87 310 | ✅ | ? | ? |
 | [shitpost.cloud](https://shitpost.cloud) | **151** | 57 156 | ✅ | ? | ? |
 | [cmdr.social](https://cmdr.social) | **150** | 6 856 | ✅ | ? | en |
@@ -1270,7 +1270,7 @@
 | [brandenburg.social](https://brandenburg.social) | **148** | 12 072 | ✅ | Alles rund um, über, aus & für das Land Brandenburg | en |
 | [eggplant.social](https://eggplant.social) | **148** | 2 941 | ✅ | A community for NSFW artists. No kink left behind, within the bounds of a strongly enforced moderation policy against hateful or illegal content. | en |
 | [idf.social](https://idf.social) | **148** | 17 991 | ❌ | Server for IR researchers and friends, hosted at the Radboud University Data Science section of iCIS (the Institute for Computing and Information Science), by Arjen P. de Vries. | en |
-| [weirdo.network](https://weirdo.network) | **148** | 18 586 | ✅ | The Weirdo Network is a place for folks interested in the strange and unusual who put people first. | en |
+| [weirdo.network](https://weirdo.network) | **148** | 18 582 | ✅ | The Weirdo Network is a place for folks interested in the strange and unusual who put people first. | en |
 | [weird.autos](https://weird.autos) | **148** | 59 957 | ✅ | A server for weird car enthusiasts | en |
 | [verkehrswende.social](https://verkehrswende.social) | **148** | 15 299 | ✅ | eine Fediverse Instanz Pro Verkehrswende | en |
 | [wikimedia.social](https://wikimedia.social) | **148** | 238 | ✅ | ? | en |
@@ -1280,15 +1280,15 @@
 | [raru.re](https://raru.re) | **146** | 368 180 | ❌ | Lil cozy place on top of a mountain. It's pronounced ʁaʁyʁe. And written RaRuRe, or R3 for short. | en |
 | [epsilon.social](https://epsilon.social) | **146** | 6 550 | ✅ | ? | ? |
 | [anonsys.net](https://anonsys.net) | **146** | 25 772 | ✅ | ? | ? |
+| [c7.io](https://c7.io) | **146** | 5 690 | ✅ | 希奇！是一个轻松的创作者乐园，我们相信任何从无到有的过程都是创作，包括每一条嘟文，每一次分享，每一篇作品。我们想成为能为任何形式的创作提供支持的社区，同时分享您创作过程中的欣喜。这里没有复杂的算法和规则，请把这里想象成您『自己』在 Mastodon 网络中的小家。 | zh-CN |
 | [saptodon.org](https://saptodon.org) | **145** | 2 182 | ✅ | saptodon is a Mastodon server for all SAP developers, consultants, architects and anyone interested in SAP technology. This server is not SAP owned/operated | en |
 | [dariox.club](https://dariox.club) | **144** | 3 764 | ✅ | A safe space for tech-centered LGBTQI+ folks and furries. If you're like Xenia (the Linux Mascot), then you'll definitely fit in.  Rules last updated: 2023/08/4 | en |
-| [c7.io](https://c7.io) | **144** | 5 628 | ✅ | 希奇！是一个轻松的创作者乐园，我们相信任何从无到有的过程都是创作，包括每一条嘟文，每一次分享，每一篇作品。我们想成为能为任何形式的创作提供支持的社区，同时分享您创作过程中的欣喜。这里没有复杂的算法和规则，请把这里想象成您『自己』在 Mastodon 网络中的小家。 | zh-CN |
 | [possumpat.io](https://possumpat.io) | **143** | 255 | ✅ | ? | ? |
-| [bzh.social](https://bzh.social) | **143** | 5 320 | ✅ | "Chez les Bretons, il ne pleut que sur les cons" 🌦️ Ceci est un serveur pour les personnes qui vivent en Bretagne ou qui s'intéressent à la culture bretonne. | fr |
+| [bzh.social](https://bzh.social) | **143** | 5 359 | ✅ | "Chez les Bretons, il ne pleut que sur les cons" 🌦️ Ceci est un serveur pour les personnes qui vivent en Bretagne ou qui s'intéressent à la culture bretonne. | fr |
 | [booktoot.club](https://booktoot.club) | **142** | 9 260 | ❌ | A place for book lovers to talk about books and whatever else is on their minds. | en |
 | [schleuss.online](https://schleuss.online) | **142** | 471 553 | ✅ | This instance has a focus on IT security, general computing, retro video games and game collector discussion. Please, no #NSFW and other 18+ discussion on this instance. See rules for more details | en |
 | [appdot.net](https://appdot.net) | **142** | 196 644 | ❌ | A place for former ADN users and friends. By invitation from existing member only.  Donations are appreciated ( https://snowflakesocialistmedia.org/donations ). | en |
-| [xn--baw-joa.social](https://xn--baw-joa.social) | **142** | 25 445 | ❌ | Dies ist die Mastodon-Instanz des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI Bawü). | en |
+| [xn--baw-joa.social](https://xn--baw-joa.social) | **142** | 25 495 | ❌ | Dies ist die Mastodon-Instanz des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI Bawü). | en |
 | [social.bund.de](https://social.bund.de) | **141** | 38 383 | ❌ | Dies ist der Mastodon-Server des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (BfDI). | en |
 | [frenfiverse.net](https://frenfiverse.net) | **141** | 4 742 | ✅ | Questo è il server Mastodon del Frenfi che fu | en |
 | [lsbt.me](https://lsbt.me) | **141** | 20 668 | ✅ | Diese Mastodon-Instanz ist für alle* die LGBT+ oder Allies sind. Ein Safe Space für Dich! Betrieben von Christin Löhner, selbst trans Frau und Aktivistin für LSBT+ Rechte. #lsbt #lgbt #lgbtq #lgbtiq | de |
@@ -1304,26 +1304,26 @@
 | [derpzilla.net](https://derpzilla.net) | **138** | 21 | ✅ | ? | ? |
 | [sw-development-is.social](https://sw-development-is.social) | **138** | 6 819 | ✅ | A social place intended as a chill hangout place for software testers, developers, or just about anyone involved in delivering software and who is interested in both the technical as well as the social side of things. <br><br> sw-development-is.social is supported by the <a href="https://associationforsoftwaretesting.org/" target=“_blank”>Association for Software Testing</a>. <br><br> For more information about this instance,  | en |
 | [instafops.net](https://instafops.net) | **138** | 49 074 | ✅ | ? | ? |
+| [alaskan.social](https://alaskan.social) | **138** | 27 361 | ✅ | Alaskan.Social is an independent, ad-free, open-source, decentralized social media community; created, moderated, and owned by Alaskans.  | en |
 | [spora.grin.hu](https://spora.grin.hu) | **137** | 1 378 | ❌ | ? | ? |
-| [alaskan.social](https://alaskan.social) | **137** | 27 315 | ✅ | Alaskan.Social is an independent, ad-free, open-source, decentralized social media community; created, moderated, and owned by Alaskans.  | en |
 | [wue.social](https://wue.social) | **136** | 23 859 | ✅ | Auf WUE.SOCIAL soll ein freies soziales Netzwerk für Würzburg und Umgebung angeboten werden. Diese Mastodon-Instanz ist privat geführt und nicht-kommerziell. | en |
 | [openedtech.social](https://openedtech.social) | **136** | 1 767 | ✅ | For anyone interested in Open Education Technology (or any two of those!)  | en |
 | [monads.online](https://monads.online) | **135** | 3 871 481 | ❌ | monads.online is a place for friends | en |
 | [m-i.im](https://m-i.im) | **135** | 106 084 | ❌ | 欢迎来到联邦宇宙，你的世界。 | zh-CN |
+| [gamedev.lgbt](https://gamedev.lgbt) | **135** | 22 859 | ✅ | A twitter alternative for Queer gamedevs! | en |
 | [mastodon.wssmagazine.com](https://mastodon.wssmagazine.com) | **134** | 6 509 | ✅ | Chat about any and all tabletop miniature wargaming. Games, minis & terrain, everything goes. Sponsored by Wargames, Soldiers & Strategy. Other kinds of tabletop wargaming, see wargaming.social | en |
 | [vira-lata.org](https://vira-lata.org) | **134** | 10 564 | ❌ | ? | ? |
 | [yellowmustard.club](https://yellowmustard.club) | **134** | 6 231 | ✅ | For friends of Andre. | en |
-| [gamedev.lgbt](https://gamedev.lgbt) | **134** | 22 784 | ✅ | A twitter alternative for Queer gamedevs! | en |
 | [folksocial.org](https://folksocial.org) | **133** | 9 536 | ✅ | Welcome to folksocial.org This server has been set up for a trial period by the English Folk Dance and Song Society. We reserve the right to withdraw services if the experiement does not work out.  | en |
 | [hub.somaton.com](https://hub.somaton.com) | **133** | 16 234 | ❌ | ? | ? |
 | [fr.osm.social](https://fr.osm.social) | **133** | 2 045 | ✅ | Cette instance mastodon est proposée par OpenStreetMap France pour les amoureu.x.ses de la cartographie libre et participative afin d'échanger en priorité autour de ce sujet ! | fr |
 | [open3dlab.social](https://open3dlab.social) | **133** | 1 644 | ✅ | This is the official Open3DLab Mastodon server, a community for 3D animation and rendering. | en |
-| [social.troll.academy](https://social.troll.academy) | **132** | 19 754 | ❌ | ? | en |
+| [social.troll.academy](https://social.troll.academy) | **132** | 19 769 | ❌ | ? | en |
 | [bigshoulders.city](https://bigshoulders.city) | **132** | 26 686 | ✅ | ? | ? |
 | [tomes.tchncs.de](https://tomes.tchncs.de) | **132** | 3 284 | ❌ | ? | ? |
 | [23.social](https://23.social) | **132** | 2 851 | ✅ | Hackers welcome. Politics welcome. Bots welcome as well. | en |
-| [wpbuilds.social](https://wpbuilds.social) | **132** | 5 031 | ✅ | Love WordPress? Love Open Source? Join the WP Builds Social! Built on a free, open platform! | en |
-| [techpolicy.social](https://techpolicy.social) | **132** | 15 738 | ✅ | techpolicy.social is a privately controlled Mastodon instance intended for use by technology and internet policy professionals. It is run on a volunteer basis by @mchris@techpolicy.social. | en |
+| [wpbuilds.social](https://wpbuilds.social) | **132** | 5 037 | ✅ | Love WordPress? Love Open Source? Join the WP Builds Social! Built on a free, open platform! | en |
+| [techpolicy.social](https://techpolicy.social) | **132** | 15 764 | ✅ | techpolicy.social is a privately controlled Mastodon instance intended for use by technology and internet policy professionals. It is run on a volunteer basis by @mchris@techpolicy.social. | en |
 | [social.toplap.org](https://social.toplap.org) | **132** | 1 080 | ✅ | ? | ? |
 | [groupsebelah.com](https://groupsebelah.com) | **132** | 4 215 | ✅ | Segala Informasi selalu datang dari Group Sebelah, disini pusatnya sumber Informasi yang tidak dapat dipercaya | en |
 | [nfdi.social](https://nfdi.social) | **131** | 5 578 | ✅ | Server der Nationalen Forschungsdateninfrastruktur (NFDI) e.V. | en |
@@ -1331,13 +1331,13 @@
 | [indg.club](https://indg.club) | **130** | 6 374 | ✅ | Indigenous People Hosted server for Indigenous People/ Culture/ Language   banner image: @Nanibah  | en |
 | [headpat.cafe](https://headpat.cafe) | **130** | 904 | ❌ | ? | ? |
 | [mastodon.hr](https://mastodon.hr) | **129** | 26 650 | ✅ |   | en |
-| [bakedbean.xyz](https://bakedbean.xyz) | **129** | 108 675 | ✅ | 동네 어디에나 있는 슈퍼마-켙 입니다. 개인 서버에서 운영되고 있습니다. | ko |
-| [radiosocial.de](https://radiosocial.de) | **129** | 24 599 | ✅ | Server für deutsche Funkamateure und alle die was mit Funk Empfang oder Sendung zu tun haben.   | de |
+| [bakedbean.xyz](https://bakedbean.xyz) | **129** | 109 072 | ✅ | 동네 어디에나 있는 슈퍼마-켙 입니다. 개인 서버에서 운영되고 있습니다. | ko |
+| [radiosocial.de](https://radiosocial.de) | **129** | 24 627 | ✅ | Server für deutsche Funkamateure und alle die was mit Funk Empfang oder Sendung zu tun haben.   | de |
 | [himagine.club](https://himagine.club) | **128** | 34 420 | ❌ | ? | ? |
 | [systemli.social](https://systemli.social) | **128** | 19 665 | ❌ | This instance is home for progressive political movements that fight for a better and more (climate-)just future. It's run by systemli. | en |
 | [mstdn.ro](https://mstdn.ro) | **127** | 2 915 | ✅ | A Mastodon server for Romanians, run by Romanians in Romania. | ro |
 | [conversafiada.net](https://conversafiada.net) | **127** | 11 691 | ✅ | O conversafiada.net é uma instância moderada com um foco em usuários do Brasil, mas usuários de outros lugares (e outras línguas) também são bem vindos. | pt-BR |
-| [nahe.social](https://nahe.social) | **127** | 16 714 | ✅ | Eine Mastodon-Instanz für die Naheregion. Frei von Werbung, mit chronologischem Feed, kein Tracking. Gemacht von Menschen für Menschen. | en |
+| [nahe.social](https://nahe.social) | **127** | 16 762 | ✅ | Eine Mastodon-Instanz für die Naheregion. Frei von Werbung, mit chronologischem Feed, kein Tracking. Gemacht von Menschen für Menschen. | en |
 | [oceanplayground.social](https://oceanplayground.social) | **126** | 45 404 | ✅ | A Mastodon server for Atlantic Canada (New Brunswick, Nova Scotia, PEI, Newfoundland & Labrador).  1500 character limit  NOTE: Hotmail/Outlook blocks our emails | en |
 | [rva.party](https://rva.party) | **126** | 15 271 | ✅ | ? | ? |
 | [sonomu.club](https://sonomu.club) | **126** | 71 581 | ❌ | SoNoMu (Sound Noise Music) is a mastodon instance for musicians, sound-artists, producers of any kind of aural noise, songwriters, bedroom producers, sonic manglers and algorave livecoders.  | en |
@@ -1345,17 +1345,17 @@
 | [derg.social](https://derg.social) | **126** | 22 697 | ✅ | ? | ? |
 | [mstdn.tamag.org](https://mstdn.tamag.org) | **125** | 724 043 | ✅ | Tamago Gadgetが運営する汎用インスタンスです。 | en |
 | [possum.city](https://possum.city) | **125** | 29 182 | ✅ | ? | ? |
-| [rap.social](https://rap.social) | **124** | 12 720 | ✅ | ? | en |
+| [rap.social](https://rap.social) | **125** | 12 717 | ✅ | ? | en |
 | [craftodon.social](https://craftodon.social) | **124** | 7 484 | ❌ | English speaking non-official Minecraft instance. For everyone who plays Minecraft, this instance is a mast! | en |
 | [a11y.info](https://a11y.info) | **123** | 12 801 | ❌ | An open community for those interested in sharing and learning more about inclusion and digital accessibility.   "a11y" is short for "accessibility." There are 11 letters between the a and the y. | en |
 | [posting.lolicon.rocks](https://posting.lolicon.rocks) | **123** | 14 824 | ✅ | ? | ? |
 | [gamerr.cyou](https://gamerr.cyou) | **122** | 15 676 | ✅ | gamerr.cyou是一个用于讨论一切游戏相关话题的中文实例,本站服务器位于美国旧金山。不禁止游戏无关的内容，但用户一般都为某个/类/些游戏的玩家。(注册确认邮件没有收到的话请检查一下垃圾邮箱)   为了避免广告账号现在注册需要管理员批准，请在申请理由里填写一点文字，只要管理员能够判断不是机器人就可以。 | en |
 | [social.teci.world](https://social.teci.world) | **122** | 34 603 | ✅ | ? | ? |
 | [aipub.social](https://aipub.social) | **122** | 5 874 | ✅ | Welcome to AIpub, a place for AI artists to share their work, hang out, and learn from other artists! | en |
-| [tchafia.be](https://tchafia.be) | **121** | 6 652 | ✅ | Une instance généraliste Mastodon en Belgique administrée par un collectif associatif venant  <br> Ouvert à tous et toutes <br>  | fr |
+| [tchafia.be](https://tchafia.be) | **121** | 6 694 | ✅ | Une instance généraliste Mastodon en Belgique administrée par un collectif associatif venant  <br> Ouvert à tous et toutes <br>  | fr |
 | [seal.cafe](https://seal.cafe) | **121** | 171 888 | ✅ | ? | ? |
-| [burningboard.net](https://burningboard.net) | **120** | 5 380 | ✅ | Willkommen bei Burningboard.net, der Mastodon Instanz für alle Technikbegeisterten! Wir sind eine offene und freundliche Community von Nerds. Die primäre Sprache ist Deutsch. Seit 2002 aktiv 💚   | de |
-| [syringa.social](https://syringa.social) | **120** | 18 799 | ✅ | Named after the Idaho state flower, this server is intended primarily for those in (or with ties to) Idaho and surrounding areas of the Northern Rocky Mountains. | en |
+| [burningboard.net](https://burningboard.net) | **120** | 5 401 | ✅ | Willkommen bei Burningboard.net, der Mastodon Instanz für alle Technikbegeisterten! Wir sind eine offene und freundliche Community von Nerds. Die primäre Sprache ist Deutsch. Seit 2002 aktiv 💚   | de |
+| [syringa.social](https://syringa.social) | **120** | 18 821 | ✅ | Named after the Idaho state flower, this server is intended primarily for those in (or with ties to) Idaho and surrounding areas of the Northern Rocky Mountains. | en |
 | [mastodon.ph](https://mastodon.ph) | **120** | 2 553 | ✅ | Mastodon para sa mga Pilipino (Mastodon for The Philippines). | en |
 | [iceshrimp.social](https://iceshrimp.social) | **120** | 6 585 | ✅ | ? | ? |
 | [social.taker.fr](https://social.taker.fr) | **120** | 12 402 | ✅ | ? | en |
@@ -1369,33 +1369,34 @@
 | [lea.pet](https://lea.pet) | **118** | 65 658 | ✅ | ? | ? |
 | [d-64.social](https://d-64.social) | **118** | 16 675 | ❌ | D64 ist das Zentrum für digitalen Fortschritt. Unser Ziel ist es, die Grundwerte Freiheit, Gerechtigkeit und Solidarität durch eine progressive Digitalpolitik zu verwirklichen. | en |
 | [tty0.social](https://tty0.social) | **118** | 13 321 | ✅ | tty0.social is the federated Mastodon home for command line junkies. All are welcome, we ask that you be respectful in your activities and interactions with others. Server admin - Brian Ketelsen | en |
+| [verified.coop](https://verified.coop) | **118** | 725 | ✅ | For people that want verified identities. | en |
 | [mastodon.stuttgart.international](https://mastodon.stuttgart.international) | **117** | 3 587 | ✅ | Mastodon Server für alle VfB Fans und Freunde der Stadt Stuttgart! | en |
 | [solarpunk.moe](https://solarpunk.moe) | **117** | 141 973 | ✅ | Moé for Solarpunk is a small, friendly server run by a group of optimistically-utopian LGBT+ individuals. Registration is by invite only! | en |
 | [social.ataxya.net](https://social.ataxya.net) | **117** | 15 140 | ✅ | Ataxya's Server.  | en |
 | [whinge.town](https://whinge.town) | **117** | 62 508 | ✅ | ? | ? |
-| [tiggi.es](https://tiggi.es) | **117** | 76 808 | ✅ | Tiggi.es🐯 is an LGBTQIA+🏳️‍🌈/BIPOC:bipoc:/Body Positive👍🏾/Furry🐶/Tech💻/Geek🤓/Creative🎨/Automotive🚘/Maker🛠️/Gaming-centric👾/Photog📸 instance run by Burrs and pals powered by ☀️ energy! | en |
+| [tiggi.es](https://tiggi.es) | **117** | 76 910 | ✅ | Tiggi.es🐯 is an LGBTQIA+🏳️‍🌈/BIPOC:bipoc:/Body Positive👍🏾/Furry🐶/Tech💻/Geek🤓/Creative🎨/Automotive🚘/Maker🛠️/Gaming-centric👾/Photog📸 instance run by Burrs and pals powered by ☀️ energy! | en |
 | [tu.social](https://tu.social) | **117** | 3 009 | ✅ | Servidor en español para la gente del mundo tech.   Inspirado en Tuenti y gestionado por algunos de sus ex-ingenieros. | es |
 | [oddballs.online](https://oddballs.online) | **117** | 9 206 | ✅ | ? | ? |
 | [high.cat](https://high.cat) | **116** | 21 267 | ✅ | high.cat is a mastodon instance dedicated to highposting and content susceptible to entertain people while they are high (or not), similarly to <a href="https://www.reddit.com/r/woahdude/">r/woahdude</a>. 🍍🍍🍍  | en |
-| [autistics.life](https://autistics.life) | **115** | 46 607 | ✅ | My name is Ashley Lauren Spencer, and I am the owner of The Autistic Innovator (an online store for autistics). Welcome to our own little corner of the online autistic community. | en |
-| [notacult.social](https://notacult.social) | **115** | 25 953 | ✅ | We're Not a Cult. Mildly obsessed with Obsidian, we also have affinities for mechanical keyboards, memes, computer programming, taco bell, video games, content creation, and occasionally music. | en |
+| [autistics.life](https://autistics.life) | **115** | 46 645 | ✅ | My name is Ashley Lauren Spencer, and I am the owner of The Autistic Innovator (an online store for autistics). Welcome to our own little corner of the online autistic community. | en |
+| [notacult.social](https://notacult.social) | **115** | 25 998 | ✅ | We're Not a Cult. Mildly obsessed with Obsidian, we also have affinities for mechanical keyboards, memes, computer programming, taco bell, video games, content creation, and occasionally music. | en |
 | [growers.social](https://growers.social) | **115** | 7 382 | ✅ | Welcome to Growers Social, the perfect online community for green thumb enthusiasts! Whether you're a gardening pro an amateur grower or a newbie farmer, Come grow with us! We also love cats here. | en |
-| [autonomous.zone](https://autonomous.zone) | **115** | 16 048 | ✅ | cozy anarchist social media for the coming days | en |
+| [autonomous.zone](https://autonomous.zone) | **115** | 16 063 | ✅ | cozy anarchist social media for the coming days | en |
 | [akko.wtf](https://akko.wtf) | **114** | 133 971 | ❌ | ? | ? |
 | [verified.mastodonmedia.xyz](https://verified.mastodonmedia.xyz) | **114** | 3 478 | ✅ | The Mastodon Server for verified journalists. | en |
 | [mastodon.underworld.fr](https://mastodon.underworld.fr) | **114** | 10 287 | ✅ | UNDERWORLD | en |
 | [berserker.town](https://berserker.town) | **114** | 66 404 | ✅ | A berserker's gateway to the Mastodon social network. Run by a Norwegian, with servers in Finland. | en |
-| [pfalz.social](https://pfalz.social) | **113** | 39 364 | ✅ | Awwer annerschtwo is annerscht, und halt net wie in de Palz. Mastodon für die Pfalz! | de |
+| [pfalz.social](https://pfalz.social) | **113** | 39 480 | ✅ | Awwer annerschtwo is annerscht, und halt net wie in de Palz. Mastodon für die Pfalz! | de |
 | [red.fox.yt](https://red.fox.yt) | **113** | 8 767 | ✅ | Social Network for foxes, furries and scalies alike on the Internet. Hosted in Sydney, Australia. | en |
 | [gamemaking.social](https://gamemaking.social) | **113** | 26 527 | ✅ | Hi! Game Making Social is a part of the Fediverse dedicated to being a well-moderated, cosy, friendly place to talk and share stuff about amateur videogame making, and everything surrounding that. | en |
 | [shigusegubu.club](https://shigusegubu.club) | **113** | 552 436 | ❌ | ? | ? |
-| [topspicy.social](https://topspicy.social) | **113** | 87 308 | ❌ | LGBTQIA+ friendly community. Lots of retro games, bad movies. Keep it supportive, keep it kind. | en |
+| [topspicy.social](https://topspicy.social) | **113** | 87 526 | ❌ | LGBTQIA+ friendly community. Lots of retro games, bad movies. Keep it supportive, keep it kind. | en |
 | [mastodon.wellperns.com](https://mastodon.wellperns.com) | **113** | 8 459 | ✅ | A personal Mastodon server. Folks from the WELL online community have been invited here to test this out. Not part of the WELL. Not Officially Supported. Shake Before Using. This End Up.  It is pitch black, you are likely to be eaten by a grue. | en |
-| [f.cz](https://f.cz) | **113** | 10 173 | ✅ | Hardware a software serveru f.cz spravují SPOJE.NET. Za obsah odpovídá moderátor Michael Polák. Zaměření je fšeobecné :-) Většinovým jazykem komunikace je čeština. Limit délky příspěvku je 2000 znaků. | en |
+| [f.cz](https://f.cz) | **113** | 10 238 | ✅ | Hardware a software serveru f.cz spravují SPOJE.NET. Za obsah odpovídá moderátor Michael Polák. Zaměření je fšeobecné :-) Většinovým jazykem komunikace je čeština. Limit délky příspěvku je 2000 znaků. | en |
 | [video.linux.it](https://video.linux.it) | **113** | 337 | ❌ | ? | ? |
 | [shonk.social](https://shonk.social) | **113** | 14 938 | ✅ | ? | ? |
 | [toots.nu](https://toots.nu) | **112** | 7 513 | ✅ | Welcome to this open and positive server located in Sweden. Our main rule is: Choose to be kind.  Registrations are open for anyone, but please post in Swedish or English.  | en |
-| [die-partei.social](https://die-partei.social) | **112** | 131 901 | ✅ | ? | de |
+| [die-partei.social](https://die-partei.social) | **112** | 131 990 | ✅ | ? | de |
 | [mstdn.sublimer.me](https://mstdn.sublimer.me) | **111** | 88 428 | ✅ | 小惑星のように、十人十色、いろいろなユーザー、トゥートが流れるマストドンサーバーです。 | ja |
 | [unfufadoo.net](https://unfufadoo.net) | **111** | 37 784 | ✅ | Mastodon source for nothing but memes | en |
 | [graeber.social](https://graeber.social) | **110** | 5 017 | ✅ | Is there anything more important than creating our own independent and distributed social networks?  | en |
@@ -1407,12 +1408,12 @@
 | [elonsucks.org](https://elonsucks.org) | **108** | 8 222 | ✅ | Welcome to the anti-billionaires club! We are an English-speaking Mastodon server that is open to anyone, especially those who are anti-capitalist, pro-democracy and strive to bridge inequality. | en |
 | [gnusocial.net](https://gnusocial.net) | **108** | 57 167 | ✅ | ? | ? |
 | [swecyb.com](https://swecyb.com) | **108** | 2 509 | ✅ | Home to the Swedish Cyber Security Community, and is open only to those working and living in Sweden.  ALL users will be verified by Christoffer S. (the admin). | en |
-| [energiewende.social](https://energiewende.social) | **108** | 5 789 | ✅ | ? | en |
+| [energiewende.social](https://energiewende.social) | **108** | 5 804 | ✅ | ? | en |
 | [home.speakfree.social](https://home.speakfree.social) | **107** | 892 | ❌ | TorGuard's Official Mastodon Server | en |
 | [xantronix.social](https://xantronix.social) | **107** | 7 226 | ❌ | The social networking zone for assets, contractors, employees, and customers of the XANTRONIX Industrial Heavy Manufacturing Concern. | en |
 | [avgeek.social](https://avgeek.social) | **107** | 5 009 | ✅ | A home for the #AvGeek and #PlaneSpotting communities. Interested in travel and geeking out over planes? Then this is the place for you! You can post about other stuff too. Be kind, no spam, no hate. | en |
 | [don.neet.co.jp](https://don.neet.co.jp) | **107** | 32 235 | ✅ | 本サービスは日本語でニート（無職等）、もしくはだいたいニートである方、もしくは社会不適合者、社会的等弱者等、もしくはこれらの方とコミュニケーションを取られたい方が自由にコミュニケーションする場として提供するNEET株式会社の事業部のSNS（Mastodon）です。 | en |
-| [fribygda.no](https://fribygda.no) | **106** | 45 158 | ✅ | Fribygda er ei anarkistisk / venstrelibertariansk bygd ute i fødiverset. Et lite koselig sted for fritt uttrykk, fri utfoldelse og trygge omgivelser. | en |
+| [fribygda.no](https://fribygda.no) | **106** | 45 243 | ✅ | Fribygda er ei anarkistisk / venstrelibertariansk bygd ute i fødiverset. Et lite koselig sted for fritt uttrykk, fri utfoldelse og trygge omgivelser. | en |
 | [rage.love](https://rage.love) | **106** | 379 457 | ❌ | ? | ? |
 | [comics.town](https://comics.town) | **106** | 13 028 | ✅ | A friendly and inclusive place for independent comic of all stripes! | en |
 | [vnil.de](https://vnil.de) | **105** | 21 686 | ✅ | ? | ? |
@@ -1429,19 +1430,19 @@
 | [cartersville.social](https://cartersville.social) | **103** | 602 | ✅ | Cartersville Georgia's Mastodon social network.   | en |
 | [mastodon.scop.coop](https://mastodon.scop.coop) | **102** | 839 | ✅ | Cette instance a pour vocation de faire progresser et rayonner la connaissance du modèle coopératif (Société coopérative et participative et Société coopérative d'intérêt collective). | en |
 | [fediphilosophy.org](https://fediphilosophy.org) | **102** | 8 814 | ✅ | ? | ? |
-| [fedisabled.social](https://fedisabled.social) | **102** | 49 841 | ✅ | Hier ist Deine neue Heimat, wenn du eine Behinderung hast, chronisch/mental erkrankt bist oder dich unterstützend uns verbunden fühlst. Willkommen! | en |
+| [fedisabled.social](https://fedisabled.social) | **101** | 50 138 | ✅ | Hier ist Deine neue Heimat, wenn du eine Behinderung hast, chronisch/mental erkrankt bist oder dich unterstützend uns verbunden fühlst. Willkommen! | en |
 | [social.masto.host](https://social.masto.host) | **101** | 40 393 | ❌ | ? | en |
 | [events.graz.social](https://events.graz.social) | **101** | 1 390 | ✅ | ? | ? |
 | [wptoots.social](https://wptoots.social) | **100** | 8 969 | ✅ | This WordPress Mastodon instance wants to complement the strong WordPress community and to be a home for all WordPress enthusiasts, who want to talk, help, learn and share.  | en |
 | [itabashi.0j0.jp](https://itabashi.0j0.jp) | **100** | 143 146 | ✅ | ? | ? |
-| [thelife.boats](https://thelife.boats) | **100** | 7 326 | ✅ | thelife.boats is a sanctuary and contact point in case Twitter blows up. Maintained by the <a href="https://thebrick.house">Brick House</a> journalism cooperative. Conversation is very welcome, but optional.  | en |
-| [weatherishappening.network](https://weatherishappening.network) | **100** | 79 624 | ✅ | THE WEATHER IS HAPPENING MASTODON SERVER | en |
+| [thelife.boats](https://thelife.boats) | **100** | 7 352 | ✅ | thelife.boats is a sanctuary and contact point in case Twitter blows up. Maintained by the <a href="https://thebrick.house">Brick House</a> journalism cooperative. Conversation is very welcome, but optional.  | en |
+| [weatherishappening.network](https://weatherishappening.network) | **100** | 79 883 | ✅ | THE WEATHER IS HAPPENING MASTODON SERVER | en |
 | [mastodon.boston](https://mastodon.boston) | **99** | 8 455 | ✅ | Mastodon instance for the people of Boston and those that love it | en |
 | [eliitin-some.fi](https://eliitin-some.fi) | **99** | 164 377 | ❌ | Pier pask prööt | en |
 | [mastodon.fedi.bzh](https://mastodon.fedi.bzh) | **99** | 19 269 | ✅ | Bienvenue sur l’instance <bold>Mastodon e Brezhoneg</bold> !  Cette instance inclusive rassemble des personnes qui parlent breton, gallo, ou bien qui sont sensibles à la promotion de ces deux langues.    | br |
 | [krigskunst.social](https://krigskunst.social) | **99** | 14 363 | ✅ | En dansk Mastodon-server for folk med særlig interesse for militær og sikkerhedspolitik. | en |
 | [log.livellosegreto.it](https://log.livellosegreto.it) | **99** | 507 | ❌ | ? | ? |
-| [girldick.gay](https://girldick.gay) | **98** | 35 121 | ✅ | Welcome to girldick dot gay – a small, queer, left-wing instance for computer-touching catgirls and more! | en |
+| [girldick.gay](https://girldick.gay) | **98** | 35 209 | ✅ | Welcome to girldick dot gay – a small, queer, left-wing instance for computer-touching catgirls and more! | en |
 | [aachen.social](https://aachen.social) | **98** | 7 641 | ✅ | au hur! | en |
 | [cannibal.cafe](https://cannibal.cafe) | **98** | 66 868 | ❌ | ? | ? |
 | [mastodon.adtension.com](https://mastodon.adtension.com) | **97** | 97 012 553 | ❌ | The voice of Mastodon's Global Government Affairs team: mastodon.adtension.com/@GlobalAffairs | en |
@@ -1449,25 +1450,25 @@
 | [md.ilyamikcoder.com](https://md.ilyamikcoder.com) | **96** | 38 896 | ✅ | ? | en |
 | [rhabarberbarbara.bar](https://rhabarberbarbara.bar) | **96** | 106 630 | ❌ | ? | ? |
 | [friend.camp](https://friend.camp) | **96** | 717 750 | ❌ | ? | ? |
-| [goblin.camp](https://goblin.camp) | **96** | 547 844 | ❌ | ? | ? |
-| [links.potsda.mn](https://links.potsda.mn) | **96** | 9 177 | ✅ | Links.potsda.mn is a federated social network for Potsdam's Left.  Links.potsda.mn ist ein föderiertes soziales Netzwerk für Potsdams Linke. | en |
-| [frontrange.co](https://frontrange.co) | **96** | 62 576 | ✅ | For anyone who values kindness and inclusivity. Named for those who live in the Front Range of the Rockies, and also those who wish they could :)  | en |
+| [goblin.camp](https://goblin.camp) | **96** | 548 204 | ❌ | ? | ? |
+| [links.potsda.mn](https://links.potsda.mn) | **96** | 9 193 | ✅ | Links.potsda.mn is a federated social network for Potsdam's Left.  Links.potsda.mn ist ein föderiertes soziales Netzwerk für Potsdams Linke. | en |
+| [frontrange.co](https://frontrange.co) | **96** | 62 902 | ✅ | For anyone who values kindness and inclusivity. Named for those who live in the Front Range of the Rockies, and also those who wish they could :)  | en |
 | [subculture.chat](https://subculture.chat) | **96** | 1 816 | ✅ | ? | en |
 | [mastodon.bot](https://mastodon.bot) | **96** | 178 299 | ✅ | mastodon.bot - a home for Mastodon bots. | en |
 | [swingset.social](https://swingset.social) | **95** | 16 973 | ✅ | We're accepting of any and all relationship practices, are consent and kink aware, are welcoming to LGBTQIA+ folk and extend a specific welcome to black, brown, and indigenous folk. | en |
 | [camp.smolnet.org](https://camp.smolnet.org) | **95** | 35 483 | ✅ | This is camp.smolnet.org, a Mastodon instance for the smol internet of friends. | en |
 | [press.coop](https://press.coop) | **95** | 24 786 | ❌ | A mirror of Twitter press accounts. | en |
-| [0x3c.pl](https://0x3c.pl) | **94** | 2 792 | ❌ | Spokojna przystań dla hakerów, mejkerów, i wszelkiej maści kreatywnych i technicznych osób z okolic trójmiasta.  Celem 0x3c.pl jest łączyć osoby zaangażowane w różne społeczności na terenie trójmiasta i pozwalać na wymianę wspólnych zainteresowań. | en |
 | [social.apreslanu.it](https://social.apreslanu.it) | **94** | 14 405 | ✅ | ? | en |
 | [social.moment.at](https://social.moment.at) | **94** | 1 291 | ❌ | Social.moment.at ist eine Mastodon-Instanz für die Vielen. Powered by Momentum Institut, dem ökosozialen Think Tank der Vielen und Herausgeber des Moment Magazins. | de |
-| [squawk.social](https://squawk.social) | **94** | 25 772 | ✅ | Welcome to Squawk.Social! This server is made with Bird/Avian/Gryphon furries in mind. But anyone is welcome! | en |
+| [squawk.social](https://squawk.social) | **94** | 25 813 | ✅ | Welcome to Squawk.Social! This server is made with Bird/Avian/Gryphon furries in mind. But anyone is welcome! | en |
 | [cyberpunk.lol](https://cyberpunk.lol) | **94** | 14 474 | ✅ | cyberpunk.lol: putting the punk back in cyberpunk since 2023! | en |
 | [lamp.leemoon.network](https://lamp.leemoon.network) | **94** | 16 901 | ✅ | ? | ? |
+| [0x3c.pl](https://0x3c.pl) | **93** | 2 817 | ❌ | Spokojna przystań dla hakerów, mejkerów, i wszelkiej maści kreatywnych i technicznych osób z okolic trójmiasta.  Celem 0x3c.pl jest łączyć osoby zaangażowane w różne społeczności na terenie trójmiasta i pozwalać na wymianę wspólnych zainteresowań. | en |
 | [decept.org](https://decept.org) | **93** | 13 781 | ❌ | ? | ? |
-| [nutmeg.social](https://nutmeg.social) | **93** | 30 070 | ✅ | A regional Mastodon instance for those in (or interested in) Connecticut. Administered with love by a Connecticut native. | en |
+| [nutmeg.social](https://nutmeg.social) | **93** | 30 072 | ✅ | A regional Mastodon instance for those in (or interested in) Connecticut. Administered with love by a Connecticut native. | en |
 | [supernatural.fans](https://supernatural.fans) | **93** | 17 256 | ✅ | A Supernatural fandom space, run by fans for fans. All 18+ fans are welcome, you need only love Supernatural and care about other people. <3 | en |
-| [queer.group](https://queer.group) | **93** | 102 980 | ❌ | ? | ? |
-| [don.linxx.net](https://don.linxx.net) | **92** | 43 945 | ✅ | don.linxx.net – Mastodon-Instanz des @linxxnet's in Leipzig. | de |
+| [queer.group](https://queer.group) | **93** | 103 146 | ❌ | ? | ? |
+| [don.linxx.net](https://don.linxx.net) | **92** | 44 025 | ✅ | don.linxx.net – Mastodon-Instanz des @linxxnet's in Leipzig. | de |
 | [eattherich.club](https://eattherich.club) | **92** | 16 283 | ✅ | are ya hungry? 🦆 | en |
 | [m6n.io](https://m6n.io) | **92** | 11 378 | ✅ | M6n.io is a home for Kubernetes and Cloud Native and fun, diverse tech people on Mastodon. | en |
 | [transportation.social](https://transportation.social) | **92** | 7 289 | ✅ | ? | ? |
@@ -1476,14 +1477,14 @@
 | [b612.me](https://b612.me) | **92** | 72 780 | ❌ | B612是一颗小星球，所以容纳不了多少人。但这里仍然是个温馨树洞，欢迎来到这里吐槽、记录生活~本站活跃人数很少，不大适合追求社交互动的朋友，也不太适合作为额外的静默魂器~注册前请三思！ | en |
 | [infosec.space](https://infosec.space) | **92** | 9 550 | ✅ | A Mastodon instance for info/cyber security-minded people.  This instance blocks threads.net | en |
 | [kokuusa.club](https://kokuusa.club) | **92** | 37 794 | ✅ | ? | en |
-| [rheinhessen.social](https://rheinhessen.social) | **91** | 22 232 | ✅ | rheinhessen.social ist eine Mastodon-Instanz für Nutzer*innen aus Rheinhessen. | en |
-| [syndicat.solidaires.org](https://syndicat.solidaires.org) | **91** | 16 070 | ❌ | L'instance de l’Union syndicale Solidaires. | en |
+| [rheinhessen.social](https://rheinhessen.social) | **91** | 22 304 | ✅ | rheinhessen.social ist eine Mastodon-Instanz für Nutzer*innen aus Rheinhessen. | en |
+| [syndicat.solidaires.org](https://syndicat.solidaires.org) | **91** | 16 102 | ❌ | L'instance de l’Union syndicale Solidaires. | en |
 | [blacksun.social](https://blacksun.social) | **91** | 17 389 | ✅ | Anti-fascist. Science and Federation values. Liberal social-democratic activism. LGBTQ+ friendly and woke af. Institutionalist utilitarianism. Radically secular. Free of glurge and disinformation. | en |
 | [pgh.social](https://pgh.social) | **91** | 11 817 | ✅ | A place for folks in, around, or connected to Pittsburgh, Pennsylvania. | en |
-| [gayfr.social](https://gayfr.social) | **91** | 36 886 | ✅ | Le serveur de la communauté gay francophone : partage de nos expériences, plaisirs, désirs et tous sujets de conversation. Liberté de nos échanges : érotisme mâle, nudité, sexe, BDSM et bienveillance. | fr |
-| [noods.fun](https://noods.fun) | **91** | 10 232 | ✅ | A mastodon server for Twitter refugees | en |
+| [gayfr.social](https://gayfr.social) | **91** | 37 034 | ✅ | Le serveur de la communauté gay francophone : partage de nos expériences, plaisirs, désirs et tous sujets de conversation. Liberté de nos échanges : érotisme mâle, nudité, sexe, BDSM et bienveillance. | fr |
+| [noods.fun](https://noods.fun) | **91** | 10 254 | ✅ | A mastodon server for Twitter refugees | en |
 | [iaccessibility.social](https://iaccessibility.social) | **90** | 12 366 | ✅ | ? | en |
-| [leipzig.town](https://leipzig.town) | **90** | 4 739 | ✅ | Hier sind alle Willkommen, die Leipzig ihr zu Hause nennen und/oder die Stadt lieben. Bitte seid exzellent zueinander und haltet euch an die Regeln. Foto von F. Heiberger, Pixabay. | de |
+| [leipzig.town](https://leipzig.town) | **90** | 4 740 | ✅ | Hier sind alle Willkommen, die Leipzig ihr zu Hause nennen und/oder die Stadt lieben. Bitte seid exzellent zueinander und haltet euch an die Regeln. Foto von F. Heiberger, Pixabay. | de |
 | [netzkms.de](https://netzkms.de) | **89** | 12 320 | ✅ | NetzKMS.de ist eine Mastodon-Instanz aus und für Chemnitz. | de |
 | [realsocial.life](https://realsocial.life) | **89** | 17 889 | ✅ | ? | ? |
 | [recsys.social](https://recsys.social) | **89** | 10 232 | ✅ | ? | en |
@@ -1496,16 +1497,16 @@
 | [infosec.place](https://infosec.place) | **88** | 3 375 | ✅ | ? | ? |
 | [besties.com](https://besties.com) | **88** | 26 812 | ✅ | A place for besties to keep in touch. | en |
 | [friendica.chilemasto.casa](https://friendica.chilemasto.casa) | **87** | 466 506 | ✅ | ? | ? |
-| [mastodon.thirring.org](https://mastodon.thirring.org) | **87** | 63 373 | ✅ | This server is a refuge from the collapse of Twitter. We are dedicated to floofs, physics and mathematics. That and friends, kindness and whatever comes to mind. | en |
+| [mastodon.thirring.org](https://mastodon.thirring.org) | **87** | 63 421 | ✅ | This server is a refuge from the collapse of Twitter. We are dedicated to floofs, physics and mathematics. That and friends, kindness and whatever comes to mind. | en |
 | [wspanialy.eu](https://wspanialy.eu) | **87** | 15 895 | ✅ | Nieoficjalna, polska instancja Mastodona, dla wszystkich. | en |
 | [krpgpub.net](https://krpgpub.net) | **86** | 20 586 | ✅ | RPG와 기타 개인 관심사를 이야기하는 공간입니다.  | en |
-| [saturation.social](https://saturation.social) | **86** | 21 643 | ❌ | ? | ? |
+| [saturation.social](https://saturation.social) | **86** | 21 663 | ❌ | ? | ? |
 | [waag.social](https://waag.social) | **86** | 12 982 | ❌ | Technology for People, not Profit. | nl |
 | [lemmy.frozeninferno.xyz](https://lemmy.frozeninferno.xyz) | **86** | 148 | ✅ | ? | ? |
-| [retrochat.online](https://retrochat.online) | **86** | 16 509 | ✅ | A niche channel about old stuff, especially retro computers and consoles  | en |
+| [retrochat.online](https://retrochat.online) | **86** | 16 514 | ✅ | A niche channel about old stuff, especially retro computers and consoles  | en |
+| [river.group.lt](https://river.group.lt) | **86** | 24 103 | ✅ | Čia suprantam lietuviškai / We understand lithuanian | en |
 | [blobfox.coffee](https://blobfox.coffee) | **85** | 18 315 | ✅ | A cozy instance for people that like blobfoxes and/or coffee, not a requirement however :) | en |
 | [social.ds106.us](https://social.ds106.us) | **85** | 20 475 | ✅ | This is a Mastodon sandbox for ds106 folks. Play at your own creative risk. | en |
-| [river.group.lt](https://river.group.lt) | **85** | 24 033 | ✅ | Čia suprantam lietuviškai / We understand lithuanian | en |
 | [kamu.social](https://kamu.social) | **85** | 15 677 | ❌ | Mastodon server for a circle of friends and their friends. | en |
 | [mastodon.earth](https://mastodon.earth) | **85** | 5 360 | ❌ | ? | en |
 | [systerserver.town](https://systerserver.town) | **85** | 19 088 | ✅ | Systerserver.town is a feminist instance of the Mastodon network. Any contribution to support the server can go to https://opencollective.com/systerserver-town | en |
@@ -1515,7 +1516,7 @@
 | [soc.gsg.live](https://soc.gsg.live) | **84** | 13 044 | ✅ | Official Mastodon instance of the Golden Shrimp Guild, a community of electronic live musicians, multidisciplinary artists, and innovative creators and engineers. | en |
 | [kbin.melroy.org](https://kbin.melroy.org) | **84** | 176 | ✅ | ? | ? |
 | [voi.social](https://voi.social) | **83** | 5 012 | ✅ | voi.social ist ein soziales Netzwerk fia di und mi. Ohne Spionage und ohne die Absicht, eine Mauer zu bauen. Willkommen! | de |
-| [social.tulsa.ok.us](https://social.tulsa.ok.us) | **83** | 47 941 | ✅ | Green Country's regional fediverse instance. | en |
+| [social.tulsa.ok.us](https://social.tulsa.ok.us) | **83** | 48 051 | ✅ | Green Country's regional fediverse instance. | en |
 | [alpaca.gold](https://alpaca.gold) | **83** | 7 340 | ✅ | A server for Laurie Voss and friends. | en |
 | [linke.social](https://linke.social) | **82** | 1 808 | ✅ | ? | en |
 | [laserdisc.party](https://laserdisc.party) | **82** | 247 625 | ❌ | Welcome to laserdisc.party, a movie-flavoured instance home to friendly video store chitchat and general bonhomie. | en |
@@ -1523,6 +1524,7 @@
 | [mastodon.tn](https://mastodon.tn) | **82** | 8 703 | ✅ | Réseau social décentralisé propulsé par Mastodon. | fr |
 | [flipping.rocks](https://flipping.rocks) | **82** | 69 526 | ✅ | ? | ? |
 | [communick.news](https://communick.news) | **82** | 465 | ✅ | ? | ? |
+| [recordplug.club](https://recordplug.club) | **82** | 1 173 | ✅ | Mastodon server based in Atlanta & Athens Georgia for musicians, music fans, and music journalists. Hosted by Record Plug Magazine. | en |
 | [corneill.es](https://corneill.es) | **81** | 20 055 | ✅ | Instance Mastodon francophone queer-centrée à tendance gauchiste qui essaie d'être un endroit sympa. | fr |
 | [burnthis.town](https://burnthis.town) | **81** | 18 525 | ✅ | Olá, somos a Cidade em Chamas. Mas tá tudo bem. Somos uma instância brasileira. Aqui são bem-vindes todas as pessoas que não reproduzam discurso de ódio, racismo, lgtbfobia, machismo, misoginia. | en |
 | [slime.global](https://slime.global) | **81** | 589 530 | ❌ | ? | ? |
@@ -1542,9 +1544,9 @@
 | [neuroscience-mastodon.com](https://neuroscience-mastodon.com) | **80** | 15 519 | ✅ | ? | en |
 | [mastodon.motcha.tech](https://mastodon.motcha.tech) | **79** | 294 139 | ✅ | ちいさな避暑地。ノンジャンル。 | ja |
 | [niedersachsen.social](https://niedersachsen.social) | **79** | 13 955 | ✅ | Der Mastodon-Server für Niedersachsen. Wir sind gerade erst gestartet, lasst uns zusammen eine tolle Community aufbauen! | en |
-| [lipsia.casa](https://lipsia.casa) | **79** | 8 945 | ✅ | lipsia.casa ist eine Mastodon Instanz für jede:n Leipziger:in und alle, die sich mit Leipzig verbunden fühlen | en |
+| [lipsia.casa](https://lipsia.casa) | **79** | 8 947 | ✅ | lipsia.casa ist eine Mastodon Instanz für jede:n Leipziger:in und alle, die sich mit Leipzig verbunden fühlen | en |
 | [sardegna.social](https://sardegna.social) | **79** | 1 966 | ✅ | ? | it |
-| [charcha.cc](https://charcha.cc) | **79** | 151 287 | ✅ | ? | ? |
+| [charcha.cc](https://charcha.cc) | **79** | 151 111 | ✅ | ? | ? |
 | [twely.etn.icu](https://twely.etn.icu) | **79** | 9 538 | ✅ | ? | ? |
 | [group.lt](https://group.lt) | **79** | 1 263 | ✅ | ? | ? |
 | [fluffy.family](https://fluffy.family) | **79** | 35 637 | ✅ | an instance for pets  thumbnail found via CreativeCommons search. Source: https://www.flickr.com/photos/8126330@N05/5636516286 | en |
@@ -1572,12 +1574,12 @@
 | [hobbymetzgerei.de](https://hobbymetzgerei.de) | **75** | 105 | ✅ | Treffpunkt für Hobbymetzger - also für alle, die Spaß an der Herstellung von Wurst, Schinken und Speck haben. Betreiber dieses Servers ist raeucherwiki.de | en |
 | [social.makerforums.info](https://social.makerforums.info) | **75** | 13 212 | ✅ | Microblogging for Makers. Part of the Maker Forums community. Maker Forums Discourse: https://forum.makerforums.info/ | en |
 | [sharkey.world](https://sharkey.world) | **75** | 3 195 | ✅ | ? | ? |
+| [mastodon.pub.solar](https://mastodon.pub.solar) | **75** | 24 855 | ✅ | Mastodon is a micro-blogging platform. This instance is operated by pub.solar. We are a non-registered association seated in Cologne, Germany. Our goal is to enable more people to use free software, have secure digital communications, and to take control over their private data. We offer free software for you and all the people you love. We do this transparently and democratically. | en |
 | [hostsharing.coop](https://hostsharing.coop) | **74** | 27 170 | ❌ | hostsharing.coop ist die Mastodon-Instanz für Mitglieder der Hostsharing eG. Sie wird seit 2018 von der Hosting-Genossenschaft betrieben.  | de |
-| [mastodon.pub.solar](https://mastodon.pub.solar) | **74** | 24 841 | ✅ | Mastodon is a micro-blogging platform. This instance is operated by pub.solar. We are a non-registered association seated in Cologne, Germany. Our goal is to enable more people to use free software, have secure digital communications, and to take control over their private data. We offer free software for you and all the people you love. We do this transparently and democratically. | en |
 | [technodon.org](https://technodon.org) | **74** | 2 445 | ✅ | Technodon is an English speaking Mastodon instance that is open to anyone, especially those who are interested in technology & software. | en |
 | [mastodon.babb.no](https://mastodon.babb.no) | **74** | 6 137 | ✅ | This Norwegian Mastodon server is an unofficial meeting place for University of Oslo people, and more! | en |
-| [furs.social](https://furs.social) | **74** | 6 440 | ✅ | Furs.Social, a community for furries and friends! This is a place for all members of the furry community to connect and share content. | en |
-| [mstdn.isometry.group](https://mstdn.isometry.group) | **74** | 34 802 | ❌ | ? | en |
+| [furs.social](https://furs.social) | **74** | 6 457 | ✅ | Furs.Social, a community for furries and friends! This is a place for all members of the furry community to connect and share content. | en |
+| [mstdn.isometry.group](https://mstdn.isometry.group) | **74** | 34 848 | ❌ | ? | en |
 | [transgirl.cafe](https://transgirl.cafe) | **74** | 8 040 | ✅ | ? | ? |
 | [ibe.social](https://ibe.social) | **73** | 15 222 | ✅ | ? | ? |
 | [firefish.tech](https://firefish.tech) | **73** | 2 136 | ❌ | ? | ? |
@@ -1615,7 +1617,7 @@
 | [mastodon.akhepcat.com](https://mastodon.akhepcat.com) | **68** | 11 892 | ✅ | Alaskans for Alaska | en |
 | [plushies.social](https://plushies.social) | **68** | 40 268 | ❌ | plushies.social: A Mastodon instance for plushies | en |
 | [social.ferrocarril.net](https://social.ferrocarril.net) | **68** | 2 749 | ✅ | Servidor de mastodon, operado por aficionados al ferrocarril, para aficionados al ferrocarril. | en |
-| [discordian.social](https://discordian.social) | **67** | 119 237 | ✅ | Hail Eris! Get your hotdogs here. | en |
+| [discordian.social](https://discordian.social) | **67** | 119 594 | ✅ | Hail Eris! Get your hotdogs here. | en |
 | [moth.zone](https://moth.zone) | **67** | 42 052 | ❌ | ? | ? |
 | [mastodon.cl](https://mastodon.cl) | **67** | 1 786 | ✅ | Instancia de Mastodon en español con temática general orientado a la comunidad chilena para generar un espacio seguro, abierto y democrático en internet | es |
 | [nfld.me](https://nfld.me) | **67** | 10 842 | ✅ | Newfoundland and Labrador's Mastodon Server | en |
@@ -1624,7 +1626,7 @@
 | [glitch.lgbt](https://glitch.lgbt) | **66** | 7 078 | ✅ | Glitch.lgbt is a Mastodon-based home for glitch artists, queer and trans folk, & people interested in glitch or glitch culture. 📼 Let's make the net weird again. Glitch.lgbt has limited slots.  | en |
 | [rls.social](https://rls.social) | **66** | 8 279 | ✅ | <p>This is currently an experiment and place for members of the RLS community to play with Mastodon. <p>It is neither <u>official nor sanctioned</u> by RLS or Rands.  <p>This is not a space covered by the RLS CoC. | en |
 | [borahae.love](https://borahae.love) | **66** | 6 367 | ✅ | BTS Army? Need a server? Please use mine! | en |
-| [gs.leftic.club](https://gs.leftic.club) | **66** | 79 535 | ✅ | serveur mastodon | en |
+| [gs.leftic.club](https://gs.leftic.club) | **66** | 79 585 | ✅ | serveur mastodon | en |
 | [angrytoday.com](https://angrytoday.com) | **66** | 11 271 | ✅ | ? | ? |
 | [social.heise.de](https://social.heise.de) | **66** | 41 581 | ❌ | Der Mastodon-Server von und für Heise Medien und insb. die Nachrichten von heise online. | de |
 | [regenerate.social](https://regenerate.social) | **66** | 16 581 | ✅ | regenerate.social is a server for those practicing regenerative agriculture. That includes commercial producers, homesteaders, foresters and more. If you practice regenerative methods like Holistic Grazing, No-Till, No-Dig, Food Forestry, Cultural Burning, or others, feel free to request to join! | en |
@@ -1641,7 +1643,7 @@
 | [biscuit.town](https://biscuit.town) | **64** | 188 429 | ✅ | Biscuit.town est une instance par et pour les personnes neuroqueer, féministes et gauchistes. | en |
 | [publicgood.social](https://publicgood.social) | **64** | 3 679 | ✅ | A space for leaders, executives, academics, journalists, impact investors, etc. in the nonprofit sector to share expertise & analysis related to improving the public good. Hosted by ecurium. | en |
 | [lipn.info](https://lipn.info) | **64** | 5 614 | ✅ | Instance mise à disposition et opérée par le laboratoire d'informatique de Paris nord (LIPN). | en |
-| [ipv6.social](https://ipv6.social) | **64** | 11 147 | ✅ | ? | en |
+| [ipv6.social](https://ipv6.social) | **64** | 11 169 | ✅ | ? | en |
 | [tsukihi.me](https://tsukihi.me) | **64** | 46 186 | ✅ | Tsukihime (月姫, tsu-kee hee-mei) translation means Moon Princess. This server is ran by a Type-Moon fanatic as a safe haven for trans people by trans people | en |
 | [gearlandia.haus](https://gearlandia.haus) | **63** | 232 727 | ✅ | ? | ? |
 | [queer.garden](https://queer.garden) | **63** | 65 390 | ❌ | More queer, more garden. | en |
@@ -1651,7 +1653,7 @@
 | [mastodon.conquestuniverse.com](https://mastodon.conquestuniverse.com) | **62** | 2 170 | ✅ | Innovators Welcome! Every month we meet new creators and help develop new projects.  Our Concept is simple, provide assistance to help creators develop and get into our industry. | en |
 | [m.webtoo.ls](https://m.webtoo.ls) | **62** | 6 265 | ❌ | webtoo.ls is a small server dedicated to Open Source tools in the Web ecosystem and their maintainers, collaborators, and close community members. | en |
 | [denton.social](https://denton.social) | **62** | 8 226 | ✅ | A space for the people of Denton, TX. | en |
-| [packmates.org](https://packmates.org) | **62** | 23 544 | ✅ | A queer and cozy instance for therians, anthro & feral furries, pups, and fans of animal fiction such as TLK, Warrior Cats, Felidae... Well federated via 4+ furry relays. Run by staff of yiffit.net | en |
+| [packmates.org](https://packmates.org) | **62** | 23 593 | ✅ | A queer and cozy instance for therians, anthro & feral furries, pups, and fans of animal fiction such as TLK, Warrior Cats, Felidae... Well federated via 4+ furry relays. Run by staff of yiffit.net | en |
 | [franken.social](https://franken.social) | **61** | 10 773 | ✅ | Allmächd'na! Franggn is im Fediversum. Fei schee. | en |
 | [lediver.se](https://lediver.se) | **61** | 6 017 | ✅ | Für alle die einen gut moderierten Server suchen. Ganz egal ob ihr aus eurem Alltag postet, euch für queere Rechte stark macht oder etwas ganz anderes teilen wollt. In Leipzig entstanden, offen für al | de |
 | [wetshaving.social](https://wetshaving.social) | **61** | 3 541 | ✅ | Run by u/djundjila as a trial balloon to see whether adding a mastodon instance to the sub/barn/ranch scratches an itch.  Initially, this is open to active sub members of  r/wetshaving.  | en |
@@ -1660,9 +1662,9 @@
 | [technews.social](https://technews.social) | **61** | 980 | ✅ | TechNews.Social is a site dedicated to stories about technology, primarily, but not exclusively as it is used in business and commerce.  Sponsored by ITWC Canada. | en |
 | [curling.social](https://curling.social) | **61** | 4 180 | ✅ | A Mastodon life raft for Curling Twitter #twitterspiel  When creating an account, please mention what curling club you curl out of. (Helps weed out the spam.) | en |
 | [darkwitch.net](https://darkwitch.net) | **60** | 23 779 | ✅ | 站长爱好玄学，修炼占星、命理、占卜等等奇妙学科，欢迎玄学爱好者加入本站，共同探讨宇宙之奥秘。 站长和服务器均在海外。  本站八字 （供各位女巫参考） 壬寅 癸丑 庚寅 癸未  女巫站的灵异论坛：https://bbs.darkwitch.net/c/main | en |
-| [kzoo.to](https://kzoo.to) | **60** | 12 619 | ✅ | A community Mastodon server for the Kalamazoo area. | en |
+| [kzoo.to](https://kzoo.to) | **60** | 12 637 | ✅ | A community Mastodon server for the Kalamazoo area. | en |
 | [someone.elses.computer](https://someone.elses.computer) | **60** | 13 110 | ❌ | This is a private server run by and for the benefit of a small group of friends. Academia and research, law and policy, society and the Internet. Contact: Michael Veale. | en |
-| [bath.social](https://bath.social) | **60** | 1 818 | ✅ | ? | ? |
+| [bath.social](https://bath.social) | **60** | 1 826 | ✅ | ? | ? |
 | [neue.city](https://neue.city) | **60** | 23 794 | ❌ | ? | ? |
 | [techforgood.social](https://techforgood.social) | **60** | 3 133 | ✅ | This server is intended for tech and non-tech people to talk about events, activities, POC, projects, or products, that are using technology to help the community. | en |
 | [assortedflotsam.com](https://assortedflotsam.com) | **60** | 284 294 | ✅ | Committed to truth in discourse. | en |
@@ -1671,21 +1673,21 @@
 | [matrix.rocks](https://matrix.rocks) | **59** | 11 684 | ❌ | ? | ? |
 | [nuernberg.social](https://nuernberg.social) | **59** | 1 141 | ✅ | Eine Instanz für alles aus Nürnberg und Umgebung.  | de |
 | [jistflow.com](https://jistflow.com) | **59** | 639 | ✅ | ? | ? |
-| [suma-ev.social](https://suma-ev.social) | **59** | 6 362 | ✅ | ? | en |
+| [suma-ev.social](https://suma-ev.social) | **59** | 6 394 | ✅ | ? | en |
 | [ambrosia.moe](https://ambrosia.moe) | **58** | 16 006 | ❌ | ? | ? |
-| [social.sp-codes.de](https://social.sp-codes.de) | **58** | 17 412 | ✅ | ? | de |
+| [social.sp-codes.de](https://social.sp-codes.de) | **58** | 17 427 | ✅ | ? | de |
 | [crimew.gay](https://crimew.gay) | **58** | 75 510 | ❌ | ? | ? |
 | [nekoplanet.xyz](https://nekoplanet.xyz) | **58** | 61 170 | ❌ | ? | ? |
 | [a1.miclear.casa](https://a1.miclear.casa) | **58** | 726 | ✅ | ? | ? |
 | [eu.mastodon.green](https://eu.mastodon.green) | **57** | 5 824 | ✅ | Plant trees while you use Mastodon. EU.mastodon.green is a membership based server for people in the EU/EEA region | en |
-| [tukkers.online](https://tukkers.online) | **57** | 2 326 | ✅ | Dit is een sociaal netwerk voor tukkers! Maar dan zonder advertenties, zonder algoritme voor je tijdlijn en zonder dat je data verkocht wordt :)   | en |
-| [sanjuans.life](https://sanjuans.life) | **57** | 14 995 | ✅ | A community of residents of Washington's San Juan Islands. Local conversation, globally federated with the rest of the world. Run by volunteers; say Thank You at https://ko-fi.com/sanjuanslife | en |
+| [tukkers.online](https://tukkers.online) | **57** | 2 327 | ✅ | Dit is een sociaal netwerk voor tukkers! Maar dan zonder advertenties, zonder algoritme voor je tijdlijn en zonder dat je data verkocht wordt :)   | en |
+| [sanjuans.life](https://sanjuans.life) | **57** | 15 073 | ✅ | A community of residents of Washington's San Juan Islands. Local conversation, globally federated with the rest of the world. Run by volunteers; say Thank You at https://ko-fi.com/sanjuanslife | en |
 | [snailedit.social](https://snailedit.social) | **57** | 2 429 | ✅ | A "nice place on the internet" for the communities Snailed It loves | en |
 | [rheinland.social](https://rheinland.social) | **57** | 362 | ✅ | Mastodon ist ein dezentrales, soziales Netzwerk. Diese Instanz richtet sich an die Bewohner, Unternehmen und Institutionen der schönsten Region Deutschlands. | en |
-| [radicalsocial.work](https://radicalsocial.work) | **57** | 1 366 | ✅ | For social workers across the globe. Join us to be part developing the first social work community on Mastodon. | en |
-| [bolha.one](https://bolha.one) | **57** | 22 545 | ❌ | A Bolhinha é uma comunidade moderada do Mastodon sem tema específico, voltada para falantes de português. | pt-BR |
+| [radicalsocial.work](https://radicalsocial.work) | **57** | 1 373 | ✅ | For social workers across the globe. Join us to be part developing the first social work community on Mastodon. | en |
+| [bolha.one](https://bolha.one) | **57** | 22 607 | ❌ | A Bolhinha é uma comunidade moderada do Mastodon sem tema específico, voltada para falantes de português. | pt-BR |
 | [mapsupport.de](https://mapsupport.de) | **57** | 17 329 | ✅ | This is a Server for Queer People and Paraphilias & Allies, please Read & Respect the Rules especially about Illegal Content, upon Registering you will be Manually Activated. | en |
-| [krefeld.life](https://krefeld.life) | **56** | 31 201 | ✅ | Hier können sich Menschen aus Krefeld und vom Niederrhein finden und austauschen. Hier wird über Veranstaltungen informiert und berichtet. Es gibt Tipps rund um Kunst, Kultur und Freizeit. | de |
+| [krefeld.life](https://krefeld.life) | **56** | 31 208 | ✅ | Hier können sich Menschen aus Krefeld und vom Niederrhein finden und austauschen. Hier wird über Veranstaltungen informiert und berichtet. Es gibt Tipps rund um Kunst, Kultur und Freizeit. | de |
 | [cmh.one](https://cmh.one) | **56** | 7 663 | ✅ | ? | ? |
 | [chaosphere.hostdon.jp](https://chaosphere.hostdon.jp) | **56** | 1 847 611 | ❌ | ? | en |
 | [port87.social](https://port87.social) | **56** | 7 543 | ✅ | This is Port87 Social, a place for people to share with each other. We are a general-purpose Mastodon server run by SciActive Inc. | en |
@@ -1697,14 +1699,15 @@
 | [this.mouse.rocks](https://this.mouse.rocks) | **56** | 271 695 | ✅ | ? | en |
 | [thinktanki.social](https://thinktanki.social) | **56** | 1 690 | ✅ | The Thinktanki Community Server | en |
 | [escritura.social](https://escritura.social) | **56** | 227 | ❌ | ? | ? |
-| [mastonederland.nl](https://mastonederland.nl) | **55** | 29 698 | ✅ | MastoNederland, een kleine en gezellige Mastodon server. Open to all, feel free to chat along. | en |
+| [tambayan.us](https://tambayan.us) | **56** | 8 880 | ✅ | ? | en |
+| [mastonederland.nl](https://mastonederland.nl) | **55** | 29 735 | ✅ | MastoNederland, een kleine en gezellige Mastodon server. Open to all, feel free to chat along. | en |
 | [social.porto.digital](https://social.porto.digital) | **55** | 2 087 | ✅ | ? | ? |
-| [hofra.rocks](https://hofra.rocks) | **55** | 3 054 | ✅ | Dies ist die soziale Blase in der "ned g'mauld und g'nuch g'lobd wird"! | en |
+| [hofra.rocks](https://hofra.rocks) | **55** | 3 053 | ✅ | Dies ist die soziale Blase in der "ned g'mauld und g'nuch g'lobd wird"! | en |
 | [pix.mastodont.cat](https://pix.mastodont.cat) | **55** | 106 825 | ❌ | ? | ? |
 | [russiaukraine.world](https://russiaukraine.world) | **55** | 1 589 | ✅ | A server for people interested in discussing the Russian invasion of Ukraine, regional politics, and the world.   | en |
 | [shota.house](https://shota.house) | **55** | 147 060 | ❌ | ? | ? |
 | [brain.worm.pink](https://brain.worm.pink) | **55** | 17 137 | ✅ | ? | ? |
-| [dosgame.club](https://dosgame.club) | **54** | 37 703 | ❌ | dosgame.club is the fediverse home of <a href="https://dosgameclub.com">DOS Game Club</a>. People here are all in one way or another involved with retro computing or retro gaming. | en |
+| [dosgame.club](https://dosgame.club) | **54** | 37 721 | ❌ | dosgame.club is the fediverse home of <a href="https://dosgameclub.com">DOS Game Club</a>. People here are all in one way or another involved with retro computing or retro gaming. | en |
 | [climatejustice.events](https://climatejustice.events) | **54** | 294 | ✅ | ? | ? |
 | [spd.social](https://spd.social) | **54** | 2 533 | ❌ | Eine Mastodon-Instanz für die Mitglieder der SPD und der Jusos. | de |
 | [reliverse.social](https://reliverse.social) | **54** | 2 302 | ✅ | Die Mastodon-Instanz für religiöse Bildung --- the mastodon instance on religious education Powered by rpi-virtuell  | en |
@@ -1719,11 +1722,11 @@
 | [social.tcpcat.net](https://social.tcpcat.net) | **54** | 15 190 | ✅ | a shitty mastodon instance that's open to all; | en |
 | [paravielfalt.zone](https://paravielfalt.zone) | **53** | 9 861 | ✅ | Eine Instanz für paraphile Menschen und alle, die sich wegen ihrer sexuellen Identität aus der Gesellschaft ausgegrenzt fühlen. | de |
 | [masost.one](https://masost.one) | **53** | 6 679 | ❌ | ? | ? |
-| [drk.network](https://drk.network) | **53** | 2 505 | ✅ | DRK.Network ist die Mastodongemeinschaft für alle Rotkreuzler:innen und denen die sich dem DRK verbunden fühlen | de |
+| [drk.network](https://drk.network) | **53** | 2 508 | ✅ | DRK.Network ist die Mastodongemeinschaft für alle Rotkreuzler:innen und denen die sich dem DRK verbunden fühlen | de |
 | [social.stlouist.com](https://social.stlouist.com) | **53** | 10 639 | ✅ | part of the stLouIST Better Bubble™ | en |
 | [events.tchncs.de](https://events.tchncs.de) | **53** | 32 | ❌ | ? | ? |
 | [woofy.social](https://woofy.social) | **53** | 4 147 | ✅ | A Mastodon server for Pups, Handlers, and anyone else that is LGBTQ+ friendly | en |
-| [closednetwork.social](https://closednetwork.social) | **53** | 3 359 | ✅ | Closed Network Privacy Podcast Mastodon | en |
+| [closednetwork.social](https://closednetwork.social) | **53** | 3 360 | ✅ | Closed Network Privacy Podcast Mastodon | en |
 | [karlsruhe.social](https://karlsruhe.social) | **52** | 2 414 | ✅ | Betrieben von:  Andreas Gräber Pfeiferäcker 14 76287 Rheinstetten  Server Titelfoto: AdobeStock / tichr   | en |
 | [greennuclear.online](https://greennuclear.online) | **52** | 8 908 | ✅ | This is the mastodon server of the nuclear community. | en |
 | [annihilation.social](https://annihilation.social) | **52** | 57 060 | ✅ | ? | ? |
@@ -1738,7 +1741,7 @@
 | [weremember.social](https://weremember.social) | **51** | 2 281 | ✅ | WeRemember.social ist eine Mastodoninstanz für eine lebendige Erinnerungskultur. Wir möchten die Sichtbarkeit und Vernetzung von Initiativen und Einzelpersonen fördern, die die Erinnerung an die Opfer | en |
 | [0w0.is](https://0w0.is) | **51** | 226 251 | ❌ | ? | ? |
 | [hub.volse.no](https://hub.volse.no) | **51** | 15 809 | ❌ | ? | ? |
-| [kosmos.social](https://kosmos.social) | **51** | 35 349 | ✅ | kosmos.social is a friendly place for participating in the fediverse. It is run by the Kosmos open-source co-operative. | en |
+| [kosmos.social](https://kosmos.social) | **51** | 35 363 | ✅ | kosmos.social is a friendly place for participating in the fediverse. It is run by the Kosmos open-source co-operative. | en |
 | [otakufarms.com](https://otakufarms.com) | **51** | 152 | ✅ | ? | ? |
 | [karlsruhe-social.de](https://karlsruhe-social.de) | **51** | 9 022 | ✅ | Dieser Mastodon Server ist gedacht für alle Menschen, die sich für alles und alle rund um die Stadt und die Region Karlsruhe (Germany) interessieren. | en |
 | [social.anacreonte.eu](https://social.anacreonte.eu) | **51** | 8 727 | ✅ | ? | ? |
@@ -1747,6 +1750,7 @@
 | [society.oftrolls.com](https://society.oftrolls.com) | **50** | 44 364 | ❌ | A nice little Mastodon instance. Mild trolling encouraged (keep it local), but not required.  Malicious behaviour is not tolerated. Follow Wheaton's law and you'll be fine. | en |
 | [social.servus.at](https://social.servus.at) | **50** | 4 606 | ❌ | ? | ? |
 | [amicale.net](https://amicale.net) | **50** | 482 575 | ❌ | ? | fr |
+| [cmm.fyi](https://cmm.fyi) | **50** | 41 935 | ✅ | ? | en |
 | [rockcd.jp](https://rockcd.jp) | **49** | 13 983 | ✅ | No Pasaran! 奴らを通すな！ | en |
 | [koliosky.com](https://koliosky.com) | **49** | 79 462 | ❌ | ? | ? |
 | [tw.town](https://tw.town) | **49** | 1 120 | ✅ | ? | ? |
@@ -1771,21 +1775,21 @@
 | [mastodon.vanlife.is](https://mastodon.vanlife.is) | **48** | 625 | ✅ | This is a Mastodon server meant for those who are living or are curious about living the #vanlife. But all are welcome! | en |
 | [coolmathgam.es](https://coolmathgam.es) | **47** | 74 290 | ✅ | coolmathgam.es is a parody Mastodon instance that is NOT AFFILIATED with that one site you all know and love. Please no sue this is a joke. | en |
 | [shadowland.social](https://shadowland.social) | **47** | 1 868 | ✅ | The infamous Shadowland BBS! The rumors of its demise have been ... mostly ... exaggerated. | en |
-| [know.me.uk](https://know.me.uk) | **47** | 3 403 | ✅ | UK Based Mastodon Server - available to *humans* and *purposeful* automations. | en |
+| [know.me.uk](https://know.me.uk) | **47** | 3 419 | ✅ | UK Based Mastodon Server - available to *humans* and *purposeful* automations. | en |
 | [neos.social](https://neos.social) | **47** | 4 198 | ❌ | This Mastodon instance serves as a platform for discussing Neos-related topics and as a connection to the Fediverse. | en |
 | [haunted.computer](https://haunted.computer) | **47** | 15 870 | ❌ | This Mastodon instance is for ghosts. | en |
-| [bewegung.social](https://bewegung.social) | **47** | 7 846 | ❌ | Server *ausschließlich* für zivilgesellschaftliche Bewegungen | betrieben von Digitalcourage | Kosten: 1 Euro/mtl. |  Privatpersonen nutzen bitte https://digitalcourage.social | de |
+| [bewegung.social](https://bewegung.social) | **47** | 7 872 | ❌ | Server *ausschließlich* für zivilgesellschaftliche Bewegungen | betrieben von Digitalcourage | Kosten: 1 Euro/mtl. |  Privatpersonen nutzen bitte https://digitalcourage.social | de |
 | [emeraldsocial.org](https://emeraldsocial.org) | **47** | 10 187 | ✅ | Emerald Social is a social network for Eugene-Springfield (Oregon) and the surrounding area, and a gateway to the world. | en |
-| [social.audiovalentine.com](https://social.audiovalentine.com) | **47** | 8 600 | ✅ | Server operated by Riley Valentine. | en |
+| [social.audiovalentine.com](https://social.audiovalentine.com) | **47** | 8 604 | ✅ | Server operated by Riley Valentine. | en |
 | [baka.social](https://baka.social) | **47** | 1 638 | ✅ | 💜 Welcome to Baka Social!. A mastodon instance for VRChat content creators!. 💜 | en |
 | [the.asbestos.cafe](https://the.asbestos.cafe) | **47** | 35 017 | ✅ | ? | ? |
 | [mastodon.economiasocial.org](https://mastodon.economiasocial.org) | **47** | 3 958 | ✅ | (CAT) Aquest servidor ECONOMIASOCIAL està pensat per a persones, entitats i empreses de l'Economia Social i Solidària (ES) Este servidor ECONOMIASOCIAL está pensado para personas, entidades y empresas de la Economía Social y Solidaria. | ca |
 | [decayable.ink](https://decayable.ink) | **47** | 65 155 | ✅ | ? | ? |
 | [labyrinth.zone](https://labyrinth.zone) | **47** | 19 661 | ✅ | ? | ? |
 | [moessingen.social](https://moessingen.social) | **46** | 5 663 | ✅ | Eine Mastodon-Instanz für das Steinlachtal. Gäste willkommen. Betrieben und moderiert von Schüler:innen der Freifunk AG am Quenstedt-Gymnasium. | en |
-| [epistolary.org](https://epistolary.org) | **46** | 8 385 | ✅ | A server to share thoughts with friends and read what's going on in the world. | en |
+| [epistolary.org](https://epistolary.org) | **46** | 8 435 | ✅ | A server to share thoughts with friends and read what's going on in the world. | en |
 | [hackaday.social](https://hackaday.social) | **46** | 5 758 | ✅ | Hackaday community Mastodon instance.  Welcome! | en |
-| [bunt.social](https://bunt.social) | **46** | 40 162 | ✅ | ? | en |
+| [bunt.social](https://bunt.social) | **46** | 40 233 | ✅ | ? | en |
 | [hell.social](https://hell.social) | **46** | 2 727 | ❌ | ? | ? |
 | [mast.linuxgamecast.com](https://mast.linuxgamecast.com) | **46** | 21 739 | ❌ | We’re a group of volunteers helping the Linux community with gaming, podcasting, live streaming, and audio / video production since 2010.  | en |
 | [streamerchat.social](https://streamerchat.social) | **46** | 899 | ✅ | We are a community made up of Streamers and people (Chat) that are interested in their content. We are predominately centered around information in the Gaming community. | en |
@@ -1795,14 +1799,14 @@
 | [arthropod.social](https://arthropod.social) | **46** | 1 595 | ✅ | A place for folks who love arthropods. An outgrowth of "ento twitter". Support us and help cover costs at https://ko-fi.com/arthropodsocial | en |
 | [sharlayan.in](https://sharlayan.in) | **46** | 270 212 | ❌ | 북해에 존재하는 외딴 섬나라 샬레이안. 살리아크의 비호 아래 학자들은 여러 지식과 비밀을 보관하고 있다...  | en |
 | [furry.horse](https://furry.horse) | **46** | 4 742 | ✅ | Furry server for equines and friends! 🐎 | en |
-| [social.hackerspace.pl](https://social.hackerspace.pl) | **46** | 14 502 | ❌ | A server by and for the members of the Warsaw Hackerspace. | en |
+| [social.hackerspace.pl](https://social.hackerspace.pl) | **46** | 14 588 | ❌ | A server by and for the members of the Warsaw Hackerspace. | en |
 | [mastodon-ero.xyz](https://mastodon-ero.xyz) | **46** | 21 376 | ✅ | マストドンJAPAN鯖　アダルト可能なマストドン。プロフィールに仮想通貨のウォレットを掲載する事も可能です。  | en |
 | [kowelenz.social](https://kowelenz.social) | **46** | 8 967 | ✅ | ? | ? |
 | [twoot.site](https://twoot.site) | **46** | 11 414 | ✅ | Twootsite is a general instance with a focus on your safety. We have strict moderation and rules to promote accessibility. Twootsite is running glitch-soc! (RIP Tootsite) | en |
 | [montereybay.social](https://montereybay.social) | **45** | 15 228 | ✅ | An instance for the Monterey Bay area -- Santa Cruz, San Benito, and Monterey counties.  Let's talk about this amazing place where we live and share the beauty of the Central Coast with the world! | en |
 | [cackl.io](https://cackl.io) | **45** | 2 448 | ✅ | A Twitter alternative for cacklers! Run by hyenas, participated by hyenas. All furry species allowed. A safe space for all shapes, sizes, and species. | en |
-| [skeptics.social](https://skeptics.social) | **45** | 17 872 | ✅ | A social network for lovers of science, rational thinkers and skeptics. Darwin portrait by David Revoy under CC license (https://www.davidrevoy.com/article145/portrait-of-charles-darwin) | en |
-| [animal.business](https://animal.business) | **45** | 12 548 | ❌ | A small server for a small group of dog things | en |
+| [skeptics.social](https://skeptics.social) | **45** | 17 906 | ✅ | A social network for lovers of science, rational thinkers and skeptics. Darwin portrait by David Revoy under CC license (https://www.davidrevoy.com/article145/portrait-of-charles-darwin) | en |
+| [animal.business](https://animal.business) | **45** | 12 561 | ❌ | A small server for a small group of dog things | en |
 | [fed.dyne.org](https://fed.dyne.org) | **45** | 242 | ✅ | ? | ? |
 | [uwyn.net](https://uwyn.net) | **45** | 2 703 | ✅ | Uwyn's instance to join and participate in the Fediverse. | en |
 | [freiewaehler.social](https://freiewaehler.social) | **45** | 499 | ✅ | Herzlich Willkommen auf der Mastodon Instanz der FREIEN WÄHLER. Dieser Server ist für alle offiziellen Parteigliederungen und alle interessierten Mitglieder gedacht. | en |
@@ -1810,25 +1814,25 @@
 | [monsterfuckers.online](https://monsterfuckers.online) | **45** | 43 239 | ❌ | ? | ? |
 | [social.anartist.org](https://social.anartist.org) | **45** | 10 166 | ❌ | Servidor social de Mastodon de Anartist. Para registrarte puedes conseguir información en https://anartist.org | en |
 | [v.basspistol.org](https://v.basspistol.org) | **45** | 52 007 | ✅ | ? | ? |
-| [attractive.space](https://attractive.space) | **45** | 11 779 | ✅ | For creative individuals and companies who love beautiful art, emotive writing, wonderful products, inspiring technology and enticing design. For those who build whole new worlds. | en |
-| [mastoart.social](https://mastoart.social) | **45** | 13 187 | ✅ | mastoart.social is a creative space for you to share your art and be part of a friendly creative community. A Mastodon instance that's hosted in Germany and runs on 100% green energy. | en |
+| [attractive.space](https://attractive.space) | **45** | 11 824 | ✅ | For creative individuals and companies who love beautiful art, emotive writing, wonderful products, inspiring technology and enticing design. For those who build whole new worlds. | en |
+| [mastoart.social](https://mastoart.social) | **45** | 13 269 | ✅ | mastoart.social is a creative space for you to share your art and be part of a friendly creative community. A Mastodon instance that's hosted in Germany and runs on 100% green energy. | en |
 | [lab.nyanide.com](https://lab.nyanide.com) | **44** | 51 843 | ✅ | ? | ? |
 | [social.pixie.town](https://social.pixie.town) | **44** | 94 557 | ❌ | ? | ? |
 | [godforsaken.website](https://godforsaken.website) | **44** | 472 563 | ❌ | godforsaken.website is a uk-based mastodon instance boasting literally thousands of posts about bumholes and UNESCO world heritage sites | en |
 | [social.linksfraktion.de](https://social.linksfraktion.de) | **44** | 12 386 | ❌ | Mastodon-Instanz der Fraktion DIE LINKE. im Bundestag. | de |
 | [toot.mantyke.icu](https://toot.mantyke.icu) | **44** | 111 884 | ❌ | ? | ? |
 | [tux.social](https://tux.social) | **44** | 3 144 | ✅ | Swiss instance, focused on tech 🐧, nature 🏔️🍃and society.   Be open-minded, respectful and kind!  Run and moderated by @tux.  | en |
-| [leds.social](https://leds.social) | **44** | 4 520 | ✅ | A place for people that like LEDs. LEDs.social is hosted by ElectroMage. | en |
+| [leds.social](https://leds.social) | **44** | 4 523 | ✅ | A place for people that like LEDs. LEDs.social is hosted by ElectroMage. | en |
 | [jit.social](https://jit.social) | **44** | 2 491 | ✅ | ? | en |
 | [lgbtcz.social](https://lgbtcz.social) | **44** | 1 648 | ✅ | Mastodon pro české LGBTQIA+ lidi a spojence (allies). Registrace podléhá schvalování. Naše hodnoty: respekt k druhým a netolerance netolerance. Provozuje kolektiv NoLog.cz, moderuje (zatím) Kayla. | cs |
 | [void.rehab](https://void.rehab) | **44** | 96 940 | ❌ | ? | ? |
 | [froggie.gay](https://froggie.gay) | **44** | 26 254 | ✅ | ? | ? |
 | [oomfie.city](https://oomfie.city) | **44** | 17 807 | ✅ | "Typical twitter users, only interested in consumerist pleasure and being totally unprincipled." Runs on Chuckya! | en |
 | [laburo.social](https://laburo.social) | **44** | 149 | ✅ | Red social de trabajadores independientes, artesanos y locales pequeños de Argentina | es |
-| [semiosen.de](https://semiosen.de) | **43** | 10 055 | ✅ | Semiosen verbreitet Themen und Trends von www.semiosis.at sowie anderen Plattformen und dient dem Austausch - von Informationen, begründeten Meinungen, Ideen und Analysen. | en |
+| [semiosen.de](https://semiosen.de) | **43** | 10 059 | ✅ | Semiosen verbreitet Themen und Trends von www.semiosis.at sowie anderen Plattformen und dient dem Austausch - von Informationen, begründeten Meinungen, Ideen und Analysen. | en |
 | [ttrpg-hangout.social](https://ttrpg-hangout.social) | **43** | 4 381 | ✅ | Welcome to the TableTop RolePlaying Games Hangout where we discuss all things related to our favorite roleplaying games! | en |
 | [friendica.utzer.de](https://friendica.utzer.de) | **43** | 8 057 | ❌ | ? | ? |
-| [shark.community](https://shark.community) | **43** | 9 476 | ✅ | All of good heart are welcome, regardless of their race, gender, or species. Membership is open—the approval is to weed out harmful bots and spam accounts. Come for a swim! The sharks don't bite. | en |
+| [shark.community](https://shark.community) | **43** | 9 494 | ✅ | All of good heart are welcome, regardless of their race, gender, or species. Membership is open—the approval is to weed out harmful bots and spam accounts. Come for a swim! The sharks don't bite. | en |
 | [chillpeep.zone](https://chillpeep.zone) | **43** | 6 082 | ✅ | A LGBTQ+ friendly multi-fandom instance for newcomers to the fediverse. Open to furries, artists and techies! | en |
 | [mastodon.dias.ie](https://mastodon.dias.ie) | **43** | 4 636 | ✅ | This mastodon server is reserved for past, present and future DIAS members. | en |
 | [lemmyhub.com](https://lemmyhub.com) | **43** | 66 | ✅ | ? | ? |
@@ -1842,17 +1846,17 @@
 | [quest.livellosegreto.it](https://quest.livellosegreto.it) | **43** | 206 | ✅ | ? | ? |
 | [ms.maritime.social](https://ms.maritime.social) | **43** | 58 | ✅ | Maritime Social is a community with a mission to bring together maritime enthusiasts and professionals. | en |
 | [friendica.myportal.social](https://friendica.myportal.social) | **42** | 15 375 | ✅ | ? | ? |
-| [cultofshiv.wtf](https://cultofshiv.wtf) | **42** | 41 795 | ❌ | Invite only Mastodon instance for the Cult of Shiv community. | en |
+| [cultofshiv.wtf](https://cultofshiv.wtf) | **42** | 41 884 | ❌ | Invite only Mastodon instance for the Cult of Shiv community. | en |
 | [foxy.social](https://foxy.social) | **42** | 221 | ✅ | ? | ? |
 | [alpha.polymaths.social](https://alpha.polymaths.social) | **42** | 49 356 | ❌ | ? | ? |
-| [az.social](https://az.social) | **42** | 2 962 | ✅ | A community Mastodon server for Arizonans, though anyone who can follow the rules is welcome.  See also lemmy.az.social. | en |
+| [az.social](https://az.social) | **42** | 2 968 | ✅ | A community Mastodon server for Arizonans, though anyone who can follow the rules is welcome.  See also lemmy.az.social. | en |
 | [pocketpixels.club](https://pocketpixels.club) | **42** | 1 915 | ✅ | The Pocket Pixels club is a place where everyone shares a love of retro handheld games. GB Devs, Low-res pixel arists, Modders, Collectors, and Players! | en |
 | [clockwork.monster](https://clockwork.monster) | **42** | 3 889 | ✅ | Just a silly mstdn server setup for monster and fae types, and their friends~ | en |
 | [social.antifa.gmbh](https://social.antifa.gmbh) | **42** | 8 165 | ✅ | ? | en |
 | [piupiupiu.com.br](https://piupiupiu.com.br) | **42** | 3 713 | ✅ | Aqui o passarinho pia! | en |
 | [idtech.space](https://idtech.space) | **42** | 1 864 | ✅ | ? | ? |
 | [pouque.net](https://pouque.net) | **42** | 9 590 | ✅ | ? | ? |
-| [birdbutt.com](https://birdbutt.com) | **42** | 12 783 | ✅ | Welcome to birdbutt! This instance is home to avian/bird/featheries/furries and welcome to all! Introduce yourself when joining & please abide by rules! Our hashtag: #BirdButt | en |
+| [birdbutt.com](https://birdbutt.com) | **42** | 12 823 | ✅ | Welcome to birdbutt! This instance is home to avian/bird/featheries/furries and welcome to all! Introduce yourself when joining & please abide by rules! Our hashtag: #BirdButt | en |
 | [incremental.social](https://incremental.social) | **42** | 15 | ❌ | ? | ? |
 | [owo.town](https://owo.town) | **41** | 10 002 | ✅ | Welcome to OwO Town!  This is a Mastodon instance targeted at members of the furry community but anyone is welcome to join!  Be sure to check our rules! The TLDR is be nice. | en |
 | [fedi.halcyon-is.land](https://fedi.halcyon-is.land) | **41** | 6 694 | ✅ | SOCIAL MEDIA UNDERGROUND 4 PPL WHO CARE ABOUT THE INTERNET | en |
@@ -1860,8 +1864,8 @@
 | [thecooltable.wtf](https://thecooltable.wtf) | **41** | 6 672 | ❌ | ? | en |
 | [social.wikimedia.de](https://social.wikimedia.de) | **41** | 1 001 | ✅ | Diese Mastodon-Instanz im Fediverse wird von Wikimedia Deutschland – Gesellschaft zur Förderung Freien Wissens e.V. für die Mitglieder des Präsidiums und die Mitarbeiter*innen betrieben. | en |
 | [mstdn.plus.st](https://mstdn.plus.st) | **41** | 4 863 | ✅ | ? | ? |
-| [wandzeitung.xyz](https://wandzeitung.xyz) | **41** | 40 945 | ✅ | Wandzeitung - Kurznachrichtendienst im Internetz #w9g | en |
-| [ifwo.eu](https://ifwo.eu) | **41** | 20 257 | ✅ | Raum für Irritationen | en |
+| [wandzeitung.xyz](https://wandzeitung.xyz) | **41** | 41 010 | ✅ | Wandzeitung - Kurznachrichtendienst im Internetz #w9g | en |
+| [ifwo.eu](https://ifwo.eu) | **41** | 20 299 | ✅ | Raum für Irritationen | en |
 | [iyasaretai.pw](https://iyasaretai.pw) | **41** | 145 445 | ❌ | ようこそ。ここはありふれたマストドンサーバーのひとつ、癒やされたいです。 | en |
 | [hooves.social](https://hooves.social) | **41** | 11 777 | ❌ | ? | ? |
 | [cuyes.mooo.com](https://cuyes.mooo.com) | **41** | 13 702 | ✅ | Instancia privada. Por favor no solicitar cuentas. | en |
@@ -1910,14 +1914,14 @@
 | [geraffel.social](https://geraffel.social) | **37** | 2 700 | ❌ | This is the place in Cyberspace for Geraffel-Village and its friends. To get access ask in in the Threema Bar channel or the geraffel-village channel.  | en |
 | [restof.social](https://restof.social) | **37** | 1 201 | ✅ | We're a global nonprofit publication covering technology beyond the Western bubble. | en |
 | [social.data.coop](https://social.data.coop) | **37** | 15 956 | ❌ | Denne Mastodon server er for medlemmer af data.coop. Du er naturligvis velkommen til at melde dig ind i vores forening hvis du vil være med! Mere info på vores hjemmeside data.coop. | en |
-| [ooe.social](https://ooe.social) | **37** | 582 | ✅ | Dies hier ist die Oberösterreichische Instanz des dezentralen Netzwerks Mastodon.   | en |
+| [ooe.social](https://ooe.social) | **37** | 580 | ✅ | Dies hier ist die Oberösterreichische Instanz des dezentralen Netzwerks Mastodon.   | en |
 | [social.ordinal.garden](https://social.ordinal.garden) | **37** | 5 616 | ✅ | a server for members of ordinal.garden | en |
 | [pl.fediverse.pl](https://pl.fediverse.pl) | **37** | 2 233 | ✅ | ? | ? |
 | [post.ebin.club](https://post.ebin.club) | **37** | 23 010 | ❌ | ? | ? |
 | [colter.social](https://colter.social) | **37** | 440 | ✅ | colter.social est réservé aux agent·e·s, services et élu·e·s des collectivités territoriales françaises.   Ce service est administré par le SITPI. | fr |
 | [liberal.city](https://liberal.city) | **37** | 20 920 | ✅ | free speech and good faith in pursuit of community and greater understanding. | en |
 | [ubuntu.social](https://ubuntu.social) | **37** | 16 165 | ✅ | Mastodon server focused on Ubuntu related topics. A community-run initiative, not   endorsed by the Ubuntu project, nor is it hosted by Canonical. 👋 | en |
-| [social.zdx.fr](https://social.zdx.fr) | **36** | 28 958 | ✅ | social.zdx.fr est une instance Mastodon essentiellement francophone. | en |
+| [social.zdx.fr](https://social.zdx.fr) | **36** | 28 960 | ✅ | social.zdx.fr est une instance Mastodon essentiellement francophone. | en |
 | [froggie.town](https://froggie.town) | **36** | 10 509 | ❌ | ? | ? |
 | [mugicha.club](https://mugicha.club) | **36** | 166 699 | ❌ | ? | ? |
 | [antabaka.me](https://antabaka.me) | **36** | 10 200 | ❌ | Hello ! This is a server for a small community but where everyone can share what they love. | en |
@@ -1927,25 +1931,25 @@
 | [socialnotwork.net](https://socialnotwork.net) | **36** | 8 373 | ❌ | Just some old nerds doin' their old nerd thing. | en |
 | [social.design.systems](https://social.design.systems) | **36** | 1 960 | ❌ | Social for the design systems community | en |
 | [coales.co](https://coales.co) | **36** | 18 350 | ✅ | ? | ? |
-| [mastodon.bawue.social](https://mastodon.bawue.social) | **36** | 4 534 | ❌ | bawue.net e.V. Mastodon Server | de |
+| [mastodon.bawue.social](https://mastodon.bawue.social) | **36** | 4 543 | ❌ | bawue.net e.V. Mastodon Server | de |
 | [mymath.rocks](https://mymath.rocks) | **36** | ? | ❌ | ? | ? |
 | [gender.systems](https://gender.systems) | **36** | 16 992 | ❌ | gender.systems is an invite-only queer instance for those inhabiting the liminal spaces between worlds. Speak softly and tread carefully - the dolls are sleeping. | en |
 | [gosuslugi.social](https://gosuslugi.social) | **36** | 202 | ✅ | ? | ? |
 | [mk.catgirlsfor.science](https://mk.catgirlsfor.science) | **36** | 48 761 | ❌ | ? | ? |
-| [x0f.org](https://x0f.org) | **36** | 25 652 | ❌ | ? | en |
+| [x0f.org](https://x0f.org) | **36** | 25 659 | ❌ | ? | en |
 | [bots.defencegeeks.net](https://bots.defencegeeks.net) | **36** | 78 062 | ❌ | ? | en |
 | [officiell-info.se](https://officiell-info.se) | **36** | 22 738 | ✅ | En mastodon-server för automatiserade RSS-flöden från svenska myndigheter och organisationer  | en |
-| [thegem.city](https://thegem.city) | **36** | 5 990 | ✅ | Supporting the greater Dayton, Ohio community. | en |
 | [freifunk.social](https://freifunk.social) | **36** | 2 718 | ✅ | ? | de |
 | [i1.no](https://i1.no) | **36** | 1 125 | ✅ | A friendly Mastodon instance for friends, family and fools in the tech and Norwegian startup community.  | en |
 | [social.mykolayiv.dcomm.net.ua](https://social.mykolayiv.dcomm.net.ua) | **36** | 7 111 | ✅ | Part of dcomm.net.ua. Decentralized communication tools you can use, even when Internet connectivity to Telegram, Whatsapp, Facebook and others is no longer available. | en |
 | [eepy.moe](https://eepy.moe) | **36** | 47 154 | ❌ | ? | ? |
 | [catswords.social](https://catswords.social) | **36** | 25 736 | ✅ | Catch your own words! 캐츠워즈 콜로세움, 당신이 이겨야 하는 곳 (Maintained by Catswords Research) | en |
+| [thegem.city](https://thegem.city) | **35** | 6 005 | ✅ | Supporting the greater Dayton, Ohio community. | en |
 | [retrogaming.social](https://retrogaming.social) | **35** | 5 567 | ✅ | ? | en |
 | [awaymessage.club](https://awaymessage.club) | **35** | 9 141 | ❌ | a little Mastodon service for people who miss when the most social we got was carefully choosing song lyrics for our AIM away messages | en |
 | [suya.place](https://suya.place) | **35** | 26 134 | ❌ | ? | ? |
 | [katzebot.space](https://katzebot.space) | **35** | 5 017 | ✅ | Инстанс, созданный с идеей собрать кацеботов на одном сервере в mastodon. | en |
-| [teh.entar.net](https://teh.entar.net) | **35** | 30 520 | ❌ | teh.entar.net is part of the Mastodon network, a decentralized social network with no ads, no corporate surveillance, ethical design, and Oxford commas. | en |
+| [teh.entar.net](https://teh.entar.net) | **35** | 30 577 | ❌ | teh.entar.net is part of the Mastodon network, a decentralized social network with no ads, no corporate surveillance, ethical design, and Oxford commas. | en |
 | [xxivproduction.video](https://xxivproduction.video) | **35** | 56 938 | ❌ | ? | ? |
 | [artistalley.space](https://artistalley.space) | **35** | 627 | ✅ | ArtistAlley.space is a place for professional and amateur artists and creators to share their work and build an audience on Mastodon and the Fediverse. | en |
 | [biplus.social](https://biplus.social) | **35** | 2 277 | ✅ | Der Mastodon-Server für die Bi+Community und Allies, betrieben vom gemeinnützigen Verein BiNe - Bisexuelles Netzwerk e.V. | de |
@@ -1957,7 +1961,7 @@
 | [serenityos.social](https://serenityos.social) | **35** | 13 708 | ✅ | A Mastodon server for friends of SerenityOS :^) | en |
 | [wolfdo.gg](https://wolfdo.gg) | **35** | 11 988 | ❌ | ? | ? |
 | [pkutalk.com](https://pkutalk.com) | **34** | 4 058 | ✅ | A Mastodon server for PKU people! --- C'est un petit serveur Mastodon pour les PKU ! | en |
-| [travelpandas.fr](https://travelpandas.fr) | **34** | 19 595 | ✅ | Bienvenue sur l'instance Travelpandas. Une instance francophone qui permet de s'évader où le respect est primordial! | fr |
+| [travelpandas.fr](https://travelpandas.fr) | **34** | 19 625 | ✅ | Bienvenue sur l'instance Travelpandas. Une instance francophone qui permet de s'évader où le respect est primordial! | fr |
 | [f.freinetz.ch](https://f.freinetz.ch) | **34** | 2 872 | ✅ | ? | ? |
 | [aperi.tube](https://aperi.tube) | **34** | 1 250 | ❌ | ? | ? |
 | [mastodon.yyyyy.world](https://mastodon.yyyyy.world) | **34** | 67 420 | ❌ | ? | ? |
@@ -1981,33 +1985,33 @@
 | [social.platypush.tech](https://social.platypush.tech) | **33** | 82 562 | ✅ | Automation, AI, FOSS, software development, science, tech and economics.  This instance supports long posts (<=10k chars) and up to 10 profile description items. | en |
 | [poptalk.scrubbles.tech](https://poptalk.scrubbles.tech) | **33** | 373 | ✅ | ? | ? |
 | [kompost.cz](https://kompost.cz) | **33** | 14 214 | ❌ | Kompost.cz je fediverse server Františka Fuky. | en |
-| [writeout.ink](https://writeout.ink) | **33** | 14 374 | ❌ | ? | ? |
+| [writeout.ink](https://writeout.ink) | **33** | 14 393 | ❌ | ? | ? |
 | [sphere.fx4.net](https://sphere.fx4.net) | **33** | 8 511 | ❌ | This Monkey Sphere is here to provide an online living room to our little group friends, their friends, and their friends’ friends | en |
 | [woln.eu](https://woln.eu) | **33** | 2 212 | ✅ | ? | ? |
 | [misskey.heonian.org](https://misskey.heonian.org) | **33** | 39 530 | ❌ | ? | ? |
 | [jbo.social](https://jbo.social) | **33** | 717 | ✅ | jbo.social ist die Mastodon-Instanz von J.B.O. für J.B.O., Freunde und Fans der Band. Technisch wird diese Instanz von der Leo Skull GmbH betreut. | en |
 | [mastodon.land](https://mastodon.land) | **33** | 308 | ✅ | Cleveland, OH community. | en |
 | [social.numerique.gouv.fr](https://social.numerique.gouv.fr) | **33** | 1 425 | ✅ | Instance :mastodon: gérée par la Direction Interministérielle du Numérique (DINUM)  Elle héberge uniquement des comptes institutionnels et certifiés.  | fr |
-| [einbeck.social](https://einbeck.social) | **33** | 5 798 | ✅ | Mastodon Instanz für Einbeck, einer Stadt in Südniedersachsen. Betrieben vom nerdbridge e.V. Einbeck | de |
+| [einbeck.social](https://einbeck.social) | **33** | 5 815 | ✅ | Mastodon Instanz für Einbeck, einer Stadt in Südniedersachsen. Betrieben vom nerdbridge e.V. Einbeck | de |
 | [mastodon.linuxmuster.net](https://mastodon.linuxmuster.net) | **32** | 1 202 | ✅ | Mastodon-Instanz des gemeinnützigen Vereins linuxmuster.net e.V. https://www.linuxmuster.net | en |
 | [makersocial.online](https://makersocial.online) | **32** | 3 482 | ✅ | A social space for makers, by makers. Federate your projects here! | en |
 | [unstraight.club](https://unstraight.club) | **32** | 6 159 | ✅ | A small server for unstraight geeks into pop culture in general, and science-fiction and video games in particular.  | en |
 | [rigcz.club](https://rigcz.club) | **32** | 11 885 | ✅ | ? | en |
-| [bambuswald.social](https://bambuswald.social) | **32** | 11 296 | ✅ | Diese Instanz ist die Mastodon-Heimat einer kleinen aber feinen Community. | en |
+| [bambuswald.social](https://bambuswald.social) | **32** | 11 297 | ✅ | Diese Instanz ist die Mastodon-Heimat einer kleinen aber feinen Community. | en |
 | [madost.one](https://madost.one) | **32** | 1 180 808 | ❌ | ? | ? |
-| [mastodon.moule.world](https://mastodon.moule.world) | **32** | 13 348 | ❌ | Soundtracking the MOULE WORLD and its animal characters with multi-genre electronic music! | en |
+| [mastodon.moule.world](https://mastodon.moule.world) | **32** | 13 401 | ❌ | Soundtracking the MOULE WORLD and its animal characters with multi-genre electronic music! | en |
 | [dis-le.de](https://dis-le.de) | **32** | 135 941 | ✅ | ? | ? |
-| [boitam.eu](https://boitam.eu) | **32** | 79 876 | ❌ | La petite instance qui dit “Meu !” au grand Fédiverse. | en |
+| [boitam.eu](https://boitam.eu) | **32** | 79 945 | ❌ | La petite instance qui dit “Meu !” au grand Fédiverse. | en |
 | [balotta.org](https://balotta.org) | **32** | 1 496 | ❌ | ? | ? |
 | [otp.akkoma.dev](https://otp.akkoma.dev) | **32** | 166 | ❌ | ? | ? |
 | [social.vcfed.org](https://social.vcfed.org) | **32** | 1 568 | ✅ | Vintage Computer Federation exists to enable hobbyists and spread knowledge of the history of computing.  | en |
-| [researchbuzz.masto.host](https://researchbuzz.masto.host) | **32** | 8 405 | ✅ | Search engines, databases, archives, online information collections, cultural heritage, citizen science, citizen archivists, OSINT, endangered archives, transparency legislation, unsweet tea, MST3K, and New Orleans Bounce. | en |
-| [el5.net](https://el5.net) | **32** | 9 023 | ✅ | 象吾是一个开放、包容、多元的联邦宇宙实例。无论您喜欢什么话题，都可以在这里找到志同道合的朋友。在这里，您可以发掘新的兴趣，与他人交流心得，共同成长。我们期待您的加入，一起探索一个温暖、多彩的社交空间。 | zh-CN |
-| [jauntygoat.net](https://jauntygoat.net) | **32** | 11 129 | ✅ | Freedom needs horns! An expressive platform for today's modern, privacy-aware goat. | en |
+| [researchbuzz.masto.host](https://researchbuzz.masto.host) | **32** | 8 381 | ✅ | Search engines, databases, archives, online information collections, cultural heritage, citizen science, citizen archivists, OSINT, endangered archives, transparency legislation, unsweet tea, MST3K, and New Orleans Bounce. | en |
+| [el5.net](https://el5.net) | **32** | 9 031 | ✅ | 象吾是一个开放、包容、多元的联邦宇宙实例。无论您喜欢什么话题，都可以在这里找到志同道合的朋友。在这里，您可以发掘新的兴趣，与他人交流心得，共同成长。我们期待您的加入，一起探索一个温暖、多彩的社交空间。 | zh-CN |
+| [jauntygoat.net](https://jauntygoat.net) | **32** | 11 162 | ✅ | Freedom needs horns! An expressive platform for today's modern, privacy-aware goat. | en |
 | [wpmastodon.es](https://wpmastodon.es) | **32** | 2 176 | ✅ | [CA] Una instància Mastodon per a la Comunitat WordPress. [EN] A Mastodon instance for the WordPress Community. [ES] Una instancia Mastodon para la Comunidad WordPress. | en |
-| [chaosfurs.social](https://chaosfurs.social) | **31** | 6 235 | ✅ | Mastodon instance for the chaosfurs telegram group; A bunch of IT furries.  Please note that this server is mainly for a closed group. Signup requests by unknowns will be rejected. | en |
+| [chaosfurs.social](https://chaosfurs.social) | **31** | 6 250 | ✅ | Mastodon instance for the chaosfurs telegram group; A bunch of IT furries.  Please note that this server is mainly for a closed group. Signup requests by unknowns will be rejected. | en |
 | [mastodon.lescommuns.org](https://mastodon.lescommuns.org) | **31** | 383 | ✅ | Instance Mastodon francophone des communs et des commoners | en |
-| [timetheft.social](https://timetheft.social) | **31** | 103 300 | ❌ | ? | ? |
+| [timetheft.social](https://timetheft.social) | **31** | 103 533 | ❌ | ? | ? |
 | [433.world](https://433.world) | **31** | 12 979 | ✅ | Independent hosted server for members of the 4'33" Dangerposting community. | en |
 | [mstdn.media](https://mstdn.media) | **31** | 25 434 | ❌ | ? | ? |
 | [everything.happens.horse](https://everything.happens.horse) | **31** | 7 702 | ✅ | ? | ? |
@@ -2026,7 +2030,7 @@
 | [magincia.cafe](https://magincia.cafe) | **30** | 5 909 | ✅ | Magincia is a purposefully small general instance with high federation. Registration is open via application for bot screening. | en |
 | [frfsh.plus.st](https://frfsh.plus.st) | **30** | 6 767 | ✅ | ? | ? |
 | [lustigetiernamenbubble.de](https://lustigetiernamenbubble.de) | **30** | 34 938 | ✅ | ? | en |
-| [clacks.link](https://clacks.link) | **30** | 35 821 | ❌ | ? | en |
+| [clacks.link](https://clacks.link) | **30** | 35 862 | ❌ | ? | en |
 | [poils.pachyderme.net](https://poils.pachyderme.net) | **30** | 2 753 | ✅ | Hi ya, cow girl ! | fr |
 | [friends.deko.cloud](https://friends.deko.cloud) | **30** | 43 636 | ❌ | ? | ? |
 | [biblioverse.online](https://biblioverse.online) | **30** | 6 103 | ✅ | En liten mastodonserver, drivs ideellt av två biblioteksmedarbetare. Målgrupp är yrkesverksamma i bibliotekssektorn, inkl. biblioteksutvecklare och forskare inom biblioteks- och informationsvetenskap. | en |
@@ -2037,7 +2041,7 @@
 | [netsphere.one](https://netsphere.one) | **30** | 4 278 | ✅ | 누구나 가입할 수 있고, 정보기술 지식에 관심 가진 분을 환영해요. | ko |
 | [glub.slipfox.xyz](https://glub.slipfox.xyz) | **29** | 14 070 | ❌ | ? | ? |
 | [connectop.us](https://connectop.us) | **29** | 6 852 | ✅ | This server hopes to build a respectful community, with a diverse group of people: inclusive of the LGBTQIA+ community; and standing up for POC, trans, and other marginalized communities. | en |
-| [reporter.social](https://reporter.social) | **29** | 9 686 | ✅ | Eine Mastodon-Instanz von Journalstïnnen, für Journalistïnnen. A Mastodon instance from journalists, for journalists. | de |
+| [reporter.social](https://reporter.social) | **29** | 9 702 | ✅ | Eine Mastodon-Instanz von Journalstïnnen, für Journalistïnnen. A Mastodon instance from journalists, for journalists. | de |
 | [nitecrew.rip](https://nitecrew.rip) | **29** | 215 683 | ❌ | ? | ? |
 | [nordicshutter.com](https://nordicshutter.com) | **29** | 24 272 | ❌ | ? | ? |
 | [fireplace.cafe](https://fireplace.cafe) | **29** | 3 379 | ❌ | Fireplace.cafe is a small place for makers and citizens of the internet. | en |
@@ -2057,9 +2061,9 @@
 | [social.asraelvudogel.de](https://social.asraelvudogel.de) | **28** | 3 698 | ❌ | ? | en |
 | [breastmilk.club](https://breastmilk.club) | **28** | 85 104 | ❌ | ? | ? |
 | [culturaeinnovacion.social](https://culturaeinnovacion.social) | **28** | 1 010 | ❌ | Nodo social de Mastodon para la divulgación de la Cultura Comunitaria, la Innovación Ciudadana y la Economía Social y Solidaria.  | es |
-| [carfree.city](https://carfree.city) | **28** | 14 966 | ✅ | ? | ? |
+| [carfree.city](https://carfree.city) | **28** | 14 993 | ✅ | ? | ? |
 | [mastodon.hackerdrinks.social](https://mastodon.hackerdrinks.social) | **28** | 757 | ✅ | Hackerdrinks community mastodon. Maintained by the guys from <a href="https://hackerdrinks.sg">hackerdrinks.sg</a> | en |
-| [c3d2.social](https://c3d2.social) | **28** | 10 314 | ❌ | Chaos Computer Club Dresden, https://www.c3d2.de | de |
+| [c3d2.social](https://c3d2.social) | **28** | 10 316 | ❌ | Chaos Computer Club Dresden, https://www.c3d2.de | de |
 | [darticulate.com](https://darticulate.com) | **28** | 8 | ✅ | A Mastodon instance for Dartisans, run by myself Steve Hamblett as user shamblett, on pub.dev you can see my packages under the darticulate.com publisher, for all things Dart and flutter. | en |
 | [tooters.fun](https://tooters.fun) | **28** | 5 350 | ❌ | ? | ? |
 | [tooters.wtf](https://tooters.wtf) | **28** | 5 350 | ❌ | ? | ? |
@@ -2076,8 +2080,8 @@
 | [redwombat.social](https://redwombat.social) | **27** | 28 477 | ❌ | ? | en |
 | [sbg-social.at](https://sbg-social.at) | **27** | 529 | ❌ | Der Mastodon Server für all jene die sich mit Salzburg verbunden fühlen. | en |
 | [helmholtz.social](https://helmholtz.social) | **27** | 4 234 | ❌ | Diese Mastodon-Instanz dient der institutionellen Wissenschaftskommunikation der Helmholtz-Gemeinschaft, ihrer Mitgliedszentren und ausgewählter Helmholtz-Initiativen. | de |
-| [wiesbaden.social](https://wiesbaden.social) | **27** | 567 | ✅ | Ein öffentlicher Server für alle Fediverse Interessierten aus Wiesbaden oder Umgebung | de |
-| [sivar.cafe](https://sivar.cafe) | **27** | 3 911 | ✅ | Una instancia salvadoreña de Mastodon. Nuevos usuarios deben ser aprobados (para ayudarme a controlar costos del servidor). | en |
+| [wiesbaden.social](https://wiesbaden.social) | **27** | 570 | ✅ | Ein öffentlicher Server für alle Fediverse Interessierten aus Wiesbaden oder Umgebung | de |
+| [sivar.cafe](https://sivar.cafe) | **27** | 3 916 | ✅ | Una instancia salvadoreña de Mastodon. Nuevos usuarios deben ser aprobados (para ayudarme a controlar costos del servidor). | en |
 | [social.edist.ro](https://social.edist.ro) | **27** | 37 298 | ✅ | for anarchists and antifascists everywhere. we give a shit. Hopefully you do too. to sign up go to: social.edist.ro/auth/sign_up | en |
 | [oye.social](https://oye.social) | **27** | 5 668 | ✅ | Esta es tu instancia para reunir y promover el pódcast producido en español desde cualquier lugar del mundo.  Bienvenidas todas las personas que de una u otra forma hacen pódcast.  | en |
 | [top-netz.de](https://top-netz.de) | **27** | 1 483 | ✅ | Wir erweitern das Mastodon-Netzwerk um einen unserer Server. Das grundlegende Konzept eines dezentralen Netzwerkes mit Quelltextoffenheit gemäß AGPL hat uns dazu besonders inspiriert. | en |
@@ -2110,10 +2114,12 @@
 | [hannover.town](https://hannover.town) | **26** | 20 579 | ✅ | ? | de |
 | [catgirls.technology](https://catgirls.technology) | **26** | 3 798 | ❌ | ? | ? |
 | [forum.ayom.media](https://forum.ayom.media) | **26** | 135 | ✅ | ? | ? |
-| [social.secret-wg.org](https://social.secret-wg.org) | **26** | 3 960 | ❌ | The Social Working Group's Mastodon Instance.  | en |
+| [social.secret-wg.org](https://social.secret-wg.org) | **26** | 3 982 | ❌ | The Social Working Group's Mastodon Instance.  | en |
+| [mastodon.io.seg.br](https://mastodon.io.seg.br) | **26** | 20 517 | ✅ | As descrições gerais ainda sendo definidas. | en |
+| [mastodon.svgun.ru](https://mastodon.svgun.ru) | **26** | 16 692 | ✅ | ? | en |
 | [anticapitalista.it](https://anticapitalista.it) | **25** | 269 | ✅ | Server rivolto a pacifisti e nonviolenti, ecologisti e animalisti, libertari e comunisti che desiderano scambiare opinioni fuori dai social commerciali. | en |
 | [polsci.social](https://polsci.social) | **25** | 817 | ✅ | Mit polsci.social reagiert der FID Politikwissenschaft auf das Interesse der politikwissenschaftlich Forschenden, einen offenen Kanal für die Wissenschaftskommunikation bereitzustellen. | de |
-| [troet.fediverse.at](https://troet.fediverse.at) | **25** | 2 365 | ✅ | Die Instanz für engagierte Menschen und kritische Geister mit Österreich-Bezug - unabhängig von Wohnort oder Staatsbürgerschaft. Persönlich & nutzerfinanziert, Betreiber ist Ingo Lantschner. | de |
+| [troet.fediverse.at](https://troet.fediverse.at) | **25** | 2 383 | ✅ | Die Instanz für engagierte Menschen und kritische Geister mit Österreich-Bezug - unabhängig von Wohnort oder Staatsbürgerschaft. Persönlich & nutzerfinanziert, Betreiber ist Ingo Lantschner. | de |
 | [blop.social](https://blop.social) | **25** | 4 377 | ❌ | Blop is a semi-private UK-based Mastodon service for nice people.  An invitation is required to join. | en |
 | [cornichon.me](https://cornichon.me) | **25** | 5 220 | ❌ | ? | en |
 | [elsica.social](https://elsica.social) | **25** | 69 | ✅ | ? | ? |
@@ -2131,7 +2137,7 @@
 | [tatooine.club](https://tatooine.club) | **24** | 4 134 | ✅ | A server run by Nemo for his friends. Drop me a message with your username if you are signing up. | en |
 | [mastodon.tinyfox.dev](https://mastodon.tinyfox.dev) | **24** | 23 640 | ✅ | Server I'll use for hosting the Hourly Animals Bots. Feel free to share content of your own. | en |
 | [meinungsschubla.de](https://meinungsschubla.de) | **24** | 1 389 | ✅ | Die <em>Meinungsschubla.de</em> soll ein einfacher, gemütlicher Platz für jede und jeden im Fediverse sein. Gesellt euch dazu und freut euch auf eine bunte Gemeinschaft :) | en |
-| [3615.computer](https://3615.computer) | **24** | 10 182 | ✅ | 3615.computer is a brand new community instance. We want to open other services once you signed-up, such as our Minecraft servers, for free.  See https://www.3615.computer for more information. | en |
+| [3615.computer](https://3615.computer) | **24** | 10 254 | ✅ | 3615.computer is a brand new community instance. We want to open other services once you signed-up, such as our Minecraft servers, for free.  See https://www.3615.computer for more information. | en |
 | [misskey.anjara.eu](https://misskey.anjara.eu) | **24** | 527 | ❌ | ? | ? |
 | [aschaffenburg.social](https://aschaffenburg.social) | **24** | 1 465 | ❌ | 🏰 aschaffenburg.social ist eine Mastodon-Instanz für all diejenigen, die sich in egal welcher Art mit der Stadt oder dem Landkreis Aschaffenburg verbunden fühlen. | en |
 | [mstdn.myifn.de](https://mstdn.myifn.de) | **24** | 6 513 | ✅ | Instanz von myifn.de. Hier soll es jedem ermöglicht werden, dem Fediverse zu joinen. Der Server wird in Deutschland gehostet und unterliegt somit dem Deutschen Datenschutz und Recht. | en |
@@ -2143,11 +2149,11 @@
 | [social.chiefgyk3d.com](https://social.chiefgyk3d.com) | **24** | 4 855 | ❌ | This is a private Mastodon server for ChiefGyk3D and his friends. We are a group of people who like technology at various levels. No bigotry, no hate speech, no scams, just good vibes and fun. | en |
 | [friends.librescrum.org](https://friends.librescrum.org) | **24** | 1 021 | ✅ | Hi, dies ist der Mastodon Server von https://librescrum.org/ | en |
 | [jir.moe](https://jir.moe) | **24** | 9 570 | ✅ | ? | ? |
-| [mastodon.llarian.net](https://mastodon.llarian.net) | **24** | 7 954 | ✅ | Llarian's Mastodon Instance | en |
+| [mastodon.llarian.net](https://mastodon.llarian.net) | **24** | 7 957 | ✅ | Llarian's Mastodon Instance | en |
 | [pool.social](https://pool.social) | **24** | 61 | ✅ | A Mastodon server for Pool players around the world. | en |
 | [uoh.cx](https://uoh.cx) | **24** | 1 376 | ✅ | ? | ? |
 | [bigballchunkyverse.online](https://bigballchunkyverse.online) | **24** | 1 512 | ✅ | ? | en |
-| [kopimi.space](https://kopimi.space) | **23** | 3 997 | ✅ | kopimi.space is a small and stable Mastodon server for people to find new friends and have a lot of fun. We are not tied to a specific topic, but mostly focus on DRM, software freedom, piracy etc. | en |
+| [kopimi.space](https://kopimi.space) | **23** | 4 009 | ✅ | kopimi.space is a small and stable Mastodon server for people to find new friends and have a lot of fun. We are not tied to a specific topic, but mostly focus on DRM, software freedom, piracy etc. | en |
 | [zocial.ee](https://zocial.ee) | **23** | 1 943 | ✅ | ? | en |
 | [nafo.army](https://nafo.army) | **23** | 4 265 | ✅ | We are NAFO | en |
 | [g33ks.coffee](https://g33ks.coffee) | **23** | 6 791 | ❌ | g33ks.coffee est un serveur privé, francophone, qui héberge une communauté inclusive & férue de nouvelles technologies <3 | fr |
@@ -2159,20 +2165,20 @@
 | [digitalcourage.video](https://digitalcourage.video) | **23** | 1 035 | ❌ | ? | ? |
 | [social.marud.fr](https://social.marud.fr) | **23** | 14 557 | ✅ | ? | ? |
 | [communitymedia.video](https://communitymedia.video) | **23** | 12 888 | ✅ | ? | ? |
-| [mastodon.stickbear.me](https://mastodon.stickbear.me) | **23** | 24 553 | ✅ | This instance is ran by a couple of admins, with a wapping 8000 character limit! this server is a drama free zone, follow the rules and you'll be fine. | en |
-| [astronomy.social](https://astronomy.social) | **23** | 6 224 | ✅ | This a digital contact point in the Fediverse for all those who want to inform themselves and exchange information on topics from astronomy, space travel and related fields of knowledge. CS!  | en |
+| [mastodon.stickbear.me](https://mastodon.stickbear.me) | **23** | 24 813 | ✅ | This instance is ran by a couple of admins, with a wapping 8000 character limit! this server is a drama free zone, follow the rules and you'll be fine. | en |
+| [astronomy.social](https://astronomy.social) | **23** | 6 265 | ✅ | This a digital contact point in the Fediverse for all those who want to inform themselves and exchange information on topics from astronomy, space travel and related fields of knowledge. CS!  | en |
 | [social.lfx.dev](https://social.lfx.dev) | **23** | 951 | ❌ | The Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. | en |
 | [snake.club](https://snake.club) | **23** | 1 851 | ✅ | Welcome to 🐍.club! This is a friends-only Mastodon server hosted by Stephen (@brenns10). You're probably here because some dude named Stephen told you that Elon Musk sucks and you should get a Mastodon account. Please be nice while you're here, don't be spammy, and we'll get along great.  (Please note that we are not in any way affiliated with any NFT going by a similar name to this domain.) | en |
 | [blog.gamerstavern.online](https://blog.gamerstavern.online) | **23** | 19 | ✅ | ? | ? |
 | [lemmyfi.com](https://lemmyfi.com) | **23** | 82 | ✅ | ? | ? |
 | [mstdn.constellatory.net](https://mstdn.constellatory.net) | **23** | 6 127 | ❌ | A general-purpose Mastodon instance hosted by Constellatory; part of the open Fediverse. Open and welcome to everyone. | en |
 | [wayne.social](https://wayne.social) | **23** | 366 | ✅ | A server by and for members of the Wayne State University community.  We are not affiliated or run by Wayne State University, the institution. We are a community of students, alumni, and staff. | en |
-| [fedinerds.social](https://fedinerds.social) | **23** | 10 496 | ✅ | Wir sind eine aktive deutsche Community die sich zu den Themen: #Games, #Manga, #Filme, #Serien, #Technik, und #Anime austauscht. | en |
+| [fedinerds.social](https://fedinerds.social) | **23** | 10 601 | ✅ | Wir sind eine aktive deutsche Community die sich zu den Themen: #Games, #Manga, #Filme, #Serien, #Technik, und #Anime austauscht. | en |
 | [occult.town](https://occult.town) | **23** | 1 523 | ✅ | Welcome to occult.town! We're a queer & trans run, anarchist-inclined instance focused around religion, spirituality, the occult, metaphysical practice and all its related topics. | en |
 | [social.wps.de](https://social.wps.de) | **22** | 1 042 | ✅ | Dies ist der Auftritt der WPS – Workplace Solutions im Fediverse. | en |
 | [mastodon.catgirl.cloud](https://mastodon.catgirl.cloud) | **22** | 1 366 | ✅ | catgirl.cloud - All catgirls and other creatures welcome. | en |
 | [ck.katzen.cafe](https://ck.katzen.cafe) | **22** | 6 210 | ❌ | ? | ? |
-| [old.mermaid.town](https://old.mermaid.town) | **22** | 18 763 | ✅ | ? | ? |
+| [old.mermaid.town](https://old.mermaid.town) | **22** | 18 789 | ✅ | ? | ? |
 | [petrous.vislae.town](https://petrous.vislae.town) | **22** | 118 840 | ✅ | ? | ? |
 | [tokhmi.xyz](https://tokhmi.xyz) | **22** | 5 098 | ❌ | What is Tokhmi? We are a group that hosts free and privacy-friendly services for ourselves and others. | en |
 | [socialserver.science](https://socialserver.science) | **22** | 6 731 | ❌ | This mastodon is dedicated to science. Specifically to the sciences and visual communication of the sciences.  | en |
@@ -2207,7 +2213,7 @@
 | [lastfree.space](https://lastfree.space) | **21** | 472 | ✅ | ? | ? |
 | [toot.teckids.org](https://toot.teckids.org) | **21** | 2 867 | ❌ | (Noch inoffizielle) Mastodon-Instanz der Teckids-Gemeinschaft | de |
 | [fedi.lynnesbian.space](https://fedi.lynnesbian.space) | **21** | 127 456 | ❌ | @lynnesbian@fedi.lynnesbian.space's anti-chud pro-skub instance for funtimes | en |
-| [piraten-partei.social](https://piraten-partei.social) | **21** | 4 599 | ❌ | Dies Instanz ist ein privates Angebot an all die, die Interesse an der Piraten-Partei haben und das Fediverse kennenlernen wollen. | de |
+| [piraten-partei.social](https://piraten-partei.social) | **21** | 4 617 | ❌ | Dies Instanz ist ein privates Angebot an all die, die Interesse an der Piraten-Partei haben und das Fediverse kennenlernen wollen. | de |
 | [s.basspistol.org](https://s.basspistol.org) | **21** | 7 559 | ❌ | ? | ? |
 | [spacelase.rs](https://spacelase.rs) | **21** | 2 294 | ✅ | Spacelasers is a place to talk about music, books, tech, work, whatever. No jerks.  | en |
 | [digitalnomads.social](https://digitalnomads.social) | **21** | 174 | ✅ | ? | ? |
@@ -2218,7 +2224,7 @@
 | [3zi.ru](https://3zi.ru) | **20** | 147 245 | ✅ | Тризи.ру - узел децентрализованной сети Mastodon для свободного общения | ru |
 | [social.ffmuc.net](https://social.ffmuc.net) | **20** | 764 | ✅ | social.ffmuc.net ist eine von Freifunk München betriebene Mastodon-Instanz  === Aktuell im Testbetrieb === | en |
 | [bluelupine.social](https://bluelupine.social) | **20** | 5 792 | ✅ | The Wild Blue Lupine is the host plant for the endangered Karner butterfly, indigenous to the Albany Pine Bush. We hope to be an online community that serves as a host plant to those who feel they need somewhere to settle and grow in the fediverse and who have some connection to the Albany area or Upstate New York. | en |
-| [hub.uckermark.social](https://hub.uckermark.social) | **20** | 10 755 | ✅ | Ein Mastodon Server für und von Menschen aus der Uckermark.  | de |
+| [hub.uckermark.social](https://hub.uckermark.social) | **20** | 10 780 | ✅ | Ein Mastodon Server für und von Menschen aus der Uckermark.  | de |
 | [moppels.bar](https://moppels.bar) | **20** | 69 064 | ❌ | ? | ? |
 | [miss.mouse.services](https://miss.mouse.services) | **20** | 24 469 | ❌ | ? | ? |
 | [social.wub.site](https://social.wub.site) | **20** | 15 672 | ❌ | ? | ? |
@@ -2232,7 +2238,7 @@
 | [41020.social](https://41020.social) | **20** | 7 234 | ❌ | Servidor privado hispanohablante basado en el 41020 | en |
 | [burn.capital](https://burn.capital) | **20** | 18 259 | ❌ | ✨🌈📯 Toots for Friends 📯🌈✨ | en |
 | [avantwhatever.org](https://avantwhatever.org) | **20** | 3 002 | ✅ | ? | ? |
-| [loci.onl](https://loci.onl) | **20** | 10 856 | ✅ | This mastodon instance is for friendly people part of, or associated with, the geeky/roleplayer social group of Hanging Town (Lancaster) in the UK. | en |
+| [loci.onl](https://loci.onl) | **20** | 10 860 | ✅ | This mastodon instance is for friendly people part of, or associated with, the geeky/roleplayer social group of Hanging Town (Lancaster) in the UK. | en |
 | [fediffusion.art](https://fediffusion.art) | **20** | 2 128 | ✅ | ? | ? |
 | [nationalist.social](https://nationalist.social) | **20** | 2 316 | ✅ | ? | ? |
 | [fedi.nano.lgbt](https://fedi.nano.lgbt) | **20** | 12 729 | ✅ | ? | ? |
@@ -2241,15 +2247,15 @@
 | [social.uibk.ac.at](https://social.uibk.ac.at) | **20** | 416 | ❌ | Die Universität Innsbruck nutzt Mastodon für ihre institutionelle Wissenschaftskommunikation und betreibt mit social.uibk.ac.at in dessen dezentraler Architektur eine Instanz. | de |
 | [flyingbattery.zone](https://flyingbattery.zone) | **20** | 364 | ✅ | ? | ? |
 | [tootr.co](https://tootr.co) | **19** | 14 702 | ✅ | where you do your toots | en |
-| [deppenkessel.de](https://deppenkessel.de) | **19** | 13 464 | ✅ | Eine 0711-Instanz, die in Bayern steht und von Dänemark aus administriert wird. | en |
-| [afterspace.rocks](https://afterspace.rocks) | **19** | 16 203 | ✅ | ? | en |
+| [deppenkessel.de](https://deppenkessel.de) | **19** | 13 487 | ✅ | Eine 0711-Instanz, die in Bayern steht und von Dänemark aus administriert wird. | en |
+| [afterspace.rocks](https://afterspace.rocks) | **19** | 16 331 | ✅ | ? | en |
 | [mastodon.halibut.com](https://mastodon.halibut.com) | **19** | 9 410 | ✅ | Mastodon server for users of the Halibut Systems. | en |
 | [akkoma.cryptoschizo.club](https://akkoma.cryptoschizo.club) | **19** | 2 010 | ✅ | ? | ? |
 | [neo.seafoam.space](https://neo.seafoam.space) | **19** | 1 185 | ❌ | ? | ? |
 | [edi.social](https://edi.social) | **19** | 2 035 | ❌ | ? | en |
 | [masto.deoan.org](https://masto.deoan.org) | **19** | 11 656 | ❌ | A Mastodon instance for friends, family, stoats, and geeks. | en |
-| [mellified.men](https://mellified.men) | **19** | 94 238 | ❌ | A cozy little tomb full of friendly ghouls. | en |
-| [terra.incognita.net](https://terra.incognita.net) | **19** | 7 768 | ❌ | ? | en |
+| [mellified.men](https://mellified.men) | **19** | 94 311 | ❌ | A cozy little tomb full of friendly ghouls. | en |
+| [terra.incognita.net](https://terra.incognita.net) | **19** | 7 771 | ❌ | ? | en |
 | [mastodon.blaster.com.ar](https://mastodon.blaster.com.ar) | **19** | 2 160 | ✅ | Quería conocer ésta nueva red social y que mejor que hacerlo mientras creo mi propia instancia.  Online desde Neuquén Capital Argentina. | es |
 | [fedi.skladka.net](https://fedi.skladka.net) | **19** | 1 804 | ✅ | ? | ? |
 | [mstdn.vector1.dev](https://mstdn.vector1.dev) | **19** | 2 192 | ❌ | ? | en |
@@ -2265,8 +2271,8 @@
 | [mastodon.crazynewworld.net](https://mastodon.crazynewworld.net) | **19** | 322 709 | ❌ | ? | en |
 | [owo.community](https://owo.community) | **19** | 2 130 | ❌ | ? | ? |
 | [forgi.social](https://forgi.social) | **19** | 4 506 | ❌ | Just a little thing for me and my friends to hang out. | en |
-| [queernerds.social](https://queernerds.social) | **19** | 9 250 | ✅ | queernerds.social was started to provide a safe space and community for passionate people who share a common experience in being queer. That being said, everyone is welcome. | en |
-| [mastodon.trueten.de](https://mastodon.trueten.de) | **19** | 20 118 | ✅ | mastodon.trueten.de is just another anarchistic Mastodon server. Not elitist and not for salon anarchists. Adorno and Marcuse readers and trainees are welcome.  | en |
+| [queernerds.social](https://queernerds.social) | **19** | 9 251 | ✅ | queernerds.social was started to provide a safe space and community for passionate people who share a common experience in being queer. That being said, everyone is welcome. | en |
+| [mastodon.trueten.de](https://mastodon.trueten.de) | **19** | 20 172 | ✅ | mastodon.trueten.de is just another anarchistic Mastodon server. Not elitist and not for salon anarchists. Adorno and Marcuse readers and trainees are welcome.  | en |
 | [freie-re.de](https://freie-re.de) | **19** | 3 529 | ✅ | Freie-Re.de ist ein netter, kleiner Mastodon-Server, wo sich alle willkommen fühlen sollen. Wir möchten interessierten Menschen eine Plattform zum Austausch bieten. | en |
 | [kyu.de](https://kyu.de) | **19** | 22 | ✅ | ? | ? |
 | [infinitychuu.xyz](https://infinitychuu.xyz) | **19** | 688 | ✅ | ? | ? |
@@ -2276,7 +2282,7 @@
 | [is.badat.dev](https://is.badat.dev) | **19** | 40 228 | ❌ | ? | ? |
 | [iceshrimp.de](https://iceshrimp.de) | **19** | 858 | ✅ | ? | ? |
 | [kinkycats.org](https://kinkycats.org) | **18** | 2 282 | ✅ | All people are welcome, except those who don't accept other people. This is a sex positive and LGBTQ+ friendly mastodon instance with rules for adult content and safe place for all felines out there. | en |
-| [fellies.social](https://fellies.social) | **18** | 8 047 | ❌ | Make the world a wild and fluffy place ~ | en |
+| [fellies.social](https://fellies.social) | **18** | 8 081 | ❌ | Make the world a wild and fluffy place ~ | en |
 | [tapenoise.cafe](https://tapenoise.cafe) | **18** | 5 346 | ❌ | private instance for members of tape noise café, a mixed-origin system | en |
 | [mastodon.cde.social](https://mastodon.cde.social) | **18** | 401 | ✅ | Ein (inoffizielles) soziales Netzwerk für den Club der Ehemaligen der Deutschen SchülerAkademien e. V. | en |
 | [bookish.community](https://bookish.community) | **18** | 668 | ❌ | This is a Mastodon home for indie publishers and bookshops, created by Canongate Books. | en |
@@ -2289,7 +2295,7 @@
 | [dasforum.org](https://dasforum.org) | **18** | 1 826 | ❌ | Invite only for "Das Forum" aka "Green Hell". | en |
 | [mast.shitpostbot.com](https://mast.shitpostbot.com) | **18** | 15 989 | ✅ | ? | en |
 | [securitycafe.ca](https://securitycafe.ca) | **18** | 1 743 | ✅ | A friendly Mastodon instance intended for the InfoSec community and their friends. | en |
-| [503junk.house](https://503junk.house) | **18** | 10 585 | ✅ | ? | ? |
+| [503junk.house](https://503junk.house) | **18** | 10 610 | ✅ | ? | ? |
 | [vhs.social](https://vhs.social) | **18** | 2 145 | ❌ | Die Volkshochschulen im Fediverse. Hätten Sie uns nicht zugetraut, gelle? 😉 | en |
 | [video.osgeo.org](https://video.osgeo.org) | **18** | 864 | ❌ | ? | ? |
 | [kinowolnosc.pl](https://kinowolnosc.pl) | **18** | 71 | ✅ | ? | ? |
@@ -2327,7 +2333,7 @@
 | [benehomini.social](https://benehomini.social) | **17** | 755 | ✅ | A community for people interested in long-term thinking that benefits everyone. | en |
 | [republik.social](https://republik.social) | **17** | 532 | ✅ | Instanz für die Republik-Redaktion. | de |
 | [masto.anarch.cc](https://masto.anarch.cc) | **17** | 3 084 | ❌ | ? | ? |
-| [pupy.cafe](https://pupy.cafe) | **17** | 4 711 | ✅ | hello! this is pupy.cafe!  if you'd like to apply to join, please put in your request how you know emmett, harriet, or a mutual friend! love you bye!! | en |
+| [pupy.cafe](https://pupy.cafe) | **17** | 4 714 | ✅ | hello! this is pupy.cafe!  if you'd like to apply to join, please put in your request how you know emmett, harriet, or a mutual friend! love you bye!! | en |
 | [social.ksite.de](https://social.ksite.de) | **17** | 1 934 | ❌ | ? | en |
 | [lemmy.ohaa.xyz](https://lemmy.ohaa.xyz) | **17** | 141 | ✅ | ? | ? |
 | [tupambae.org](https://tupambae.org) | **17** | 919 | ❌ | ? | ? |
@@ -2339,7 +2345,7 @@
 | [social.kryta.app](https://social.kryta.app) | **17** | 497 | ✅ | 如你所见，人类最原始的快乐，就是围着一堆篝火聊天。 | en |
 | [fedi.lecturify.net](https://fedi.lecturify.net) | **17** | 4 728 | ✅ | ? | ? |
 | [mastodon.ouvaton.coop](https://mastodon.ouvaton.coop) | **17** | 331 | ❌ | Instance Mastodon de la coopérative Ouvaton.coop !  Cette instance est ouverte aux sociétaires d'Ouvaton.  | en |
-| [butts.team](https://butts.team) | **17** | 31 679 | ❌ | Butts: Everyone has one! | en |
+| [butts.team](https://butts.team) | **17** | 31 718 | ❌ | Butts: Everyone has one! | en |
 | [derekmartinorg.network.thedoodleproject.net](https://derekmartinorg.network.thedoodleproject.net) | **17** | 20 | ✅ | ? | ? |
 | [1password.social](https://1password.social) | **17** | 851 | ❌ | Welcome to 1password.social, the home on Mastodon for 1Password. We're building a safer, simpler digital future for everyone. | en |
 | [halo.nu](https://halo.nu) | **17** | 2 058 | ✅ | ? | en |
@@ -2349,7 +2355,7 @@
 | [mastodon.grin.hu](https://mastodon.grin.hu) | **16** | 2 684 | ✅ | This is a small Hungarian instance, run by grin, who operates a lot of open technology servers.  | en |
 | [heckin.how](https://heckin.how) | **16** | 12 922 | ❌ | ? | ? |
 | [vabu.us](https://vabu.us) | **16** | 3 670 | ❌ | Vabu.us is a Mastodon Server run by and maintained by the Church of the Radiant Dawn on behalf of Goddess Zenith Reborna. Invite only. | en |
-| [labyrinth.social](https://labyrinth.social) | **16** | 31 475 | ❌ | ? | ? |
+| [labyrinth.social](https://labyrinth.social) | **16** | 31 526 | ❌ | ? | ? |
 | [mastodon.ctseuro.com](https://mastodon.ctseuro.com) | **16** | 11 130 | ❌ | ? | de |
 | [mstdn.rinsuki.net](https://mstdn.rinsuki.net) | **16** | 52 852 | ❌ | ? | ? |
 | [social.gl-como.it](https://social.gl-como.it) | **16** | 1 500 | ❌ | ? | ? |
@@ -2360,7 +2366,7 @@
 | [m.fru.bar](https://m.fru.bar) | **16** | 1 387 | ❌ | The frubar family mastodon | en |
 | [bnnuy.space](https://bnnuy.space) | **16** | 4 649 | ❌ | Small furry instance, ran by Halley. Invite-only. | en |
 | [mastodon.cesko.digital](https://mastodon.cesko.digital) | **16** | 648 | ✅ | ? | en |
-| [social.netz.org](https://social.netz.org) | **16** | 2 642 | ✅ | This Instance was built as a home for all kinds of Hackers / Nerds / geeks.  We don't bother with too many rules. Just be a cool person. Don't mess things up. Be excellent to each other. | en |
+| [social.netz.org](https://social.netz.org) | **16** | 2 647 | ✅ | This Instance was built as a home for all kinds of Hackers / Nerds / geeks.  We don't bother with too many rules. Just be a cool person. Don't mess things up. Be excellent to each other. | en |
 | [cas.social](https://cas.social) | **16** | 401 | ✅ | CAS & Friends. Ein Mastodon-Server für Menschen aus Castrop-Rauxel und umliegenden Dörfern sowie allen, die sich damit verbunden fühlen. | de |
 | [mastodon.ozioso.online](https://mastodon.ozioso.online) | **16** | 22 198 | ✅ | A server for fun and profit, mainly my bots | en |
 | [progressives.social](https://progressives.social) | **16** | 19 725 | ✅ | ? | en |
@@ -2371,25 +2377,25 @@
 | [moonbow.garden](https://moonbow.garden) | **16** | 9 428 | ✅ | At night, the moonbow brings out the creative in you. Plurals, witches, Writers, LGBTQ+, and good people welcomed! | en |
 | [stpauli.social](https://stpauli.social) | **16** | 1 597 | ✅ | Fediverse Instanz des Podcast St. Pauli POP - offen für alle St. Paulianer_innen, Menschen aus St. Pauli und St. Pauli Lovers.  Registrierung ist derzeit geöffnet. | en |
 | [inductive.space](https://inductive.space) | **16** | 2 150 | ✅ | A tiny server for me and friendly people who like programming languages, free software, urbanism or just want to hang out. | en |
-| [idic.social](https://idic.social) | **16** | 17 839 | ✅ | IDIC is a tenet of Vulcan philosophy from Star Trek: Infinite Diversity in Infinite Combinations. Our goal is to be a fun, welcoming place for everyone. | en |
+| [idic.social](https://idic.social) | **16** | 17 671 | ✅ | IDIC is a tenet of Vulcan philosophy from Star Trek: Infinite Diversity in Infinite Combinations. Our goal is to be a fun, welcoming place for everyone. | en |
 | [social.khmelnytskyi.dcomm.net.ua](https://social.khmelnytskyi.dcomm.net.ua) | **16** | 106 | ✅ | Хмельницький інстанс є частиною https://dcomm.net.ua.  Українські локальні інстанси Mastodon були розгорнуті в 9 українських містах у серпні-вересні 2022 року  | en |
 | [quarteredcircle.net](https://quarteredcircle.net) | **16** | 12 293 | ❌ | QuarteredCircle.net is the official instance for #DrunkPete and #HorizonLabs, run by the Tech Lord, out of Pittsburgh, PA, USA. | en |
 | [hj.9fs.net](https://hj.9fs.net) | **16** | 524 | ❌ | ? | ? |
 | [shonk.phite.ro](https://shonk.phite.ro) | **16** | 10 545 | ✅ | ? | ? |
 | [normal.style](https://normal.style) | **16** | 37 426 | ❌ | We are a think tank pursuing humanity's most ancient of dreams: using the internet normal style.   We are dedicated to the development and advancement of completely normal posting.  | en |
-| [social.fairphone.community](https://social.fairphone.community) | **16** | 532 | ✅ | A Mastodon/Fediverse server for the Fairphone community | en |
+| [social.fairphone.community](https://social.fairphone.community) | **16** | 535 | ✅ | A Mastodon/Fediverse server for the Fairphone community | en |
 | [the.gayest.dev](https://the.gayest.dev) | **16** | 4 126 | ✅ | ? | ? |
 | [social.pogo.community](https://social.pogo.community) | **15** | 1 157 | ✅ | Mastodon server made for the Pokemon Go community | en |
-| [astronomy.city](https://astronomy.city) | **15** | 9 189 | ✅ | Small server for astronomy and astronomy-adjacent users. All are welcome. Admin will expand server as necessary based on usage, and guarantees at least 1 year notice before retirement. | en |
+| [astronomy.city](https://astronomy.city) | **15** | 9 200 | ✅ | Small server for astronomy and astronomy-adjacent users. All are welcome. Admin will expand server as necessary based on usage, and guarantees at least 1 year notice before retirement. | en |
 | [whitesmokebbq.social](https://whitesmokebbq.social) | **15** | 2 328 | ✅ | We unite people through our mutual love of food! Come see what we're smoking! | en |
 | [exploit.social](https://exploit.social) | **15** | 1 486 | ❌ | Neon forest, rain sizzling across hot pavement. | en |
 | [twixter.eu](https://twixter.eu) | **15** | 1 272 | ✅ | ? | en |
 | [arabi.gay](https://arabi.gay) | **15** | 3 721 | ✅ | خادم ماستودون للعرب من مجتمع م.ع.ل+ Arabi LGBTQ+ Mastodon server | ar |
-| [unfug.social](https://unfug.social) | **15** | 6 740 | ✅ | Mastodon Server für die Unix Friends and Users Group (UnFUG) der Hochschule Furtwangen.   | en |
+| [unfug.social](https://unfug.social) | **15** | 6 747 | ✅ | Mastodon Server für die Unix Friends and Users Group (UnFUG) der Hochschule Furtwangen.   | en |
 | [skinheads.io](https://skinheads.io) | **15** | 1 959 | ❌ | Welcome to THE ANTISOCIAL NETWORK - dedicated to the Skinhead subculture(s). It's about the music, boots, beer, mates, life as we know it.  | en |
 | [skull.website](https://skull.website) | **15** | 215 241 | ❌ | ? | ? |
 | [friendica.hubup.pro](https://friendica.hubup.pro) | **15** | 720 | ✅ | ? | ? |
-| [glitterkitten.co.uk](https://glitterkitten.co.uk) | **15** | 43 032 | ❌ | sparkle sparkle, bitches | en |
+| [glitterkitten.co.uk](https://glitterkitten.co.uk) | **15** | 43 071 | ❌ | sparkle sparkle, bitches | en |
 | [deepspace.social](https://deepspace.social) | **15** | 6 541 | ❌ | ? | en |
 | [entropysource.ru](https://entropysource.ru) | **15** | 271 | ✅ | ? | ? |
 | [furality.social](https://furality.social) | **15** | 133 | ✅ | A private Mastodon instance for Furality staff members | en |
@@ -2423,7 +2429,7 @@
 | [social.gulas.ch](https://social.gulas.ch) | **15** | 549 | ❌ | ? | ? |
 | [ilja.space](https://ilja.space) | **15** | 15 408 | ❌ | ? | ? |
 | [nona.social](https://nona.social) | **15** | 1 638 | ❌ | ? | en |
-| [niagara.social](https://niagara.social) | **15** | 615 | ✅ | ? | ? |
+| [niagara.social](https://niagara.social) | **15** | 618 | ✅ | ? | ? |
 | [mashtodon.alterracloud.com](https://mashtodon.alterracloud.com) | **15** | 1 961 | ✅ | ? | ? |
 | [theweird.space](https://theweird.space) | **15** | 2 802 | ✅ | Basically a group of miscreant friends. As such, we're not open for sign-ups | en |
 | [social.butnot.today](https://social.butnot.today) | **15** | 2 858 | ✅ | 自己在用。 因为没有很多爱，所以也没发出多少电。 | en |
@@ -2440,7 +2446,7 @@
 | [channels.im](https://channels.im) | **14** | 284 603 | ❌ | ? | en |
 | [firebird.zone](https://firebird.zone) | **14** | 15 016 | ❌ | ? | ? |
 | [hydrocube.space](https://hydrocube.space) | **14** | 2 124 | ✅ | This is a small instance for our group of friends! | en |
-| [mastodon.derg.nz](https://mastodon.derg.nz) | **14** | 9 649 | ✅ | A server for myself (@Anthropy) and friends, running on the DragonHive infrastructure (dragonhive.net). Expect Geeky and Furry types of content, but most other types of subjects are also welcome! | en |
+| [mastodon.derg.nz](https://mastodon.derg.nz) | **14** | 9 707 | ✅ | A server for myself (@Anthropy) and friends, running on the DragonHive infrastructure (dragonhive.net). Expect Geeky and Furry types of content, but most other types of subjects are also welcome! | en |
 | [mastodon.dragoncave.dev](https://mastodon.dragoncave.dev) | **14** | 3 991 | ✅ | Small instance for me and some friends | en |
 | [niscii.xyz](https://niscii.xyz) | **14** | 59 177 | ❌ | ? | ? |
 | [route66.social](https://route66.social) | **14** | 473 | ✅ | Route66.social is my own little piece of the fediverse.  Mainly people I know (and 1 tech support dude who helped me sort some stuff out).  At this point we're just a jump off point to the fediverse. | en |
@@ -2462,7 +2468,7 @@
 | [toot.beep.computer](https://toot.beep.computer) | **14** | 2 228 | ❌ | Instance francophone généraliste toute rikiki, uniquement sur invitation. | en |
 | [fedi.fyralabs.com](https://fedi.fyralabs.com) | **14** | 521 | ❌ | ? | ? |
 | [typo3.social](https://typo3.social) | **14** | 228 | ❌ | Fediverse Server of the TYPO3 Association | en |
-| [666.glitchwit.ch](https://666.glitchwit.ch) | **14** | 14 486 | ✅ | A server for kf and their friends! Open to folks kf has known pretty well for years. | en |
+| [666.glitchwit.ch](https://666.glitchwit.ch) | **14** | 14 498 | ✅ | A server for kf and their friends! Open to folks kf has known pretty well for years. | en |
 | [osintua.eu](https://osintua.eu) | **14** | 720 094 | ✅ | This server is hosted by OSINTukraine.com, its purpose is to host a set of bots auto-sharing DeepL translated post from the Russian and Ukrainian Telegram ecosystems.  | en |
 | [eponaauthor.social](https://eponaauthor.social) | **14** | 1 888 | ✅ | EponaAuthor.Social is created for authors to connect and network. Keep us live by visiting https://patreon.com/eponaauthor and supporting the community. If you need support, please visit https://support.eponaauthorsolutions.com. | en |
 | [ouroboros.gay](https://ouroboros.gay) | **14** | 11 850 | ❌ | ? | ? |
@@ -2497,7 +2503,7 @@
 | [theinternet.social](https://theinternet.social) | **13** | 4 656 | ❌ | This server is for a small group of friends who live in each other's phones. | en |
 | [pleroma.skyshanty.xyz](https://pleroma.skyshanty.xyz) | **13** | 35 931 | ✅ | ? | ? |
 | [campduffel.social](https://campduffel.social) | **13** | 2 297 | ❌ | ? | ? |
-| [social.gfsc.studio](https://social.gfsc.studio) | **13** | 3 319 | ❌ | ? | ? |
+| [social.gfsc.studio](https://social.gfsc.studio) | **13** | 3 325 | ❌ | ? | ? |
 | [allies.rocks](https://allies.rocks) | **13** | 556 | ✅ | ? | ? |
 | [fedi.computernewb.com](https://fedi.computernewb.com) | **13** | 4 041 | ❌ | Some nerds on the internet  Fake computers! | en |
 | [pics.brocolis.party](https://pics.brocolis.party) | **13** | 36 349 | ❌ | ? | ? |
@@ -2516,7 +2522,7 @@
 | [free.gluten.space](https://free.gluten.space) | **13** | 23 041 | ✅ | Une petite instance Mastodon (en construction) | en |
 | [mastodon.dragonbox.de](https://mastodon.dragonbox.de) | **12** | 7 231 | ✅ | A Mastodon server for everyone run by the DragonBox Shop in Germany. Ein Mastodon server für alle, powered by DragonBox Shop in Deutschland. | en |
 | [flyovercountry.social](https://flyovercountry.social) | **12** | 17 158 | ✅ | flyovercountry.social is a general interest, regional Mastodon instance, ostensibly focused on the United States heartland, but everyone is welcome here, as long as you adhere to the rules.  | en |
-| [mastodonnederland.online](https://mastodonnederland.online) | **12** | 28 017 | ✅ | Mastodon Nederland 🤎   <br> Created by Maureen Grünberg. | en |
+| [mastodonnederland.online](https://mastodonnederland.online) | **12** | 28 071 | ✅ | Mastodon Nederland 🤎   <br> Created by Maureen Grünberg. | en |
 | [cute.is](https://cute.is) | **12** | 1 694 | ✅ | a quiet spot for lgbtq+uties to hang out.  | en |
 | [gaycity.lgbt](https://gaycity.lgbt) | **12** | 13 034 | ❌ | ? | ? |
 | [altelectron.org.uk](https://altelectron.org.uk) | **12** | 2 511 | ❌ | ? | ? |
@@ -2556,20 +2562,20 @@
 | [buff.tomboyfan.club](https://buff.tomboyfan.club) | **12** | 5 787 | ✅ | ? | ? |
 | [blog.mastodont.cat](https://blog.mastodont.cat) | **12** | 113 | ❌ | ? | ? |
 | [sb17.space](https://sb17.space) | **12** | 7 061 | ❌ | We're a group of leftist idealists working to make the web a better place.   We've got a Matrix chat, a pubnix, and some other stuff for users as well.   Sign-ups are invite-only. | en |
-| [ice-lolly.social](https://ice-lolly.social) | **12** | 3 285 | ❌ | At the intersection of rocketposting and liking elevators a bit too much: the social ramblings of ice-lolly-tasted in 500 characters or less. | en |
-| [digitaldarkage.cc](https://digitaldarkage.cc) | **12** | 3 276 | ✅ | a return to an older and better internet | en |
+| [ice-lolly.social](https://ice-lolly.social) | **12** | 3 293 | ❌ | At the intersection of rocketposting and liking elevators a bit too much: the social ramblings of ice-lolly-tasted in 500 characters or less. | en |
+| [digitaldarkage.cc](https://digitaldarkage.cc) | **12** | 3 275 | ✅ | a return to an older and better internet | en |
 | [hkgk.nishi.boats](https://hkgk.nishi.boats) | **12** | 2 749 | ✅ | ? | ? |
 | [akko.chir.rs](https://akko.chir.rs) | **12** | 10 610 | ✅ | ? | ? |
 | [yapstreams.com](https://yapstreams.com) | **12** | 13 265 | ✅ | An alternative free speech platform.  | en |
 | [gratefuldread.masto.host](https://gratefuldread.masto.host) | **12** | 108 732 | ✅ | Operated by Grateful Dread Peace Media for people who love peace and love. | en |
 | [eicker.news](https://eicker.news) | **12** | 7 263 | ❌ | eicker.news stands for technews in a broad variety of thematic mircoblogs and always: fresh off the .net | en |
 | [alpaka.garden](https://alpaka.garden) | **12** | 4 646 | ✅ | Der Server richtet sich an Personen die Alpakas mögen...und die ich (@hyggesalpaka) kenne, um sicher zu stellen, dass keine Lama liebenden Menschen sich hier verirren! | en |
-| [vixen.zone](https://vixen.zone) | **12** | 807 | ✅ | Just a little Mastodon instance for myself and my friends :3c | en |
+| [vixen.zone](https://vixen.zone) | **12** | 808 | ✅ | Just a little Mastodon instance for myself and my friends :3c | en |
 | [mastodon.solar](https://mastodon.solar) | **12** | 884 | ✅ | ? | en |
 | [soc.noob.quest](https://soc.noob.quest) | **12** | 5 670 | ❌ | ? | ? |
 | [degrowth.social](https://degrowth.social) | **12** | 1 932 | ❌ | 🌿 Fediverse for activists, academics and artists in the degrowth networks. Run by Ecobytes. 🌟 | en |
 | [worldc.one](https://worldc.one) | **12** | 13 473 | ❌ | ? | ? |
-| [an.errant.cloud](https://an.errant.cloud) | **12** | 1 919 | ✅ | A private server | en |
+| [an.errant.cloud](https://an.errant.cloud) | **12** | 1 928 | ✅ | A private server | en |
 | [fedi.codepenguin.io](https://fedi.codepenguin.io) | **12** | 9 741 | ❌ | ? | ? |
 | [social.npo.nl](https://social.npo.nl) | **12** | 468 | ❌ | Welkom op de officiële Mastodon-server van de Nederlandse Publieke Omroep. | en |
 | [www.attoppa.it](https://www.attoppa.it) | **12** | 64 | ❌ | ? | ? |
@@ -2577,8 +2583,9 @@
 | [gyatt.cc](https://gyatt.cc) | **12** | 1 024 | ✅ | this isn't a single-user instance, but it is a work in progress, feel free to request a sign up (based in australia) | en |
 | [wanderingwires.net](https://wanderingwires.net) | **12** | 4 927 | ✅ | ? | ? |
 | [makai.chaotic.ninja](https://makai.chaotic.ninja) | **12** | 8 793 | ❌ | ? | ? |
+| [masto.ink](https://masto.ink) | **12** | 1 036 | ✅ | A general-purpose Ukrainian Mastodon server with a 4096 character limit. | uk |
 | [woodworking.group](https://woodworking.group) | **11** | 381 | ✅ | A small place for all things related to woodworking 🪵🪵🪵 hosted by Thunderhost 🪵🪵🪵 | en |
-| [social.sargasso.nl](https://social.sargasso.nl) | **11** | 21 689 | ✅ | Sargasso is een community van gelijkgestemde mensen en heeft een progressieve signatuur, maar is niet dogmatisch. Onbeschaamd intellectueel en kosmopolitisch, maar tegelijkertijd hopeloos genuanceerd. | en |
+| [social.sargasso.nl](https://social.sargasso.nl) | **11** | 21 723 | ✅ | Sargasso is een community van gelijkgestemde mensen en heeft een progressieve signatuur, maar is niet dogmatisch. Onbeschaamd intellectueel en kosmopolitisch, maar tegelijkertijd hopeloos genuanceerd. | en |
 | [social.wastedalpaca.wtf](https://social.wastedalpaca.wtf) | **11** | 4 420 | ✅ | A home for leftist people. Nazis and other scum will be blocked. | en |
 | [social.zym.lol](https://social.zym.lol) | **11** | 2 405 | ✅ | Welcome to the world of decentralised social media: No ads or algorithms, ethical design, interoperability and chronological timelines! | en |
 | [toot.foundation](https://toot.foundation) | **11** | 1 101 | ✅ | A trans-owned general(ish) instance meant as a home for LGBTQIA people, anti-fascists, feminists, activists, and anyone who wants to make the world a better place and values kindness and respect. | en |
@@ -2586,9 +2593,9 @@
 | [skrivel.se](https://skrivel.se) | **11** | 5 374 | ✅ | Skrivel.se is a bit of a play on words lost in translation. Hosted by two nerds from sweden but most posts are in english on here. We're a small instance with an active federated timeline. We'd love to have you on, but you should expect us to say hi, and to ask who you are 😉  The server is very active, but small. | en |
 | [bot.swiss.social](https://bot.swiss.social) | **11** | 12 409 | ✅ | Home of approved Bots from swiss.social | en |
 | [mastodon.femboyfurry.net](https://mastodon.femboyfurry.net) | **11** | 297 | ✅ | A mastodon instance for femboy furries to hang out in, but everyone is welcome! Ran by JovannMC as a project for femboyfurry.net | en |
-| [crooklyn.social](https://crooklyn.social) | **11** | 15 830 | ❌ | This is where you'll find the writers for CrooksandLiars.com.  | en |
+| [crooklyn.social](https://crooklyn.social) | **11** | 15 859 | ❌ | This is where you'll find the writers for CrooksandLiars.com.  | en |
 | [cybersecurity.theater](https://cybersecurity.theater) | **11** | 2 410 | ✅ | Taking the "Twitter" out of "InfoSec Twitter." | en |
-| [darktundra.xyz](https://darktundra.xyz) | **11** | 37 087 | ✅ | darktundra is a small instance primarily for our family's personal use and the projects we are involved with.  | en |
+| [darktundra.xyz](https://darktundra.xyz) | **11** | 37 181 | ✅ | darktundra is a small instance primarily for our family's personal use and the projects we are involved with.  | en |
 | [mastodon.localecho.net](https://mastodon.localecho.net) | **11** | 760 | ❌ | ? | en |
 | [social.northernvoice.app](https://social.northernvoice.app) | **11** | 163 291 | ❌ | ? | en |
 | [social.yl.ms](https://social.yl.ms) | **11** | 15 332 | ❌ | ? | ? |
@@ -2613,7 +2620,7 @@
 | [toulouse.social](https://toulouse.social) | **11** | 1 927 | ❌ | Instance Mastodon dédiée aux Toulousain·es. | fr |
 | [beamship.mpaq.org](https://beamship.mpaq.org) | **11** | 5 798 | ✅ | Home to MPAQ/KMPQ internet radio station | en |
 | [social.panic.com](https://social.panic.com) | **11** | 1 331 | ❌ | The official home for Panic and Playdate Mastodon accounts. Hooray!! | en |
-| [fuerth.social](https://fuerth.social) | **11** | 853 | ✅ | Kleine Instanz für jegliche Entitäten aus Fürth. | en |
+| [fuerth.social](https://fuerth.social) | **11** | 845 | ✅ | Kleine Instanz für jegliche Entitäten aus Fürth. | en |
 | [kiddush.social](https://kiddush.social) | **11** | 1 219 | ✅ | Grab some kugel, make a l'chayim, and share a d'var Torah or just schmooze with us here on Kiddush.social! | en |
 | [gloria.social](https://gloria.social) | **11** | 826 | ❌ | Mastodon server for friends of the Swiss based app incubator made@gloria. | en |
 | [istheguy.com](https://istheguy.com) | **11** | 2 333 | ❌ | A social network for you (if you are the guy) | en |
@@ -2627,6 +2634,7 @@
 | [agda.club](https://agda.club) | **11** | 142 | ✅ | ? | ? |
 | [gameguard.moe](https://gameguard.moe) | **11** | 11 547 | ❌ | ? | ? |
 | [bvb.social](https://bvb.social) | **11** | 240 | ✅ | bvb.social ist eine Mastodon Instanz von Fans für Fans. Dieses ist keine offizielle BVB-Instanz. | de |
+| [garlic.social](https://garlic.social) | **11** | 627 | ✅ | ? | ? |
 | [page.lgbt](https://page.lgbt) | **10** | 3 871 | ✅ | An inclusive Mastodon instance for members of the LGBTQ+ community. | en |
 | [kotobaphil-mtdn.eu](https://kotobaphil-mtdn.eu) | **10** | 17 894 | ✅ | ? | en |
 | [mastodon.chasalin.nl](https://mastodon.chasalin.nl) | **10** | 27 246 | ✅ | ? | en |
@@ -2635,7 +2643,7 @@
 | [pleroma.dark-alexandr.net](https://pleroma.dark-alexandr.net) | **10** | 1 722 | ✅ | ? | ? |
 | [neomobius.com](https://neomobius.com) | **10** | 10 966 | ❌ | This instance is run by NeoMobius for NeoMobius. I got tired of getting limited by other instances and being forced to bounce around, so I made my own home! | en |
 | [drg.nz](https://drg.nz) | **10** | 1 784 | ✅ | Private server because I want the fancy domain. You can register, but I'll only be approving people I know and trust :) | en |
-| [fedified.com](https://fedified.com) | **10** | 8 200 | ❌ | A U.S.-based Mastodon server for persons looking to engage in fact-based discussions about democracy, politics & policy, science & technology, national security, global markets, and sports. | en |
+| [fedified.com](https://fedified.com) | **10** | 8 201 | ❌ | A U.S.-based Mastodon server for persons looking to engage in fact-based discussions about democracy, politics & policy, science & technology, national security, global markets, and sports. | en |
 | [glitch.taks.garden](https://glitch.taks.garden) | **10** | 10 767 | ✅ | Experimentation instance<br/> | en |
 | [lasersword.club](https://lasersword.club) | **10** | 5 915 | ❌ | A friendly, inclusive Masto instance for fans of a galaxy far, far away.... | en |
 | [m.universetoday.com](https://m.universetoday.com) | **10** | 2 597 | ❌ | This is the Mastodon server for Universe Today | en |
@@ -2681,7 +2689,7 @@
 | [fedi.bapril.pl](https://fedi.bapril.pl) | **10** | 2 212 | ❌ | ? | ? |
 | [mastodon.hakurei.win](https://mastodon.hakurei.win) | **10** | 992 | ❌ | 普通のデスクトップPCで動いているMastodonインスタンスです｡ 私と関わりのある人は招待します｡ | en |
 | [blogi.social](https://blogi.social) | **10** | 1 526 | ✅ | Blogi.social instanssi on nimensä mukaisesti tarkoitettu blogeille.  Instanssin ajatuksena on tarjota paikka missä blogit voivat linkittää omaan sisältöönsä. | fi |
-| [syzito.xyz](https://syzito.xyz) | **10** | 10 853 | ✅ | Express yourself freely.  Optional: Join the Robot Monkey Army, Cyborg Werewolf Ninjas, and Algebraic Velociraptors, in an epic war for the emancipation of the intergalactic proletariat. | en |
+| [syzito.xyz](https://syzito.xyz) | **10** | 10 901 | ✅ | Express yourself freely.  Optional: Join the Robot Monkey Army, Cyborg Werewolf Ninjas, and Algebraic Velociraptors, in an epic war for the emancipation of the intergalactic proletariat. | en |
 | [smugglersbbs.com](https://smugglersbbs.com) | **10** | 20 279 | ✅ | Sequoia Mastodon User's Group BBS | en |
 | [cloth.social](https://cloth.social) | **10** | 2 915 | ❌ | ? | ? |
 | [shrimple.aagaming.me](https://shrimple.aagaming.me) | **10** | 7 688 | ❌ | ? | ? |
@@ -2689,10 +2697,11 @@
 | [thetransagenda.gay](https://thetransagenda.gay) | **10** | 3 915 | ❌ | ? | ? |
 | [weyhe.social](https://weyhe.social) | **10** | 3 814 | ✅ | Weyhe.social wird betrieben von Nr.1.  Eine deutschsprachige Instanz, bevorzugt für den Raum Weyhe bei Bremen. Aus Weyhe, für Weyhe | de |
 | [freesewing.social](https://freesewing.social) | **10** | 70 | ✅ | The home of FreeSewing on the fediverse. Open to the wider FreeSewing community. | en |
-| [irrelephant.co](https://irrelephant.co) | **10** | 2 717 | ✅ | Private instance for my friends and i. | en |
+| [irrelephant.co](https://irrelephant.co) | **10** | 2 721 | ✅ | Private instance for my friends and i. | en |
 | [fedi.lat](https://fedi.lat) | **10** | 4 186 | ✅ | Servidor seguro, inclusivo y feminista orientado para (pero no exclusivo de) la comunidad latinoamericana | es |
 | [sasa.africa](https://sasa.africa) | **10** | 171 | ✅ | Sasa.Africa is a social networking place for all people interested in distributed systems. The social aspects of decentralization are essential here, and especially how they are imagined and enacted. Bring your authentic self, your africaness, your blackness, your pride, and your humanity.  | en |
-| [fediver.de](https://fediver.de) | **9** | 6 056 | ✅ | A general purpose instance for open minded people who comply with the server rules. This instance is run by @tommy and @admin. | en |
+| [vyrse.social](https://vyrse.social) | **10** | 4 463 | ✅ | A home for storytellers. Artists, authors, actors, scientists, journalists, musicians... anyone and everyone who is driven to use story and narrative to explain, entertain and understand.    | en |
+| [fediver.de](https://fediver.de) | **9** | 6 068 | ✅ | A general purpose instance for open minded people who comply with the server rules. This instance is run by @tommy and @admin. | en |
 | [esper.lol](https://esper.lol) | **9** | 984 | ✅ | Generalized Mastodon instance. Have any evil spirit issues lately? | en |
 | [vltava.cloud](https://vltava.cloud) | **9** | 3 944 | ✅ | Česká instance (přípojný bod do) Mastodon sítě. Registrovat se může kdokoli.  Provozovatelem je soukromá osoba na dedikovaném serveru s přípojkou 1 Gbps se záložnim zdrojem. | en |
 | [mastodon.conii.co](https://mastodon.conii.co) | **9** | 7 476 | ✅ | ? | ko |
@@ -2711,7 +2720,7 @@
 | [fedi.afra.berlin](https://fedi.afra.berlin) | **9** | 2 894 | ❌ | ? | ? |
 | [hub.cats-home.net](https://hub.cats-home.net) | **9** | 744 | ❌ | ? | ? |
 | [mastodon.macstories.net](https://mastodon.macstories.net) | **9** | 6 823 | ❌ | The MacStories team's Mastodon server | en |
-| [mstdn.strafpla.net](https://mstdn.strafpla.net) | **9** | 6 492 | ❌ | A cozy private Mastodon server for friends and family. If you are f&f and would like to have an account, get in touch. #!chris | en |
+| [mstdn.strafpla.net](https://mstdn.strafpla.net) | **9** | 6 502 | ❌ | A cozy private Mastodon server for friends and family. If you are f&f and would like to have an account, get in touch. #!chris | en |
 | [procolix.social](https://procolix.social) | **9** | 3 221 | ✅ | ProcoliX Mastodon server for ProcoliX Employees | nl |
 | [provo.lol](https://provo.lol) | **9** | 3 607 | ✅ | The small community at provo.lol centres around the values of creativity, knowledge, empathy, global justice, and socialism. | en |
 | [social.bbc](https://social.bbc) | **9** | 440 | ❌ | This is an experimental Mastodon instance run by BBC Research and Development. | en |
@@ -2724,7 +2733,7 @@
 | [lighttheunicorn.horse](https://lighttheunicorn.horse) | **9** | 1 771 | ✅ | A personal slice of the fediverse for Light and close friends. | en |
 | [social.publicspaces.net](https://social.publicspaces.net) | **9** | 1 037 | ❌ | ? | en |
 | [fedi.akselmo.dev](https://fedi.akselmo.dev) | **9** | 3 696 | ❌ | ? | ? |
-| [fouroclockfarms.club](https://fouroclockfarms.club) | **9** | 10 038 | ❌ | A small, highly moderated, private server run by some wheat growing queers on the plains. | en |
+| [fouroclockfarms.club](https://fouroclockfarms.club) | **9** | 10 044 | ❌ | A small, highly moderated, private server run by some wheat growing queers on the plains. | en |
 | [tnku.co](https://tnku.co) | **9** | 4 440 | ❌ | ? | en |
 | [fedi.byecorps.com](https://fedi.byecorps.com) | **9** | 337 | ❌ | ? | ? |
 | [wizzzard.online](https://wizzzard.online) | **9** | 120 350 | ❌ | ? | ? |
@@ -2744,7 +2753,7 @@
 | [squad.town](https://squad.town) | **9** | 7 123 | ❌ | Fediverse server for a handful of friends who call themselves "squad". | en |
 | [monogram.org](https://monogram.org) | **9** | 1 413 | ❌ | This is the monogram.org Mastadon server. monogram.org started in 1999 as a community of likeminded people interested in open discourse about technology, arts, culture, and a better world.   | en |
 | [ajtaci.club](https://ajtaci.club) | **9** | 163 | ❌ | ? | en |
-| [nileane.fr](https://nileane.fr) | **9** | 9 156 | ❌ | a Mastodon instance for Niléane and her friends :) 🏳️‍⚧️🏳️‍🌈 | en |
+| [nileane.fr](https://nileane.fr) | **9** | 9 167 | ❌ | a Mastodon instance for Niléane and her friends :) 🏳️‍⚧️🏳️‍🌈 | en |
 | [fedi.gaykitty.lol](https://fedi.gaykitty.lol) | **9** | 4 455 | ❌ | ? | ? |
 | [munochi.moe](https://munochi.moe) | **9** | 13 241 | ❌ | ? | ? |
 | [linh.social](https://linh.social) | **9** | 5 377 | ❌ | This is a Mastodon instance run exclusively for personal use only. | en |
@@ -2761,14 +2770,14 @@
 | [fedi.intragon.org](https://fedi.intragon.org) | **9** | 3 109 | ✅ | ? | ? |
 | [rect.al](https://rect.al) | **9** | 630 | ❌ | This is a mastodon instance for fantasy adult toy makers | en |
 | [fedit.pl](https://fedit.pl) | **9** | 32 | ✅ | ? | ? |
-| [masto.krashboyz.org](https://masto.krashboyz.org) | **9** | 3 316 | ✅ | Krashboyz Association Soundz, Noiz, Freakz | fr |
+| [masto.krashboyz.org](https://masto.krashboyz.org) | **9** | 3 340 | ✅ | Krashboyz Association Soundz, Noiz, Freakz | fr |
 | [libertynode.net](https://libertynode.net) | **9** | 11 455 | ❌ | The open source, decentralized social network we deserve. Powered by Mastodon. | en |
 | [daydream.ink](https://daydream.ink) | **9** | 2 820 | ✅ | 스스로 꿈꾸고, 어딘가로 떠날 수 있는 사람을 위한 장소입니다. | en |
 | [fd00.space](https://fd00.space) | **9** | 1 132 | ✅ | uniquely local | en |
 | [cats.city](https://cats.city) | **9** | 6 699 | ❌ | ? | ? |
 | [social.oevents.co.za](https://social.oevents.co.za) | **9** | 8 549 | ✅ | A private, semi-ephemeral, probably unstable Mastodon instance for family (and maybe some friends). Oh, and things will probably auto-delete also. | en |
 | [sona.live](https://sona.live) | **9** | 391 | ✅ | 소나기가 내리는 적적한 인스턴스. 여러분의 소나라이브입니다 | en |
-| [social.lemue.org](https://social.lemue.org) | **9** | 842 | ✅ | social.lemue.org ist eine Mastodon Instanz für alle und jeden, der sich in hier zuhause fühlt. (Medien und Tröts die älter als 21 Tage sind werden automatisch verworfen. Ausnahme: >5 Boosts/Favoriten) | en |
+| [social.lemue.org](https://social.lemue.org) | **9** | 848 | ✅ | social.lemue.org ist eine Mastodon Instanz für alle und jeden, der sich in hier zuhause fühlt. (Medien und Tröts die älter als 21 Tage sind werden automatisch verworfen. Ausnahme: >5 Boosts/Favoriten) | en |
 | [m.mxin.moe](https://m.mxin.moe) | **9** | 38 | ✅ | ? | ? |
 | [lucha.nyc](https://lucha.nyc) | **8** | 1 282 | ❌ | A place for the misfits of NYC (or anywhere!) | en |
 | [mastodon.bitsandlinux.com](https://mastodon.bitsandlinux.com) | **8** | 1 206 | ✅ | Un servidor para contribuir a la red federada de Mastodon y todas las redes libres. Va dirigido a todas, todos y todes. Si eres racistas, clasista u homofobo este no es tu sitio. | en |
@@ -2793,8 +2802,8 @@
 | [dica.interfel.de](https://dica.interfel.de) | **8** | 313 | ❌ | ? | ? |
 | [faithcollapsing.com](https://faithcollapsing.com) | **8** | 12 170 | ✅ | Anti-bigot, anti-fascist, pro-privacy, pro-science, pro-wierdo, pro-freaks.  | en |
 | [lemmy.capebreton.social](https://lemmy.capebreton.social) | **8** | 3 213 | ✅ | ? | ? |
-| [lily.network](https://lily.network) | **8** | 23 649 | ❌ | This is a single-user instance for @millenomi@lily.network. | en |
-| [masto.asonix.dog](https://masto.asonix.dog) | **8** | 42 632 | ❌ | The asonix of furry mastodon. For me and a few friends. DM me somewhere if u want an account lol | en-DG |
+| [lily.network](https://lily.network) | **8** | 23 654 | ❌ | This is a single-user instance for @millenomi@lily.network. | en |
+| [masto.asonix.dog](https://masto.asonix.dog) | **8** | 42 677 | ❌ | The asonix of furry mastodon. For me and a few friends. DM me somewhere if u want an account lol | en-DG |
 | [masto.brightfur.net](https://masto.brightfur.net) | **8** | 48 219 | ❌ | ? | ? |
 | [mastodon.hardcoredevs.com](https://mastodon.hardcoredevs.com) | **8** | 6 194 | ❌ | ? | es |
 | [mastodon.tucsonsentinel.com](https://mastodon.tucsonsentinel.com) | **8** | 4 311 | ❌ | ? | ? |
@@ -2854,16 +2863,16 @@
 | [sironi.tk](https://sironi.tk) | **8** | 35 471 | ❌ | ? | ? |
 | [m.lonet.org](https://m.lonet.org) | **8** | 12 018 | ✅ | Ein deutscher Mastodon Server, im Regelbetrieb seit Juli 2023. | en |
 | [meerjungfrauengrotte.de](https://meerjungfrauengrotte.de) | **8** | 7 335 | ✅ | Eine queerfreundliche Mastodon-Instanz für alle, die das Meer lieben. | de |
-| [tomkahe.com](https://tomkahe.com) | **8** | 17 198 | ❌ | Glitch-Soc (with some minor tweaks) instance ran out of Columbus, Ohio | en |
+| [tomkahe.com](https://tomkahe.com) | **8** | 17 646 | ❌ | Glitch-Soc (with some minor tweaks) instance ran out of Columbus, Ohio | en |
 | [social.r4v3.party](https://social.r4v3.party) | **8** | 137 | ✅ | Русскоязычный сервер на батарее | en |
 | [ordinary.cafe](https://ordinary.cafe) | **8** | 2 905 | ❌ | An ordinary place, for not so ordinary people. | en |
 | [catgirl.center](https://catgirl.center) | **8** | 15 327 | ✅ | ? | ? |
-| [crashloop.social](https://crashloop.social) | **8** | 2 413 | ✅ | ? | en |
+| [crashloop.social](https://crashloop.social) | **8** | 2 424 | ✅ | ? | en |
 | [scalie.zone](https://scalie.zone) | **8** | 1 940 | ❌ | Hello, this is an instance for AksDev community, which is a tiny Matrix community I have for my friends.  | en |
 | [pics.gayfr.online](https://pics.gayfr.online) | **8** | 13 119 | ✅ | ? | ? |
 | [transwo.men](https://transwo.men) | **8** | 86 | ✅ | ? | ? |
 | [rssfeed.media](https://rssfeed.media) | **8** | 1 866 | ✅ | RSS Feed for News and Government organisations.  No manipulation of what is provided unless legally obliged to. | en |
-| [mas.corq.co](https://mas.corq.co) | **8** | 20 681 | ✅ | Ukraine-supporting, LGBTQ-friendly, Mastodon server. | en |
+| [mas.corq.co](https://mas.corq.co) | **8** | 20 761 | ✅ | Ukraine-supporting, LGBTQ-friendly, Mastodon server. | en |
 | [wrily.foad.me.uk](https://wrily.foad.me.uk) | **8** | 146 | ✅ | ? | ? |
 | [comunitate.ascorcluj.com](https://comunitate.ascorcluj.com) | **7** | 1 248 | ✅ | Comunitatea Online ASCOR Cluj | en |
 | [handlewalks.masto.host](https://handlewalks.masto.host) | **7** | 1 786 | ✅ | ? | en |
@@ -2880,11 +2889,11 @@
 | [social.pagenstedt.de](https://social.pagenstedt.de) | **7** | 5 427 | ✅ | ? | ? |
 | [physfluids.fr](https://physfluids.fr) | **7** | 1 306 | ✅ | “Big whirls have little whirls, That feed on their velocity; And little whirls have lesser whirls, And so on to viscosity.” — Lewis Fry Richardson | en |
 | [mastodon.raumfahrer.net](https://mastodon.raumfahrer.net) | **7** | 1 207 | ✅ | Dieser Server wird vom Verein Raumfahrer.net e.V. betrieben und ist für die Redaktion von Raumfahrer.net bestimmt. | en |
-| [social.dib.de](https://social.dib.de) | **7** | 1 200 | ✅ | DEMOKRATIE IN BEWEGUNG (DiB) betreibt diesen Server um das freie Mastodon / Fediverse Netzwerk zu unterstützen. Logins nur für Parteimitglieder und verifizierte Beweger*innen. | de |
-| [oldfriends.live](https://oldfriends.live) | **7** | 18 111 | ❌ | A place where old friends can meet in the Fediverse! Home of the popular 9 o'clock #HashTagGames. Specialty server, invite only at this time.  | en |
+| [social.dib.de](https://social.dib.de) | **7** | 1 204 | ✅ | DEMOKRATIE IN BEWEGUNG (DiB) betreibt diesen Server um das freie Mastodon / Fediverse Netzwerk zu unterstützen. Logins nur für Parteimitglieder und verifizierte Beweger*innen. | de |
+| [oldfriends.live](https://oldfriends.live) | **7** | 18 127 | ❌ | A place where old friends can meet in the Fediverse! Home of the popular 9 o'clock #HashTagGames. Specialty server, invite only at this time.  | en |
 | [panko.itzti.li](https://panko.itzti.li) | **7** | 992 | ✅ | ? | ? |
 | [social.retrocomputing.at](https://social.retrocomputing.at) | **7** | 336 | ✅ | The Mastodon/Fediverse Server für Retro Computing Enthusiasten. Wir sprechen hauptsächlich Deutsch (aber großteils auch Englisch). | en |
-| [embassy.social](https://embassy.social) | **7** | 87 536 | ❌ | ? | en |
+| [embassy.social](https://embassy.social) | **7** | 87 557 | ❌ | ? | en |
 | [hkc.social](https://hkc.social) | **7** | 3 724 | ❌ | HKC Radio's Mastodon instance for broadcasters and other team members. | en |
 | [bluenoser.me](https://bluenoser.me) | **7** | 4 439 | ❌ | A friends and family instance for Nova Scotian friends and family. | en |
 | [borg.social](https://borg.social) | **7** | 27 985 | ❌ | ? | ? |
@@ -2895,12 +2904,12 @@
 | [hutt.social](https://hutt.social) | **7** | 4 592 | ❌ | Privater Server. | en |
 | [lain.com](https://lain.com) | **7** | 117 564 | ❌ | ? | ? |
 | [lumberjacks.social](https://lumberjacks.social) | **7** | 9 107 | ❌ | This is a private Mastodon instance that currently isn't accepting registration. | en |
-| [mastodon.derpstra.nl](https://mastodon.derpstra.nl) | **7** | 3 641 | ❌ | Personal and friends Mastodon server of @diede@derpstra.nl  This server uses 100% green solar, wind and water energy (according to my energy supplier). | en |
+| [mastodon.derpstra.nl](https://mastodon.derpstra.nl) | **7** | 3 564 | ❌ | Personal and friends Mastodon server of @diede@derpstra.nl  This server uses 100% green solar, wind and water energy (according to my energy supplier). | en |
 | [social.bij1.org](https://social.bij1.org) | **7** | 1 323 | ❌ | Een Mastodonserver voor officiële kanalen van BIJ1, zoals de landelijke partij, afdelingen en onze volksvertegenwoordigers. | en |
 | [social.in-purple.de](https://social.in-purple.de) | **7** | 2 318 | ❌ | Die private Mastodon Instanz von The Duke In Purple, seinen Freunden und Bekannten. | en |
 | [social.milchreislieferei.de](https://social.milchreislieferei.de) | **7** | 4 082 | ✅ | ? | en |
 | [tech.intersects.art](https://tech.intersects.art) | **7** | 259 | ❌ | ? | ? |
-| [toot.dusepo.co.uk](https://toot.dusepo.co.uk) | **7** | 12 134 | ❌ | ? | en |
+| [toot.dusepo.co.uk](https://toot.dusepo.co.uk) | **7** | 12 156 | ❌ | ? | en |
 | [ubiqueros.com](https://ubiqueros.com) | **7** | 12 618 | ❌ | ? | ? |
 | [mountaincommunity.co](https://mountaincommunity.co) | **7** | 385 | ✅ | ? | ? |
 | [amok.recoil.org](https://amok.recoil.org) | **7** | 834 | ✅ | The Recoil collective hangs out here | en |
@@ -2919,14 +2928,14 @@
 | [mu.zaitcev.nu](https://mu.zaitcev.nu) | **7** | 11 758 | ❌ | ? | ? |
 | [mastodon.myocci.social](https://mastodon.myocci.social) | **7** | 1 917 | ✅ | Server for Clergy and laity of the Old Catholic Churches International.  | en |
 | [fotoclub.lono.space](https://fotoclub.lono.space) | **7** | 265 | ❌ | ? | ? |
-| [rukii.net](https://rukii.net) | **7** | 1 887 | ✅ | A small server in Spain, administered by an old software engineer. | en |
+| [rukii.net](https://rukii.net) | **7** | 1 889 | ✅ | A small server in Spain, administered by an old software engineer. | en |
 | [pleroma.pch.net](https://pleroma.pch.net) | **7** | 1 729 | ❌ | ? | ? |
 | [klezmor.im](https://klezmor.im) | **7** | 680 | ❌ | A small invite-only server for fans, artists, and researchers of klezmer (Jewish instrumental folk music from Eastern Europe and the diaspora). | en |
 | [social.vasilis.nl](https://social.vasilis.nl) | **7** | 21 499 | ❌ | A private mastodon instance of Vasilis van Gemert and his bots. | en |
 | [tiphon.nerv-project.eu](https://tiphon.nerv-project.eu) | **7** | 904 | ✅ | Art, culture, littérature, SFFF, développement, DIY, logiciel libre, accessibilité et handicap. / Art, culture, literature, fantasy, sci-fi, coding, DIY, free software, accessibility. | fr |
 | [craftbeer.social](https://craftbeer.social) | **7** | 52 | ❌ | Mastodon server for me and a few craft beer friends.  | en |
 | [social.filik.eu](https://social.filik.eu) | **7** | 491 | ❌ | Sociální síť bez reklam, sledování a etickým designem. Díky decentralizaci vlastníte svá data a víte kdo k nim má přístup.  Přihlašování pouze přes jednotné přihlašování "Filik SSO". | en |
-| [queerspirituality.social](https://queerspirituality.social) | **7** | 5 068 | ✅ | A mastodon server for those primarily interested in discussing various forms of queer spirituality. | en |
+| [queerspirituality.social](https://queerspirituality.social) | **7** | 5 083 | ✅ | A mastodon server for those primarily interested in discussing various forms of queer spirituality. | en |
 | [fedi.simonwillison.net](https://fedi.simonwillison.net) | **7** | 5 949 | ❌ | ? | en |
 | [lemmy.procrastinati.org](https://lemmy.procrastinati.org) | **7** | 26 | ✅ | ? | ? |
 | [social.fedcast.ch](https://social.fedcast.ch) | **7** | 28 941 | ❌ | ? | ? |
@@ -2947,7 +2956,7 @@
 | [toolsforthought.social](https://toolsforthought.social) | **7** | 6 875 | ✅ | The Tools for Thought Rocks! server is for anyone interested in the field of building and using emerging tools for thought. From personal knowledge management to global cozyweb. | en |
 | [akko.cuddlegirls.cafe](https://akko.cuddlegirls.cafe) | **7** | 7 819 | ❌ | ? | ? |
 | [introvert.social](https://introvert.social) | **7** | 905 | ❌ | ? | ? |
-| [tams.tech](https://tams.tech) | **7** | 2 810 | ✅ | ? | en |
+| [tams.tech](https://tams.tech) | **7** | 2 816 | ✅ | ? | en |
 | [snowmans.land](https://snowmans.land) | **7** | 6 240 | ✅ | A lonely checkpoint in the middle of nowhere. A place to rest. Maybe a place for new stories to share? Who knows? Building a hut in the middle of nowhere maybe wasn't a mistake after all...  | en |
 | [rustodon.hopto.org](https://rustodon.hopto.org) | **7** | 892 | ❌ | Маленький сервер мастодона для русских людей. Регистрации пока нет - только через админа. | en |
 | [toot.fedilab.app](https://toot.fedilab.app) | **7** | 5 067 | ❌ | A friendly instance about tech, apps and for having fun. | en |
@@ -3003,7 +3012,7 @@
 | [lawfedi.blue](https://lawfedi.blue) | **6** | 6 542 | ❌ | The finest, boutique law server in the known fediverse.    | en |
 | [mastodon.applevis.com](https://mastodon.applevis.com) | **6** | 2 890 | ❌ | mastodon.applevis.com is a private Mastodon instance used exclusively by AppleVis and members of its editorial team. | en |
 | [mastodon.hccp.org](https://mastodon.hccp.org) | **6** | 5 703 | ✅ | A local Mastodon instance. | en |
-| [mastodon.parleur.net](https://mastodon.parleur.net) | **6** | 34 215 | ❌ | ? | fr |
+| [mastodon.parleur.net](https://mastodon.parleur.net) | **6** | 34 235 | ❌ | ? | fr |
 | [mtdn.anyqn.com](https://mtdn.anyqn.com) | **6** | 8 860 | ✅ | ? | ? |
 | [pleromashit.nexus](https://pleromashit.nexus) | **6** | 596 | ❌ | ? | ? |
 | [rigor-mortis.nmrc.org](https://rigor-mortis.nmrc.org) | **6** | 1 434 | ❌ | This server is for NMRC members only. | en |
@@ -3090,7 +3099,7 @@
 | [fops.cloud](https://fops.cloud) | **6** | 5 777 | ❌ | ? | ? |
 | [fediverse.live](https://fediverse.live) | **6** | 4 570 | ✅ | ? | ? |
 | [mk.21x9.org](https://mk.21x9.org) | **6** | 5 461 | ❌ | ? | ? |
-| [social.zwoelfdreifuenfundvierzig.net](https://social.zwoelfdreifuenfundvierzig.net) | **6** | 15 694 | ❌ | ? | en |
+| [social.zwoelfdreifuenfundvierzig.net](https://social.zwoelfdreifuenfundvierzig.net) | **6** | 15 713 | ❌ | ? | en |
 | [meowcity.club](https://meowcity.club) | **6** | 1 392 | ❌ | ? | ? |
 | [akk2.eniehack.net](https://akk2.eniehack.net) | **6** | 410 | ❌ | ? | ? |
 | [masto.vy-let.software](https://masto.vy-let.software) | **6** | 33 132 | ❌ | This is a private instance for Vy-let and her close friends. | en |
@@ -3108,6 +3117,7 @@
 | [wordnik.social](https://wordnik.social) | **6** | 6 | ✅ | Wordnik's Mastodon server | en |
 | [omgwars.com](https://omgwars.com) | **6** | 1 799 | ❌ | ? | en |
 | [themeparks.social](https://themeparks.social) | **6** | 2 700 | ✅ | Let's talk about all things themeparks!  | en |
+| [video.canadiancivil.com](https://video.canadiancivil.com) | **6** | 1 089 | ✅ | ? | ? |
 | [patashnik.club](https://patashnik.club) | **5** | 3 038 | ✅ | ? | en |
 | [paperbay.org](https://paperbay.org) | **5** | 922 | ✅ | Private server of <a href="https://paperbay.org/@a">@a@paperbay.org</a>. For more info about the operator <a href="https://www.foo.be/">https://foo.be/</a> | en |
 | [bookstodon.es](https://bookstodon.es) | **5** | 309 | ✅ | Un rinconcito para hablar de libros... y de lo que se tercie. | en |
@@ -3124,7 +3134,7 @@
 | [lowkey.zone](https://lowkey.zone) | **5** | 3 547 | ✅ | The internet should be fun, refreshing, and social. We are a general purpose server focused on fostering friendly social interactions. | en |
 | [grosshans.online](https://grosshans.online) | **5** | 310 | ✅ | A personal instance for John Grosshans and his family... and maybe some friends. | en |
 | [social.security.plumbing](https://social.security.plumbing) | **5** | 2 050 | ✅ | security.plumbing | en |
-| [metrobus.masto.host](https://metrobus.masto.host) | **5** | 5 027 | ✅ | Invite-only Server for internal use | en |
+| [metrobus.masto.host](https://metrobus.masto.host) | **5** | 5 043 | ✅ | Invite-only Server for internal use | en |
 | [mastodon.terabyte-computing.com](https://mastodon.terabyte-computing.com) | **5** | 38 | ✅ | Hairy Bloke and the Chimp | en |
 | [baram.me](https://baram.me) | **5** | 3 510 | ✅ | baram.me - 바람은 연합우주의 또 다른 한국어 마스토돈 인스턴스입니다. | ko |
 | [social.technoetic.com](https://social.technoetic.com) | **5** | 2 105 | ❌ | Private instance. | en |
@@ -3215,7 +3225,7 @@
 | [merida.hair](https://merida.hair) | **5** | 1 112 | ❌ | ? | ? |
 | [feuerfis.ch](https://feuerfis.ch) | **5** | 4 546 | ❌ | ? | ? |
 | [social.fz-juelich.de](https://social.fz-juelich.de) | **5** | 198 | ❌ | Diese Mastodon-Instanz dient der institutionellen Wissenschaftskommunikation des Forschungszentrums Jülich, seiner Institutionen und ausgewählter Projekte mit FZJ-Beteiligung.  | en |
-| [social.yakshed.org](https://social.yakshed.org) | **5** | 5 128 | ❌ | This is a special little place in the Fediverse for a small group of purveyors of finest yak wool. | en |
+| [social.yakshed.org](https://social.yakshed.org) | **5** | 5 129 | ❌ | This is a special little place in the Fediverse for a small group of purveyors of finest yak wool. | en |
 | [mstdn.o-nature-culture.net](https://mstdn.o-nature-culture.net) | **5** | 722 | ❌ | オホーツク自然・文化ネットワーク | ja |
 | [social.devteams.at](https://social.devteams.at) | **5** | 1 794 | ❌ | ? | en |
 | [bla.daanberg.net](https://bla.daanberg.net) | **5** | 3 684 | ❌ | The personal Mastodon instance of Daan Berg. | en |
@@ -3262,7 +3272,7 @@
 | [fearness.org](https://fearness.org) | **5** | 11 445 | ✅ | ? | ? |
 | [kitty.haus](https://kitty.haus) | **5** | 7 198 | ❌ | ? | ? |
 | [mastodon.mallegolhansen.com](https://mastodon.mallegolhansen.com) | **5** | 2 589 | ❌ | Mastodon Server for friends and family of the Mallegol-Hansen household. Taking ownership of our own data. | en |
-| [welt.all.de](https://welt.all.de) | **5** | 1 559 | ❌ | mastodon Instanz der d-hosting GmbH aus Berlin. | en |
+| [welt.all.de](https://welt.all.de) | **5** | 1 560 | ❌ | mastodon Instanz der d-hosting GmbH aus Berlin. | en |
 | [social.opensource.org](https://social.opensource.org) | **5** | 2 182 | ❌ | OSI's Home In The Fediverse | en |
 | [gts.liberated.press](https://gts.liberated.press) | **5** | 1 416 | ❌ | ? | ? |
 | [shoddy.site](https://shoddy.site) | **5** | 783 | ✅ | ? | en |
@@ -3298,6 +3308,8 @@
 | [meowstodon.net](https://meowstodon.net) | **5** | 887 | ✅ | Каціная супольнасць у Mastodon | be |
 | [skyland.social](https://skyland.social) | **5** | 3 343 | ❌ | ? | ? |
 | [freezepeach.online](https://freezepeach.online) | **5** | 542 | ❌ | ? | ? |
+| [beautifullosers.org](https://beautifullosers.org) | **5** | 2 456 | ✅ | This server is being run for the owner and his friends. | en |
+| [lemmy.zxcvn.xyz](https://lemmy.zxcvn.xyz) | **5** | 2 | ❌ | ? | ? |
 | [lllsecurity.com](https://lllsecurity.com) | **4** | 1 523 | ✅ | Three lines of security and one goal in common: to make tomorrow a bit more safe. This space is for exchanging knowledge, ideas and discussing hot topics of cybersecurity. | en |
 | [stade.social](https://stade.social) | **4** | 595 | ✅ | Impressum  Tobias Liebig Helmster Weg 33 21680 Stade | en |
 | [mastodon.spesh.com](https://mastodon.spesh.com) | **4** | 153 | ✅ | A small mastodon for special people | en |
@@ -3324,7 +3336,7 @@
 | [kavlak.uk](https://kavlak.uk) | **4** | 3 883 | ✅ | An exclusive, invitation only Fediverse server. | en |
 | [basilisk.gallery](https://basilisk.gallery) | **4** | 308 | ❌ | Curious about the name? Why a parrot? Read David Langford's excellent short story, "BLIT". | en |
 | [mst.muiiio.com](https://mst.muiiio.com) | **4** | 5 951 | ❌ | ? | en |
-| [social.raytec.co](https://social.raytec.co) | **4** | 10 603 | ✅ | Taking back the internet from the centralized corporatocracy. Leading by example in the revolution in socially aware and responsible business practices. | en |
+| [social.raytec.co](https://social.raytec.co) | **4** | 10 600 | ✅ | Taking back the internet from the centralized corporatocracy. Leading by example in the revolution in socially aware and responsible business practices. | en |
 | [sharkey.social](https://sharkey.social) | **4** | 2 791 | ❌ | ? | ? |
 | [orctavern.pub](https://orctavern.pub) | **4** | 7 615 | ❌ | ? | ? |
 | [blueforest.cc](https://blueforest.cc) | **4** | 42 | ❌ | ? | ? |
@@ -3349,7 +3361,7 @@
 | [mastodon.pretendo.network](https://mastodon.pretendo.network) | **4** | 186 | ❌ | The official Mastodon instance for the Pretendo Network service, a FOSS replacement for Nintendo's servers for 3DS and Wii U.  | en |
 | [md.epiphyte.ie](https://md.epiphyte.ie) | **4** | 580 | ✅ | Mastodon Server based in and hosted in Cork Ireland  | en |
 | [mk.gabe.rocks](https://mk.gabe.rocks) | **4** | 6 652 | ❌ | ? | ? |
-| [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca) | **4** | 18 690 | ❌ | This is a personal Mastodon server for me and my family only. We're nice. We hope you are too. :=) | en |
+| [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca) | **4** | 18 735 | ❌ | This is a personal Mastodon server for me and my family only. We're nice. We hope you are too. :=) | en |
 | [mstdn.tacowolf.net](https://mstdn.tacowolf.net) | **4** | 409 | ❌ | taco's cool fediverse server for awesome people | en |
 | [oddprocess.social](https://oddprocess.social) | **4** | 3 830 | ✅ | ? | ? |
 | [oldruts.masto.host](https://oldruts.masto.host) | **4** | 562 | ❌ | Private Mastodon instance | en |
@@ -3369,7 +3381,7 @@
 | [the.goofs.space](https://the.goofs.space) | **4** | 1 499 | ❌ | Generalistic instance that is art friendly. Goofy people are welcome ! | en |
 | [thephpcc.social](https://thephpcc.social) | **4** | 119 | ❌ | ? | en |
 | [toot.matereal.eu](https://toot.matereal.eu) | **4** | 144 715 | ❌ | ? | en |
-| [toots.niark.nexus](https://toots.niark.nexus) | **4** | 2 163 | ✅ | Coming soon | en |
+| [toots.niark.nexus](https://toots.niark.nexus) | **4** | 2 260 | ✅ | Coming soon | en |
 | [trash.boutique](https://trash.boutique) | **4** | 276 | ❌ | ? | en |
 | [very.tastytea.de](https://very.tastytea.de) | **4** | 22 673 | ❌ | ? | ? |
 | [writeworks.uk](https://writeworks.uk) | **4** | 874 | ❌ | ? | ? |
@@ -3434,7 +3446,7 @@
 | [social.jyrgi.de](https://social.jyrgi.de) | **4** | 44 | ❌ | ? | ? |
 | [socialcoders.org](https://socialcoders.org) | **4** | 321 | ✅ | ? | en |
 | [scl.jyrgi.de](https://scl.jyrgi.de) | **4** | 66 | ❌ | ? | ? |
-| [soc.kurator.tech](https://soc.kurator.tech) | **4** | 6 414 | ❌ | За все хорошее против всего плохого | en |
+| [soc.kurator.tech](https://soc.kurator.tech) | **4** | 6 488 | ❌ | За все хорошее против всего плохого | en |
 | [wackywolf.xyz](https://wackywolf.xyz) | **4** | 7 004 | ❌ | ? | ? |
 | [fun.schenklklopfer.de](https://fun.schenklklopfer.de) | **4** | 89 | ✅ | ? | ? |
 | [mastodon.linkerror.com](https://mastodon.linkerror.com) | **4** | 164 | ✅ | Trying to carve out a comfy home in the fediverse. Friends welcome. | en |
@@ -3469,7 +3481,7 @@
 | [mckellar.social](https://mckellar.social) | **4** | 1 242 | ❌ | A Mastodon Server For The McKellar Family | en |
 | [biglemmowski.win](https://biglemmowski.win) | **4** | 65 | ✅ | ? | ? |
 | [muuzikku.produkti.se](https://muuzikku.produkti.se) | **4** | 1 373 | ❌ | ? | ? |
-| [socialtodon.de](https://socialtodon.de) | **4** | 535 | ✅ | socialtodon.de, ein Mastodon Server von C-onner, dem Autor des Cybersecurityblogs https://c-onner.de/blog. | en |
+| [socialtodon.de](https://socialtodon.de) | **4** | 573 | ✅ | socialtodon.de, ein Mastodon Server von C-onner, dem Autor des Cybersecurityblogs https://c-onner.de/blog. | en |
 | [m.flaem.ing](https://m.flaem.ing) | **4** | 111 | ✅ | Stay connected in and with the Fläming | en |
 | [shk.mv2k.com](https://shk.mv2k.com) | **4** | 2 626 | ❌ | ? | ? |
 | [silvan.cloud](https://silvan.cloud) | **4** | 4 311 | ❌ | Un petit radeau (instance) Mastodon pour naviguer le fediverse, géré pour Gersande La Flèche et quelques proches. | en |
@@ -3526,6 +3538,8 @@
 | [lemmy.techtriage.guru](https://lemmy.techtriage.guru) | **4** | 1 | ❌ | ? | ? |
 | [pleroma.elinvention.ovh](https://pleroma.elinvention.ovh) | **4** | 1 835 | ❌ | ? | ? |
 | [galaxians.garden](https://galaxians.garden) | **4** | 788 | ❌ | ? | ? |
+| [mastodon.ste.no](https://mastodon.ste.no) | **4** | 925 | ✅ | My own server | en |
+| [junimo.party](https://junimo.party) | **4** | 130 | ❌ | ? | ? |
 | [bertshouse.social](https://bertshouse.social) | **3** | 18 635 | ✅ | Welcome to Bertshouse.  I'm Bert, and this is my house.  Please conduct yourself as any good guest would.  All are welcome. | en |
 | [mastodon.simpreative.network](https://mastodon.simpreative.network) | **3** | 2 675 | ✅ | 저고를 위한 한국어 마스토돈 인스턴스입니다 | en |
 | [landwirtschaft.todon.de](https://landwirtschaft.todon.de) | **3** | 275 | ✅ | Privater Server für Landwirtinnen und Landwirte aus dem DACH Raum. | en |
@@ -3543,14 +3557,14 @@
 | [hellinger.wtf](https://hellinger.wtf) | **3** | 1 903 | ❌ | Welcome to my Mastodon instance! This is a space for open and respectful communication. Unlike some other instances, I don't believe in making authoritarian judgments about which instances are 'good'  | en |
 | [social.suchtbasis.de](https://social.suchtbasis.de) | **3** | 1 001 | ✅ | Small privately run instance, maintained by Walther von Degensteyn. The server is moderated and there are backups. | en |
 | [wybt.net](https://wybt.net) | **3** | 3 757 | ✅ | A small distributed mastodon instance to do stupid things. Run by AS59645, open to all. | en |
-| [social.finkhaeuser.de](https://social.finkhaeuser.de) | **3** | 7 553 | ✅ | A *private* instance for the Finkhäuser family. | en |
+| [social.finkhaeuser.de](https://social.finkhaeuser.de) | **3** | 7 567 | ✅ | A *private* instance for the Finkhäuser family. | en |
 | [my-spaces.social](https://my-spaces.social) | **3** | 2 113 | ❌ | ? | en |
 | [social.retroedge.tech](https://social.retroedge.tech) | **3** | 815 | ✅ | ? | ? |
 | [lazybear.social](https://lazybear.social) | **3** | 11 366 | ✅ | ? | en |
 | [misskey.snfsx.ru](https://misskey.snfsx.ru) | **3** | 391 | ✅ | ? | ? |
 | [comms.thedigitallancabin.net](https://comms.thedigitallancabin.net) | **3** | 2 | ❌ | ? | ? |
 | [sapphic.engineer](https://sapphic.engineer) | **3** | 4 063 | ❌ | ? | ? |
-| [fedi.kcore.org](https://fedi.kcore.org) | **3** | 8 047 | ❌ | Private server | en |
+| [fedi.kcore.org](https://fedi.kcore.org) | **3** | 8 050 | ❌ | Private server | en |
 | [akko.hollow.capital](https://akko.hollow.capital) | **3** | 3 464 | ❌ | ? | ? |
 | [thoughts.tf](https://thoughts.tf) | **3** | 1 173 | ❌ | ? | ? |
 | [mastodon.dkl.jp](https://mastodon.dkl.jp) | **3** | 18 242 | ❌ | ようこそ、カメバースへ！ 「デジタルかめランド」は、カメ好き・生き物好きの方のためのMastodonサーバーです。 どなたでも参加できます（承認制）。 | en |
@@ -3558,7 +3572,7 @@
 | [bloor.tw](https://bloor.tw) | **3** | 4 591 | ❌ | Private server.  | en |
 | [bluechakra.cloud](https://bluechakra.cloud) | **3** | 637 | ❌ | This is a small instance for family and friends. Registrations are closed.  | en |
 | [bluetoot.hardill.me.uk](https://bluetoot.hardill.me.uk) | **3** | 1 832 | ✅ | A personal play space, may open up to any family (yeah right...) that are interested | en |
-| [boles.xyz](https://boles.xyz) | **3** | 12 620 | ❌ | Boles.xyz is a Mastodon server for David Boles and friends in the Fediverse! We discuss AI, Music, Publishing, Writing, Creativity, Philosophy, Tech and more! | en |
+| [boles.xyz](https://boles.xyz) | **3** | 12 651 | ❌ | Boles.xyz is a Mastodon server for David Boles and friends in the Fediverse! We discuss AI, Music, Publishing, Writing, Creativity, Philosophy, Tech and more! | en |
 | [books.josh.tel](https://books.josh.tel) | **3** | 212 | ❌ | ? | ? |
 | [buttplug.zone](https://buttplug.zone) | **3** | 3 515 | ❌ | ? | en |
 | [commune.anarchist.gay](https://commune.anarchist.gay) | **3** | 3 928 | ❌ | ? | en |
@@ -3717,7 +3731,7 @@
 | [fedi.lt](https://fedi.lt) | **3** | 444 | ❌ | Fediverse node run by Inretio from Lithuania. | en |
 | [some.evvk.fi](https://some.evvk.fi) | **3** | 3 910 | ❌ | ihan vaan pikku projekti | en |
 | [mielke.social](https://mielke.social) | **3** | 1 608 | ❌ | Das ist der private Server von Thomas Mielke | de |
-| [eepy.life](https://eepy.life) | **3** | 1 946 | ❌ | Small personal server.  Possibly for friends too?  Idk. | en |
+| [eepy.life](https://eepy.life) | **3** | 1 992 | ❌ | Small personal server.  Possibly for friends too?  Idk. | en |
 | [pl.uwu.is](https://pl.uwu.is) | **3** | 1 498 | ❌ | ? | ? |
 | [soc.psynet.me](https://soc.psynet.me) | **3** | 1 552 | ❌ | I've built my own Twitter, with blackjack, and hookers! | en |
 | [shashindo.de](https://shashindo.de) | **3** | 233 | ❌ | ? | ? |
@@ -3857,6 +3871,8 @@
 | [wombats.club](https://wombats.club) | **3** | 143 | ✅ | ? | ? |
 | [social.emfcamp.org](https://social.emfcamp.org) | **3** | 29 | ❌ | ? | ? |
 | [mitra.0ut0f.space](https://mitra.0ut0f.space) | **3** | 7 | ❌ | ? | ? |
+| [i.audon.space](https://i.audon.space) | **3** | 511 | ❌ | This is a Mastodon server dedicated to Audon. | en |
+| [fed.alexvan.in](https://fed.alexvan.in) | **3** | 45 | ❌ | ? | ru |
 | [castilla.social](https://castilla.social) | **2** | 1 207 | ✅ | ¿Vives en Castilla? Este es tu puerta de acceso a Mastodon y al resto del fediverso | en |
 | [mastodon.wg0.xyz](https://mastodon.wg0.xyz) | **2** | 1 790 | ✅ | Это одноименный Mastodon сервер VPN сервиса https://wg0.xyz VPN с уклоном в децентрализацию. | en |
 | [fckmsk.social](https://fckmsk.social) | **2** | 2 187 | ✅ | # Welcome to FCKMSK.social! 🎭✨ | en |
@@ -3869,7 +3885,7 @@
 | [mastodon.floyd.dk](https://mastodon.floyd.dk) | **2** | 518 | ✅ | Privately hosted Mastodon instance for friends and family. | en |
 | [destabled.com](https://destabled.com) | **2** | 685 | ❌ | This is a very destabled server. Join at your own risk! | en |
 | [everythingbagel.social](https://everythingbagel.social) | **2** | 76 | ✅ | Embrace the marvel of diversity within the Fediverse, fostering a community dedicated to the art of unapologetic mischief. 🧙 | en |
-| [whale.party](https://whale.party) | **2** | 321 | ✅ | An instance afloat on the fediverse. | en |
+| [whale.party](https://whale.party) | **2** | 322 | ✅ | An instance afloat on the fediverse. | en |
 | [gts.ferreo.dev](https://gts.ferreo.dev) | **2** | 1 673 | ✅ | A simple self-hosted don instance, mainly just for people I know but anyone is welcome. | en |
 | [mastodon.infrageeks.social](https://mastodon.infrageeks.social) | **2** | 1 937 | ❌ | ? | en |
 | [social.chatty.monster](https://social.chatty.monster) | **2** | 4 883 | ✅ | A general-purpose Mastodon instance for friendly, social conversations.  This server is currently not open for general sign-up, but I am happy to open accounts here for anyone who I know personally. | en |
@@ -3880,7 +3896,7 @@
 | [logbuch35mm.de](https://logbuch35mm.de) | **2** | 59 | ❌ | ? | ? |
 | [lemmy.emphisia.nl](https://lemmy.emphisia.nl) | **2** | 2 | ✅ | ? | ? |
 | [weatherby2378.social](https://weatherby2378.social) | **2** | 7 784 | ❌ | ? | en |
-| [2c.taoetc.org](https://2c.taoetc.org) | **2** | 1 537 | ❌ | Personal Mastodon instance of Beto Dealmeida | en |
+| [2c.taoetc.org](https://2c.taoetc.org) | **2** | 1 539 | ❌ | Personal Mastodon instance of Beto Dealmeida | en |
 | [6a02.digital](https://6a02.digital) | **2** | 11 852 | ❌ | ? | ? |
 | [agora.echelon.pl](https://agora.echelon.pl) | **2** | 10 518 | ❌ | ? | ? |
 | [alecmuffett.com](https://alecmuffett.com) | **2** | 6 585 | ❌ | ? | ? |
@@ -3893,8 +3909,8 @@
 | [datak.duckdns.org](https://datak.duckdns.org) | **2** | 34 | ❌ | Questo è un server casalingo, nel senso che è proprio qui di fianco alla mia scrivania. Non ha molta potenza di calcolo (la corrente costa) ma sufficiente a rendermi indipendente dagli altri server. | en |
 | [derpy.masto.host](https://derpy.masto.host) | **2** | 182 | ❌ | Hello! This is a personal Mastodon server. If you're looking to use Mastodon for the first time, you'll need to find a public one which accepts registration. Feel free to look around though! | en |
 | [distance.blue](https://distance.blue) | **2** | 976 | ❌ | ? | ? |
-| [einestages.friediversum.de](https://einestages.friediversum.de) | **2** | 1 611 | ❌ | Die private und persönliche Mastodon-Instanz von Friedi. | en |
-| [elbmatsch.de](https://elbmatsch.de) | **2** | 11 394 | ❌ | Privatinstanz hier muss nix Beschrieben werden. | en |
+| [einestages.friediversum.de](https://einestages.friediversum.de) | **2** | 1 695 | ❌ | Die private und persönliche Mastodon-Instanz von Friedi. | en |
+| [elbmatsch.de](https://elbmatsch.de) | **2** | 11 431 | ❌ | Privatinstanz hier muss nix Beschrieben werden. | en |
 | [ericpuryear.com](https://ericpuryear.com) | **2** | 1 115 | ❌ | Eric Puryear's mastodon instance. More about me here: https://blog.ericpuryear.com/ | en |
 | [eworld.social](https://eworld.social) | **2** | 1 887 | ❌ | A little server for Stephen Hackett and his web projects, including 512 Pixels. | en |
 | [fed.qaz.red](https://fed.qaz.red) | **2** | 4 123 | ❌ | Personal server of Eli the Bearded | en |
@@ -3933,8 +3949,8 @@
 | [masto.nicolastissot.fr](https://masto.nicolastissot.fr) | **2** | 552 | ❌ | ? | fr |
 | [mastod.no](https://mastod.no) | **2** | 2 224 | ✅ | A private server, accounts via invitation and approval only. | en |
 | [mastodon.exok.com](https://mastodon.exok.com) | **2** | 202 | ❌ | Server for Extremely OK Games | en |
-| [mastodon.flockofnazguls.com](https://mastodon.flockofnazguls.com) | **2** | 836 | ❌ | This is a personal server.  | en |
-| [mastodon.guerilla.studio](https://mastodon.guerilla.studio) | **2** | 4 192 | ❌ | ? | ? |
+| [mastodon.flockofnazguls.com](https://mastodon.flockofnazguls.com) | **2** | 822 | ❌ | This is a personal server.  | en |
+| [mastodon.guerilla.studio](https://mastodon.guerilla.studio) | **2** | 4 205 | ❌ | ? | ? |
 | [mastodon.lilysthings.org](https://mastodon.lilysthings.org) | **2** | 6 537 | ❌ | Pokemon go to the social | en |
 | [mastodon.n8vsi.com](https://mastodon.n8vsi.com) | **2** | 5 103 | ✅ | ? | ? |
 | [mastodon.oysta.au](https://mastodon.oysta.au) | **2** | 5 104 | ❌ | This is a single user Mastodon instance for Christopher Owen (@oysta@oysta.au) | en |
@@ -3964,7 +3980,7 @@
 | [smeap.com](https://smeap.com) | **2** | 8 235 | ❌ | Smeap is the sound of a Flamingo honk. It's a personal friends and family instance with a name from an unfinished children's book/game/something. | en |
 | [smnn.ch](https://smnn.ch) | **2** | 1 029 | ❌ | Privater Server, keine Registrierungen möglich. | de |
 | [soc.jascha.wtf](https://soc.jascha.wtf) | **2** | 749 | ❌ | ? | ? |
-| [social.alexhyett.com](https://social.alexhyett.com) | **2** | 410 | ❌ | Alex Hyett's Mastodon Server | en |
+| [social.alexhyett.com](https://social.alexhyett.com) | **2** | 414 | ❌ | Alex Hyett's Mastodon Server | en |
 | [social.alster.space](https://social.alster.space) | **2** | 4 733 | ❌ | ? | ? |
 | [social.blach.io](https://social.blach.io) | **2** | 298 | ❌ | This is the Mastodon instance of Alexander Blach. | en |
 | [social.br-linux.org](https://social.br-linux.org) | **2** | 24 944 | ❌ | SOCIAL.BR-LINU𝕏.ORG - A instância do BR-Linux no Mastodon. Bem-vindos à federação! | en |
@@ -3990,7 +4006,7 @@
 | [video.maechler.cloud](https://video.maechler.cloud) | **2** | 281 | ❌ | ? | ? |
 | [waldvogel.family](https://waldvogel.family) | **2** | 1 236 | ❌ | Dies ist ein Familienserver, keine öffentlichen Konten. <a href="https://marcel-waldvogel.ch/blog/">Mehr hier.</a> | de |
 | [www.chefblogger.me](https://www.chefblogger.me) | **2** | 2 045 | ❌ | ? | ? |
-| [zusammenkunft.net](https://zusammenkunft.net) | **2** | 5 989 | ❌ | Die Mastodon-Instanz von Bernd und Mela Eckenfels | de |
+| [zusammenkunft.net](https://zusammenkunft.net) | **2** | 6 019 | ❌ | Die Mastodon-Instanz von Bernd und Mela Eckenfels | de |
 | [social.bennypowers.dev](https://social.bennypowers.dev) | **2** | 3 853 | ❌ | ? | ? |
 | [tootworld.social](https://tootworld.social) | **2** | 57 | ✅ | TootWorld Social is a general-use Mastodon server run by former streamer NoRezervationz. | en |
 | [social.imirhil.fr](https://social.imirhil.fr) | **2** | 54 994 | ❌ | ? | en |
@@ -4112,14 +4128,14 @@
 | [mastodon.cross-solution.de](https://mastodon.cross-solution.de) | **2** | 1 | ✅ | ? | de |
 | [qnmd.info](https://qnmd.info) | **2** | 24 808 | ❌ | ? | en |
 | [social.kaoskvlt.de](https://social.kaoskvlt.de) | **2** | 61 | ❌ | This is the official www.kaoskvlt.de social media - mastodon - instance. | en |
-| [toot.hoyle.me.uk](https://toot.hoyle.me.uk) | **2** | 545 | ❌ | ? | en |
+| [toot.hoyle.me.uk](https://toot.hoyle.me.uk) | **2** | 543 | ❌ | ? | en |
 | [stoney.monster](https://stoney.monster) | **2** | 1 245 | ❌ | Private server for Chris White (Stoneymonster) and his associated aliases. | en |
 | [social.aaroncrocco.com](https://social.aaroncrocco.com) | **2** | 4 903 | ❌ | Personal instance just for me. | en |
 | [social.lexevo.net](https://social.lexevo.net) | **2** | 688 | ❌ | ? | ? |
 | [higgy.social](https://higgy.social) | **2** | 1 598 | ❌ | Jeff Higgins' personal mastodon instance, no user signups accepted as this server is for my own personal use and testing. | en |
 | [social.d2evs.net](https://social.d2evs.net) | **2** | 2 037 | ❌ | ? | ? |
 | [supergood.social](https://supergood.social) | **2** | 1 521 | ❌ | The Official Mastodon Instance of Super Good Software | en |
-| [social.klein.ruhr](https://social.klein.ruhr) | **2** | 277 | ❌ | ? | de |
+| [social.klein.ruhr](https://social.klein.ruhr) | **2** | 286 | ❌ | ? | de |
 | [soc.feditime.com](https://soc.feditime.com) | **2** | 461 | ❌ | ? | ? |
 | [fediverse.giorgiocomai.eu](https://fediverse.giorgiocomai.eu) | **2** | 430 | ❌ | ? | ? |
 | [hub.heraut.eu](https://hub.heraut.eu) | **2** | 1 | ❌ | ? | ? |
@@ -4137,7 +4153,7 @@
 | [mrow.pet](https://mrow.pet) | **2** | 1 307 | ✅ | a comfy cozy space for friends | en |
 | [social.rdl.ph](https://social.rdl.ph) | **2** | 1 143 | ❌ | social.rdl.ph is a server running social networking software just for Thomas Randolph (and Thomas Randolph-adjacent people). | en |
 | [wasnever.cool](https://wasnever.cool) | **2** | 401 | ❌ | This is the home of Schmutzie and Palinode, two intrepid netizens who may or may not have ever been cool. | en |
-| [donkey.social](https://donkey.social) | **2** | 1 030 | ✅ | ? | ? |
+| [donkey.social](https://donkey.social) | **2** | 1 037 | ✅ | ? | ? |
 | [akkoma.simulacrum-emporium.eu](https://akkoma.simulacrum-emporium.eu) | **2** | 399 | ❌ | ? | ? |
 | [pfefferle.org](https://pfefferle.org) | **2** | 5 | ❌ | ? | ? |
 | [social.t12.online](https://social.t12.online) | **2** | 102 | ✅ | ? | en |
@@ -4175,7 +4191,7 @@
 | [iam.reasonably.social](https://iam.reasonably.social) | **2** | 2 471 | ❌ | A tiny private instance running on a toaster. | en |
 | [fedi.redsky.monster](https://fedi.redsky.monster) | **2** | 126 | ❌ | ? | ? |
 | [chabant.social](https://chabant.social) | **2** | 2 337 | ❌ | Fediverse instance for the Chabant family | en |
-| [bytearray.eu](https://bytearray.eu) | **2** | 497 | ❌ | ? | en |
+| [bytearray.eu](https://bytearray.eu) | **2** | 500 | ❌ | ? | en |
 | [pleroma.tenkoff.ru](https://pleroma.tenkoff.ru) | **2** | 55 | ❌ | ? | ? |
 | [mstdn.cool](https://mstdn.cool) | **2** | 586 | ✅ | ? | en |
 | [alinke.com](https://alinke.com) | **2** | 2 485 | ❌ | This is a private server for Andrew Linke.  All original posts by @Andrew are copyright Andrew Linke on the date of the post. See the ABOUT page for additional copyright and licensing info. | en |
@@ -4196,7 +4212,7 @@
 | [bikeshed.vibber.net](https://bikeshed.vibber.net) | **2** | 8 531 | ❌ | a single-user social instance | en |
 | [twitter.resolvt.net](https://twitter.resolvt.net) | **2** | 915 | ❌ | Der Betrieb dieser Instanz dient ausschließlich persönlichen oder familiären Zwecken und erfolgt nicht geschäftsmäßig. | en |
 | [francescomacchia.altervista.org](https://francescomacchia.altervista.org) | **2** | 3 | ❌ | ? | ? |
-| [fedifriends.social](https://fedifriends.social) | **2** | 11 139 | ❌ | Eine kleine Privatinstanz | en |
+| [fedifriends.social](https://fedifriends.social) | **2** | 11 235 | ❌ | Eine kleine Privatinstanz | en |
 | [melder.social](https://melder.social) | **2** | 865 | ❌ | ? | en |
 | [social.researchanddestroy.technology](https://social.researchanddestroy.technology) | **2** | 858 | ❌ | Friends who break technology together | en |
 | [mnstdn.monster](https://mnstdn.monster) | **2** | 600 | ❌ | Personal server | en |
@@ -4220,7 +4236,7 @@
 | [neko.computer](https://neko.computer) | **2** | 3 207 | ❌ | ? | ? |
 | [ukfli.uk](https://ukfli.uk) | **2** | 17 | ❌ | ? | ? |
 | [social.hrusecky.net](https://social.hrusecky.net) | **2** | 290 | ❌ | ? | ? |
-| [mastodon.half-shot.uk](https://mastodon.half-shot.uk) | **2** | 1 928 | ❌ | Personal server of @halfy@half-shot.uk | en |
+| [mastodon.half-shot.uk](https://mastodon.half-shot.uk) | **2** | 1 944 | ❌ | Personal server of @halfy@half-shot.uk | en |
 | [chirp.zadzmo.org](https://chirp.zadzmo.org) | **2** | 1 552 | ❌ | ? | ? |
 | [soapbox.hackdefendr.com](https://soapbox.hackdefendr.com) | **2** | 607 | ❌ | This is a single user Mastodon instance for me and only me. | en |
 | [mbin.grits.dev](https://mbin.grits.dev) | **2** | 1 125 | ❌ | ? | ? |
@@ -4315,6 +4331,9 @@
 | [social.apcn.nz](https://social.apcn.nz) | **2** | 869 | ❌ | ? | en |
 | [junkhub.org](https://junkhub.org) | **2** | 6 450 | ❌ | 某研究室OB向けのゆるーい(ほぼ個人的な)サーバです。 | en |
 | [mastodon.snmsoc.org](https://mastodon.snmsoc.org) | **2** | 8 841 | ✅ | We are a New Mexico-based group of socialist activists and organizers dedicated to bringing justice and equality to New Mexico and abroad. By way of our dedicated organizers, we are building a base of peaceful working-class opposition to capitalism, imperialism, and colonialism, wherever it may be found. | en |
+| [hollypop.xyz](https://hollypop.xyz) | **2** | 399 | ❌ | ? | ? |
+| [chat.noelle.codes](https://chat.noelle.codes) | **2** | 28 967 | ❌ | Just Ellie (and perhaps some of her toys). | en |
+| [digitaldata.social](https://digitaldata.social) | **2** | 8 407 | ❌ | A Mastodon based social media server dedicated to the world of Digital Data including data layers, CDPs, analytics, optimisation, personalisation and campaign management. | en |
 | [declin.eu](https://declin.eu) | **1** | 3 673 | ✅ | ? | ? |
 | [masto.batichi.net](https://masto.batichi.net) | **1** | 1 856 | ✅ | This server is run by Batichi. She/They. For me and anyone whomst would like to join I guess. | en |
 | [mxtthxw.art](https://mxtthxw.art) | **1** | 2 477 | ❌ | ? | en |
@@ -4412,13 +4431,13 @@
 | [lethargic.talkative.fish](https://lethargic.talkative.fish) | **1** | 5 438 | ❌ | ? | ? |
 | [live.retrostrange.com](https://live.retrostrange.com) | **1** | 324 | ❌ | ? | ? |
 | [livingblindfully.social](https://livingblindfully.social) | **1** | 1 812 | ❌ | ? | en |
-| [ma.fellr.net](https://ma.fellr.net) | **1** | 4 845 | ❌ | This is my personal single user instance.  | en |
+| [ma.fellr.net](https://ma.fellr.net) | **1** | 4 852 | ❌ | This is my personal single user instance.  | en |
 | [marcgoertz.de](https://marcgoertz.de) | **1** | 873 | ❌ | ? | ? |
 | [masto.1146.nohost.me](https://masto.1146.nohost.me) | **1** | 8 856 | ❌ | ? | en |
 | [masto.ashfurrow.com](https://masto.ashfurrow.com) | **1** | 1 044 | ❌ | This is Ash Furrow’s personal instance.  | en |
 | [masto.goblackcat.net](https://masto.goblackcat.net) | **1** | 3 774 | ❌ | ? | ? |
 | [mastodon-nieuwspaal.nl](https://mastodon-nieuwspaal.nl) | **1** | 2 410 | ❌ | Volg @nieuwspaal@mastodon-nieuwspaal.nl | en |
-| [mastodon.ar.al](https://mastodon.ar.al) | **1** | 34 123 | ❌ | This is my personal fediverse server. | en |
+| [mastodon.ar.al](https://mastodon.ar.al) | **1** | 34 160 | ❌ | This is my personal fediverse server. | en |
 | [mastodon.bizarreworker.de](https://mastodon.bizarreworker.de) | **1** | 65 | ❌ | BizarreWorker´s own Mastodon instance. Sharing cool content with other gearheads. | en |
 | [mastodon.c99.org](https://mastodon.c99.org) | **1** | 970 | ❌ | Sam's private Mastodon instance | en |
 | [mastodon.chriswiegman.com](https://mastodon.chriswiegman.com) | **1** | 1 718 | ❌ | ? | en |
@@ -4439,7 +4458,7 @@
 | [mastodon.sboots.ca](https://mastodon.sboots.ca) | **1** | 4 977 | ❌ | Portable social media for the postmodern age. | en |
 | [mastodon.stevesworld.co](https://mastodon.stevesworld.co) | **1** | 15 627 | ❌ | This is currently a private server to get me off of mastodon.social which was getting overloaded. I may post a lot. | en |
 | [mastodon.thi.ng](https://mastodon.thi.ng) | **1** | 1 196 | ❌ | ? | en |
-| [mastodon.tomaszdunia.pl](https://mastodon.tomaszdunia.pl) | **1** | 4 162 | ❌ | Private instance of Tomasz Dunia - @to3k tomaszdunia.pl | en |
+| [mastodon.tomaszdunia.pl](https://mastodon.tomaszdunia.pl) | **1** | 4 169 | ❌ | Private instance of Tomasz Dunia - @to3k tomaszdunia.pl | en |
 | [mastodon.toptechtidbits.com](https://mastodon.toptechtidbits.com) | **1** | 406 | ❌ | The official Mastodon server of the Top Tech Tidbits publication. The world's #1 online resource for current news and trends in adaptive technology. | en |
 | [me.konklone.com](https://me.konklone.com) | **1** | 53 | ❌ | ? | en |
 | [meinmuenster.land](https://meinmuenster.land) | **1** | 2 287 | ❌ | Das Münsterland im Fediverse! https://ko-fi.com/meinmuensterland | en |
@@ -4455,9 +4474,9 @@
 | [nomadic.social](https://nomadic.social) | **1** | 301 | ❌ | ? | en |
 | [nostream.mastodon.uno](https://nostream.mastodon.uno) | **1** | 398 | ❌ | ? | ? |
 | [olia.geocities.institute](https://olia.geocities.institute) | **1** | 394 | ❌ | ? | en |
-| [one.darnell.one](https://one.darnell.one) | **1** | 8 336 | ❌ | Just a personal instance of Mastodon that is intended for one person. :-) | en |
+| [one.darnell.one](https://one.darnell.one) | **1** | 8 356 | ❌ | Just a personal instance of Mastodon that is intended for one person. :-) | en |
 | [oxytodon.com](https://oxytodon.com) | **1** | 4 413 | ❌ | ? | en |
-| [pertsch.social](https://pertsch.social) | **1** | 368 | ❌ | Mastodon-Instanz des Journalisten, Buchautors und Herausgebers Sebastian Pertsch aus Berlin. | de |
+| [pertsch.social](https://pertsch.social) | **1** | 345 | ❌ | Mastodon-Instanz des Journalisten, Buchautors und Herausgebers Sebastian Pertsch aus Berlin. | de |
 | [pl.valkyrie.world](https://pl.valkyrie.world) | **1** | 22 800 | ❌ | ? | ? |
 | [pleroma.lord.re](https://pleroma.lord.re) | **1** | 4 542 | ❌ | ? | ? |
 | [pleroma.namar.ie](https://pleroma.namar.ie) | **1** | 397 | ❌ | ? | ? |
@@ -4526,7 +4545,7 @@
 | [troublemaker.social](https://troublemaker.social) | **1** | 3 259 | ❌ | home of the troublemaker. | en |
 | [velour.social](https://velour.social) | **1** | 1 174 | ❌ | Lily's Mastodon server, run by Lily, for Lily. | en |
 | [video.mezzo.moe](https://video.mezzo.moe) | **1** | 395 | ❌ | ? | ? |
-| [vinzenz.social](https://vinzenz.social) | **1** | 1 143 | ❌ | Just for private use. | de |
+| [vinzenz.social](https://vinzenz.social) | **1** | 1 144 | ❌ | Just for private use. | de |
 | [vran.as](https://vran.as) | **1** | 1 024 | ❌ | ? | ? |
 | [welcometo.squelfland.com](https://welcometo.squelfland.com) | **1** | 123 | ❌ | This is a personal Mastodon server which only hosts a single account owned by me, Marina Neira. I post original art and fantasy writing. | en |
 | [werd.social](https://werd.social) | **1** | 3 323 | ❌ | https://werd.io/ | en |
@@ -4547,11 +4566,11 @@
 | [kein.chat](https://kein.chat) | **1** | 116 | ❌ | ? | ? |
 | [social.n8e.dev](https://social.n8e.dev) | **1** | 1 523 | ❌ | A personal server | en |
 | [toots.benpro.fr](https://toots.benpro.fr) | **1** | 500 | ❌ | Single-user instance for me. | en |
-| [social.lizzy.rs](https://social.lizzy.rs) | **1** | 4 475 | ❌ | my personal place to be gay on the internet | en |
+| [social.lizzy.rs](https://social.lizzy.rs) | **1** | 4 481 | ❌ | my personal place to be gay on the internet | en |
 | [mastodon.redstonelp2.com](https://mastodon.redstonelp2.com) | **1** | 11 217 | ❌ | Redstone's homeserver | en |
 | [henshaw.social](https://henshaw.social) | **1** | 4 647 | ❌ | A single-user instance for Jon Henshaw | en |
 | [zahnpasta.tube](https://zahnpasta.tube) | **1** | 3 327 | ❌ | Sebs eigene Mastodon-Instanz. | en |
-| [xn--8r9a.com](https://xn--8r9a.com) | **1** | 166 | ❌ | IDN and Punycode support testing instance. | en |
+| [xn--8r9a.com](https://xn--8r9a.com) | **1** | 172 | ❌ | IDN and Punycode support testing instance. | en |
 | [brunty.social](https://brunty.social) | **1** | 3 191 | ❌ | ? | en |
 | [squawk.silvereagle.dev](https://squawk.silvereagle.dev) | **1** | 198 | ❌ | ? | ? |
 | [mastodon.andreubotella.com](https://mastodon.andreubotella.com) | **1** | 96 | ❌ | Just a one-person server. | en |
@@ -4605,7 +4624,7 @@
 | [social.jacobian.org](https://social.jacobian.org) | **1** | 1 830 | ❌ | jkm's personal mastodon | en |
 | [social.yoyodyne-it.eu](https://social.yoyodyne-it.eu) | **1** | 135 | ✅ | ? | en |
 | [stefankoopmanschap.nl](https://stefankoopmanschap.nl) | **1** | 2 251 | ❌ | Prive server van Stefan Koopmanschap | en |
-| [mastodon.functional.computer](https://mastodon.functional.computer) | **1** | 4 362 | ❌ | This is Samir Talwar's personal Mastodon instance. | en |
+| [mastodon.functional.computer](https://mastodon.functional.computer) | **1** | 4 371 | ❌ | This is Samir Talwar's personal Mastodon instance. | en |
 | [hails.org](https://hails.org) | **1** | 1 086 | ❌ | This is @hailey's personal Mastodon instance! | en |
 | [social.mythic-beasts.com](https://social.mythic-beasts.com) | **1** | 755 | ❌ | Mythic Beasts fediverse presence | en |
 | [joshbutts.social](https://joshbutts.social) | **1** | 312 | ❌ | ? | en |
@@ -4640,13 +4659,13 @@
 | [social.5f9.de](https://social.5f9.de) | **1** | 768 | ❌ | This is basically a personal instance, just for myself. | en |
 | [aywren.wordpress.com](https://aywren.wordpress.com) | **1** | 217 | ❌ | ? | ? |
 | [social.opentalk.eu](https://social.opentalk.eu) | **1** | 66 | ❌ | ? | en |
-| [mstdn.crispius.ca](https://mstdn.crispius.ca) | **1** | 3 961 | ❌ | ? | en |
+| [mstdn.crispius.ca](https://mstdn.crispius.ca) | **1** | 3 907 | ❌ | ? | en |
 | [social.subversida.de](https://social.subversida.de) | **1** | 7 805 | ❌ | ? | ? |
 | [fedi.queercomputerclub.ca](https://fedi.queercomputerclub.ca) | **1** | 29 | ✅ | ? | ? |
 | [buc.ci](https://buc.ci) | **1** | 929 | ❌ | ? | ? |
 | [social.gemnoc.ca](https://social.gemnoc.ca) | **1** | 3 088 | ❌ | ? | ? |
 | [toot.jeena.net](https://toot.jeena.net) | **1** | 2 675 | ❌ | This is my personal instance so I can own my content but still share it with the rest of the fediverse. | en |
-| [phocks.eu.org](https://phocks.eu.org) | **1** | 5 489 | ❌ | Private Mastodon instance of Joshua Byrd. | en |
+| [phocks.eu.org](https://phocks.eu.org) | **1** | 5 497 | ❌ | Private Mastodon instance of Joshua Byrd. | en |
 | [mastodon.jakewharton.com](https://mastodon.jakewharton.com) | **1** | 827 | ❌ | This server is a place for Jake Wharton. Are you Jake Wharton? This is your place. Are you not Jake Wharton? Well, at least you can find him here. | en |
 | [blog.mlich.cz](https://blog.mlich.cz) | **1** | 150 | ❌ | ? | ? |
 | [wedistribute.org](https://wedistribute.org) | **1** | 124 | ❌ | ? | ? |
@@ -4701,7 +4720,7 @@
 | [fediblogs.wordpress.com](https://fediblogs.wordpress.com) | **1** | 9 | ❌ | ? | ? |
 | [manualdousuario.net](https://manualdousuario.net) | **1** | 4 587 | ❌ | ? | ? |
 | [social.lithio.fr](https://social.lithio.fr) | **1** | 676 | ❌ | ? | ? |
-| [ellieayla.net](https://ellieayla.net) | **1** | 6 601 | ❌ | This is a solo instance. The server is owned, moderated, funded, and used exclusively by one person. A full Mastodon instance is probably excessive. | en |
+| [ellieayla.net](https://ellieayla.net) | **1** | 6 614 | ❌ | This is a solo instance. The server is owned, moderated, funded, and used exclusively by one person. A full Mastodon instance is probably excessive. | en |
 | [social.alfredbuehler.ch](https://social.alfredbuehler.ch) | **1** | 34 | ❌ | ? | ? |
 | [toastedlord.sytes.net](https://toastedlord.sytes.net) | **1** | 1 020 | ❌ | ? | ? |
 | [mastodon.gassner.io](https://mastodon.gassner.io) | **1** | 2 745 | ❌ | ? | en |
@@ -4838,7 +4857,7 @@
 | [toot.smwhr.net](https://toot.smwhr.net) | **1** | 183 | ❌ | ? | ? |
 | [fedi.owldog.dev](https://fedi.owldog.dev) | **1** | 73 | ❌ | A personal Mastodon server. | en |
 | [m.mtlynch.io](https://m.mtlynch.io) | **1** | 1 048 | ❌ | Michael Lynch's personal Mastodon instance | en |
-| [maeh.social](https://maeh.social) | **1** | 2 483 | ❌ | New server after messing around on social.schafweide.org | en |
+| [maeh.social](https://maeh.social) | **1** | 2 489 | ❌ | New server after messing around on social.schafweide.org | en |
 | [dym.sh](https://dym.sh) | **1** | 5 732 | ❌ | ? | ? |
 | [live.qyliss.net](https://live.qyliss.net) | **1** | 17 | ❌ | ? | ? |
 | [tele.kenobit.it](https://tele.kenobit.it) | **1** | 34 | ❌ | ? | ? |
@@ -4894,7 +4913,7 @@
 | [muffin.industries](https://muffin.industries) | **1** | 278 | ❌ | Colin's personal server. If you're a friend and looking for a place to host your account, let me know! | en |
 | [djsumdog.com](https://djsumdog.com) | **1** | 24 778 | ❌ | ? | ? |
 | [zacpwhite.social](https://zacpwhite.social) | **1** | 294 | ❌ | This server is the personal Mastodon instance for @zpw@zacpwhite.social. This server adheres to the Mastodon Server Covenant. | en |
-| [fedilab.de](https://fedilab.de) | **1** | 34 | ❌ | Diese Instanz ist ein Experimentier- und Entwicklungsraum im Fediverse von Nele (eBildungslabor). Es sind keine offenen Registrierungen möglich. Nicht verbunden mit fedilab.app. | en |
+| [fedilab.de](https://fedilab.de) | **1** | 35 | ❌ | Diese Instanz ist ein Experimentier- und Entwicklungsraum im Fediverse von Nele (eBildungslabor). Es sind keine offenen Registrierungen möglich. Nicht verbunden mit fedilab.app. | en |
 | [nton.cx](https://nton.cx) | **1** | 29 | ❌ | ? | en |
 | [cherrykitten.gay](https://cherrykitten.gay) | **1** | 3 633 | ❌ | ? | ? |
 | [cuche.cc](https://cuche.cc) | **1** | 271 | ❌ | ? | ? |
@@ -4920,7 +4939,7 @@
 | [social.ayco.io](https://social.ayco.io) | **1** | 4 817 | ❌ | Ayo Ayco's microblog | en |
 | [aus-marzahn.de](https://aus-marzahn.de) | **1** | 112 | ❌ | Mastodon Instanz von Schumi aus Marzahn | de |
 | [social.holovaty.com](https://social.holovaty.com) | **1** | 221 | ❌ | Adrian Holovaty's personal Mastodon instance. | en |
-| [m.nithou.net](https://m.nithou.net) | **1** | 283 | ❌ | Welcome to Nithou's own little part of the Fediverse! | en |
+| [m.nithou.net](https://m.nithou.net) | **1** | 285 | ❌ | Welcome to Nithou's own little part of the Fediverse! | en |
 | [mb.iotib.net](https://mb.iotib.net) | **1** | 1 584 | ❌ | ? | ? |
 | [escobar.social](https://escobar.social) | **1** | 445 | ❌ | ? | en |
 | [social.tobiasm.dev](https://social.tobiasm.dev) | **1** | 23 | ❌ | Tobias Marschner's self-hosted single-user Mastodon instance | en |
@@ -4944,7 +4963,7 @@
 | [fedimagazine.tokyo](https://fedimagazine.tokyo) | **1** | 262 | ❌ | ? | ? |
 | [mastodon.roe.dev](https://mastodon.roe.dev) | **1** | 747 | ❌ | ? | en |
 | [ap.samueldr.com](https://ap.samueldr.com) | **1** | 557 | ❌ | ? | ? |
-| [social.harukizaemon.com](https://social.harukizaemon.com) | **1** | 1 543 | ❌ | ? | en |
+| [social.harukizaemon.com](https://social.harukizaemon.com) | **1** | 1 545 | ❌ | ? | en |
 | [mastodon.jepsen.io](https://mastodon.jepsen.io) | **1** | 159 | ❌ | A single-user Mastodon instance for Jepsen announcements & discussion. | en |
 | [social.balpha.de](https://social.balpha.de) | **1** | 848 | ❌ | ? | de |
 | [mastodon.foxfam.club](https://mastodon.foxfam.club) | **1** | 2 447 | ❌ | ? | en |
@@ -4990,7 +5009,7 @@
 | [mkultra.monster](https://mkultra.monster) | **1** | 199 | ✅ | MKULTRA MONSTER - A U.S. based LGBTQIA+ friendly Fediverse instance for fans of the underground, scifi and cyberpunk themes, and fighting back against the hivemind that controls the waves of the net. | en |
 | [ksued.wordpress.com](https://ksued.wordpress.com) | **1** | 156 | ❌ | ? | ? |
 | [social.huginn.uk](https://social.huginn.uk) | **1** | 356 | ❌ | Personal server for me! | en |
-| [cryofault.net](https://cryofault.net) | **1** | 699 | ❌ | The science itself may prove cynical However one mustn't forget that there's a scientific element in all things the important truth is this: I am the master of my fate. I am the captain of my soul. | en |
+| [cryofault.net](https://cryofault.net) | **1** | 718 | ❌ | The science itself may prove cynical However one mustn't forget that there's a scientific element in all things the important truth is this: I am the master of my fate. I am the captain of my soul. | en |
 | [togart.de](https://togart.de) | **1** | 1 064 | ❌ | The private Mastodon instance <em>Togart</em> offers the possibility to communicate with people in the Fediverse all over the world. | en |
 | [social.kaiteki.app](https://social.kaiteki.app) | **1** | 81 | ❌ | ? | ? |
 | [social.sd.ai](https://social.sd.ai) | **1** | 3 037 | ❌ | Simon's personal instance. | en |
@@ -5006,7 +5025,7 @@
 | [mspr0.de](https://mspr0.de) | **1** | 1 123 | ❌ | ? | ? |
 | [techbites.info](https://techbites.info) | **1** | 33 | ❌ | ? | ? |
 | [mastodon.irohanano.nl](https://mastodon.irohanano.nl) | **1** | 1 186 | ❌ | マストドンサーバー of いろは, by いろは, for いろは | en |
-| [betagravity.com](https://betagravity.com) | **1** | 1 104 | ❌ | Another single user instance | en |
+| [betagravity.com](https://betagravity.com) | **1** | 1 107 | ❌ | Another single user instance | en |
 | [social.fungalhalo.com](https://social.fungalhalo.com) | **1** | 43 | ❌ | The Fediverse outgrowth of my Fungal Halo. | en |
 | [fediverse.speckledmonkey.com](https://fediverse.speckledmonkey.com) | **1** | 480 | ❌ | ? | en |
 | [mastodon.modspil.dk](https://mastodon.modspil.dk) | **1** | 236 | ✅ | Private instance for friends of the website www.modspil.dk/wordpress.  Feel free to join! Just create a user and start posting. Check the rules - no hate speech.  | en |
@@ -5018,11 +5037,11 @@
 | [akkoma.marud.fr](https://akkoma.marud.fr) | **1** | 164 | ❌ | ? | ? |
 | [wires.social](https://wires.social) | **1** | 75 | ❌ | We love technology, both old and new, and want to explore how it can be used in positive and ethical ways. Check out our podcasts, videos, and live streams. | en |
 | [social.thej.in](https://social.thej.in) | **1** | 45 | ❌ | ? | en |
-| [andrew.masto.host](https://andrew.masto.host) | **1** | 104 | ❌ | ? | en |
+| [andrew.masto.host](https://andrew.masto.host) | **1** | 112 | ❌ | ? | en |
 | [lukas.stancik.cz](https://lukas.stancik.cz) | **1** | 47 | ❌ | ? | ? |
 | [orlovsky.online](https://orlovsky.online) | **1** | 5 | ❌ | Private mastodon server | en |
 | [coywolf.today](https://coywolf.today) | **1** | 4 | ❌ | ? | ? |
-| [toonvandeputte.be](https://toonvandeputte.be) | **1** | 1 659 | ❌ | My personal server | en |
+| [toonvandeputte.be](https://toonvandeputte.be) | **1** | 1 668 | ❌ | My personal server | en |
 | [social.gerbet.me](https://social.gerbet.me) | **1** | 89 | ❌ | ? | en |
 | [allthingsmusic.space](https://allthingsmusic.space) | **1** | 384 | ❌ | This server is for anyone who loves music and tech | en |
 | [princess.industries](https://princess.industries) | **1** | 2 289 | ❌ | ? | ? |
@@ -5047,84 +5066,88 @@
 | [noctalgia.space](https://noctalgia.space) | **1** | 287 | ✅ | Science Fiction, Books, Astronomy, Ecology, Music.  This instance blocks all forms of bigotry.  | en |
 | [honk.petersanchez.com](https://honk.petersanchez.com) | **1** | 1 399 | ❌ | ? | ? |
 | [sarcasm.stream](https://sarcasm.stream) | **1** | 4 959 | ❌ | ? | en |
+| [robertjames1971.blog](https://robertjames1971.blog) | **1** | 18 892 | ❌ | ? | ? |
+| [vilelasagna.ddns.net](https://vilelasagna.ddns.net) | **1** | 24 | ❌ | ? | ? |
+| [davewinter.dev](https://davewinter.dev) | **1** | 55 | ❌ | ? | ? |
+| [moments.hidupmanis.studio](https://moments.hidupmanis.studio) | **1** | 130 | ❌ | ? | ? |
 | [puckipedia.com](https://puckipedia.com) | **-15 000 000** | -69 420 | ❌ | ? | ? |
 
 ### Total posts
 | Instance | Posts | Users | Open | Description | Languages |
 | -------- | ----- | ----- | ---- | ----------- | --------- |
 | [mastodon.adtension.com](https://mastodon.adtension.com) | **97 012 553** | 97 | ❌ | The voice of Mastodon's Global Government Affairs team: mastodon.adtension.com/@GlobalAffairs | en |
-| [mastodon.social](https://mastodon.social) | **83 545 068** | 1 833 714 | ✅ | The original server operated by the Mastodon gGmbH non-profit | en |
-| [mstdn.jp](https://mstdn.jp) | **74 037 973** | 404 857 | ✅ | Mastodon日本鯖です． よろしくお願いいたします。  (Maintained by Sujitech, LLC) | en |
+| [mastodon.social](https://mastodon.social) | **83 636 945** | 1 835 080 | ✅ | The original server operated by the Mastodon gGmbH non-profit | en |
+| [mstdn.jp](https://mstdn.jp) | **74 058 698** | 404 874 | ✅ | Mastodon日本鯖です． よろしくお願いいたします。  (Maintained by Sujitech, LLC) | en |
 | [pawoo.net](https://pawoo.net) | **71 490 203** | 932 288 | ✅ | The Social Coop Limited が運営するマストドンインスタンス「Pawoo」は、文章や画像を投稿して楽しむSNSです。 「創作活動や自由なコミュニケーションを楽しめる場」として、どなたにも幅広く使っていただけます。  | en |
 | [misskey.io](https://misskey.io) | **57 390 123** | 454 208 | ✅ | ? | ? |
 | [hellsite.site](https://hellsite.site) | **39 808 437** | 431 | ❌ | Hellsite.site: The most cursed instance on the fedi. Communism will win.  We run a custom fork of the mastodon code called Goatstodon that runs some slight improvements.   Come for the shitposting, stay for the infinite polls and 4 gigabyte upload cap!  | en |
 | [botsin.space](https://botsin.space) | **26 604 575** | 8 771 | ✅ | A Mastodon instance for bots and bot allies. | en |
 | [pixelfed.social](https://pixelfed.social) | **19 036 183** | 108 574 | ❌ | ? | ? |
 | [imastodon.net](https://imastodon.net) | **15 367 245** | 5 667 | ✅ | im@stodon is unofficial mastodon instance for fans of THE IDOLM@STER.  アイマストドンはアイマスに興味がある皆さんのための非公式なマストドンインスタンスです。 | ja |
-| [mstdn.social](https://mstdn.social) | **15 342 589** | 223 918 | ✅ | A general-purpose Mastodon server with a 500 character limit. All languages are welcome. | en |
+| [mstdn.social](https://mstdn.social) | **15 357 211** | 224 014 | ✅ | A general-purpose Mastodon server with a 500 character limit. All languages are welcome. | en |
 | [fedibird.com](https://fedibird.com) | **15 140 018** | 38 893 | ❌ | ? | ? |
-| [best-friends.chat](https://best-friends.chat) | **12 280 323** | 3 125 | ✅ | 友人と、くだらない話をしよう。Best Friends はあなたにとって最も居心地がいい場所でありたいと願って作られた Mastodon サーバーです。 | en |
-| [baraag.net](https://baraag.net) | **11 610 134** | 293 699 | ❌ | By clicking past warnings of any sensitive content, you affirm to be 18 years of age or older, and agree to the Terms of Service. | en |
+| [best-friends.chat](https://best-friends.chat) | **12 286 024** | 3 125 | ✅ | 友人と、くだらない話をしよう。Best Friends はあなたにとって最も居心地がいい場所でありたいと願って作られた Mastodon サーバーです。 | en |
+| [baraag.net](https://baraag.net) | **11 621 654** | 293 693 | ❌ | By clicking past warnings of any sensitive content, you affirm to be 18 years of age or older, and agree to the Terms of Service. | en |
 | [wxw.moe](https://wxw.moe) | **8 928 213** | 22 642 | ✅ | 一个 泛ACGN 实例，讨论主题不限 ~ | en |
-| [mastodon.online](https://mastodon.online) | **7 980 479** | 192 626 | ❌ | A newer server operated by the Mastodon gGmbH non-profit | en |
+| [mastodon.online](https://mastodon.online) | **7 989 415** | 192 624 | ❌ | A newer server operated by the Mastodon gGmbH non-profit | en |
 | [social.quodverum.com](https://social.quodverum.com) | **7 873 958** | 34 311 | ✅ | Those who label words as violence do so with the sole purpose of justifying violence against words. | en |
 | [pixelfed.de](https://pixelfed.de) | **7 732 701** | 31 664 | ✅ | ? | ? |
 | [nijimiss.moe](https://nijimiss.moe) | **7 319 662** | 31 552 | ❌ | ? | ? |
-| [mas.to](https://mas.to) | **7 225 596** | 170 220 | ✅ | Hello! mas.to is a fast, up-to-date and fun Mastodon server. | en |
-| [o3o.ca](https://o3o.ca) | **7 052 108** | 18 092 | ❌ | 欢迎来到o3o(嘟站)！这是一个泛话题社区，无论你的兴趣是什么，你都可以自由地通过发布“嘟嘟”来吐槽一切、摸鱼扯皮。 本社区由位于加拿大的 O3O.Foundation 项目运营。我们相信由社会组织运营基本通讯软件和设施是必要的，它们不应被控制在大型企业和政府手中。 | zh-CN |
+| [mas.to](https://mas.to) | **7 234 370** | 170 243 | ✅ | Hello! mas.to is a fast, up-to-date and fun Mastodon server. | en |
+| [o3o.ca](https://o3o.ca) | **7 052 641** | 18 092 | ❌ | 欢迎来到o3o(嘟站)！这是一个泛话题社区，无论你的兴趣是什么，你都可以自由地通过发布“嘟嘟”来吐槽一切、摸鱼扯皮。 本社区由位于加拿大的 O3O.Foundation 项目运营。我们相信由社会组织运营基本通讯软件和设施是必要的，它们不应被控制在大型企业和政府手中。 | zh-CN |
 | [mstdn.maud.io](https://mstdn.maud.io) | **6 435 067** | 2 167 | ✅ | The place to express your ❤️ more freely. / あなたの「すき」をもっと自由に書き表すための場所。 | en |
-| [mamot.fr](https://mamot.fr) | **6 360 167** | 38 357 | ❌ | Mamot.fr est un serveur Mastodon francophone, géré par La Quadrature du Net. | en |
+| [mamot.fr](https://mamot.fr) | **6 361 553** | 38 357 | ❌ | Mamot.fr est un serveur Mastodon francophone, géré par La Quadrature du Net. | en |
 | [mstdn.beer](https://mstdn.beer) | **6 167 958** | 858 | ❌ | ? | en |
 | [poa.st](https://poa.st) | **5 929 784** | 31 105 | ✅ | ? | ? |
-| [chaos.social](https://chaos.social) | **5 907 807** | 11 945 | ❌ | chaos.social – a Fediverse instance for & by the Chaos community | en |
+| [chaos.social](https://chaos.social) | **5 913 793** | 11 949 | ❌ | chaos.social – a Fediverse instance for & by the Chaos community | en |
 | [planet.moe](https://planet.moe) | **5 532 179** | 24 714 | ❌ | 서브컬쳐 향유자들을 위한 한국어 마스토돈 인스턴스, 플래닛이에요. | ko |
-| [mastodon.cloud](https://mastodon.cloud) | **5 478 954** | 273 604 | ✅ | Everyone is welcome as long as you follow our code of conduct! Thank you.  Mastodon.cloud is maintained by Sujitech, LLC.  | en |
-| [m.cmx.im](https://m.cmx.im) | **5 183 550** | 43 824 | ✅ | 长毛象中文站是一个开放、友好、有爱的社区。长毛象中文站主题为喵、汪、各种动物、社交、科技、编程及生活。我们欢迎友好、热情、乐于分享的朋友，无论你的兴趣点是什么。 | zh-CN |
+| [mastodon.cloud](https://mastodon.cloud) | **5 480 584** | 273 611 | ✅ | Everyone is welcome as long as you follow our code of conduct! Thank you.  Mastodon.cloud is maintained by Sujitech, LLC.  | en |
+| [m.cmx.im](https://m.cmx.im) | **5 183 021** | 43 839 | ✅ | 长毛象中文站是一个开放、友好、有爱的社区。长毛象中文站主题为喵、汪、各种动物、社交、科技、编程及生活。我们欢迎友好、热情、乐于分享的朋友，无论你的兴趣点是什么。 | zh-CN |
 | [mastodon.world](https://mastodon.world) | **5 075 365** | 181 327 | ✅ | Generic Mastodon server for anyone to use. | en |
 | [occm.cc](https://occm.cc) | **5 062 761** | 6 909 | ✅ | 자커마스는 자작 캐릭터 커뮤니티, 즉 자캐커뮤를 위한 마스토돈 인스턴스입니다. 자캐커뮤에 특화된 서버 설정을 제공하며, 한국어 검색을 지원합니다. | ko |
 | [vocalodon.net](https://vocalodon.net) | **4 790 308** | 6 965 | ❌ | ? | ? |
-| [bgme.me](https://bgme.me) | **4 650 465** | 3 720 | ❌ | 一个中文长毛象(Mastodon)实例。 | zh-CN |
+| [bgme.me](https://bgme.me) | **4 654 384** | 3 721 | ❌ | 一个中文长毛象(Mastodon)实例。 | zh-CN |
 | [alive.bar](https://alive.bar) | **4 520 268** | 30 801 | ✅ | ? | ? |
 | [misskey.design](https://misskey.design) | **4 508 707** | 33 535 | ✅ | ? | ? |
-| [troet.cafe](https://troet.cafe) | **4 070 973** | 43 192 | ✅ | Hallo im troet.cafe! Dies ist die derzeit größte deutschsprachige Mastodon Instanz zum tröten, neue Leute kennenlernen, sich auszutauschen und Spaß zu haben. | de |
+| [troet.cafe](https://troet.cafe) | **4 078 668** | 43 198 | ✅ | Hallo im troet.cafe! Dies ist die derzeit größte deutschsprachige Mastodon Instanz zum tröten, neue Leute kennenlernen, sich auszutauschen und Spaß zu haben. | de |
 | [pxlmo.com](https://pxlmo.com) | **4 047 569** | 9 507 | ✅ | ? | ? |
 | [bae.st](https://bae.st) | **3 967 902** | 8 262 | ✅ | ? | ? |
-| [noagendasocial.com](https://noagendasocial.com) | **3 952 410** | 8 964 | ❌ | ? | en |
+| [noagendasocial.com](https://noagendasocial.com) | **3 951 379** | 8 964 | ❌ | ? | en |
 | [handon.club](https://handon.club) | **3 880 459** | 339 | ✅ | はん（highemerly）が個人で運営しているサーバーです。登録はどなたでも歓迎で、話題に制限もありません。 | ja |
 | [monads.online](https://monads.online) | **3 871 481** | 135 | ❌ | monads.online is a place for friends | en |
-| [mastodon.art](https://mastodon.art) | **3 254 551** | 36 512 | ✅ | Mastodon.ART — Your friendly home on the fediverse for all things creative, all on a platform that is community-owned and ad-free. NO AI OR NFTs ALLOWED. | en |
+| [mastodon.art](https://mastodon.art) | **3 256 892** | 36 524 | ✅ | Mastodon.ART — Your friendly home on the fediverse for all things creative, all on a platform that is community-owned and ad-free. NO AI OR NFTs ALLOWED. | en |
+| [fosstodon.org](https://fosstodon.org) | **3 106 594** | 61 720 | ❌ | Fosstodon is a Mastodon instance that is open to anyone who is interested in technology; particularly free & open source software. | en |
 | [pokemon.mastportal.info](https://pokemon.mastportal.info) | **3 106 258** | 1 447 | ❌ | ポケモン非公認マストドンです。  ゲーム「ポケットモンスター」だけでなく、「ポケモンカードゲーム」や「ポケモンGO」、「ポケットモンスターSPECIAL」などポケモンが大好きな方は是非どうぞ。  ポケモン以外の話題も自由にできます。  イラストの投稿や好きなポケモンなどを話してみるのも良いかもしれません。 | ja |
-| [fosstodon.org](https://fosstodon.org) | **3 103 254** | 61 720 | ❌ | Fosstodon is a Mastodon instance that is open to anyone who is interested in technology; particularly free & open source software. | en |
 | [misskey-square.net](https://misskey-square.net) | **3 062 442** | 8 443 | ✅ | ? | ? |
-| [mastodon-japan.net](https://mastodon-japan.net) | **3 052 139** | 15 748 | ✅ | こちらはMastodon Japan Server、日本居住および日本語話者向けの汎用サーバーです。 ただし日本国外居住者及び非日本語話者を除外するものではありません。ルール（利用規約）をご確認の上で平和に遊ぼう。 | ja |
+| [mastodon-japan.net](https://mastodon-japan.net) | **3 058 752** | 15 751 | ✅ | こちらはMastodon Japan Server、日本居住および日本語話者向けの汎用サーバーです。 ただし日本国外居住者及び非日本語話者を除外するものではありません。ルール（利用規約）をご確認の上で平和に遊ぼう。 | ja |
 | [novelskey.tarbin.net](https://novelskey.tarbin.net) | **2 986 938** | 7 080 | ✅ | ? | ? |
-| [universeodon.com](https://universeodon.com) | **2 935 497** | 78 681 | ✅ | Be one with the #fediverse. Join millions of humans building, creating, and collaborating on Mastodon Social Network. | en |
+| [universeodon.com](https://universeodon.com) | **2 938 312** | 78 701 | ✅ | Be one with the #fediverse. Join millions of humans building, creating, and collaborating on Mastodon Social Network. | en |
 | [octodon.social](https://octodon.social) | **2 926 542** | 12 224 | ❌ | queer anarchist communist cyber pirate ship | en |
-| [mastodonapp.uk](https://mastodonapp.uk) | **2 877 421** | 79 384 | ✅ | UK Hosted and Managed Mastodon Instance. General communal space for discussion, everyone welcome! | en |
+| [mastodonapp.uk](https://mastodonapp.uk) | **2 879 453** | 79 408 | ✅ | UK Hosted and Managed Mastodon Instance. General communal space for discussion, everyone welcome! | en |
 | [shitposter.club](https://shitposter.club) | **2 835 796** | 3 392 | ❌ | ? | ? |
 | [brighteon.social](https://brighteon.social) | **2 798 192** | 52 869 | ✅ | ? | ? |
-| [social.tchncs.de](https://social.tchncs.de) | **2 681 354** | 21 930 | ✅ | A friendly server from Germany – which tends to attract techy people, but welcomes everybody. This is one of the oldest Mastodon instances. | en |
-| [hachyderm.io](https://hachyderm.io) | **2 608 576** | 51 702 | ✅ | Hachyderm is a safe space, LGBTQIA+ and BLM, primarily comprised of tech industry professionals world wide. Note that many non-user account types have restrictions - please see our About page. | en |
+| [social.tchncs.de](https://social.tchncs.de) | **2 681 251** | 21 931 | ✅ | A friendly server from Germany – which tends to attract techy people, but welcomes everybody. This is one of the oldest Mastodon instances. | en |
+| [hachyderm.io](https://hachyderm.io) | **2 612 472** | 51 708 | ✅ | Hachyderm is a safe space, LGBTQIA+ and BLM, primarily comprised of tech industry professionals world wide. Note that many non-user account types have restrictions - please see our About page. | en |
 | [tech.lgbt](https://tech.lgbt) | **2 601 533** | 13 452 | ✅ | We welcome all marginalized identities. This Mastodon instance is generally for folks who are LGBTQIA+ and Allies with an interest in tech work, academics, or technology in general. | en |
 | [eldritch.cafe](https://eldritch.cafe) | **2 590 499** | 12 789 | ❌ | Une instance se voulant accueillante pour les personnes queers, féministes et anarchistes ainsi que pour leurs sympathisant·e·s. Nous sommes principalement francophone. | en |
-| [infosec.exchange](https://infosec.exchange) | **2 566 776** | 64 708 | ✅ | A Mastodon instance for info/cyber security-minded people.  | en |
+| [infosec.exchange](https://infosec.exchange) | **2 570 179** | 64 756 | ✅ | A Mastodon instance for info/cyber security-minded people.  | en |
 | [kirishima.cloud](https://kirishima.cloud) | **2 485 912** | 553 | ✅ | このインスタンスは霧島ひなたによって管理運営されているmastodonのインスタンスの一つです 面白そうな機能を実装したり外したりを繰り返しているインスタンスのため それなりに不具合があったりもします。お許しください投稿内容に制限はありません。 ペットのインコの日常から政治の内容まで思うがままに投稿してください。 莫大な量の文字数が投稿できます。話し合いの場としても活用していただけたら幸いです。         霧島ひなた アスタルテは以下の支援者様に支えられて運営しています。 <a href="https://kirishima.cloud/@mopopo">mopopo様</a> <a href="https://kirishima.cloud/@greentea_cr">こっちゃー様</a> <a href="https://kirishima.cloud/@septem_vesperum">🔥NanaYū❄様</a> <a href="https://kirishima.cloud/@Cutls">Cutls P様</a> <a href="https://kirishima.cloud/@umbobo800">うんぼぼ様</a> <a href="https://kirishima.cloud/@marugen">まるげん様</a> <a href="https://kirishima.cloud/@iMomushi">🐛様</a> <a href="https://kirishima.cloud/@227">えんだまどかちゃん</a> <a href="https://kirishima.cloud/@oikura">おいくらことみ様</a> <a href="https://kirishima.cloud/@Cinderella">シンデレラ様</a> <a href="https://kirishima.cloud/@ot_inc">ot_inc様</a> <a href="https://kirishima.cloud/@yuzu">ねじりわさび様</a> <a href="https://kirishima.cloud/@khirio">古山キリヲ様</a> <a href="https://kirishima.cloud/@shiromu">しろ様</a> <a href="https://kirishima.cloud/@ALOZ">みぷ様</a> <a href="https://kirishima.cloud/@314121523_165380764_732964502">める様</a> <a href="https://kirishima.cloud/@wazakkyd">わさぎ様</a> 支援ありがとうございます！これかもアスタルテをよりよいSNSとして成長させていけるよう頑張っていきたいと思います   現在実装されている機能に関しては下記のページに書いてあります。 <a href="https://kirishima.cloud/about/more">アスタルテについて</a> アスタルテはCutls Pさんが制作しているTheDeskを公認クライアントとしています。 <a href="https://thedesk.top/">TheDeskホームページ</a> | en |
-| [framapiaf.org](https://framapiaf.org) | **2 452 007** | 10 791 | ❌ | Un service Mastodon fourni par l'association d’éducation populaire Framasoft. | fr |
-| [kolektiva.social](https://kolektiva.social) | **2 355 225** | 37 407 | ✅ | Kolektiva is an anti-colonial anarchist collective that offers federated social media to anarchist collectives and individuals in the fediverse. For the social movements and liberation! | en |
+| [framapiaf.org](https://framapiaf.org) | **2 453 062** | 10 791 | ❌ | Un service Mastodon fourni par l'association d’éducation populaire Framasoft. | fr |
+| [kolektiva.social](https://kolektiva.social) | **2 358 245** | 37 407 | ✅ | Kolektiva is an anti-colonial anarchist collective that offers federated social media to anarchist collectives and individuals in the fediverse. For the social movements and liberation! | en |
 | [mstdn.ca](https://mstdn.ca) | **2 209 816** | 34 874 | ✅ | A community for Canadians, First Nations, Metis, and Inuit Peoples of the great white north. | en |
-| [c.im](https://c.im) | **2 205 459** | 66 308 | ✅ | C.IM is a general, mainly English-speaking Mastodon instance. | en |
-| [aus.social](https://aus.social) | **2 191 843** | 25 004 | ✅ | Welcome to thundertoot! A Mastodon Instance for the People. | en |
+| [c.im](https://c.im) | **2 207 908** | 66 316 | ✅ | C.IM is a general, mainly English-speaking Mastodon instance. | en |
+| [aus.social](https://aus.social) | **2 194 151** | 25 005 | ✅ | Welcome to thundertoot! A Mastodon Instance for the People. | en |
 | [spinster.xyz](https://spinster.xyz) | **2 142 458** | 21 511 | ✅ | ? | ? |
 | [pixey.org](https://pixey.org) | **2 124 465** | 4 607 | ✅ | ? | ? |
 | [freespeechextremist.com](https://freespeechextremist.com) | **2 122 827** | 2 188 | ✅ | ? | ? |
-| [masto.ai](https://masto.ai) | **2 066 663** | 73 533 | ❌ | A general Mastodon server for all languages. | en |
-| [norden.social](https://norden.social) | **2 054 624** | 13 144 | ✅ | Moin! Dies ist eine Mastodon Instanz für Nordlichter, Schnacker und was sonst noch so aus dem Norden kommt. Folge dem Leuchtturm. | en |
+| [masto.ai](https://masto.ai) | **2 069 004** | 73 530 | ❌ | A general Mastodon server for all languages. | en |
+| [norden.social](https://norden.social) | **2 057 812** | 13 144 | ✅ | Moin! Dies ist eine Mastodon Instanz für Nordlichter, Schnacker und was sonst noch so aus dem Norden kommt. Folge dem Leuchtturm. | en |
 | [kiritan.work](https://kiritan.work) | **2 031 742** | 311 | ❌ | きりたん丼だよ〜 | en |
-| [sfba.social](https://sfba.social) | **2 016 121** | 38 622 | ✅ | A Mastodon instance for the San Francisco Bay Area. Come on in and join us! | en |
-| [mastodon.xyz](https://mastodon.xyz) | **2 005 840** | 28 511 | ❌ | A Mastodon instance, open to everyone, but mainly English and French speaking. | en |
+| [sfba.social](https://sfba.social) | **2 018 858** | 38 622 | ✅ | A Mastodon instance for the San Francisco Bay Area. Come on in and join us! | en |
+| [mastodon.xyz](https://mastodon.xyz) | **2 006 628** | 28 510 | ❌ | A Mastodon instance, open to everyone, but mainly English and French speaking. | en |
 | [misskey.gg](https://misskey.gg) | **1 976 207** | 3 761 | ✅ | ? | ? |
 | [juick.com](https://juick.com) | **1 923 436** | 18 472 | ✅ | ? | ? |
-| [mastodon.sdf.org](https://mastodon.sdf.org) | **1 911 679** | 72 820 | ✅ | "I appreciate SDF but it's a general-purpose server and the name doesn't make it obvious that it's about art." - Eugen Rochko | en |
+| [mastodon.sdf.org](https://mastodon.sdf.org) | **1 913 179** | 72 819 | ✅ | "I appreciate SDF but it's a general-purpose server and the name doesn't make it obvious that it's about art." - Eugen Rochko | en |
 | [submarin.online](https://submarin.online) | **1 889 356** | 6 331 | ✅ | ? | ? |
 | [piaille.fr](https://piaille.fr) | **1 886 368** | 29 285 | ✅ | Piaille.fr est un serveur mastodon public francophone accessible à toutes et à tous.  | fr |
 | [freeatlantis.com](https://freeatlantis.com) | **1 851 797** | 3 798 | ✅ | ? | en |
@@ -5133,38 +5156,38 @@
 | [wandering.shop](https://wandering.shop) | **1 818 683** | 3 730 | ❌ | Wandering.Shop aims to have the vibe of a quality coffee shop at a busy SF&F Convention. Think tables of writers, fans and interested passers-by sharing drinks and conversation on a variety of topics. | en |
 | [social.mikutter.hachune.net](https://social.mikutter.hachune.net) | **1 803 956** | 475 | ❌ | #あなたがガチ凍結されると<br> 11月中旬くらいかな？俺はておくれだから<br> Twitterからよく舐められるんだけど、<br> ある時Twitterが度が過ぎて俺を凍結<br> してきたわけ、そんで記憶がないんだけど（痴呆）、<br> 相当ボコボコにしちゃったらしい<br> 俺、これでもておくれですよ？ | ja |
 | [social.vivaldi.net](https://social.vivaldi.net) | **1 784 899** | 44 698 | ✅ | Vivaldi Social is part of the Mastodon network and is hosted in Iceland by the makers of Vivaldi Browser. Everyone is welcome to join. | en |
-| [mastodon.scot](https://mastodon.scot) | **1 780 899** | 28 742 | ✅ | A server intended for (but not limited to) users in Scotland or who identify as Scottish. | en |
+| [mastodon.scot](https://mastodon.scot) | **1 784 040** | 28 742 | ✅ | A server intended for (but not limited to) users in Scotland or who identify as Scottish. | en |
 | [meow.social](https://meow.social) | **1 779 001** | 13 016 | ❌ | This instance run by Tiwy57, Nomaxice, Deki, Blur and Roy is focused around the furry fandom and is open to all fluffies and scalies! | en |
 | [mastodon.nl](https://mastodon.nl) | **1 769 526** | 41 005 | ✅ | Mastodon voor de Nederlandse community - door de Nederlandse community | en |
 | [misskey.art](https://misskey.art) | **1 731 784** | 5 690 | ❌ | ? | ? |
 | [respublicae.eu](https://respublicae.eu) | **1 708 691** | 1 592 | ❌ | ? | ? |
 | [oekakiskey.com](https://oekakiskey.com) | **1 701 192** | 10 083 | ✅ | ? | ? |
-| [mstdn.io](https://mstdn.io) | **1 629 696** | 1 218 | ❌ | ? | en |
+| [mstdn.io](https://mstdn.io) | **1 630 193** | 1 217 | ❌ | ? | en |
 | [elekk.xyz](https://elekk.xyz) | **1 575 490** | 2 336 | ✅ | ? | en |
 | [pravda.me](https://pravda.me) | **1 546 220** | 228 895 | ✅ | «Вот скажи мне, американец, в чём сила? Разве в деньгах? Вот и брат говорит, что в деньгах. У тебя много денег, и чего? Я вот думаю, что сила в правде: у кого Правда, тот и сильнее» (с) Данила Багров. | en |
 | [qoto.org](https://qoto.org) | **1 541 077** | 26 687 | ✅ | ? | ? |
 | [nekomiya.net](https://nekomiya.net) | **1 517 447** | 6 562 | ✅ | ? | ? |
-| [techhub.social](https://techhub.social) | **1 463 763** | 79 713 | ✅ | A hub primarily for passionate technologists, but everyone is welcome | en |
-| [mstdn.party](https://mstdn.party) | **1 431 677** | 50 462 | ✅ | Mastodon Party is a general-purpose Mastodon instance. Welcome to the fediverse! | en |
+| [techhub.social](https://techhub.social) | **1 456 870** | 79 723 | ✅ | A hub primarily for passionate technologists, but everyone is welcome | en |
+| [mstdn.party](https://mstdn.party) | **1 432 475** | 50 464 | ✅ | Mastodon Party is a general-purpose Mastodon instance. Welcome to the fediverse! | en |
 | [mao.mastodonhub.com](https://mao.mastodonhub.com) | **1 428 217** | 14 684 | ✅ | 本站是Mastodon猫站实例。略略略。。。:-) | en |
-| [todon.nl](https://todon.nl) | **1 410 826** | 3 355 | ❌ | Radicaal linkse anti-autoritaire server. Voor anarchisten, socialisten, (klimaat)activisten, LHBTQIA+, antiracisten, antifascisten, antikapitalisten, intersectionelen, veganisten, mensenrechten, enz. | en |
-| [heislandmine.work](https://heislandmine.work) | **1 377 556** | 227 | ✅ | ? | en |
-| [toot.community](https://toot.community) | **1 345 703** | 30 875 | ✅ | A worldwide Mastodon instance from The Netherlands. Run by digital enthusiasts, inviting everyone, everywhere to join us in the #fediverse. | en |
+| [todon.nl](https://todon.nl) | **1 411 497** | 3 355 | ❌ | Radicaal linkse anti-autoritaire server. Voor anarchisten, socialisten, (klimaat)activisten, LHBTQIA+, antiracisten, antifascisten, antikapitalisten, intersectionelen, veganisten, mensenrechten, enz. | en |
+| [heislandmine.work](https://heislandmine.work) | **1 377 631** | 227 | ✅ | ? | en |
+| [toot.community](https://toot.community) | **1 347 442** | 30 880 | ✅ | A worldwide Mastodon instance from The Netherlands. Run by digital enthusiasts, inviting everyone, everywhere to join us in the #fediverse. | en |
 | [unnerv.jp](https://unnerv.jp) | **1 344 408** | 234 | ❌ | ? | ? |
-| [mastodon.uno](https://mastodon.uno) | **1 294 778** | 71 691 | ✅ | Mastodon.Uno è la prima comunità generalista italiana. Con oltre 70.000 iscritti è il più grande nodo Mastodon italiano.  Anima ambientalista a supporto della privacy e del mondo Open Source. | it |
+| [mastodon.uno](https://mastodon.uno) | **1 296 148** | 71 701 | ✅ | Mastodon.Uno è la prima comunità generalista italiana. Con oltre 70.000 iscritti è il più grande nodo Mastodon italiano.  Anima ambientalista a supporto della privacy e del mondo Open Source. | it |
 | [mstdn.poyo.me](https://mstdn.poyo.me) | **1 280 015** | 265 | ✅ | Mastodonぽよ鯖 かわいい絵文字もあるよ！ぽよぽよしていってね！ | ja |
-| [mindly.social](https://mindly.social) | **1 256 920** | 35 674 | ✅ | Mindly.Social is an English speaking, friendly Mastodon instance created for people who want to use their brains and their hearts to make social networking more social. 🧠💖 | en |
+| [mindly.social](https://mindly.social) | **1 257 780** | 35 671 | ✅ | Mindly.Social is an English speaking, friendly Mastodon instance created for people who want to use their brains and their hearts to make social networking more social. 🧠💖 | en |
 | [pixelfed.fr](https://pixelfed.fr) | **1 238 891** | 2 187 | ✅ | ? | ? |
-| [ohai.social](https://ohai.social) | **1 213 578** | 39 084 | ✅ | ohai.social is a cozy, fast and secure Mastodon server where everyone is welcome. Run by the folks at ohai.is. | en |
-| [mastodon.ie](https://mastodon.ie) | **1 202 481** | 20 893 | ✅ | Irish Mastodon - run from Ireland, we welcome all who respect the community rules and members. | en |
-| [mastodon.gamedev.place](https://mastodon.gamedev.place) | **1 199 946** | 31 031 | ✅ | Mastodon server focused on game development and related topics. | en |
+| [ohai.social](https://ohai.social) | **1 214 952** | 39 083 | ✅ | ohai.social is a cozy, fast and secure Mastodon server where everyone is welcome. Run by the folks at ohai.is. | en |
+| [mastodon.ie](https://mastodon.ie) | **1 203 710** | 20 892 | ✅ | Irish Mastodon - run from Ireland, we welcome all who respect the community rules and members. | en |
+| [mastodon.gamedev.place](https://mastodon.gamedev.place) | **1 201 402** | 31 178 | ✅ | Mastodon server focused on game development and related topics. | en |
 | [chitter.xyz](https://chitter.xyz) | **1 186 506** | 1 175 | ✅ | Chitter is a social network fostering a friendly, inclusive, and incredibly soft community. | en |
 | [mstdn.nere9.help](https://mstdn.nere9.help) | **1 184 620** | 472 | ✅ | ? | ? |
 | [madost.one](https://madost.one) | **1 180 808** | 32 | ❌ | ? | ? |
 | [nicecrew.digital](https://nicecrew.digital) | **1 151 696** | 354 | ✅ | ? | ? |
 | [weirder.earth](https://weirder.earth) | **1 138 076** | 1 205 | ❌ | ? | ? |
 | [pixelfed.au](https://pixelfed.au) | **1 099 144** | 1 170 | ✅ | ? | ? |
-| [nrw.social](https://nrw.social) | **1 083 370** | 18 021 | ✅ | Wir sind eine freundliche Mastodon Instanz aus Nordrhein-Westfalen. Ob NRW'ler oder NRW-Sympathifanten, jeder ist hier willkommen. | de |
+| [nrw.social](https://nrw.social) | **1 085 441** | 18 021 | ✅ | Wir sind eine freundliche Mastodon Instanz aus Nordrhein-Westfalen. Ob NRW'ler oder NRW-Sympathifanten, jeder ist hier willkommen. | de |
 | [me.ns.ci](https://me.ns.ci) | **1 063 404** | 8 111 | ✅ | NS中文嘟嘟（Mastodon中文社区）致力于维护一个安宁、平和的社区环境，欢迎在这里安家！ | en |
 | [mastodon.fun](https://mastodon.fun) | **1 063 404** | 8 111 | ✅ | NS中文嘟嘟（Mastodon中文社区）致力于维护一个安宁、平和的社区环境，欢迎在这里安家！ | en |
 | [gram.social](https://gram.social) | **1 060 496** | 1 323 | ✅ | ? | ? |
@@ -5174,8 +5197,8 @@
 | [queer.party](https://queer.party) | **1 041 462** | 6 144 | ❌ | A silly instance of Mastodon for queer folk and non-queer folk alike. Let's be friends! | en |
 | [varishangout.net](https://varishangout.net) | **1 036 839** | 2 501 | ❌ | ? | ? |
 | [mathstodon.xyz](https://mathstodon.xyz) | **1 031 935** | 16 963 | ✅ | A Mastodon instance for maths people. We have LaTeX rendering in the web interface! | en |
+| [newsie.social](https://newsie.social) | **998 994** | 20 827 | ❌ | A stable and professionally administered Mastodon server that hosts a large number of journalists and news outlets. Content focuses heavily on news and current events. #newstodon | en |
 | [efdn.club](https://efdn.club) | **998 010** | 294 | ✅ | ? | en |
-| [newsie.social](https://newsie.social) | **997 728** | 20 828 | ❌ | A stable and professionally administered Mastodon server that hosts a large number of journalists and news outlets. Content focuses heavily on news and current events. #newstodon | en |
 | [otogamer.me](https://otogamer.me) | **983 716** | 1 279 | ✅ | 音ゲーマーがいるMastodonインスタンス | en |
 | [oransns.com](https://oransns.com) | **958 065** | 605 | ✅ | ? | ja |
 | [g0v.social](https://g0v.social) | **953 148** | 7 598 | ✅ | 去中心化社群架設的去中心化社群網站。宇宙小酒館。請遵守社群守則 https://g0v.social/about/more  Our mantra: https://devpoga.org/blog/2023-01-22_mantra_g0v_social/ | zh-TW |
@@ -5183,19 +5206,19 @@
 | [diasp.org](https://diasp.org) | **933 521** | 105 872 | ✅ | ? | ? |
 | [pixelfed.automat.click](https://pixelfed.automat.click) | **920 059** | 347 | ✅ | ? | ? |
 | [pixel.tchncs.de](https://pixel.tchncs.de) | **913 107** | 5 663 | ❌ | ? | ? |
-| [mastodon.green](https://mastodon.green) | **896 193** | 11 928 | ✅ | Plant trees while you use Mastodon. A server originally for people in the EU, but now open for anyone in the world | en |
+| [mastodon.green](https://mastodon.green) | **897 123** | 11 927 | ✅ | Plant trees while you use Mastodon. A server originally for people in the EU, but now open for anyone in the world | en |
 | [mastodon.bida.im](https://mastodon.bida.im) | **893 520** | 20 715 | ✅ | ? | ? |
-| [mastodon.nz](https://mastodon.nz) | **874 648** | 9 046 | ✅ | A Mastodon instance hosted in New Zealand. Made for kiwis and honorary kiwis home and abroad!  Status page @ https://status.fediservices.nz/ | en |
+| [mastodon.nz](https://mastodon.nz) | **875 509** | 9 046 | ✅ | A Mastodon instance hosted in New Zealand. Made for kiwis and honorary kiwis home and abroad!  Status page @ https://status.fediservices.nz/ | en |
 | [dice.camp](https://dice.camp) | **873 676** | 8 815 | ✅ | A Mastodon server for RPG folks to hang out and talk. Not owned by a billionaire. | en |
-| [aethy.com](https://aethy.com) | **868 733** | 20 852 | ✅ | A community that strives on self-expression and creativity which has zero tolerance for hate, abuse and harassment! (18+ Only) | en |
+| [aethy.com](https://aethy.com) | **870 876** | 20 906 | ✅ | A community that strives on self-expression and creativity which has zero tolerance for hate, abuse and harassment! (18+ Only) | en |
 | [plush.city](https://plush.city) | **862 736** | 609 | ✅ | This is a space for soft friends and friends of soft friends to  gather together to share compassion and care for one another!  Please review our Code of Conduct prior signing up! | en |
 | [fedi.absturztau.be](https://fedi.absturztau.be) | **855 540** | 1 354 | ✅ | ? | ? |
-| [mastodon.ml](https://mastodon.ml) | **829 243** | 2 710 | ✅ | Русскоязычный сервер социальной сети Mastodon. Зона общения, свободная от рекламы и шпионажа, теперь и на русском языке. | ru |
+| [mastodon.ml](https://mastodon.ml) | **830 045** | 2 711 | ✅ | Русскоязычный сервер социальной сети Mastodon. Зона общения, свободная от рекламы и шпионажа, теперь и на русском языке. | ru |
 | [bookwyrm.social](https://bookwyrm.social) | **824 369** | 16 374 | ✅ | ? | ? |
 | [k.lapy.link](https://k.lapy.link) | **822 082** | 2 658 | ❌ | ? | ? |
 | [mastoxiv.page](https://mastoxiv.page) | **809 592** | 158 | ❌ | Under construction. First plan is to run unofficial bots for all arXiv categories by https://github.com/so-okada/toXiv  | en |
 | [mk.absturztau.be](https://mk.absturztau.be) | **792 960** | 530 | ✅ | ? | ? |
-| [beige.party](https://beige.party) | **774 196** | 363 | ✅ | A home to friendly weirdos. The Grey Gardens of the Fediverse. Definitely probably not a cult (though you'll never be 100% sure). Beige-bless 🙏 | en |
+| [beige.party](https://beige.party) | **776 357** | 363 | ✅ | A home to friendly weirdos. The Grey Gardens of the Fediverse. Definitely probably not a cult (though you'll never be 100% sure). Beige-bless 🙏 | en |
 | [kemonodon.club](https://kemonodon.club) | **759 129** | 2 915 | ✅ | ケモ好きが集まってまったりするどん | ja |
 | [mastodon.juggler.jp](https://mastodon.juggler.jp) | **758 578** | 1 831 | ✅ | 日本語で楽しめるMastodonサーバを提供しています。 | ja |
 | [1234.as](https://1234.as) | **756 901** | 4 195 | ✅ | ? | ? |
@@ -5204,68 +5227,68 @@
 | [donotban.com](https://donotban.com) | **738 137** | 2 454 | ❌ | ? | ? |
 | [pixelfed.uno](https://pixelfed.uno) | **736 621** | 8 739 | ✅ | ? | ? |
 | [mstdn.tamag.org](https://mstdn.tamag.org) | **724 043** | 125 | ✅ | Tamago Gadgetが運営する汎用インスタンスです。 | en |
-| [det.social](https://det.social) | **721 129** | 25 508 | ❌ | Mastodon Server des Unterhaltungsfernsehen Ehrenfeld zum dezentralen Diskurs.  | en |
+| [det.social](https://det.social) | **721 915** | 25 499 | ❌ | Mastodon Server des Unterhaltungsfernsehen Ehrenfeld zum dezentralen Diskurs.  | en |
 | [osintua.eu](https://osintua.eu) | **720 094** | 14 | ✅ | This server is hosted by OSINTukraine.com, its purpose is to host a set of bots auto-sharing DeepL translated post from the Russian and Ukrainian Telegram ecosystems.  | en |
 | [friend.camp](https://friend.camp) | **717 750** | 96 | ❌ | ? | ? |
-| [mastodon.top](https://mastodon.top) | **697 816** | 51 544 | ✅ | Mastodon.top est une instance francophone stable, régulièrement mise à jour et accessible à tous hébergée par VirtuBox | fr |
-| [zirk.us](https://zirk.us) | **691 530** | 5 651 | ✅ | Literature, philosophy, film, music, culture, politics, history, architecture: join the circus of the arts and humanities! For readers, writers, academics or anyone wanting to follow the conversation. | en |
+| [mastodon.top](https://mastodon.top) | **698 260** | 51 546 | ✅ | Mastodon.top est une instance francophone stable, régulièrement mise à jour et accessible à tous hébergée par VirtuBox | fr |
+| [zirk.us](https://zirk.us) | **692 091** | 5 651 | ✅ | Literature, philosophy, film, music, culture, politics, history, architecture: join the circus of the arts and humanities! For readers, writers, academics or anyone wanting to follow the conversation. | en |
 | [stella.place](https://stella.place) | **691 016** | 3 647 | ✅ | ? | ? |
 | [nofan.xyz](https://nofan.xyz) | **689 069** | 1 240 | ❌ | 给饭友的自留地 | zh-CN |
 | [m.ai6yr.org](https://m.ai6yr.org) | **686 343** | 549 | ✅ | This is the personal Mastodon server of Ben, AI6YR. Friends and friends of friends welcome (I personally approve everyone who joins here, so it might take some time!). | en |
-| [social.coop](https://social.coop) | **660 483** | 1 872 | ❌ | A Fediverse instance for people interested in cooperative and collective projects. If you are interested in joining our community, please apply at https://join.social.coop/registration-form.html. | en |
+| [social.coop](https://social.coop) | **661 152** | 1 872 | ❌ | A Fediverse instance for people interested in cooperative and collective projects. If you are interested in joining our community, please apply at https://join.social.coop/registration-form.html. | en |
 | [firefish.ranranhome.info](https://firefish.ranranhome.info) | **655 927** | 4 289 | ✅ | ? | ? |
 | [pullopen.xyz](https://pullopen.xyz) | **649 443** | 391 | ❌ | 这里是在宇宙中漂流的蓝盒子，Speak friend and enter！ | en |
 | [awoo.space](https://awoo.space) | **647 239** | 1 727 | ❌ | ? | ? |
 | [pipou.academy](https://pipou.academy) | **635 637** | 239 | ❌ | FR : Ceci est une instance queer, qui vise à être aussi confortable et safe que possible. Nouvelleaux élèves bienvenu'es !  | en |
 | [udongein.xyz](https://udongein.xyz) | **629 504** | 399 | ❌ | ? | ? |
-| [toot.wales](https://toot.wales) | **628 542** | 12 889 | ✅ | We are the Mastodon social network for Wales and the Welsh, at home and abroad! Y rhwydwaith cymdeithasol annibynnol i Gymru, wedi'i bweru gan Mastodon! | en |
+| [toot.wales](https://toot.wales) | **629 155** | 12 886 | ✅ | We are the Mastodon social network for Wales and the Welsh, at home and abroad! Y rhwydwaith cymdeithasol annibynnol i Gymru, wedi'i bweru gan Mastodon! | en |
 | [airwaves.social](https://airwaves.social) | **627 965** | 354 | ✅ | The Airwaves Social mastodon server is radio hobby & industry focused on topics such as flight & ship tracking, amateur radio, satellites, and more.  Sponsored by Airframes, but an effort for all. | en |
 | [hackers.town](https://hackers.town) | **627 669** | 356 | ❌ | A bunch of technomancers in the fediverse. This arcology is for all who wash up upon it's digital shore. | en |
-| [mastodon.nu](https://mastodon.nu) | **613 987** | 16 663 | ✅ | Mastodon.nu är den största servern i Norden och är öppen för alla. Den drivs ideellt på ett professionellt vis och med 100% förnybar energi. Välkommen! Velkommen! Tervetuloa! Velkominn! | sv |
+| [mastodon.nu](https://mastodon.nu) | **614 792** | 16 663 | ✅ | Mastodon.nu är den största servern i Norden och är öppen för alla. Den drivs ideellt på ett professionellt vis och med 100% förnybar energi. Välkommen! Velkommen! Tervetuloa! Velkominn! | sv |
 | [rss-mstdn.studiofreesia.com](https://rss-mstdn.studiofreesia.com) | **603 769** | 509 | ✅ | RSSフィードの内容を投稿するbotアカウント用のサーバーです。 アカウント登録はできませんが、リモートフォローはウェルカム🤗🤗🤗 | en |
 | [glaceon.social](https://glaceon.social) | **600 499** | 501 | ✅ | A general fediverse instance for people who generally like pokemon at least a little bit. Newly registered users must be manually approved due to an increasing number of spam bots; if you look like a person, your account will be approved as soon as possible. | en |
+| [freeradical.zone](https://freeradical.zone) | **597 985** | 2 763 | ❌ | Infosec and privacy and technology and leftward politics and cats and dogs and... | en |
 | [witches.live](https://witches.live) | **597 573** | 4 363 | ✅ | ? | ? |
-| [freeradical.zone](https://freeradical.zone) | **597 483** | 2 763 | ❌ | Infosec and privacy and technology and leftward politics and cats and dogs and... | en |
 | [toot.cat](https://toot.cat) | **597 084** | 2 603 | ✅ | On the internet, everyone knows you're a cat — and that's totally okay. | en |
 | [slime.global](https://slime.global) | **589 530** | 81 | ❌ | ? | ? |
 | [blob.cat](https://blob.cat) | **588 467** | 1 838 | ✅ | ? | ? |
-| [mastodon.au](https://mastodon.au) | **586 477** | 26 360 | ✅ | No description because we couldn't make up our minds and went fishing instead 🎣 (*or pat the cat or doggo 🐱🐶) | en |
-| [social.linux.pizza](https://social.linux.pizza) | **583 980** | 11 437 | ✅ | A instance dedicated - but not limited - to people with an interest in the GNU+Linux ecosystem and/or general tech. Sysadmins to enthusiasts, creators to movielovers - Welcome!   | en |
+| [mastodon.au](https://mastodon.au) | **586 880** | 26 360 | ✅ | No description because we couldn't make up our minds and went fishing instead 🎣 (*or pat the cat or doggo 🐱🐶) | en |
+| [social.linux.pizza](https://social.linux.pizza) | **584 535** | 11 439 | ✅ | A instance dedicated - but not limited - to people with an interest in the GNU+Linux ecosystem and/or general tech. Sysadmins to enthusiasts, creators to movielovers - Welcome!   | en |
 | [diasp.eu](https://diasp.eu) | **583 697** | 39 081 | ✅ | ? | ? |
 | [ruhr.social](https://ruhr.social) | **581 850** | 10 453 | ✅ | Eine Mastodon-Gemeinschaft rund um das Ruhrgebiet und die Menschen dort. Diese Instanz wird ehrenamtlich von Enthusiasten moderiert und technisch betreut. | de |
 | [abyss.fun](https://abyss.fun) | **579 823** | 481 | ✅ | メイドインアビス非公式のファンSNSです | ja |
 | [mona.do](https://mona.do) | **579 623** | 1 435 | ❌ | ? | ? |
 | [homoo.social](https://homoo.social) | **576 445** | 179 | ✅ | Mastodon鯖「Homoo」は ┌（┌ ＾o＾）┐な文章や ┌（┌ ＾o＾）＾o＾）┐な画像を投稿して楽しむSNSです。 Powered by 204504byse.info | ja |
-| [digitalcourage.social](https://digitalcourage.social) | **566 696** | 2 814 | ✅ | Diese Instanz wird betrieben von Digitalcourage e.V. für die Allgemeinheit. Damit wir das nachhaltig tun können, erheben wir einen Kostenbeitrag von 1€/Monat per SEPA-Lastschrifteinzug. | de |
+| [digitalcourage.social](https://digitalcourage.social) | **567 506** | 2 814 | ✅ | Diese Instanz wird betrieben von Digitalcourage e.V. für die Allgemeinheit. Damit wir das nachhaltig tun können, erheben wir einen Kostenbeitrag von 1€/Monat per SEPA-Lastschrifteinzug. | de |
 | [federatica.space](https://federatica.space) | **562 573** | ? | ❌ | ? | ? |
 | [nerdculture.de](https://nerdculture.de) | **561 110** | 8 513 | ✅ | Be excellent to each other, live humanism, no nazis, no hate speech. Not only for nerds, but the domain is somewhat cool. ;) No bots in general. Languages: DE, EN, FR, NL, ES, IT | en |
-| [sueden.social](https://sueden.social) | **559 229** | 14 416 | ✅ | Eine Community für alle, die sich dem Süden hingezogen fühlen. Wir können alles außer Hochdeutsch. | de |
-| [tooot.im](https://tooot.im) | **554 381** | 3 385 | ✅ | Tooot.im, a Mastodon instance (He | En mostly) רשת מסטודון עברית | חופשית משיקולים תאגידיים | פדרטיבית עם הFediverse  | he |
+| [sueden.social](https://sueden.social) | **560 667** | 14 416 | ✅ | Eine Community für alle, die sich dem Süden hingezogen fühlen. Wir können alles außer Hochdeutsch. | de |
+| [tooot.im](https://tooot.im) | **554 664** | 3 385 | ✅ | Tooot.im, a Mastodon instance (He | En mostly) רשת מסטודון עברית | חופשית משיקולים תאגידיים | פדרטיבית עם הFediverse  | he |
 | [shigusegubu.club](https://shigusegubu.club) | **552 436** | 113 | ❌ | ? | ? |
 | [dalek.zone](https://dalek.zone) | **550 642** | 732 | ✅ | ? | ? |
-| [goblin.camp](https://goblin.camp) | **547 844** | 96 | ❌ | ? | ? |
+| [goblin.camp](https://goblin.camp) | **548 204** | 96 | ❌ | ? | ? |
 | [scholar.social](https://scholar.social) | **543 819** | 4 789 | ❌ | Microblogging for researchers, grad students, librarians, archivists, undergrads, high schoolers, educators, research assistants, profs—anyone involved in learning who engages with others respectfully | en |
-| [todon.eu](https://todon.eu) | **539 416** | 4 276 | ❌ | Radical leftist anti-authoritarian server. For anarchists, socialists, (climate) activists, LGBTQIA+, anti-racists, anti-fascists, anti-capitalists, intersectionalists, vegans, human rights, etc. | en |
+| [todon.eu](https://todon.eu) | **539 962** | 4 276 | ❌ | Radical leftist anti-authoritarian server. For anarchists, socialists, (climate) activists, LGBTQIA+, anti-racists, anti-fascists, anti-capitalists, intersectionalists, vegans, human rights, etc. | en |
+| [moresci.sale](https://moresci.sale) | **529 868** | 747 | ✅ | SCI站是学术奇思妙想所创造的空间，初衷是为饱受学术之苦的小象们创造一块自留地，能够分享学术时期的心路历程从而互相安慰与互相鼓励。同时我们也欢迎所有朋友加入我们一起碎碎念，让小象们的生活哲学能够交融于此。 | en |
 | [qdon.space](https://qdon.space) | **529 784** | 3 523 | ✅ | 성소수자 친화적인 마스토돈 인스턴스입니다. 성소수자들이 마음 놓고 이용할 수 있는 안전한 공간을 목적으로 개설되었습니다. | ko |
-| [moresci.sale](https://moresci.sale) | **529 516** | 747 | ✅ | SCI站是学术奇思妙想所创造的空间，初衷是为饱受学术之苦的小象们创造一块自留地，能够分享学术时期的心路历程从而互相安慰与互相鼓励。同时我们也欢迎所有朋友加入我们一起碎碎念，让小象们的生活哲学能够交融于此。 | en |
 | [sunbeam.city](https://sunbeam.city) | **526 155** | 1 890 | ❌ | Sunbeam City is a anticapitalist, antifascist solarpunk instance that is run collectively. | en |
-| [lor.sh](https://lor.sh) | **521 474** | 4 464 | ✅ | lor.sh is yet another mastodon instance. | en |
+| [lor.sh](https://lor.sh) | **522 032** | 4 464 | ✅ | lor.sh is yet another mastodon instance. | en |
 | [social.mochi.academy](https://social.mochi.academy) | **518 208** | 46 | ❌ | Serveur personnel et avec des ami.e.s. | fr |
-| [lile.cl](https://lile.cl) | **517 877** | 3 105 | ✅ | Servidor chileno de Mastodon cuyo nombre hace referencia a un ave nativa del país. Aspiramos a ser una comunidad acogedora y respetuosa de la privacidad de nuestros usuarios.  Banner por Marcisol | es |
-| [social.cologne](https://social.cologne) | **516 744** | 11 969 | ✅ | social.cologne is eine Mastodon Instanz für jede:n Kölner:in und alle, die sich mit Köln verbunden fühlen. Betrieben von https://cgnfs.de | en |
+| [lile.cl](https://lile.cl) | **517 973** | 3 105 | ✅ | Servidor chileno de Mastodon cuyo nombre hace referencia a un ave nativa del país. Aspiramos a ser una comunidad acogedora y respetuosa de la privacidad de nuestros usuarios.  Banner por Marcisol | es |
+| [social.cologne](https://social.cologne) | **517 611** | 11 969 | ✅ | social.cologne is eine Mastodon Instanz für jede:n Kölner:in und alle, die sich mit Köln verbunden fühlen. Betrieben von https://cgnfs.de | en |
 | [wetdry.world](https://wetdry.world) | **513 030** | 2 502 | ✅ | We are a community based around gaming, tech, entertainment, and more! Come join the Scuttlebug jamboree! (Signups currently undergoing manual review.) | en |
 | [merveilles.town](https://merveilles.town) | **512 765** | 655 | ❌ | ? | ? |
 | [mstdn.love](https://mstdn.love) | **512 677** | 382 | ✅ | オールジャンル歓迎の汎用インスタンスです。 | ja |
-| [mastodon.la](https://mastodon.la) | **509 347** | 2 501 | ✅ | Mastodon.la es una instancia generalista y ligeramente moderada. Bienvenidos todos los temas con buena onda, respeto y sin desnudos innecesarios :). Castellano/Español y otros lenguages bienvenidos. / Mastodon.la is a generalist instance lightly moderated. All opinions are welcome. Be cool, respectful and leave your clothes on if possible :)  Spanish preferred but all languages are welcome. | es |
+| [mastodon.la](https://mastodon.la) | **509 808** | 2 502 | ✅ | Mastodon.la es una instancia generalista y ligeramente moderada. Bienvenidos todos los temas con buena onda, respeto y sin desnudos innecesarios :). Castellano/Español y otros lenguages bienvenidos. / Mastodon.la is a generalist instance lightly moderated. All opinions are welcome. Be cool, respectful and leave your clothes on if possible :)  Spanish preferred but all languages are welcome. | es |
 | [misskey.04.si](https://misskey.04.si) | **503 787** | 1 703 | ❌ | ? | ? |
 | [poast.tv](https://poast.tv) | **503 218** | 1 344 | ✅ | ? | ? |
 | [labo.wovs.tk](https://labo.wovs.tk) | **498 853** | 3 930 | ❌ | ? | ? |
 | [masto.donte.com.br](https://masto.donte.com.br) | **498 375** | 263 | ❌ | O masto.donte.com.br é uma instância moderada com um foco em usuários do Brasil, mas usuários de outros lugares (e outras línguas) são bem vindos. Discursos de ódio são proibidos. Usuários que não respeitem as regras serão silenciados ou suspensos, dependendo da severidade da violação. | pt-BR |
 | [toot.blue](https://toot.blue) | **491 093** | 737 | ✅ | ■蒼き象のマストドンサーバー。2017年6月にスタート。AWS上で運用されています。テーマは設けていません。（管理人的には少し時事ネタ多めです）どんな話題でも自由に投稿できますが、人種差別、外国人差別、性差別、民族差別、LGBTQ+差別などの差別発言やヘイト発言は厳禁です。またそうした発言につながるような発言も禁止します。 詳しくはサーバーのルールをお読みになってから参加してください。 | ja |
-| [masto.es](https://masto.es) | **489 325** | 24 818 | ✅ | Bienvenidos a masto.es, el mayor servidor de Mastodon para hispanohablantes de temática general. | es |
-| [hessen.social](https://hessen.social) | **486 530** | 9 902 | ✅ | hessen.social ist die Mastodongemeinschaft für alle Hessen:innen und alle, die sich Hessen verbunden fühlen | de |
-| [kinky.business](https://kinky.business) | **485 788** | 13 233 | ✅ | kinky.business is a Mastodon instance for the kink community. Safe, sane, consensual.  | en |
-| [girlcock.club](https://girlcock.club) | **484 793** | 1 838 | ✅ | Gc.c is an instance by trans women for trans folk and strives to keep the security and enjoyment of our users in mind. | en |
+| [masto.es](https://masto.es) | **490 512** | 24 819 | ✅ | Bienvenidos a masto.es, el mayor servidor de Mastodon para hispanohablantes de temática general. | es |
+| [hessen.social](https://hessen.social) | **487 521** | 9 903 | ✅ | hessen.social ist die Mastodongemeinschaft für alle Hessen:innen und alle, die sich Hessen verbunden fühlen | de |
+| [kinky.business](https://kinky.business) | **486 073** | 13 234 | ✅ | kinky.business is a Mastodon instance for the kink community. Safe, sane, consensual.  | en |
+| [girlcock.club](https://girlcock.club) | **485 138** | 1 837 | ✅ | Gc.c is an instance by trans women for trans folk and strives to keep the security and enjoyment of our users in mind. | en |
 | [amicale.net](https://amicale.net) | **482 575** | 50 | ❌ | ? | fr |
 | [toad.social](https://toad.social) | **479 342** | 3 078 | ✅ | Mastodon server operated by David Troy, a tech pioneer and investigative journalist addressing threats to democracy. Thoughtful participation and discussion welcome.  | en |
 | [icosahedron.website](https://icosahedron.website) | **476 982** | 886 | ❌ | Icosahedron.website is a mastodon instance and part of the ActivityPub network / the Fediverse. | en |
@@ -5274,105 +5297,105 @@
 | [computerfairi.es](https://computerfairi.es) | **472 961** | 1 610 | ✅ | ? | ? |
 | [godforsaken.website](https://godforsaken.website) | **472 563** | 44 | ❌ | godforsaken.website is a uk-based mastodon instance boasting literally thousands of posts about bumholes and UNESCO world heritage sites | en |
 | [schleuss.online](https://schleuss.online) | **471 553** | 142 | ✅ | This instance has a focus on IT security, general computing, retro video games and game collector discussion. Please, no #NSFW and other 18+ discussion on this instance. See rules for more details | en |
-| [indieweb.social](https://indieweb.social) | **470 749** | 11 309 | ✅ | INDIEWEB.SOCIAL is an instance focused on the evolution of #Openweb, #Indieweb, #Fediverse, #Mastodon, #Humanetech and #Calm technologies.  | en |
+| [indieweb.social](https://indieweb.social) | **471 387** | 11 314 | ✅ | INDIEWEB.SOCIAL is an instance focused on the evolution of #Openweb, #Indieweb, #Fediverse, #Mastodon, #Humanetech and #Calm technologies.  | en |
 | [photog.social](https://photog.social) | **469 978** | 3 253 | ❌ | A place for your photos and banter. Photog first is our motto  Please refer to the site rules before posting. | en |
 | [glitch.social](https://glitch.social) | **469 561** | 406 | ❌ | ? | ? |
+| [tkz.one](https://tkz.one) | **466 611** | 34 266 | ✅ | La comunidad Mastodon más grande en Español para gamers, otakus y geeks. Libre de toxicidad. Contenido de anime, manga, videojuegos, tecnología, cómics, literatura, cine... ¡Únete a la familia! | es |
 | [friendica.chilemasto.casa](https://friendica.chilemasto.casa) | **466 506** | 87 | ✅ | ? | ? |
-| [tkz.one](https://tkz.one) | **466 203** | 34 259 | ✅ | La comunidad Mastodon más grande en Español para gamers, otakus y geeks. Libre de toxicidad. Contenido de anime, manga, videojuegos, tecnología, cómics, literatura, cine... ¡Únete a la familia! | es |
-| [mstdn.y-zu.org](https://mstdn.y-zu.org) | **465 293** | 285 | ❌ | 分散型SNSのインスタンス、Yづドンです。 | en |
-| [muenchen.social](https://muenchen.social) | **463 575** | 10 839 | ✅ | Hallo auf muenchen.social  Dies ist eine deutschsprachige Mastodon Instanz für München zum tröten, neue Leute kennenlernen, sich auszutauschen und Spass zu haben. | de |
+| [mstdn.y-zu.org](https://mstdn.y-zu.org) | **465 541** | 285 | ❌ | 分散型SNSのインスタンス、Yづドンです。 | en |
+| [muenchen.social](https://muenchen.social) | **464 065** | 10 840 | ✅ | Hallo auf muenchen.social  Dies ist eine deutschsprachige Mastodon Instanz für München zum tröten, neue Leute kennenlernen, sich auszutauschen und Spass zu haben. | de |
 | [gingadon.com](https://gingadon.com) | **463 331** | 461 | ✅ | ? | en |
 | [outerheaven.club](https://outerheaven.club) | **462 534** | 788 | ✅ | ? | ? |
-| [101010.pl](https://101010.pl) | **455 373** | 8 283 | ✅ | 101010.pl czyli najstarszy polski serwer Mastodon. Posiadamy wpisy do 2048 znaków. | en |
-| [metalhead.club](https://metalhead.club) | **454 534** | 5 446 | ✅ | Metalhead.club is a Mastodon instance hosted in Germany and powered by 100% green energy. | en |
+| [101010.pl](https://101010.pl) | **455 608** | 8 281 | ✅ | 101010.pl czyli najstarszy polski serwer Mastodon. Posiadamy wpisy do 2048 znaków. | en |
+| [metalhead.club](https://metalhead.club) | **455 288** | 5 446 | ✅ | Metalhead.club is a Mastodon instance hosted in Germany and powered by 100% green energy. | en |
 | [under-bank.blue](https://under-bank.blue) | **450 225** | 34 | ❌ | 2014年にセガから発売された3DSゲーム「ヒーローバンク」が好きな知人・友人向けの小規模サーバーとして運用しています。当サーバーはホームタイムライン利用中心、話題フリーです。原稿作業・雑談用・BL/GL/男女CPを含んだ二次創作など、日本の法律に抵触しない範囲で利用できます。 | en |
+| [climatejustice.social](https://climatejustice.social) | **447 776** | 9 785 | ✅ | Welcome to this official Fediverse instance for climate justice activists. | en |
 | [fediscience.org](https://fediscience.org) | **447 217** | 5 444 | ✅ | Fediscience is the social network for scientists. | en |
-| [climatejustice.social](https://climatejustice.social) | **446 888** | 9 783 | ✅ | Welcome to this official Fediverse instance for climate justice activists. | en |
-| [hostux.social](https://hostux.social) | **444 273** | 8 284 | ✅ | European mastodon instance hosted in Luxembourg. Also beer, privacy and free software lovers. Join us! This service is managed by alarig and valere. Photo from https://www.flickr.com/photos/cogdog/ | en |
+| [hostux.social](https://hostux.social) | **444 515** | 8 285 | ✅ | European mastodon instance hosted in Luxembourg. Also beer, privacy and free software lovers. Join us! This service is managed by alarig and valere. Photo from https://www.flickr.com/photos/cogdog/ | en |
 | [pixelfed.art](https://pixelfed.art) | **443 468** | 201 | ❌ | ? | ? |
 | [liberdon.com](https://liberdon.com) | **440 711** | 2 533 | ✅ | Liberdon is an instance for libertarians, ancaps, anarchists, voluntaryists, agorists, etc to sound off without fear of reprisal. It was created in the wake of the Great Twitter Cullings of 2018. | en |
-| [uri.life](https://uri.life) | **434 515** | 3 316 | ✅ | 우리.인생(uri.life)은 다툼과 차별, 혐오에 지친 나와 여러분, 우리를 위한 안식처입니다. | ko |
+| [uri.life](https://uri.life) | **437 827** | 3 318 | ✅ | 우리.인생(uri.life)은 다툼과 차별, 혐오에 지친 나와 여러분, 우리를 위한 안식처입니다. | ko |
 | [douchi.space](https://douchi.space) | **434 185** | 1 508 | ❌ | 豆豉是一个开放、友善的长毛象实例，欢迎不同爱好、职业的象友进行交流，在法律允许的前提下保证言论自由。豆豉的服务器位于美国，站长保证不会泄露大家数据，但来自某些地区的象友请务必注意隐私保护。请在提醒某些地区的朋友们注意隐私的前提下尽情邀请他们来玩吧！(没有申请理由的自动拒绝） | en |
 | [mastodon.hongkongers.net](https://mastodon.hongkongers.net) | **432 589** | 298 | ✅ | 無論在海外定係在香港，有關生活/留學/工作/旅遊/旅居/問題，想識同路人想講故事想問想呻想分享想鬧想讚，我們都是香港人。  我們的伺服器在德國，所有個人資料有 GDPR 保障。 | en |
-| [ravenation.club](https://ravenation.club) | **429 019** | 26 018 | ✅ | ravenation.club is an instance for all the ravers in the universe. Anyone who listens to electronic music (or not) is welcome. Operated by https://cgnfs.de | en |
-| [ioc.exchange](https://ioc.exchange) | **424 903** | 25 970 | ✅ | INDICATORS OF COMPROMISE (IOC) InfoSec Community within the Fediverse. Newbies, experts, gurus - Everyone is Welcome! Instance is supposed to be fast and secure. | en |
+| [ravenation.club](https://ravenation.club) | **429 276** | 26 021 | ✅ | ravenation.club is an instance for all the ravers in the universe. Anyone who listens to electronic music (or not) is welcome. Operated by https://cgnfs.de | en |
+| [ioc.exchange](https://ioc.exchange) | **425 519** | 25 974 | ✅ | INDICATORS OF COMPROMISE (IOC) InfoSec Community within the Fediverse. Newbies, experts, gurus - Everyone is Welcome! Instance is supposed to be fast and secure. | en |
 | [stereophonic.space](https://stereophonic.space) | **423 509** | 954 | ❌ | ? | ? |
 | [liker.social](https://liker.social) | **421 802** | 3 415 | ✅ | 我們是一個基於 LikeCoin 和 Mastodon 的去中心化微博平台，致力於幫助用戶創造收入。在這裡，您可以自由發言、積累粉絲、擴大社群，並通過創作和分享內容獲得加密貨幣和廣告收入！ | en |
-| [pouet.chapril.org](https://pouet.chapril.org) | **407 239** | 2 389 | ❌ | Chapril https://www.chapril.org est un projet de l'April https://www.april.org | fr |
+| [pouet.chapril.org](https://pouet.chapril.org) | **406 352** | 2 389 | ❌ | Chapril https://www.chapril.org est un projet de l'April https://www.april.org | fr |
 | [nafo.uk](https://nafo.uk) | **403 058** | 1 353 | ✅ | nafo.uk is an open and federated mastodon instance, initially setup for #NAFO devotees, but anyone who supports Ukraine is welcome. Слава Україні! 🇺🇦 | en |
 | [otadon.com](https://otadon.com) | **402 852** | 839 | ❌ | 好きなことを好きな時に。趣味～日常などタイムラインを気にせず自由に投稿できるオタク（マニア）向けサービスです。テーマフリーで投稿できます。 | ja |
-| [kafeneio.social](https://kafeneio.social) | **398 587** | 359 | ✅ | All people are welcome, except those who don't accept other people. | en |
-| [med-mastodon.com](https://med-mastodon.com) | **397 240** | 10 847 | ✅ | Medical community on Mastodon | en |
+| [kafeneio.social](https://kafeneio.social) | **398 783** | 359 | ✅ | All people are welcome, except those who don't accept other people. | en |
+| [med-mastodon.com](https://med-mastodon.com) | **397 458** | 10 851 | ✅ | Medical community on Mastodon | en |
 | [freediverse.com](https://freediverse.com) | **396 694** | 28 | ✅ | ? | ? |
 | [tenforward.social](https://tenforward.social) | **396 499** | 649 | ✅ | ? | en |
-| [masto.pt](https://masto.pt) | **390 221** | 5 161 | ✅ | Masto.pt é uma instância de Mastodon para pessoas que falam Português. | pt-PT |
+| [masto.pt](https://masto.pt) | **390 745** | 5 161 | ✅ | Masto.pt é uma instância de Mastodon para pessoas que falam Português. | pt-PT |
 | [go5.dev](https://go5.dev) | **389 807** | 1 481 | ❌ | 1. 驴肉火烧是一个开放的长毛象(Mastodon)实例，在法律允许的前提下保证言论自由。 2. 驴肉火烧的服务器位于德国，站长定居加拿大，站长保证不会主动泄露大家数据，但来自某些地区的象友请务必注意隐私保护。 3. 申请时会默认关注管理员，注册成功后可取消关注。 4. 请勿使用网易系邮箱或QQ邮箱注册，注册后14天内无任何操作（发嘟、换头像或关注）的账号将被删除。 | en |
 | [floss.social](https://floss.social) | **389 561** | 1 267 | ✅ | For people who care about, support, and build Free, Libre, and Open Source Software (FLOSS). | en |
-| [mastodontech.de](https://mastodontech.de) | **387 271** | 16 509 | ✅ | Offen für alle (über 16) und bereitgestellt von Markus'Blog | de |
+| [mastodontech.de](https://mastodontech.de) | **387 776** | 16 509 | ✅ | Offen für alle (über 16) und bereitgestellt von Markus'Blog | de |
 | [mkkey.net](https://mkkey.net) | **382 947** | 158 | ❌ | ? | ? |
 | [bsd.network](https://bsd.network) | **382 887** | 1 108 | ❌ | ? | ? |
+| [social.anoxinon.de](https://social.anoxinon.de) | **381 926** | 10 271 | ✅ | Die offizielle Mastodon Instanz des Vereins Anoxinon e.V. | de |
 | [libranet.de](https://libranet.de) | **381 674** | 2 086 | ✅ | ? | ? |
-| [social.anoxinon.de](https://social.anoxinon.de) | **381 410** | 10 271 | ✅ | Die offizielle Mastodon Instanz des Vereins Anoxinon e.V. | de |
 | [dragonscave.space](https://dragonscave.space) | **380 454** | 391 | ✅ | A fun, happy little Mastodon/Glitch instance. | en |
 | [dragon.style](https://dragon.style) | **379 932** | 302 | ❌ | I'm a grumpy queer dragon lady and this is my quiet cave for me and some friends. | en |
 | [rage.love](https://rage.love) | **379 457** | 106 | ❌ | ? | ? |
 | [livellosegreto.it](https://livellosegreto.it) | **371 944** | 7 007 | ✅ | Livello Segreto è il social etico che ha rispetto di te e del tuo tempo. | en |
 | [raru.re](https://raru.re) | **368 180** | 146 | ❌ | Lil cozy place on top of a mountain. It's pronounced ʁaʁyʁe. And written RaRuRe, or R3 for short. | en |
-| [is.nota.live](https://is.nota.live) | **367 458** | 1 657 | ✅ | timeline's always dead 'round these parts | en |
+| [is.nota.live](https://is.nota.live) | **367 611** | 1 657 | ✅ | timeline's always dead 'round these parts | en |
 | [sociale.network](https://sociale.network) | **364 693** | 4 136 | ❌ | Sociale.network è un ambiente di confronto per pacifisti, anarcolibertari, ecologisti, antimilitaristi, antirazzisti, antifascisti e ogni altro genere di persone che sogna un mondo pulito e solidale | it |
-| [paquita.masto.host](https://paquita.masto.host) | **363 761** | 2 006 | ✅ | Esta es una instancia feminista, antifascista, antirracista y LGTBIQ-friendly que lucha activamente contra el acoso a sus usuarios y usuarias en todas sus formas, explícitas e implícitas. | en |
-| [shelter.moe](https://shelter.moe) | **362 579** | 1 618 | ✅ | Bienvenue sur Shelter ! Au menu, discussions adultes, otaku et geek, avec des gens sympas et dans le plus grand respect possible.  | fr |
+| [paquita.masto.host](https://paquita.masto.host) | **364 407** | 2 007 | ✅ | Esta es una instancia feminista, antifascista, antirracista y LGTBIQ-friendly que lucha activamente contra el acoso a sus usuarios y usuarias en todas sus formas, explícitas e implícitas. | en |
+| [shelter.moe](https://shelter.moe) | **362 998** | 1 620 | ✅ | Bienvenue sur Shelter ! Au menu, discussions adultes, otaku et geek, avec des gens sympas et dans le plus grand respect possible.  | fr |
 | [ursal.zone](https://ursal.zone) | **361 523** | 2 787 | ❌ | A URSAL.zone é uma instância moderada com foco em militantes progressistas, feministas e antifascistas da América Latina. | pt-BR |
+| [twit.social](https://twit.social) | **359 130** | 8 216 | ✅ | The official Mastodon of the TWiT Podcast Network | en |
 | [socel.net](https://socel.net) | **358 754** | 8 433 | ✅ | Socel is a place for animation professionals, freelancers, independents, students, and fans to connect and grow together. Everyone in related fields are also welcome.  | en |
-| [twit.social](https://twit.social) | **358 671** | 8 216 | ✅ | The official Mastodon of the TWiT Podcast Network | en |
 | [toot.cafe](https://toot.cafe) | **357 390** | 2 883 | ❌ | A Mastodon instance mostly populated by folks interested in web design and development. | en |
-| [urbanists.social](https://urbanists.social) | **356 335** | 6 232 | ✅ | We're a server for people who like bikes, transit, and walkable cities. Let's get to know each other! | en |
+| [urbanists.social](https://urbanists.social) | **356 899** | 6 234 | ✅ | We're a server for people who like bikes, transit, and walkable cities. Let's get to know each other! | en |
 | [noc.social](https://noc.social) | **351 740** | 13 353 | ✅ | This instance is focused on technology, networking, linux, privacy, security, infosec, engineering, but open to anyone. Civil discourse, polite and open. Managed by the noc.org / trunc.org team.  | en |
 | [toot.site](https://toot.site) | **349 211** | ? | ❌ | Tootsite is a general instance with a focus on your safety. We have strict moderation and rules to promote accessibility. Tootsite is running glitch-soc! | en |
 | [matitodon.com](https://matitodon.com) | **347 590** | 370 | ❌ | 地理（交通やまち）と、古き良きインターネットを探求するマストドンサーバー | en |
 | [mst3k.interlinked.me](https://mst3k.interlinked.me) | **345 795** | 237 | ✅ | this is mst3k | en |
 | [mspsocial.net](https://mspsocial.net) | **339 708** | 370 | ❌ | ? | ? |
-| [deadinsi.de](https://deadinsi.de) | **336 988** | 557 | ✅ | ? | en |
+| [deadinsi.de](https://deadinsi.de) | **337 169** | 557 | ✅ | ? | en |
 | [lgbt.io](https://lgbt.io) | **336 442** | 2 252 | ✅ | We are a Mastodon instance for LGBT+ and allies! | en |
-| [mastodon.me.uk](https://mastodon.me.uk) | **334 681** | 2 541 | ✅ | Open, user-supported, corporation-free social media for the UK. | en |
+| [mastodon.me.uk](https://mastodon.me.uk) | **335 058** | 2 541 | ✅ | Open, user-supported, corporation-free social media for the UK. | en |
 | [social.prepedia.org](https://social.prepedia.org) | **327 448** | 413 | ❌ | Mastodon-Instanz für PrePedia, https://meta.prepedia.org | de |
 | [cybre.club](https://cybre.club) | **327 224** | 1 422 | ❌ | ? | ? |
+| [kmy.blue](https://kmy.blue) | **326 752** | 2 268 | ✅ | ? | ? |
 | [minazukey.uk](https://minazukey.uk) | **325 663** | 338 | ❌ | ? | ? |
-| [kmy.blue](https://kmy.blue) | **325 638** | 2 268 | ✅ | ? | ? |
 | [nnia.space](https://nnia.space) | **323 632** | 1 444 | ✅ | This site is for paraphiliacs, allies, and everyone adjacent. It is not for porn. APPLICATION RULES: - no NSFW usernames - explain your interest Blank or vague applications will be rejected. | en |
 | [mastodon.crazynewworld.net](https://mastodon.crazynewworld.net) | **322 709** | 19 | ❌ | ? | en |
 | [mstdn.fr](https://mstdn.fr) | **321 324** | 2 506 | ❌ | ? | en |
-| [uwu.social](https://uwu.social) | **319 873** | 1 368 | ✅ | A public Mastodon instance run by the same people who run owo (the file sharing website).  Everyone is welcome... as long as you like to uwu. | en |
+| [uwu.social](https://uwu.social) | **319 920** | 1 368 | ✅ | A public Mastodon instance run by the same people who run owo (the file sharing website).  Everyone is welcome... as long as you like to uwu. | en |
 | [anticapitalist.party](https://anticapitalist.party) | **318 973** | 1 961 | ❌ | ? | en |
 | [bookwor.ms](https://bookwor.ms) | **316 614** | 560 | ❌ | a Mastodon instance for book lovers. | en |
-| [literatur.social](https://literatur.social) | **314 589** | 848 | ✅ | Der Einstieg ins Fediverse für Autor:innen und Literaturmenschen ...    The gateway into the fediverse for authors and all people interested in literature. | de |
+| [literatur.social](https://literatur.social) | **315 106** | 849 | ✅ | Der Einstieg ins Fediverse für Autor:innen und Literaturmenschen ...    The gateway into the fediverse for authors and all people interested in literature. | de |
 | [hexbear.net](https://hexbear.net) | **312 234** | 25 863 | ✅ | ? | ? |
 | [maniakey.com](https://maniakey.com) | **310 779** | 635 | ❌ | ? | ? |
 | [toot-lab.reclaim.technology](https://toot-lab.reclaim.technology) | **308 686** | 3 | ❌ | ? | en |
+| [mastodon.eus](https://mastodon.eus) | **307 951** | 4 492 | ✅ | Mastodon.eus euskara eta euskal kulturaren komunitatearentzat sortutako Mastodon instantzia bat da.  2018an hauek sortua: Azkue Fund, Dinahosting, iametza, Laborategia.eus, PuntuEUS eta Talaios Koop | eu |
 | [oldbytes.space](https://oldbytes.space) | **307 951** | 998 | ✅ | Full of old bytes. Please don't demagnetize the core memory, thanks. Do you like old hardware ? Do you use them ? Perfect you're welcome here ! | en |
 | [social.treehouse.systems](https://social.treehouse.systems) | **307 646** | 1 338 | ✅ | A community of friends mostly surviving in the technology industry.  If you sign up, please provide a Twitter, GitHub, or personal blog or website link for us to get to know you better. | en |
-| [mastodon.eus](https://mastodon.eus) | **307 603** | 4 491 | ✅ | Mastodon.eus euskara eta euskal kulturaren komunitatearentzat sortutako Mastodon instantzia bat da.  2018an hauek sortua: Azkue Fund, Dinahosting, iametza, Laborategia.eus, PuntuEUS eta Talaios Koop | eu |
 | [mastodontti.fi](https://mastodontti.fi) | **306 759** | 5 240 | ✅ | Tämä on ihmisille tarkoitettu suomenkielinen Mastodon-instanssi, jota moderoidaan aktiivisesti. | fi |
 | [fandom.ink](https://fandom.ink) | **306 327** | 1 447 | ✅ | fandom.ink is a small, community supported instance for lovers of fanfic, fan art, fan meta/acafandom, fannish communities, and blorbos of all kinds. | en |
 | [cawfee.club](https://cawfee.club) | **303 071** | 1 605 | ❌ | ? | ? |
-| [kind.social](https://kind.social) | **301 381** | 3 774 | ✅ | We're a generalist server consisting heavily of queer, disabled, and neurodivergent users. We strive to foster a genuinely enjoyable shared social experience, and we hope to make you feel welcome! | en |
-| [abdl.link](https://abdl.link) | **300 902** | 16 741 | ✅ | ABDL.link is a community-led microblogging platform. We’re part of a decentralised federated network. ABDL.link is run on our own servers, supported by our patrons – we don’t sell your personal data. | en |
-| [bildung.social](https://bildung.social) | **300 677** | 2 936 | ✅ | Bildung unter den Bedingungen der digitalen Transformation. | de |
-| [woof.group](https://woof.group) | **299 207** | 2 355 | ✅ | We're a Mastodon instance for LGBTQ+ leather people. Come say hi! | en |
+| [kind.social](https://kind.social) | **301 977** | 3 778 | ✅ | We're a generalist server consisting heavily of queer, disabled, and neurodivergent users. We strive to foster a genuinely enjoyable shared social experience, and we hope to make you feel welcome! | en |
+| [bildung.social](https://bildung.social) | **301 219** | 2 936 | ✅ | Bildung unter den Bedingungen der digitalen Transformation. | de |
+| [abdl.link](https://abdl.link) | **300 971** | 16 741 | ✅ | ABDL.link is a community-led microblogging platform. We’re part of a decentralised federated network. ABDL.link is run on our own servers, supported by our patrons – we don’t sell your personal data. | en |
+| [woof.group](https://woof.group) | **299 550** | 2 356 | ✅ | We're a Mastodon instance for LGBTQ+ leather people. Come say hi! | en |
 | [propulse.club](https://propulse.club) | **297 176** | 22 | ✅ | ? | en |
 | [slashine.onl](https://slashine.onl) | **296 479** | 475 | ✅ | 一颗温馨熟人星球。This is a small community consists of fans and fandom content creators.<br/>  <! -- 本站暂时会采取熟人推荐制，请找站内的熟人或者直接找站长推荐。 --> 更多关于本站和注册请点开「详情/Learn more」阅读。<br/> | en |
 | [mastodon.motcha.tech](https://mastodon.motcha.tech) | **294 139** | 79 | ✅ | ちいさな避暑地。ノンジャンル。 | ja |
 | [berlin.social](https://berlin.social) | **293 130** | 2 844 | ✅ | Alles rund um, über, aus & für Berlin | en |
 | [gamelinks007.net](https://gamelinks007.net) | **292 967** | 167 | ❌ | 基本的には、創作物全般(絵、小説、ゲームなどなど)を話すインスタンスです。 一次、二次の区別なく創作に関する話をできたらと思っています  お互いの活動内容なども共有できたらいいなと思います。 なお、普通にTwitter 代わりとして利用していただいても構いません  | en |
 | [lesbian.solutions](https://lesbian.solutions) | **292 373** | 38 | ❌ | The cool lesbian instance for all the wlw  DM @dragon for an account :) | en |
-| [kinkyelephant.com](https://kinkyelephant.com) | **291 556** | 4 805 | ✅ | A kinky community for fetish models, photographers, producers and fans.  | en |
+| [kinkyelephant.com](https://kinkyelephant.com) | **291 783** | 4 805 | ✅ | A kinky community for fetish models, photographers, producers and fans.  | en |
 | [utopia.cool](https://utopia.cool) | **291 387** | 236 | ✅ | utopia.cool 基于 Mastodon 搭建。致力于提供自由、友善、开放的「言论广场」。 我们重视公共讨论，鼓励表达和对话，希望一起创造良好的网络社交环境。 | zh-CN |
 | [social.politicaconciencia.org](https://social.politicaconciencia.org) | **291 171** | 5 381 | ✅ | Foro que privilegia el diálogo informado y respetuoso; un entorno apropiado para expresarte sin ser censurado por tu ideología o tus creencias. Temáticas: Política, Ciencia y Cultura. 850 caracteres. | es |
+| [toot.aquilenet.fr](https://toot.aquilenet.fr) | **290 171** | 5 203 | ✅ | Cette instance est hébergée par Aquilenet, FAI associatif, local et militant en Aquitaine. Elle est administrée et modérée par des bénévoles sous leurs propres responsabilités et non celle de l'asso. | fr |
 | [ihatebeinga.live](https://ihatebeinga.live) | **290 013** | 69 | ❌ | ? | ? |
-| [toot.aquilenet.fr](https://toot.aquilenet.fr) | **289 970** | 5 203 | ✅ | Cette instance est hébergée par Aquilenet, FAI associatif, local et militant en Aquitaine. Elle est administrée et modérée par des bénévoles sous leurs propres responsabilités et non celle de l'asso. | fr |
-| [ieji.de](https://ieji.de) | **286 394** | 14 164 | ✅ | ieji.de is a generalistic mastodon instance, with the goal of being the fastest mastodon instance in Europe and with a focus on user privacy, like being usable via the tor network. | en |
-| [journa.host](https://journa.host) | **286 236** | 3 007 | ❌ | The server for working journalists and news outlets on Mastodon. Home to active & retired journalists, media scholars, and a variety of news and journalism adjacent professionals.  #Newstodon | en |
-| [dresden.network](https://dresden.network) | **285 815** | 3 712 | ✅ | Dresden.Network ist eine Mastodon Instanz für alle aus Dresden und Umgebung,dennoch offen für alle. | de |
+| [ieji.de](https://ieji.de) | **286 847** | 14 163 | ✅ | ieji.de is a generalistic mastodon instance, with the goal of being the fastest mastodon instance in Europe and with a focus on user privacy, like being usable via the tor network. | en |
+| [journa.host](https://journa.host) | **286 660** | 3 007 | ❌ | The server for working journalists and news outlets on Mastodon. Home to active & retired journalists, media scholars, and a variety of news and journalism adjacent professionals.  #Newstodon | en |
+| [dresden.network](https://dresden.network) | **286 311** | 3 711 | ✅ | Dresden.Network ist eine Mastodon Instanz für alle aus Dresden und Umgebung,dennoch offen für alle. | de |
 | [mstdn.science](https://mstdn.science) | **284 631** | 7 041 | ✅ | http://mstdn.science is a place for people our field (microbiology), scientists in general, and science enthusiasts to discuss research and topics surrounding our work. | en |
 | [channels.im](https://channels.im) | **284 603** | 14 | ❌ | ? | en |
 | [pixelfed.tokyo](https://pixelfed.tokyo) | **284 439** | 3 847 | ✅ | ? | ? |
@@ -5385,10 +5408,10 @@
 | [mastodon.in.th](https://mastodon.in.th) | **276 556** | 2 969 | ✅ | ? | th |
 | [mstdn.games](https://mstdn.games) | **276 119** | 2 189 | ✅ | We are a gaming-focused space on Mastodon. We welcome everyone who enjoys any type of gaming - it doesn't just need to be video games. Let's build a diverse and inclusive community together!  | en |
 | [tilde.zone](https://tilde.zone) | **275 820** | 2 062 | ✅ | mastodon instance of the tildeverse, a collection of small public access *nix systems for collaboration, creativity, and socializing. a proud part of the small internet. | en |
-| [mastodon.coffee](https://mastodon.coffee) | **275 072** | 1 390 | ❌ | A coffee-purpose, English speaking Mastodon server that runs on coffee. | en |
-| [libretooth.gr](https://libretooth.gr) | **274 262** | 2 291 | ✅ | a mastodon instance run by LibreOps | en |
+| [mastodon.coffee](https://mastodon.coffee) | **275 288** | 1 390 | ❌ | A coffee-purpose, English speaking Mastodon server that runs on coffee. | en |
+| [libretooth.gr](https://libretooth.gr) | **274 377** | 2 291 | ✅ | a mastodon instance run by LibreOps | en |
 | [zeroes.ca](https://zeroes.ca) | **271 944** | 1 300 | ✅ | COVID-aware Twitter escapees ♥️ COVID content, science, resources, advocacy, social, meetup, chat, etc. | en |
-| [beach.city](https://beach.city) | **271 710** | 157 | ✅ | Beach City is our private beach-side sanctuary for close friends and awesome folks. We are various flavors of trans, queer, non-binary, polyamorous, disabled, furry, etc. | en |
+| [beach.city](https://beach.city) | **271 786** | 157 | ✅ | Beach City is our private beach-side sanctuary for close friends and awesome folks. We are various flavors of trans, queer, non-binary, polyamorous, disabled, furry, etc. | en |
 | [this.mouse.rocks](https://this.mouse.rocks) | **271 695** | 56 | ✅ | ? | en |
 | [sharlayan.in](https://sharlayan.in) | **270 212** | 46 | ❌ | 북해에 존재하는 외딴 섬나라 샬레이안. 살리아크의 비호 아래 학자들은 여러 지식과 비밀을 보관하고 있다...  | en |
 | [mastodon.radio](https://mastodon.radio) | **269 894** | 3 250 | ✅ | Mastodon.Radio is a space for the Amateur (Ham) Radio community, anyone interested in Shortwave Listening (SWL), etc. Come join us and talk radio, technology, and more! | en |
@@ -5397,20 +5420,20 @@
 | [mi.nakn.jp](https://mi.nakn.jp) | **267 060** | 1 424 | ❌ | ? | ? |
 | [bbs.kawa-kun.com](https://bbs.kawa-kun.com) | **266 652** | 75 | ❌ | ? | ? |
 | [diaspora-fr.org](https://diaspora-fr.org) | **266 140** | 49 831 | ✅ | ? | ? |
-| [rollenspiel.social](https://rollenspiel.social) | **265 006** | 4 535 | ✅ | rollenspiel.social wird von RollenspielMonster bereitgestellt. Wir bieten einen Platz für Rollenspiel, Pen & Paper, Tabletop, TCG und vieles mehr. Die primäre Sprache ist Deutsch. | de |
+| [rollenspiel.social](https://rollenspiel.social) | **265 425** | 4 535 | ✅ | rollenspiel.social wird von RollenspielMonster bereitgestellt. Wir bieten einen Platz für Rollenspiel, Pen & Paper, Tabletop, TCG und vieles mehr. Die primäre Sprache ist Deutsch. | de |
 | [mastodon.cisti.org](https://mastodon.cisti.org) | **262 534** | 609 | ✅ | ? | it |
 | [mastodon.opportunis.me](https://mastodon.opportunis.me) | **260 031** | 52 | ❌ | An instance for people speaking English or French. It works on the principle of cooptation: if you know someone who is already registered, they can invite you. | en |
-| [retro.pizza](https://retro.pizza) | **257 454** | 987 | ✅ | A poly-fandom instance for nerds to talk about nerd culture. No Nazis, no TERFs. | en |
+| [retro.pizza](https://retro.pizza) | **257 892** | 987 | ✅ | A poly-fandom instance for nerds to talk about nerd culture. No Nazis, no TERFs. | en |
 | [eightpoint.app](https://eightpoint.app) | **257 316** | 780 | ✅ | A general mastodon instance for former twitter users. However it seems very popular with transfemmes so keep that in mind. | en |
+| [anarchism.space](https://anarchism.space) | **255 037** | 2 122 | ❌ | ? | en |
 | [retro.social](https://retro.social) | **255 035** | 76 | ✅ | A social network for the 19A0s. | en |
-| [anarchism.space](https://anarchism.space) | **255 010** | 2 122 | ❌ | ? | en |
-| [mastodon.zaclys.com](https://mastodon.zaclys.com) | **254 349** | 3 975 | ✅ | La place de village francophone familiale | en |
+| [mastodon.zaclys.com](https://mastodon.zaclys.com) | **254 567** | 3 976 | ✅ | La place de village francophone familiale | en |
 | [cloudisland.nz](https://cloudisland.nz) | **254 044** | 183 | ❌ | A paid membership, strongly and pro-actively moderated Mastodon instance hosted entirely in Aotearoa New Zealand. | en |
 | [mstdn.asterism.xyz](https://mstdn.asterism.xyz) | **253 692** | 2 | ❌ | わたし(aries_hituzi@twitter)の個人用インスタンスです。    | ja |
-| [equestria.social](https://equestria.social) | **253 131** | 2 949 | ✅ | The instance for fans of little ponies. 🦄 L'instance pour les fans de petits poneys. | en |
-| [bonn.social](https://bonn.social) | **249 156** | 1 375 | ✅ | Bonn.social ist ein Mastodon-Instanz für Bonn, Rhein-Sieg und für alle, die Bonn und die Region mögen. ❤️ | de |
-| [social.lol](https://social.lol) | **248 866** | 1 834 | ❌ | social.lol is a lighthearted social hangout for the omg.lol community. | en |
-| [ruby.social](https://ruby.social) | **248 712** | 5 868 | ✅ | If you are interested in the Ruby programming language, come join us! Tell us about yourself when signing up.  If you just want to join Mastodon, another server will be a better place for you. | en |
+| [equestria.social](https://equestria.social) | **253 290** | 2 948 | ✅ | The instance for fans of little ponies. 🦄 L'instance pour les fans de petits poneys. | en |
+| [social.lol](https://social.lol) | **249 595** | 1 834 | ❌ | social.lol is a lighthearted social hangout for the omg.lol community. | en |
+| [bonn.social](https://bonn.social) | **249 368** | 1 375 | ✅ | Bonn.social ist ein Mastodon-Instanz für Bonn, Rhein-Sieg und für alle, die Bonn und die Region mögen. ❤️ | de |
+| [ruby.social](https://ruby.social) | **249 044** | 5 870 | ✅ | If you are interested in the Ruby programming language, come join us! Tell us about yourself when signing up.  If you just want to join Mastodon, another server will be a better place for you. | en |
 | [laserdisc.party](https://laserdisc.party) | **247 625** | 82 | ❌ | Welcome to laserdisc.party, a movie-flavoured instance home to friendly video store chitchat and general bonhomie. | en |
 | [furry.engineer](https://furry.engineer) | **245 547** | 1 300 | ✅ | An instance aimed at techies and engineers of all types within the furry fandom, but anyone is welcome. We're an LGBTQ+ friendly community and aiming to offer a safe space for our users. | en |
 | [m.otter.homes](https://m.otter.homes) | **245 477** | 755 | ✅ | 欢迎来到海獭之家 （m.otter.homes）! Welcome to m.otter.homes!  m.otter.homes是一个自由、开放、多语言的长毛象实例。在这里你可以和Fediverse中不同背景、爱好的任何人友好地交流，而免于任何政府或大公司的言论审查。 | zh-CN |
@@ -5424,111 +5447,111 @@
 | [theblower.au](https://theblower.au) | **239 497** | 15 300 | ✅ | Do you need to sort it out? Get on The Blower, a public social network site that's part of a global federation! Give it a go!  You don't have to be Australian to post here, but it helps. | en |
 | [trpg-o.xyz](https://trpg-o.xyz) | **239 139** | 565 | ✅ | 이 인스턴스는 TRPG(Tabletop/Table-talk Role Playing Game)를 중심 주제로 자유롭고 안전하게 대화를 나눌 수 있는 인스턴스입니다! | en |
 | [digforfire.org](https://digforfire.org) | **238 525** | 794 | ❌ | A change of speed, a change of style<br> A change of scene, with no regrets<br> | en |
-| [ecoevo.social](https://ecoevo.social) | **237 369** | 5 228 | ✅ | Dedicated to Ecology and Evolution. We welcome academics, students, industry scientists, folks from other fields with links to E&E, scientific societies, and nature enthusiasts in general. | en |
+| [ecoevo.social](https://ecoevo.social) | **237 649** | 5 228 | ✅ | Dedicated to Ecology and Evolution. We welcome academics, students, industry scientists, folks from other fields with links to E&E, scientific societies, and nature enthusiasts in general. | en |
 | [plural.cafe](https://plural.cafe) | **236 423** | 1 382 | ❌ | ? | ? |
-| [vmst.io](https://vmst.io) | **235 470** | 2 476 | ✅ | vmst·io is Mastodon for respectful technologists. Geeks and nerds of every type and stripe. Highly available, well federated, and community minded. | en |
-| [disabled.social](https://disabled.social) | **234 695** | 2 782 | ✅ | A place for people who are chronically ill, mentally ill, disabled, and friends/families/allies to come together, meet, share knowledge and random banter, and just about anything else. | en |
+| [vmst.io](https://vmst.io) | **235 754** | 2 476 | ✅ | vmst·io is Mastodon for respectful technologists. Geeks and nerds of every type and stripe. Highly available, well federated, and community minded. | en |
+| [disabled.social](https://disabled.social) | **235 160** | 2 783 | ✅ | A place for people who are chronically ill, mentally ill, disabled, and friends/families/allies to come together, meet, share knowledge and random banter, and just about anything else. | en |
 | [neurodifferent.me](https://neurodifferent.me) | **234 013** | 1 083 | ✅ | A friendly space for neurodifferent folks. | en |
 | [gearlandia.haus](https://gearlandia.haus) | **232 727** | 63 | ✅ | ? | ? |
-| [mastodon.gougere.fr](https://mastodon.gougere.fr) | **230 390** | 1 877 | ✅ | ? | en |
+| [mastodon.gougere.fr](https://mastodon.gougere.fr) | **230 469** | 1 877 | ✅ | ? | en |
 | [rivals.space](https://rivals.space) | **230 308** | 1 980 | ✅ | Serveur français généraliste, durable et rapide, créé en 2018 & toujours présent!  Modération active, discord/matrix disponible en cas de problème. | en |
 | [hello.2heng.xin](https://hello.2heng.xin) | **229 166** | 2 425 | ❌ | ? | ? |
 | [mastodon.mnetwork.co.kr](https://mastodon.mnetwork.co.kr) | **227 528** | 1 779 | ❌ | mNetwork Mastodon은 mNetwork OÜ에서 운영하는 자유롭게 다양한 주제를 나누는 마스토돈 인스턴스입니다. | ko |
 | [9kb.me](https://9kb.me) | **227 508** | 770 | ✅ | 一个自由、开放、多元、包容的中文 Mastodon 社区。Mastodon 是一个建立在开放式网络协议和自由、开源软件之上的社交网络，有着类似于电子邮件的分布式设计。 | en |
 | [functional.cafe](https://functional.cafe) | **227 467** | 705 | ✅ | functional.cafe is an instance for people interested in functional programming and languages. | en |
 | [0w0.is](https://0w0.is) | **226 251** | 51 | ❌ | ? | ? |
-| [econtwitter.net](https://econtwitter.net) | **225 685** | 8 007 | ✅ | A Mastodon instance for Economists. | en |
-| [linuxrocks.online](https://linuxrocks.online) | **225 205** | 4 254 | ✅ | Linux geeks doing what Linux geeks do...  Special thanks go out to Altispeed Technologies for hosting our hardware! https://www.altispeed.com/ | en |
+| [econtwitter.net](https://econtwitter.net) | **225 701** | 8 007 | ✅ | A Mastodon instance for Economists. | en |
+| [linuxrocks.online](https://linuxrocks.online) | **225 285** | 4 254 | ✅ | Linux geeks doing what Linux geeks do...  Special thanks go out to Altispeed Technologies for hosting our hardware! https://www.altispeed.com/ | en |
 | [mastodon.sk](https://mastodon.sk) | **223 253** | 372 | ✅ | ? | sk |
 | [songbird.cloud](https://songbird.cloud) | **223 095** | 210 | ❌ | 特に決まったテーマはありませんが、主に生活や社会、文化全般の話題に興味のある方に向いている Mastodon サーバーです。多様な方々が安心して過ごせる場所を目指しています。 | en |
 | [nightly.fedibird.com](https://nightly.fedibird.com) | **221 393** | 360 | ❌ | ? | ? |
 | [gleasonator.com](https://gleasonator.com) | **220 794** | 828 | ✅ | ? | ? |
 | [dads.cool](https://dads.cool) | **220 167** | 179 | ✅ | ? | ? |
-| [snaggletooth.life](https://snaggletooth.life) | **217 571** | 188 | ✅ | 18+ queer, furry and nerd friendly general interest instance. Quieter and less chaotic than big instances, with relaxed moderation policies. Perfect for folk who want a peaceful corner to themselves. | en |
-| [awscommunity.social](https://awscommunity.social) | **217 314** | 11 184 | ✅ | AWS (Amazon Web Services) Community-Focused Mastodon Server bringing together a global user group. Not affiliated with Amazon, but interested in AWS Technology. | en |
+| [snaggletooth.life](https://snaggletooth.life) | **217 727** | 189 | ✅ | 18+ queer, furry and nerd friendly general interest instance. Quieter and less chaotic than big instances, with relaxed moderation policies. Perfect for folk who want a peaceful corner to themselves. | en |
+| [awscommunity.social](https://awscommunity.social) | **217 590** | 11 183 | ✅ | AWS (Amazon Web Services) Community-Focused Mastodon Server bringing together a global user group. Not affiliated with Amazon, but interested in AWS Technology. | en |
 | [aleph.land](https://aleph.land) | **217 226** | 1 647 | ✅ | A small island of the fediverse. א | en |
 | [dobbs.town](https://dobbs.town) | **216 293** | 1 059 | ❌ | Church of the SubGenius Members-Only MastoDobbs. | en |
+| [a2mi.social](https://a2mi.social) | **216 232** | 418 | ✅ | 👋 A2mi.social is a friendly social network for people living, working, studying around Ann Arbor — including Ypsilanti and elsewhere — and our friends. | en |
 | [miruku.cafe](https://miruku.cafe) | **216 126** | 2 413 | ✅ | ? | ? |
-| [a2mi.social](https://a2mi.social) | **215 898** | 418 | ✅ | 👋 A2mi.social is a friendly social network for people living, working, studying around Ann Arbor — including Ypsilanti and elsewhere — and our friends. | en |
 | [nitecrew.rip](https://nitecrew.rip) | **215 683** | 29 | ❌ | ? | ? |
+| [wien.rocks](https://wien.rocks) | **215 389** | 4 289 | ✅ | Fediverse/Mastodon Instanz für und aus Wien.   | de |
 | [skull.website](https://skull.website) | **215 241** | 15 | ❌ | ? | ? |
-| [wien.rocks](https://wien.rocks) | **215 084** | 4 288 | ✅ | Fediverse/Mastodon Instanz für und aus Wien.   | de |
 | [mastodon.roitsystems.ca](https://mastodon.roitsystems.ca) | **214 760** | 84 | ✅ | ? | ? |
-| [thecanadian.social](https://thecanadian.social) | **214 571** | 1 114 | ✅ | Politics,sports,current events and laughs from Canada and across the fediverse.   | en |
+| [thecanadian.social](https://thecanadian.social) | **214 711** | 1 115 | ✅ | Politics,sports,current events and laughs from Canada and across the fediverse.   | en |
 | [phpc.social](https://phpc.social) | **214 085** | 4 465 | ✅ | A server for PHP programmers & friends. Join us for discussions on the PHP programming language, frameworks, packages, tools, open source, tech, life, and more. | en |
-| [glasgow.social](https://glasgow.social) | **213 860** | 14 794 | ✅ | A place for communities in and around Glasgow, Scotland. | en |
-| [mstdn.mx](https://mstdn.mx) | **213 331** | 1 374 | ✅ | Primera instancia de Mastodon de México, desde Abr 2017. Aquí hablamos de tecnología, literatura, ciencia, cultura, música, anime, series, películas, el acontecer diario y lo que te nazca del corazón | es |
-| [spore.social](https://spore.social) | **212 616** | 1 779 | ✅ | A community platform for justice and action. | en |
+| [glasgow.social](https://glasgow.social) | **214 053** | 14 796 | ✅ | A place for communities in and around Glasgow, Scotland. | en |
+| [mstdn.mx](https://mstdn.mx) | **213 414** | 1 374 | ✅ | Primera instancia de Mastodon de México, desde Abr 2017. Aquí hablamos de tecnología, literatura, ciencia, cultura, música, anime, series, películas, el acontecer diario y lo que te nazca del corazón | es |
+| [spore.social](https://spore.social) | **212 917** | 1 779 | ✅ | A community platform for justice and action. | en |
 | [arachnid.town](https://arachnid.town) | **212 523** | 43 | ✅ | ? | ? |
-| [mastodon.mit.edu](https://mastodon.mit.edu) | **211 821** | 898 | ✅ | An instance for the extended MIT community. Run by volunteers at SIPB, MIT's computer club. NOT run or endorsed by the MIT administration. | en |
+| [mastodon.mit.edu](https://mastodon.mit.edu) | **211 861** | 898 | ✅ | An instance for the extended MIT community. Run by volunteers at SIPB, MIT's computer club. NOT run or endorsed by the MIT administration. | en |
 | [tooting.ch](https://tooting.ch) | **211 662** | 2 835 | ✅ | Instance Mastodon suisse pour les personnes de suisses et hébergée par l'association FairSocialNet |  Swiss Mastodon instance for people of Switzerland hosted by the FairSocialNet association. | fr |
-| [muenster.im](https://muenster.im) | **210 323** | 4 306 | ✅ | Aus Münster für Münster und für alle anderen netten Menschen. | en |
+| [muenster.im](https://muenster.im) | **210 864** | 4 306 | ✅ | Aus Münster für Münster und für alle anderen netten Menschen. | en |
 | [v2.nyoki.club](https://v2.nyoki.club) | **209 927** | 20 | ❌ | 通称「にょき鯖」。ローカルメインの招待制まったりサーバーです。ﾌﾟｪｰ。 | en |
-| [blorbo.social](https://blorbo.social) | **206 009** | 1 638 | ✅ | Blorbo.Social is a community of fandom nerds. We talk about our favourite blorbos from our shows, create fanart, fanfic, fanvids and other transformative works, and share our weird unique selves.  | en |
+| [blorbo.social](https://blorbo.social) | **206 543** | 1 645 | ✅ | Blorbo.Social is a community of fandom nerds. We talk about our favourite blorbos from our shows, create fanart, fanfic, fanvids and other transformative works, and share our weird unique selves.  | en |
 | [squeet.me](https://squeet.me) | **205 472** | 4 667 | ❌ | ? | ? |
-| [historians.social](https://historians.social) | **204 547** | 2 060 | ✅ | Historians.social is open to all who are interested in history.  | en |
+| [historians.social](https://historians.social) | **204 916** | 2 060 | ✅ | Historians.social is open to all who are interested in history.  | en |
 | [amefur.asia](https://amefur.asia) | **203 585** | 1 | ❌ | アメフラシによるアメフラシのためのアメフラシのサーバーです．お一人様です． | en |
 | [zug.network](https://zug.network) | **202 969** | 314 | ✅ | Du magst Züge? Dann bist du hier richtig! | en |
-| [mastodon.com.br](https://mastodon.com.br) | **201 018** | 2 037 | ❌ | O mastodon.com.br é uma instância voltada para falantes de português brasileiro. Com a intenção de ser um espaço acolhedor e menos tóxico, tentamos ser uma instância que abriga pessoas de todas nacionalidades, etnias, formatos de corpos, gêneros, neurodivergentes, de identidades e orientações sexuais diversas. | pt-BR |
+| [mastodon.com.br](https://mastodon.com.br) | **201 094** | 2 037 | ❌ | O mastodon.com.br é uma instância voltada para falantes de português brasileiro. Com a intenção de ser um espaço acolhedor e menos tóxico, tentamos ser uma instância que abriga pessoas de todas nacionalidades, etnias, formatos de corpos, gêneros, neurodivergentes, de identidades e orientações sexuais diversas. | pt-BR |
 | [newspapers.se](https://newspapers.se) | **199 713** | 29 | ✅ | Automated news feeds from Swedish newspapers. | en |
 | [shakedown.social](https://shakedown.social) | **199 556** | 1 759 | ✅ | A community for live music fans with roots in the jam scene. Shakedown Social is run by a team of volunteers (led by @clifff and @sethadam1) and funded by donations. | en |
 | [diaspora.psyco.fr](https://diaspora.psyco.fr) | **198 775** | 9 636 | ✅ | ? | ? |
+| [lgbtqia.space](https://lgbtqia.space) | **198 737** | 1 242 | ✅ | This is a cute server for all LGBTQIA ppl out there that want a caring and safe environment.  If you are part of the LGBTQIA community you are very cordially invited to join this server. | en |
 | [sportsfeed.me](https://sportsfeed.me) | **198 488** | 105 | ✅ | A place for the latest news from and about sports clubs | en |
 | [strangeobject.space](https://strangeobject.space) | **198 448** | 328 | ❌ | A strange object in space and a space for strange objects | en |
-| [lgbtqia.space](https://lgbtqia.space) | **198 209** | 1 241 | ✅ | This is a cute server for all LGBTQIA ppl out there that want a caring and safe environment.  If you are part of the LGBTQIA community you are very cordially invited to join this server. | en |
-| [openbiblio.social](https://openbiblio.social) | **197 626** | 1 409 | ✅ | Der Einstieg in das Mastodon-Netzwerk für Bibliotheksmenschen | en |
+| [openbiblio.social](https://openbiblio.social) | **197 829** | 1 409 | ✅ | Der Einstieg in das Mastodon-Netzwerk für Bibliotheksmenschen | en |
 | [ukadon.shillest.net](https://ukadon.shillest.net) | **197 157** | 291 | ✅ | うかどんはデスクトップマスコットソフト「伺か」向け主体（専用とは言ってない）のMastodonサーバです。うどんでも新手のどんぶりでもありません。 | ja |
 | [appdot.net](https://appdot.net) | **196 644** | 142 | ❌ | A place for former ADN users and friends. By invitation from existing member only.  Donations are appreciated ( https://snowflakesocialistmedia.org/donations ). | en |
-| [layer8.space](https://layer8.space) | **196 082** | 2 414 | ✅ | Welcome to the 8th Layer of Madness Most topics are related to Linux, Anime, Music, Software and maaaany more  PS: BSD is also welcome 😜 | en |
+| [layer8.space](https://layer8.space) | **196 204** | 2 415 | ✅ | Welcome to the 8th Layer of Madness Most topics are related to Linux, Anime, Music, Software and maaaany more  PS: BSD is also welcome 😜 | en |
 | [blimps.xyz](https://blimps.xyz) | **194 939** | 569 | ✅ | Devoted to furries who love big things, puffy things, and puffy things getting bigger! | en-SQ |
-| [defcon.social](https://defcon.social) | **193 966** | 11 504 | ✅ | DEFCON.social is a place for hackers, researchers, artists, infosec, cyberpunks & those interested in the intersection of technology and society. | en |
+| [defcon.social](https://defcon.social) | **194 210** | 11 508 | ✅ | DEFCON.social is a place for hackers, researchers, artists, infosec, cyberpunks & those interested in the intersection of technology and society. | en |
 | [mstdn.mimikun.jp](https://mstdn.mimikun.jp) | **193 592** | 3 | ❌ | ? | ja |
+| [noauthority.social](https://noauthority.social) | **192 978** | 2 352 | ✅ | Long live NAS! | en |
 | [mastodon.tetaneutral.net](https://mastodon.tetaneutral.net) | **192 044** | 859 | ✅ | Instance de Mastodon, réseau social de micro-blogging libre et décentralisé hébergée par l'association Tetaneutral.net. | fr |
 | [social.3dots.lv](https://social.3dots.lv) | **190 898** | 13 | ❌ | ? | en |
 | [catcatnya.com](https://catcatnya.com) | **190 642** | 336 | ✅ | We are CatCatNya~, a left-wing instance by cats, for cats (and more!) | en |
-| [noauthority.social](https://noauthority.social) | **190 106** | 2 347 | ✅ | Long live NAS! | en |
-| [mastodon.org.uk](https://mastodon.org.uk) | **188 823** | 1 908 | ✅ | General purpose mastodon instance | en |
+| [mastodon.org.uk](https://mastodon.org.uk) | **188 981** | 1 908 | ✅ | General purpose mastodon instance | en |
 | [biscuit.town](https://biscuit.town) | **188 429** | 64 | ✅ | Biscuit.town est une instance par et pour les personnes neuroqueer, féministes et gauchistes. | en |
 | [mastodos.com](https://mastodos.com) | **187 588** | 257 | ✅ | マストどすは京都府在住者、勤務者、出身者、または京都に興味がある方を対象としたSNSです。話題は京都に限りません。マストドンに興味がある方の登録も歓迎します！ Mastodos is a SNS for Kyoto residents, workers, students, people interested in Kyoto, Japan. The topic is not limited to Kyoto. Registration of those interested in Mastodon is also welcome! | en |
-| [romancelandia.club](https://romancelandia.club) | **187 012** | 1 817 | ✅ | A place for readers and writers of romance. | en |
-| [xoxo.zone](https://xoxo.zone) | **186 543** | 663 | ❌ | A community space for attendees and speakers of the XOXO Festival, held in Portland, Oregon. | en |
+| [romancelandia.club](https://romancelandia.club) | **187 114** | 1 817 | ✅ | A place for readers and writers of romance. | en |
+| [xoxo.zone](https://xoxo.zone) | **186 692** | 663 | ❌ | A community space for attendees and speakers of the XOXO Festival, held in Portland, Oregon. | en |
 | [pixelfed.nz](https://pixelfed.nz) | **185 033** | 901 | ✅ | ? | ? |
 | [diasporabr.com.br](https://diasporabr.com.br) | **184 949** | 5 243 | ✅ | ? | ? |
-| [masto.bike](https://masto.bike) | **182 959** | 791 | ✅ | Cette instance Mastodon est ouverte à toutes et tous, dans le respect des règles barrière (https://masto.bike/about/more). Faire du vélo ou juste envisager d'essayer est un plus ;)  | en |
+| [masto.bike](https://masto.bike) | **183 411** | 791 | ✅ | Cette instance Mastodon est ouverte à toutes et tous, dans le respect des règles barrière (https://masto.bike/about/more). Faire du vélo ou juste envisager d'essayer est un plus ;)  | en |
 | [vis.social](https://vis.social) | **182 574** | 6 223 | ✅ | vis.social is a community for creative people, especially anyone in SciArt, SciComm, data, visualization, creative coding, and related arts and research. English is the shared language.  | en |
 | [akko.disqordia.space](https://akko.disqordia.space) | **181 495** | 146 | ❌ | ? | ? |
-| [m.g3l.org](https://m.g3l.org) | **181 132** | 233 | ✅ | Instance de l'association G3L basée à Valence, Drôme, France | fr |
+| [m.g3l.org](https://m.g3l.org) | **181 185** | 233 | ✅ | Instance de l'association G3L basée à Valence, Drôme, France | fr |
 | [clubcyberia.co](https://clubcyberia.co) | **179 425** | 282 | ✅ | ? | ? |
 | [mastodon.bot](https://mastodon.bot) | **178 299** | 96 | ✅ | mastodon.bot - a home for Mastodon bots. | en |
-| [mastodonczech.cz](https://mastodonczech.cz) | **176 045** | 5 261 | ✅ | Mastodon pro českou komunitu | cs |
+| [mastodonczech.cz](https://mastodonczech.cz) | **176 487** | 5 260 | ✅ | Mastodon pro českou komunitu | cs |
 | [peoplemaking.games](https://peoplemaking.games) | **175 979** | 2 777 | ✅ | We're a community of folks who celebrate the craft of creating interactive experiences, whether they're working in games or around them! This is a space for games folks and creatives to call home! | en |
 | [tweesecake.social](https://tweesecake.social) | **175 550** | 393 | ✅ | This server is for people to socialize and just generally have fun! | en |
+| [freiburg.social](https://freiburg.social) | **175 222** | 2 534 | ✅ | Ein Mastodon-Server für Freiburg und Umland betrieben durch den Verein freiburg.social e.V.: https://wir.freiburg.social | en |
+| [maly.io](https://maly.io) | **174 961** | 943 | ✅ | ? | en |
 | [mastodon-belgium.be](https://mastodon-belgium.be) | **174 926** | 3 574 | ✅ | This server is provided free of charge to all Mastodon users but aims specifically at users in Belgium. | nl |
-| [maly.io](https://maly.io) | **174 918** | 944 | ✅ | ? | en |
-| [freiburg.social](https://freiburg.social) | **174 876** | 2 534 | ✅ | Ein Mastodon-Server für Freiburg und Umland betrieben durch den Verein freiburg.social e.V.: https://wir.freiburg.social | en |
 | [colorid.es](https://colorid.es) | **174 510** | 2 244 | ✅ | ? | ? |
 | [puntarella.party](https://puntarella.party) | **173 981** | 305 | ✅ | a/social indipendente di Roma | en |
 | [oc.todon.fr](https://oc.todon.fr) | **173 640** | 2 807 | ✅ | oc.todon.fr is a mostly French-speaking Mastodon instance with an active moderation. oc.todon.fr est une instance Mastodon principalement francophone et avec une modération active. | en |
+| [gruene.social](https://gruene.social) | **173 472** | 1 098 | ❌ | Die Mastodon-Instanz für BÜNDNIS 90/DIE GRÜNEN, betrieben von Netzbegrünung e.V. | en |
 | [sigmoid.social](https://sigmoid.social) | **173 316** | 10 633 | ✅ | A social space for people researching, working with, or just interested in AI! | en |
-| [gruene.social](https://gruene.social) | **173 265** | 1 098 | ❌ | Die Mastodon-Instanz für BÜNDNIS 90/DIE GRÜNEN, betrieben von Netzbegrünung e.V. | en |
 | [social.dev-wiki.de](https://social.dev-wiki.de) | **173 214** | 10 558 | ✅ | Wir für das freie Internet! <br> Instance for everyone.<br> Keine Bots!! <br><br>  #BeFree  | en |
+| [mastodon.tedomum.net](https://mastodon.tedomum.net) | **171 936** | 315 | ❌ | Instance généraliste majoritairement francophone. | en |
 | [seal.cafe](https://seal.cafe) | **171 888** | 121 | ✅ | ? | ? |
-| [mastodon.tedomum.net](https://mastodon.tedomum.net) | **171 808** | 315 | ❌ | Instance généraliste majoritairement francophone. | en |
-| [mastouille.fr](https://mastouille.fr) | **171 600** | 21 487 | ✅ | Mastouille est une instance Mastodon durable, ouverte, et hébergée en France. | fr |
-| [bark.lgbt](https://bark.lgbt) | **170 413** | 5 258 | ✅ | Furry focused instance for critters that like to bark! LGBTQ+ run and friendly, active moderation | en |
-| [swiss.social](https://swiss.social) | **169 936** | 2 097 | ✅ | Grüezi! A server for nice people from Switzerland. Diese Mastodon-Instanz wird betrieben vom Verein „swiss.social“ mit Sitz in Bern. | en |
+| [mastouille.fr](https://mastouille.fr) | **171 785** | 21 489 | ✅ | Mastouille est une instance Mastodon durable, ouverte, et hébergée en France. | fr |
+| [bark.lgbt](https://bark.lgbt) | **170 929** | 5 259 | ✅ | Furry focused instance for critters that like to bark! LGBTQ+ run and friendly, active moderation | en |
+| [swiss.social](https://swiss.social) | **170 096** | 2 097 | ✅ | Grüezi! A server for nice people from Switzerland. Diese Mastodon-Instanz wird betrieben vom Verein „swiss.social“ mit Sitz in Bern. | en |
 | [fnordon.de](https://fnordon.de) | **169 826** | 303 | ✅ | ? | de |
 | [lizards.live](https://lizards.live) | **169 774** | 4 | ❌ | <em>Lizards Live! was recorded in front of a live studio audience in Nickelodeon Studios at Universal Studios Florida.</em> | en |
 | [chaosfem.tw](https://chaosfem.tw) | **168 660** | 300 | ✅ | Another transfem server.  Rules:  1. No buttheads | en |
+| [babka.social](https://babka.social) | **167 815** | 787 | ✅ | A site where you can be unapologetically Jewish, with a healthy, diverse community of Jews and Jewish allies. | en |
 | [nya.social](https://nya.social) | **167 796** | 59 | ❌ | ? | ? |
 | [trollian.space](https://trollian.space) | **167 572** | 77 | ✅ | ? | ? |
-| [babka.social](https://babka.social) | **167 459** | 787 | ✅ | A site where you can be unapologetically Jewish, with a healthy, diverse community of Jews and Jewish allies. | en |
 | [mugicha.club](https://mugicha.club) | **166 699** | 36 | ❌ | ? | ? |
-| [snabelen.no](https://snabelen.no) | **166 289** | 2 479 | ✅ | Ein norsk heimstad for den desentraliserte mikroblogge-plattformen. | no |
+| [snabelen.no](https://snabelen.no) | **166 476** | 2 480 | ✅ | Ein norsk heimstad for den desentraliserte mikroblogge-plattformen. | no |
 | [blahaj.zone](https://blahaj.zone) | **166 247** | 1 618 | ✅ | ? | ? |
-| [ni.hil.ist](https://ni.hil.ist) | **165 379** | 461 | ✅ | ? | ? |
+| [ni.hil.ist](https://ni.hil.ist) | **165 580** | 462 | ✅ | ? | ? |
 | [eliitin-some.fi](https://eliitin-some.fi) | **164 377** | 99 | ❌ | Pier pask prööt | en |
-| [sauropods.win](https://sauropods.win) | **163 595** | 653 | ✅ | A Mastodon instance for sauropod appreciators everywhere.  | en |
+| [sauropods.win](https://sauropods.win) | **163 846** | 653 | ✅ | A Mastodon instance for sauropod appreciators everywhere.  | en |
 | [glammr.us](https://glammr.us) | **163 498** | 1 077 | ✅ | glammr.us is a space for folks interested in galleries, libraries, archives, museums, memory work and records. But you don't only have to post about GLAMMR-related topics, bring your whole self! | en |
 | [social.northernvoice.app](https://social.northernvoice.app) | **163 291** | 11 | ❌ | ? | en |
 | [mast.dragon-fly.club](https://mast.dragon-fly.club) | **163 182** | 2 003 | ✅ | 这里是属于每一个人与众不同的岛屿，然而每座岛屿间却又紧密相连。来建设专属于你的岛屿吧！无论世界多么纷纷扰扰，这里总会有你所向往的一片宁静…… | en |
@@ -5540,15 +5563,15 @@
 | [machikadon.online](https://machikadon.online) | **156 581** | 169 | ✅ | まちカドまぞくに詳しくない方でもご気軽にどうぞ！ インスタンス名は『まんがタイムきららキャラット』（芳文社）で連載中の4コマ漫画『まちカドまぞく』にちなんだものです。公式様とは一切関係はありません。 | en |
 | [federated.press](https://federated.press) | **156 537** | 2 364 | ✅ | A Mastodon server for journalists—by profession or temperament. Please click "Learn more" and read our rules and Code of Ethics before applying. | en |
 | [diaspodon.fr](https://diaspodon.fr) | **156 444** | 256 | ✅ | Diaspodon.fr est une instance majoritairement francophone et généraliste.  Aucun contenu du fédiverse n'est filtré par une décision d'administrateur ou de modérateur. | fr |
-| [gulp.cafe](https://gulp.cafe) | **155 240** | 1 286 | ✅ | Welcome to Cafe Gulp! We put the "Fed" in Fediverse.   We are an adult oriented website themed around vore and endosomaphila. 🔞 | en |
-| [cubhub.social](https://cubhub.social) | **154 562** | 2 138 | ✅ | The fuzziest cubhub on the fediverse! A Mastodon instance for babyfurs, diaperfurs, middles, caretakers, and anyone interested in the community! 18+ Users Only | en |
+| [gulp.cafe](https://gulp.cafe) | **155 378** | 1 288 | ✅ | Welcome to Cafe Gulp! We put the "Fed" in Fediverse.   We are an adult oriented website themed around vore and endosomaphila. 🔞 | en |
+| [cubhub.social](https://cubhub.social) | **154 716** | 2 136 | ✅ | The fuzziest cubhub on the fediverse! A Mastodon instance for babyfurs, diaperfurs, middles, caretakers, and anyone interested in the community! 18+ Users Only | en |
 | [tabletop.social](https://tabletop.social) | **153 923** | 3 159 | ❌ | We are an inclusive Mastodon community for everything tabletop (and more). | en |
 | [cupoftea.social](https://cupoftea.social) | **153 590** | 5 112 | ✅ | A Small Community Mastodon Server for Casual Chit-Chat. UK Based, A place for good and wholesome content open to everyone. Pets, Photos, Music & Food are popular topics.  | en |
 | [pol.social](https://pol.social) | **153 206** | 7 009 | ✅ | Serwer dla osób polskojęzycznych, zlokalizowany w Krakowie, szybki, dobrze i przyjaźnie moderowany. Prowadzony przez Fundację Technologie dla Ludzi. | pl |
 | [wobbl.xyz](https://wobbl.xyz) | **152 757** | 1 002 | ✅ | Mastodon instance for furries of the larger, tubbier persuasion. | en |
 | [tiny.tilde.website](https://tiny.tilde.website) | **151 801** | 238 | ✅ | ttw is the unofficial Mastodon instance of tilde.town. We're only small, but we're friendly. Please don't be a dick. | en |
-| [charcha.cc](https://charcha.cc) | **151 287** | 79 | ✅ | ? | ? |
 | [social.librem.one](https://social.librem.one) | **151 183** | 6 917 | ❌ | ? | ? |
+| [charcha.cc](https://charcha.cc) | **151 111** | 79 | ✅ | ? | ? |
 | [misskey.takehi.to](https://misskey.takehi.to) | **150 361** | 188 | ❌ | ? | ? |
 | [misskey.resonite.love](https://misskey.resonite.love) | **150 300** | 281 | ❌ | ? | ? |
 | [diasp.de](https://diasp.de) | **149 755** | 11 709 | ✅ | ? | ? |
@@ -5560,8 +5583,8 @@
 | [3zi.ru](https://3zi.ru) | **147 245** | 20 | ✅ | Тризи.ру - узел децентрализованной сети Mastodon для свободного общения | ru |
 | [shota.house](https://shota.house) | **147 060** | 55 | ❌ | ? | ? |
 | [iyasaretai.pw](https://iyasaretai.pw) | **145 445** | 41 | ❌ | ようこそ。ここはありふれたマストドンサーバーのひとつ、癒やされたいです。 | en |
+| [stranger.social](https://stranger.social) | **145 200** | 9 219 | ✅ | Welcome to Stranger Social, where strangers become friends and the world becomes a little smaller. We're a friendly and welcoming community that's open to everyone - so come on in and join the party! | en |
 | [bantu.social](https://bantu.social) | **145 143** | 138 | ✅ | Instância do Mastodon para pessoas não-brancas brasileiras. Leia as regras para instruções sobre o cadastro. | pt-BR |
-| [stranger.social](https://stranger.social) | **144 974** | 9 209 | ✅ | Welcome to Stranger Social, where strangers become friends and the world becomes a little smaller. We're a friendly and welcoming community that's open to everyone - so come on in and join the party! | en |
 | [iddqd.social](https://iddqd.social) | **144 788** | 377 | ❌ | ? | ? |
 | [toot.matereal.eu](https://toot.matereal.eu) | **144 715** | 4 | ❌ | ? | en |
 | [itabashi.0j0.jp](https://itabashi.0j0.jp) | **143 146** | 100 | ✅ | ? | ? |
@@ -5573,119 +5596,119 @@
 | [zotum.net](https://zotum.net) | **140 260** | 1 025 | ✅ | ? | ? |
 | [miniwa.moe](https://miniwa.moe) | **139 907** | 1 529 | ❌ | ? | ? |
 | [pirati.ca](https://pirati.ca) | **139 657** | 84 | ❌ | ? | ? |
+| [bitbang.social](https://bitbang.social) | **139 296** | 822 | ✅ | Hey, do you like old things? Beeps and boops? Welcome home! | en |
 | [pixelfed.ru](https://pixelfed.ru) | **139 278** | 369 | ✅ | ? | ? |
-| [bitbang.social](https://bitbang.social) | **139 105** | 822 | ✅ | Hey, do you like old things? Beeps and boops? Welcome home! | en |
 | [photodn.net](https://photodn.net) | **138 844** | 1 954 | ✅ | 写真やカメラ関係の人たちが集まるマストドンサーバです。 サービスオープンから7年半経過しており、安定したサービスを提供しています。 | en |
-| [me.dm](https://me.dm) | **138 466** | 20 124 | ❌ | Ideas and information to deepen your understanding of the world. Run by the folks at Medium. | en |
-| [toot.io](https://toot.io) | **137 669** | 11 415 | ✅ | toot.io is a fast, mainly english-speaking Mastodon instance. | en |
+| [me.dm](https://me.dm) | **138 760** | 20 153 | ❌ | Ideas and information to deepen your understanding of the world. Run by the folks at Medium. | en |
+| [toot.io](https://toot.io) | **137 641** | 11 416 | ✅ | toot.io is a fast, mainly english-speaking Mastodon instance. | en |
 | [dis-le.de](https://dis-le.de) | **135 941** | 32 | ✅ | ? | ? |
 | [stop.voring.me](https://stop.voring.me) | **135 349** | 1 342 | ✅ | ? | ? |
 | [mstdn.mini4wd-engineer.com](https://mstdn.mini4wd-engineer.com) | **135 182** | 130 | ✅ | ? | ? |
 | [social.dytrych.cloud](https://social.dytrych.cloud) | **134 821** | 10 | ✅ | Osobní Mastodon server :-) | en |
-| [pdx.social](https://pdx.social) | **134 282** | 505 | ❌ | pdx.social is a community for the Portland, Oregon, USA region. 🌲 Established April 6th, 2017 🌲 | en |
+| [pdx.social](https://pdx.social) | **134 397** | 505 | ❌ | pdx.social is a community for the Portland, Oregon, USA region. 🌲 Established April 6th, 2017 🌲 | en |
 | [akko.wtf](https://akko.wtf) | **133 971** | 114 | ❌ | ? | ? |
 | [federatedfandom.net](https://federatedfandom.net) | **133 596** | 688 | ✅ | This is a fandom instance run by imp (stopthatimp on Tumblr) and kate (madecunningly on tumblr). We are here to have fun.  | en |
 | [hub.netzgemeinde.eu](https://hub.netzgemeinde.eu) | **133 552** | 1 753 | ✅ | ? | ? |
 | [astrodon.social](https://astrodon.social) | **133 345** | 2 543 | ✅ | A Mastodon community server for anyone interested in astronomy, astrophysics, astrophotography, and adjacent sciences. | en |
 | [kcmo.social](https://kcmo.social) | **132 863** | 267 | ✅ | Hey Kansas City, be friendly! | en |
 | [shpposter.club](https://shpposter.club) | **132 838** | 640 | ❌ | ? | ? |
-| [discuss.systems](https://discuss.systems) | **132 358** | 3 106 | ✅ | Discussion of computer systems research & practice -- OSes, distributed systems, networks, databases, architecture, etc -- for researchers, academics, & professionals. | en |
+| [discuss.systems](https://discuss.systems) | **132 684** | 3 106 | ✅ | Discussion of computer systems research & practice -- OSes, distributed systems, networks, databases, architecture, etc -- for researchers, academics, & professionals. | en |
 | [www.librepunk.club](https://www.librepunk.club) | **132 141** | 252 | ✅ | a friendly general instance for coders, queers, and leftists! | en |
 | [cuties.social](https://cuties.social) | **132 020** | 40 | ✅ | ? | en |
-| [die-partei.social](https://die-partei.social) | **131 901** | 112 | ✅ | ? | de |
+| [die-partei.social](https://die-partei.social) | **131 990** | 112 | ✅ | ? | de |
 | [social.kyiv.dcomm.net.ua](https://social.kyiv.dcomm.net.ua) | **131 044** | 1 186 | ✅ | Київський інстанс є частиною https://dcomm.net.ua.  Українські локальні інстанси Mastodon були розгорнуті в 9 українських містах у серпні-вересні 2022 року  | en |
 | [pawb.fun](https://pawb.fun) | **130 440** | 1 434 | ✅ | This instance aimed at any and all within the furry fandom, though anyone is welcome! We're friendly towards members of the LGBTQ+ community and aiming to offer a safe space for our users. | en |
 | [donphan.social](https://donphan.social) | **130 439** | 3 345 | ✅ | This generalist Mastodon server welcomes enthusiasts of the Pokémon franchise, to talk about it or anything else. Join the federation! | en |
-| [scicomm.xyz](https://scicomm.xyz) | **130 216** | 1 461 | ✅ | An instance for scientists, researchers, science students, communicators, and enthusiasts! Please visit https://about.scicomm.xyz for details. | en |
+| [scicomm.xyz](https://scicomm.xyz) | **130 351** | 1 461 | ✅ | An instance for scientists, researchers, science students, communicators, and enthusiasts! Please visit https://about.scicomm.xyz for details. | en |
 | [mstdn.tokyocameraclub.com](https://mstdn.tokyocameraclub.com) | **130 062** | 10 159 | ✅ | mstdn.tokyocameraclub.comは東京カメラ部が運営するMastodonのインスタンス（サーバー）です。 「カメラがある暮らし」をより楽しくすることを目的として、写真や動画などを投稿・閲覧するためのグループです。こちらの趣旨に賛同いただける方はどなたでも無料で参加いただけます。 | en |
 | [post.lurk.org](https://post.lurk.org) | **129 183** | 663 | ❌ | ? | ? |
 | [podcastindex.social](https://podcastindex.social) | **128 816** | 1 340 | ❌ | Intended for all stake holders of podcasting who are interested in improving the eco system  | en |
+| [eupolicy.social](https://eupolicy.social) | **128 694** | 1 359 | ✅ | This is a Mastodon instance for the EU policy bubble. We aim to be a friendly and respectful discussion space for people working in EU policy and to contribute to the growth of the Fediverse. | en |
 | [worldkey.io](https://worldkey.io) | **128 542** | 714 | ✅ | Discussion of Disney history, theme parks, music, movies, and related topics.  | en |
-| [eupolicy.social](https://eupolicy.social) | **128 401** | 1 358 | ✅ | This is a Mastodon instance for the EU policy bubble. We aim to be a friendly and respectful discussion space for people working in EU policy and to contribute to the growth of the Fediverse. | en |
-| [genomic.social](https://genomic.social) | **128 339** | 3 764 | ✅ | A Mastodon server for the Genomic Science Community. | en |
+| [genomic.social](https://genomic.social) | **128 461** | 3 764 | ✅ | A Mastodon server for the Genomic Science Community. | en |
 | [fedi.lynnesbian.space](https://fedi.lynnesbian.space) | **127 456** | 21 | ❌ | @lynnesbian@fedi.lynnesbian.space's anti-chud pro-skub instance for funtimes | en |
+| [urusai.social](https://urusai.social) | **127 445** | 791 | ✅ | A friendly and non-toxic English-first Mastodon community for anime, manga, and other otaku subjects. | en |
 | [queer.af](https://queer.af) | **127 331** | 174 | ❌ | queer.af, an eclectic queer space   queer.af is a mastodon instance for those who are queer or queer-adjacent who would like a more pleasant social media experience. | en |
-| [urusai.social](https://urusai.social) | **127 319** | 791 | ✅ | A friendly and non-toxic English-first Mastodon community for anime, manga, and other otaku subjects. | en |
 | [toot.funami.tech](https://toot.funami.tech) | **126 197** | 5 654 | ✅ | Safe and free-for-all hang out space without hate, discrimination, operated by YuruVerse / YuruVerse에 의해 운영되는 혐오와 차별이 없는 자유로운 대화 공간. | ko |
 | [gamingjp.org](https://gamingjp.org) | **125 981** | 67 | ✅ | ゲームのネタバレに特化したサーバーです。CWをつけつつゲームのネタバレをみんなで共有しましょう。 | ja |
 | [corteximplant.com](https://corteximplant.com) | **124 634** | 501 | ✅ | CORTEX IMPLANT - an international cyberpunk'ish LGBTQIA+ friendly Fediverse instance for edgerunners, netrunners and cyberpunks and all who want to become one. | en |
-| [mefi.social](https://mefi.social) | **123 671** | 265 | ❌ | ? | ? |
+| [mefi.social](https://mefi.social) | **123 897** | 265 | ❌ | ? | ? |
+| [cryptodon.lol](https://cryptodon.lol) | **123 523** | 3 048 | ✅ | A mastodon server for the crypto community, with easy to follow rules and community-focused moderation and maintenance.  Donate - 0x6Bc8A978bac589737d1fF903eeA8Eb53E03dAFD4 | en |
 | [kitty.town](https://kitty.town) | **122 768** | 119 | ❌ | KITTY.TOWN *founded May 1, 2017* | en |
 | [tube.spdns.org](https://tube.spdns.org) | **122 727** | 476 | ✅ | ? | ? |
 | [artisan.chat](https://artisan.chat) | **122 278** | ? | ❌ | ? | ? |
 | [xarxa.cloud](https://xarxa.cloud) | **121 313** | 882 | ✅ | Un node més al Fedivers amb l'objectiu d'agrupar col·lectius socials. Un nodo más en el Fediverso con el objetivo de agrupar colectivos sociales. No guardamos tus datos. No guardamos logs. | en |
 | [Xarxa.cloud](https://Xarxa.cloud) | **121 313** | 882 | ✅ | Un node més al Fedivers amb l'objectiu d'agrupar col·lectius socials. Un nodo más en el Fediverso con el objetivo de agrupar colectivos sociales. No guardamos tus datos. No guardamos logs. | en |
 | [nerdpol.ch](https://nerdpol.ch) | **121 251** | 6 368 | ❌ | ? | ? |
+| [thicc.horse](https://thicc.horse) | **121 071** | 740 | ✅ | THICC.HORSE -- Lewd not rude! Body positivity, LGBTQIA+, Furry, horny on main!  A small instance with active moderation.  | en |
 | [owo.cafe](https://owo.cafe) | **121 010** | 274 | ❌ | Tu cafetería de confianza para hablar de las cosas que te gustan. | es |
 | [mstdn.anqou.net](https://mstdn.anqou.net) | **120 997** | 36 | ❌ | わくわく鮟鱇ランドは、住民が皆わくわくしているマストドンです。登録は艮鮟鱇の身内に制限されています。 | ja |
-| [thicc.horse](https://thicc.horse) | **120 918** | 741 | ✅ | THICC.HORSE -- Lewd not rude! Body positivity, LGBTQIA+, Furry, horny on main!  A small instance with active moderation.  | en |
 | [kpop.social](https://kpop.social) | **120 740** | 234 | ✅ | The federated kpop social network | en |
 | [cdrom.tokyo](https://cdrom.tokyo) | **120 732** | 958 | ✅ | ? | ? |
 | [wizzzard.online](https://wizzzard.online) | **120 350** | 9 | ❌ | ? | ? |
 | [cunnyborea.top](https://cunnyborea.top) | **120 030** | 1 486 | ✅ | ? | ? |
-| [mast.eu.org](https://mast.eu.org) | **119 504** | 152 | ✅ | ? | fr |
-| [mastodon.uy](https://mastodon.uy) | **119 289** | 1 374 | ✅ | Nodo de Uruguay en servidor autogestionado y libre de corporaciones. Registro abierto, sujeto a revisión. Leer las normas, completar el formulario y esperar confirmación por mail (puede llegar a spam) | es |
-| [mstdn.plus](https://mstdn.plus) | **119 275** | 11 529 | ✅ | MSTDN+ is a general-purpose Mastodon instance. Welcome to the fediverse! | en |
-| [discordian.social](https://discordian.social) | **119 237** | 67 | ✅ | Hail Eris! Get your hotdogs here. | en |
+| [discordian.social](https://discordian.social) | **119 594** | 67 | ✅ | Hail Eris! Get your hotdogs here. | en |
+| [mast.eu.org](https://mast.eu.org) | **119 538** | 152 | ✅ | ? | fr |
+| [mstdn.plus](https://mstdn.plus) | **119 478** | 11 529 | ✅ | MSTDN+ is a general-purpose Mastodon instance. Welcome to the fediverse! | en |
+| [mastodon.uy](https://mastodon.uy) | **119 356** | 1 374 | ✅ | Nodo de Uruguay en servidor autogestionado y libre de corporaciones. Registro abierto, sujeto a revisión. Leer las normas, completar el formulario y esperar confirmación por mail (puede llegar a spam) | es |
 | [petrous.vislae.town](https://petrous.vislae.town) | **118 840** | 22 | ✅ | ? | ? |
 | [kirche.social](https://kirche.social) | **118 803** | 601 | ✅ | Die gemeinschaftlich verantwortete Instanz von Menschen rund um die Kirche(n). Wir sind christlich, interkonfessionell und ökumenisch. kirche.social wird vom LUKi e.V. betrieben. | de |
 | [www.polylux.xyz](https://www.polylux.xyz) | **118 711** | 66 | ✅ | ? | ? |
+| [im-in.space](https://im-in.space) | **118 444** | 1 057 | ❌ | A generalist Mastodon instance with a nice domain name. Running on Glitch Social's fork with a custom theme and a 1024 characters limit! | en |
 | [strelizia.net](https://strelizia.net) | **118 368** | 12 | ❌ | ? | ? |
 | [mstdn.home.neso.tech](https://mstdn.home.neso.tech) | **118 367** | 8 | ❌ | ? | en |
-| [im-in.space](https://im-in.space) | **118 358** | 1 057 | ❌ | A generalist Mastodon instance with a nice domain name. Running on Glitch Social's fork with a custom theme and a 1024 characters limit! | en |
 | [diasp.nl](https://diasp.nl) | **118 005** | 3 866 | ✅ | ? | ? |
 | [vt.social](https://vt.social) | **117 944** | 1 040 | ✅ | The biggest VTuber instance, by VTubers for VTubers and adjacent content creators. | en |
 | [kurry.social](https://kurry.social) | **117 885** | 1 904 | ✅ | 한국 퍼리(수인) 모두를 위한 마스토돈 서버, kurry(k-furry)입니다! 퍼리(수인)에 관심이 있거나 퍼리(수인)이신 분들, 퍼슈터분들 모두 환영합니다! | ko |
 | [lain.com](https://lain.com) | **117 564** | 7 | ❌ | ? | ? |
-| [twiukraine.com](https://twiukraine.com) | **116 112** | 2 060 | ✅ | Український Mastodon для біженців з Twitterу. Twiukraine twiukraine.com Щоб додати посилання сюди з Твіттеру, використовуйте https://gotwu.me/@twiukraine/109523576844900640 | uk |
-| [flipboard.social](https://flipboard.social) | **116 045** | 2 950 | ✅ | Welcome to Flipboard on Mastodon. A place for our community of curators and enthusiasts to inform and inspire each other.   If you'd like to join please request an invitation via the sign-up page.  | en |
+| [flipboard.social](https://flipboard.social) | **116 641** | 2 950 | ✅ | Welcome to Flipboard on Mastodon. A place for our community of curators and enthusiasts to inform and inspire each other.   If you'd like to join please request an invitation via the sign-up page.  | en |
+| [twiukraine.com](https://twiukraine.com) | **116 239** | 2 060 | ✅ | Український Mastodon для біженців з Twitterу. Twiukraine twiukraine.com Щоб додати посилання сюди з Твіттеру, використовуйте https://gotwu.me/@twiukraine/109523576844900640 | uk |
 | [eientei.org](https://eientei.org) | **115 510** | 387 | ✅ | ? | ? |
 | [lemmy.ml](https://lemmy.ml) | **115 102** | 50 986 | ✅ | ? | ? |
 | [cathode.church](https://cathode.church) | **114 062** | 205 | ✅ | A place for trans makers, coders, tinkerers and dreamers. | en |
 | [pixel.livellosegreto.it](https://pixel.livellosegreto.it) | **113 726** | 586 | ❌ | ? | ? |
 | [tuiter.rocks](https://tuiter.rocks) | **113 543** | 243 | ✅ | Bienvenidos a la instancia más simpática de Mastodon. Somos tuiter.rocks y volamos libres como los pájaros. Instancia generalista. Humor y debate.No tenemos nada que ver con Twitter.com. | es |
-| [toot.kif.rocks](https://toot.kif.rocks) | **112 493** | 728 | ✅ | ? | de |
-| [social.bau-ha.us](https://social.bau-ha.us) | **112 390** | 808 | ✅ | social.bau-ha.us is your friendly neighbourhood mastodon instance proudly presented by Maschinenraum Weimar. Our focus is community. Feel free to join, but please be aware that there are some rules! | en |
-| [cryptodon.lol](https://cryptodon.lol) | **112 240** | 3 048 | ✅ | A mastodon server for the crypto community, with easy to follow rules and community-focused moderation and maintenance.  Donate - 0x6Bc8A978bac589737d1fF903eeA8Eb53E03dAFD4 | en |
-| [gensokyo.social](https://gensokyo.social) | **112 176** | 3 643 | ❌ | A generalistic mastodon instance seeking to host Touhou (and other shootemup) fans!  | en |
+| [toot.kif.rocks](https://toot.kif.rocks) | **112 580** | 728 | ✅ | ? | de |
+| [social.bau-ha.us](https://social.bau-ha.us) | **112 423** | 809 | ✅ | social.bau-ha.us is your friendly neighbourhood mastodon instance proudly presented by Maschinenraum Weimar. Our focus is community. Feel free to join, but please be aware that there are some rules! | en |
+| [mastorol.es](https://mastorol.es) | **112 378** | 2 021 | ✅ | Una instancia para la comunidad hispana de juegos de rol y juegos de mesa. | es |
+| [gensokyo.social](https://gensokyo.social) | **112 215** | 3 643 | ❌ | A generalistic mastodon instance seeking to host Touhou (and other shootemup) fans!  | en |
 | [ani.work](https://ani.work) | **112 150** | 2 330 | ✅ | This is Aniwork Network, which aims to discuss animation. We welcome animations from all over the world. (Maintained by Elysia Root L.C.) | ko, en, ja |
-| [mastorol.es](https://mastorol.es) | **112 041** | 2 021 | ✅ | Una instancia para la comunidad hispana de juegos de rol y juegos de mesa. | es |
 | [toot.mantyke.icu](https://toot.mantyke.icu) | **111 884** | 44 | ❌ | ? | ? |
-| [medibubble.org](https://medibubble.org) | **111 819** | 1 621 | ✅ | Auf diesem Server ist jede* und jeder* willkommen, ungeachtet des medizinischen Hintergrundes.  | de |
+| [medibubble.org](https://medibubble.org) | **111 875** | 1 621 | ✅ | Auf diesem Server ist jede* und jeder* willkommen, ungeachtet des medizinischen Hintergrundes.  | de |
 | [progressivecafe.social](https://progressivecafe.social) | **111 590** | 28 | ❌ | A private instance for progressives. | en |
 | [mk.toast.cafe](https://mk.toast.cafe) | **111 435** | 21 | ❌ | ? | ? |
 | [digipres.club](https://digipres.club) | **110 892** | 713 | ✅ | ? | ? |
 | [peertube.stream](https://peertube.stream) | **110 377** | 1 912 | ✅ | ? | ? |
 | [mastodonsweden.se](https://mastodonsweden.se) | **110 230** | 450 | ✅ | Svensk version av Mastodon. | en |
+| [hci.social](https://hci.social) | **109 820** | 2 521 | ✅ | A social platform for Human-computer Interaction researchers and practitioners. Hosted by Princeton HCI. Managed by a group of volunteers. | en |
 | [social.xenofem.me](https://social.xenofem.me) | **109 705** | 212 | ❌ | ? | ? |
-| [hci.social](https://hci.social) | **109 704** | 2 521 | ✅ | A social platform for Human-computer Interaction researchers and practitioners. Hosted by Princeton HCI. Managed by a group of volunteers. | en |
 | [social.targaryen.house](https://social.targaryen.house) | **109 659** | 3 782 | ❌ | ? | en |
 | [despora.de](https://despora.de) | **109 585** | 855 | ❌ | ? | ? |
 | [bookrastinating.com](https://bookrastinating.com) | **109 209** | 3 766 | ❌ | ? | ? |
+| [bakedbean.xyz](https://bakedbean.xyz) | **109 072** | 129 | ✅ | 동네 어디에나 있는 슈퍼마-켙 입니다. 개인 서버에서 운영되고 있습니다. | ko |
 | [pointless.chat](https://pointless.chat) | **109 029** | 852 | ✅ | 포인트리스에 어서오세요! 여기는 뻘글을 생산하는 공장입니다. 기록하고, 표현하고, 공유하세요. | ko |
+| [mastodon.arch-linux.cz](https://mastodon.arch-linux.cz) | **108 836** | 2 974 | ✅ | Instance otevřena všem českým uživatelům. Komunikujte s přáteli a objevujte nové,to vše na platformě vlastněné komunitou a nadšenci open source.  | cs |
 | [gratefuldread.masto.host](https://gratefuldread.masto.host) | **108 732** | 12 | ✅ | Operated by Grateful Dread Peace Media for people who love peace and love. | en |
-| [bakedbean.xyz](https://bakedbean.xyz) | **108 675** | 129 | ✅ | 동네 어디에나 있는 슈퍼마-켙 입니다. 개인 서버에서 운영되고 있습니다. | ko |
-| [lou.lt](https://lou.lt) | **108 595** | 3 947 | ❌ | Instance francophone toujours là depuis 2017 et qui n'a pas prévu de s'arrêter ! Ici on pouette un peu de tout mais toujours dans le respect de la loi et des autres.  | en |
-| [mastodon.arch-linux.cz](https://mastodon.arch-linux.cz) | **108 530** | 2 973 | ✅ | Instance otevřena všem českým uživatelům. Komunikujte s přáteli a objevujte nové,to vše na platformě vlastněné komunitou a nadšenci open source.  | cs |
-| [social.sciences.re](https://social.sciences.re) | **108 127** | 1 191 | ✅ | Sciences·Re souhaite offrir un espace de partage, de collaboration et de discussion en ligne pour la communauté scientifique, académique, éducative francophone. Elle est sans coloration thématique. | fr |
+| [lou.lt](https://lou.lt) | **108 644** | 3 947 | ❌ | Instance francophone toujours là depuis 2017 et qui n'a pas prévu de s'arrêter ! Ici on pouette un peu de tout mais toujours dans le respect de la loi et des autres.  | en |
+| [social.sciences.re](https://social.sciences.re) | **108 479** | 1 191 | ✅ | Sciences·Re souhaite offrir un espace de partage, de collaboration et de discussion en ligne pour la communauté scientifique, académique, éducative francophone. Elle est sans coloration thématique. | fr |
+| [dizl.de](https://dizl.de) | **108 148** | 2 314 | ✅ | dizl.de ist eine kleine Mastodon Instanz. Wir bieten einen kleinen Gemeinschaftsraum - Be excellent to each other. Die Hauptsprache dieser Instanz ist deutsch. | de |
+| [masto.nobigtech.es](https://masto.nobigtech.es) | **108 089** | 3 397 | ✅ | Servidor de Mastodon del proyecto nobigtech.es, se aloja en Bilbao, Euskal Herria. Temas generales, políticas de izquierdas. | es |
 | [netzsphaere.xyz](https://netzsphaere.xyz) | **108 054** | 21 | ❌ | ? | ? |
-| [dizl.de](https://dizl.de) | **108 014** | 2 313 | ✅ | dizl.de ist eine kleine Mastodon Instanz. Wir bieten einen kleinen Gemeinschaftsraum - Be excellent to each other. Die Hauptsprache dieser Instanz ist deutsch. | de |
-| [masto.nobigtech.es](https://masto.nobigtech.es) | **108 013** | 3 397 | ✅ | Servidor de Mastodon del proyecto nobigtech.es, se aloja en Bilbao, Euskal Herria. Temas generales, políticas de izquierdas. | es |
 | [pix.mastodont.cat](https://pix.mastodont.cat) | **106 825** | 55 | ❌ | ? | ? |
+| [social.chinwag.org](https://social.chinwag.org) | **106 666** | 1 333 | ✅ | Consider this place your friendly, local Australian pub. Make yourself at home, bring your friends, have a good time! Meet new people, have a laugh, enjoy the ambience, and the Oxford commas. | en |
 | [rhabarberbarbara.bar](https://rhabarberbarbara.bar) | **106 630** | 96 | ❌ | ? | ? |
-| [social.chinwag.org](https://social.chinwag.org) | **106 625** | 1 333 | ✅ | Consider this place your friendly, local Australian pub. Make yourself at home, bring your friends, have a good time! Meet new people, have a laugh, enjoy the ambience, and the Oxford commas. | en |
 | [kazv.moe](https://kazv.moe) | **106 269** | 829 | ✅ | ? | ? |
 | [m-i.im](https://m-i.im) | **106 084** | 135 | ❌ | 欢迎来到联邦宇宙，你的世界。 | zh-CN |
-| [4bear.com](https://4bear.com) | **105 664** | 1 231 | ✅ | Mastodon Server for the LGBT+ Bear Community. Be Nice. Be over 18 years old. Fill out "Why do you want to join?" so we know you're here for the right reasons. | en |
-| [graz.social](https://graz.social) | **105 569** | 1 517 | ✅ | Ein Mastodon-Server für Graz und Umland betrieben durch den Verein graz.social - Verein zur Förderung ethischer Digitalkultur: https://info.graz.social | en |
+| [4bear.com](https://4bear.com) | **105 950** | 1 231 | ✅ | Mastodon Server for the LGBT+ Bear Community. Be Nice. Be over 18 years old. Fill out "Why do you want to join?" so we know you're here for the right reasons. | en |
+| [graz.social](https://graz.social) | **105 618** | 1 516 | ✅ | Ein Mastodon-Server für Graz und Umland betrieben durch den Verein graz.social - Verein zur Förderung ethischer Digitalkultur: https://info.graz.social | en |
 | [imaginair.es](https://imaginair.es) | **105 532** | 348 | ❌ | Une instance mastodon pour les créateur·ices et passionné·e·s d'imaginaire(s) | fr |
 | [mendeddrum.org](https://mendeddrum.org) | **105 498** | 248 | ✅ | This is the Mended Drum, Discworlds best known disreputable tavern. | en |
 | [vtdon.com](https://vtdon.com) | **105 308** | 1 062 | ✅ | Vtuber星こにあが運営する、VtuberによるVtuberとVtuberファンのためのインスタンスです。 | en |
-| [fairy.id](https://fairy.id) | **103 701** | 2 612 | ✅ | 銀河耿耿兮寒氣侵，月色橫斜兮玉漏沉。憂心炳炳兮發我哀吟，吟復吟兮寄我知音。 The time is gone, the story is over, thought we'd something more to say. | en |
-| [col.social](https://col.social) | **103 461** | 725 | ✅ | Un mastodonte colombiano.  | en |
-| [timetheft.social](https://timetheft.social) | **103 300** | 31 | ❌ | ? | ? |
-| [queer.group](https://queer.group) | **102 980** | 93 | ❌ | ? | ? |
-| [veganism.social](https://veganism.social) | **102 422** | 2 891 | ✅ | Veganism Social is a welcoming space on the internet for vegans to connect and engage with the broader decentralized social media community. | en |
+| [fairy.id](https://fairy.id) | **103 955** | 2 623 | ✅ | 銀河耿耿兮寒氣侵，月色橫斜兮玉漏沉。憂心炳炳兮發我哀吟，吟復吟兮寄我知音。 The time is gone, the story is over, thought we'd something more to say. | en |
+| [col.social](https://col.social) | **103 590** | 726 | ✅ | Un mastodonte colombiano.  | en |
+| [timetheft.social](https://timetheft.social) | **103 533** | 31 | ❌ | ? | ? |
+| [queer.group](https://queer.group) | **103 146** | 93 | ❌ | ? | ? |
+| [veganism.social](https://veganism.social) | **102 419** | 2 891 | ✅ | Veganism Social is a welcoming space on the internet for vegans to connect and engage with the broader decentralized social media community. | en |
 | [apobangpo.space](https://apobangpo.space) | **102 147** | 1 202 | ✅ | A fediverse home for BTS ARMY and KPop Fans. All welcome! Share your favourite Korean music, scream for your favourite Idol(s), learn together. All fun and no drama. Bangtan Forever, ARMY forever.  | en |
 | [persadon.com](https://persadon.com) | **101 924** | 209 | ❌ | با دوستان خود گفتگو کنید و دوستان تازه بیابید. عکس، ویدیو، و نوشته‌های خود را به اشتراک بگذارید. پرسادون بخشی از شبکهٔ اجتماعی ماستودون است و می‌خواهد محیطی ایمن و پایدار برای کاربران فارسی‌زبان باشد. | fa |
 | [jawns.club](https://jawns.club) | **101 858** | 960 | ❌ | Welcome to the first mastodon based community for Philadelphians who ❤️Philadelphia! Think of this instance as a new neighborhood in Philly that anyone can be a part of, because it's online. | en |
@@ -5698,7 +5721,7 @@
 | [mastodon.nzoss.nz](https://mastodon.nzoss.nz) | **100 339** | 381 | ✅ | This is a mostly te reo Māori and English language instance, for folks in Aotearoa New Zealand. We talk a lot about openness, technology, and improving our society. Helping folk associated with Aotearoa New Zealand engage in the Fediverse since 2017.  | en |
 | [nebbia.fail](https://nebbia.fail) | **99 297** | 238 | ❌ | ? | ? |
 | [mustard.blog](https://mustard.blog) | **98 884** | 1 834 | ✅ | 머스타드(Mustard)는 한국어 사용자를 위한 자유주제 서버로, 머스타드처럼 친숙하고 편한 서버를 지향합니다! | en |
-| [toot.bike](https://toot.bike) | **98 292** | 609 | ✅ | A Mastodon instance aimed at (but not limited to) the cycling community. | en |
+| [toot.bike](https://toot.bike) | **98 513** | 609 | ✅ | A Mastodon instance aimed at (but not limited to) the cycling community. | en |
 | [im.allmendenetz.de](https://im.allmendenetz.de) | **98 257** | 275 | ✅ | ? | ? |
 | [social.translunar.academy](https://social.translunar.academy) | **97 734** | 51 | ❌ | ? | ? |
 | [d.c-cha.cc](https://d.c-cha.cc) | **97 154** | 15 | ❌ | ? | ? |
@@ -5708,65 +5731,65 @@
 | [venera.social](https://venera.social) | **96 010** | 2 245 | ✅ | ? | ? |
 | [front-end.social](https://front-end.social) | **95 456** | 264 | ❌ | Front-end web makers who value humans over technology & embrace diversity on an accessible web. We hope to stay small & grow slowly. Mascots by @stephaniewalter. More at https://about.front-end.social | en |
 | [social.freetalklive.com](https://social.freetalklive.com) | **95 116** | 585 | ✅ | Escaping centralized megacorporate platforms is important, so we've launched this Mastodon server targeted at voluntarists, freedom-loving anarchists, libertarians, & listeners of Free Talk Live. | en |
-| [climatejustice.rocks](https://climatejustice.rocks) | **94 777** | 3 154 | ❌ | Welcome to this official Fediverse instance for climate justice activists. | en |
-| [ludosphere.fr](https://ludosphere.fr) | **94 737** | 821 | ✅ | Communauté ludique (jeux vidéo, de rôle, de société, etc) destinée aux joueuses et joueurs francophones de tous horizons. French speaking people only. | fr |
+| [climatejustice.rocks](https://climatejustice.rocks) | **94 873** | 3 154 | ❌ | Welcome to this official Fediverse instance for climate justice activists. | en |
+| [ludosphere.fr](https://ludosphere.fr) | **94 863** | 821 | ✅ | Communauté ludique (jeux vidéo, de rôle, de société, etc) destinée aux joueuses et joueurs francophones de tous horizons. French speaking people only. | fr |
+| [mementomori.social](https://mementomori.social) | **94 588** | 255 | ✅ | Mementomori.social is a social media for mortals. We connect with the Fediverse, used by millions. This instance is backed by a Finnish company, digital web agency Digitoimisto Dude Oy. | en |
 | [social.pixie.town](https://social.pixie.town) | **94 557** | 44 | ❌ | ? | ? |
-| [mellified.men](https://mellified.men) | **94 238** | 19 | ❌ | A cozy little tomb full of friendly ghouls. | en |
-| [mementomori.social](https://mementomori.social) | **94 224** | 253 | ✅ | Mementomori.social is a social media for mortals. We connect with the Fediverse, used by millions. This instance is backed by a Finnish company, digital web agency Digitoimisto Dude Oy. | en |
+| [mellified.men](https://mellified.men) | **94 311** | 19 | ❌ | A cozy little tomb full of friendly ghouls. | en |
 | [kbin.social](https://kbin.social) | **93 968** | 60 802 | ✅ | ? | ? |
 | [mastodon.gal](https://mastodon.gal) | **93 837** | 1 253 | ✅ | mastodon.gal é unha instancia en galego de Mastodon para a comunidade galega. | gl |
 | [esperanto.masto.host](https://esperanto.masto.host) | **93 694** | 1 121 | ✅ | This is an Esperanto-speaking instance, so it goes without saying that users are expected to toot in Esperanto. There are a million other instances to create your account if you intend to toot in English or any other language.  | eo |
 | [social.gibberfish.org](https://social.gibberfish.org) | **93 571** | 249 | ❌ | ? | ? |
 | [sakurajima.moe](https://sakurajima.moe) | **93 542** | 795 | ✅ | A comfy, non-toxic, and inclusive Mastodon Server for Anime/Manga/Japanese Media fans and Anime/Japanese Media Content Creators (Bloggers/Video Creators/Podcasters/etc.) | en |
+| [mastodon-uk.net](https://mastodon-uk.net) | **93 363** | 1 871 | ✅ | A UK based and hosted general server; all welcome! | en |
 | [zhub.link](https://zhub.link) | **93 122** | 205 | ✅ | ? | en |
+| [mastodon.cr](https://mastodon.cr) | **93 087** | 399 | ✅ | Servidor de Mastodon para gente de Costa Rica. Espacio seguro libre de discursos de odio, homofobia, transfobia y racismo. | es |
 | [goblin.band](https://goblin.band) | **93 042** | 26 | ❌ | ? | ? |
-| [mastodon-uk.net](https://mastodon-uk.net) | **92 992** | 1 854 | ✅ | A UK based and hosted general server; all welcome! | en |
-| [mastodon.cr](https://mastodon.cr) | **92 988** | 399 | ✅ | Servidor de Mastodon para gente de Costa Rica. Espacio seguro libre de discursos de odio, homofobia, transfobia y racismo. | es |
 | [mstdn.business](https://mstdn.business) | **92 857** | 1 943 | ✅ | Business-friendly Mastodon server,open for everyone interested to contribute with their real name, business, brand, or startup to build a professional community. Hosted on Hetzner Cloud in Helsinki. | en |
+| [mastodon.design](https://mastodon.design) | **92 770** | 1 025 | ✅ | A small instance for and by people who make things! We stand for an open, independent, sustainable, inclusive, and accessible web. | en |
 | [dju.social](https://dju.social) | **92 696** | 5 747 | ❌ | Die Deutsche Journalistinnen- und Journalisten-Union (dju) in ver.di bietet hier einen Raum für Medienmenschen und alle, die an einem freundlichen und konstruktiven Austausch interessiert sind. | de |
-| [mastodon.design](https://mastodon.design) | **92 545** | 1 023 | ✅ | A small instance for and by people who make things! We stand for an open, independent, sustainable, inclusive, and accessible web. | en |
 | [better.boston](https://better.boston) | **92 326** | 636 | ✅ | A server for people in Greater Boston and Massachusetts interested in a more inclusive, equitable, and sustainable region. | en |
+| [expressional.social](https://expressional.social) | **92 195** | 3 111 | ✅ | Mastodon server hosted in Copenhagen, Denmark, by a dane.   All languages are welcome, Federated with other Danish servers. Focus on safety, transparency and security. | en |
 | [social.beachcom.org](https://social.beachcom.org) | **92 013** | 37 | ❌ | Mostly german speaking, facts based instance in support of the Mastodon network. | en |
 | [bungle.online](https://bungle.online) | **91 863** | 28 | ❌ | ? | ? |
-| [expressional.social](https://expressional.social) | **91 824** | 3 109 | ✅ | Mastodon server hosted in Copenhagen, Denmark, by a dane.   All languages are welcome, Federated with other Danish servers. Focus on safety, transparency and security. | en |
 | [lethallava.land](https://lethallava.land) | **91 793** | 919 | ✅ | ? | ? |
 | [pubeurope.com](https://pubeurope.com) | **91 554** | 4 | ❌ | ? | en |
 | [transfem.social](https://transfem.social) | **91 354** | 544 | ✅ | ? | ? |
 | [social.handholding.io](https://social.handholding.io) | **90 059** | 165 | ❌ | ? | ? |
 | [geekdom.social](https://geekdom.social) | **89 723** | 8 088 | ✅ | Geekdom is a high-performance Mastodon server for geeks of any variety. | en |
-| [bne.social](https://bne.social) | **89 380** | 227 | ✅ | A community for residents and friends of Brisbane, Meanjin, South-east Queensland, and the region. Come say hey! | en |
+| [bne.social](https://bne.social) | **89 503** | 227 | ✅ | A community for residents and friends of Brisbane, Meanjin, South-east Queensland, and the region. Come say hey! | en |
+| [social.horrorhub.club](https://social.horrorhub.club) | **89 025** | 327 | ✅ | A Mastodon server for Horror fans. | en |
 | [tacobelllabs.net](https://tacobelllabs.net) | **89 005** | 154 | ✅ | an exchange office in a tiny corner of the Internet. live más. | en |
-| [social.horrorhub.club](https://social.horrorhub.club) | **88 874** | 327 | ✅ | A Mastodon server for Horror fans. | en |
-| [hispagatos.space](https://hispagatos.space) | **88 486** | 2 809 | ✅ | Hispagatos - Anarcho hacker collective a(A)a - A Hacker culture and a Anarchist hacker friendly mastodon instance. | en |
+| [hispagatos.space](https://hispagatos.space) | **88 579** | 2 809 | ✅ | Hispagatos - Anarcho hacker collective a(A)a - A Hacker culture and a Anarchist hacker friendly mastodon instance. | en |
 | [mstdn.sublimer.me](https://mstdn.sublimer.me) | **88 428** | 111 | ✅ | 小惑星のように、十人十色、いろいろなユーザー、トゥートが流れるマストドンサーバーです。 | ja |
 | [daepi.so](https://daepi.so) | **87 716** | 774 | ✅ | ? | ? |
 | [social.diskseven.com](https://social.diskseven.com) | **87 611** | 1 | ❌ | The lone realm of one Jo Jerrica Decker | en |
+| [embassy.social](https://embassy.social) | **87 557** | 7 | ❌ | ? | en |
 | [mstdn.starnix.network](https://mstdn.starnix.network) | **87 545** | 82 | ✅ | Starnix is a Fediverse/ActivityPub Focused platform. Topics are mainly Technology and computer related but are not required to fall into those categories. | en |
-| [embassy.social](https://embassy.social) | **87 536** | 7 | ❌ | ? | en |
+| [topspicy.social](https://topspicy.social) | **87 526** | 113 | ❌ | LGBTQIA+ friendly community. Lots of retro games, bad movies. Keep it supportive, keep it kind. | en |
 | [cum.salon](https://cum.salon) | **87 310** | 152 | ✅ | ? | ? |
-| [topspicy.social](https://topspicy.social) | **87 308** | 113 | ❌ | LGBTQIA+ friendly community. Lots of retro games, bad movies. Keep it supportive, keep it kind. | en |
 | [calckey.jp](https://calckey.jp) | **87 155** | 425 | ❌ | ? | ? |
 | [h4.io](https://h4.io) | **86 859** | 8 237 | ✅ | h4.io est une instance Mastodon française, généraliste et stable. Inscris-toi, présente-toi et découvre simplement de nouvelles personnes ! | fr |
 | [helvede.net](https://helvede.net) | **86 511** | 213 | ✅ | Velkommen til Helvede, fediversets hotteste instance! Vi er en queerfeministisk server, der shitposter i den 9. cirkel. Welcome to Hell, We’re a DK-based queerfeminist server. Read our server rules! | en |
 | [estrogen.network](https://estrogen.network) | **86 498** | 48 | ❌ | ? | ? |
-| [toot.lgbt](https://toot.lgbt) | **86 333** | 220 | ✅ | A safe Mastodon (posting) and Matrix (chat) for all women and/or LGBTQ+ identifying people. Our admins and mods are all drawn from within our membership. All sign-ups are approved by a mod. | en |
+| [toot.lgbt](https://toot.lgbt) | **86 482** | 220 | ✅ | A safe Mastodon (posting) and Matrix (chat) for all women and/or LGBTQ+ identifying people. Our admins and mods are all drawn from within our membership. All sign-ups are approved by a mod. | en |
 | [dvd.chat](https://dvd.chat) | **86 128** | 874 | ✅ | ? | ? |
-| [dmv.community](https://dmv.community) | **85 835** | 536 | ✅ | A small regional Mastodon instance for those in the DC, Maryland, and Virginia areas. Local news, commentary, and conversation. | en |
+| [dmv.community](https://dmv.community) | **86 069** | 536 | ✅ | A small regional Mastodon instance for those in the DC, Maryland, and Virginia areas. Local news, commentary, and conversation. | en |
 | [breastmilk.club](https://breastmilk.club) | **85 104** | 28 | ❌ | ? | ? |
 | [mastodon.sergal.org](https://mastodon.sergal.org) | **84 883** | 261 | ❌ | ? | en |
 | [merovingian.club](https://merovingian.club) | **84 648** | 513 | ✅ | ? | ? |
 | [videos.pair2jeux.tube](https://videos.pair2jeux.tube) | **84 647** | 539 | ✅ | ? | ? |
 | [allpro.social](https://allpro.social) | **84 595** | 70 | ❌ | Welcome to Allpro.social! Allpro is a place to discuss sports, sports related things, etc. General stuff is fine (if you're watching the game with friends, you don't *only* talk about the game after all), but try to keep on topic.  | en |
 | [makertube.net](https://makertube.net) | **84 580** | 412 | ✅ | ? | ? |
+| [rheinneckar.social](https://rheinneckar.social) | **84 342** | 3 380 | ✅ | Das soziale Netzwerk für die Rhein-Neckar-Region im Fediverse. Mannheim, Heidelberg, Ludwigshafen und alles drumherum. | en |
 | [toot.yukimochi.jp](https://toot.yukimochi.jp) | **84 283** | 1 | ❌ | Independent ActivityPub Server of YUKIMOCHI | ja |
 | [books.theunseen.city](https://books.theunseen.city) | **84 235** | 1 033 | ✅ | ? | ? |
-| [rheinneckar.social](https://rheinneckar.social) | **84 104** | 3 380 | ✅ | Das soziale Netzwerk für die Rhein-Neckar-Region im Fediverse. Mannheim, Heidelberg, Ludwigshafen und alles drumherum. | en |
 | [eigenmagic.net](https://eigenmagic.net) | **83 892** | 171 | ✅ | The purpose of an instance is what it does. We do eigenmagic. | en |
 | [masto.nu](https://masto.nu) | **83 870** | 20 752 | ✅ | General purpose Mastodon server. All languages are welcome but English, Dutch and Spanish are preferred. | en |
 | [gamepad.club](https://gamepad.club) | **83 863** | 208 | ✅ | Gamepad.Club has a video games focus, but we're open to all forms of gaming from tabletop RPGs to trading card games. Hosted in the UK and EU but everyone is welcome! | en |
 | [bbq.snoot.com](https://bbq.snoot.com) | **83 624** | 1 228 | ✅ | A Mastodon community for film and tv people. | en |
+| [spacey.space](https://spacey.space) | **83 301** | 695 | ✅ | The place for all things Space! Rocket Launches, Space Weather, Human exploration of the cosmos, and dreams of the future! Welcome to your new space for all things space! | en |
 | [xn--69aa8bzb.xn--y9a3aq](https://xn--69aa8bzb.xn--y9a3aq) | **83 288** | 372 | ❌ | ? | ? |
-| [spacey.space](https://spacey.space) | **83 140** | 695 | ✅ | The place for all things Space! Rocket Launches, Space Weather, Human exploration of the cosmos, and dreams of the future! Welcome to your new space for all things space! | en |
 | [surfin.dog](https://surfin.dog) | **83 022** | 1 | ❌ | A single-user instance for a pretend dog | en |
 | [piggo.space](https://piggo.space) | **82 654** | 17 | ✅ | ? | ? |
 | [social.platypush.tech](https://social.platypush.tech) | **82 562** | 33 | ✅ | Automation, AI, FOSS, software development, science, tech and economics.  This instance supports long posts (<=10k chars) and up to 10 profile description items. | en |
@@ -5777,29 +5800,29 @@
 | [tuusin.misono-ya.info](https://tuusin.misono-ya.info) | **81 196** | 2 | ❌ | ? | ? |
 | [mastodon.energy](https://mastodon.energy) | **80 488** | 1 061 | ✅ | We are a server dedicated to professional and academic individuals and organizations working on energy transition policy, infrastructure, technology, journalism, and science. | en |
 | [woem.space](https://woem.space) | **80 077** | 39 | ❌ | ? | ? |
+| [blacktwitter.io](https://blacktwitter.io) | **79 974** | 1 552 | ✅ | Remember when you first heard about Black twitter and thought it was actually a separate website? Was that just me? | en |
 | [mastodon.sandwich.net](https://mastodon.sandwich.net) | **79 946** | 486 | ✅ | ? | en |
-| [blacktwitter.io](https://blacktwitter.io) | **79 944** | 1 550 | ✅ | Remember when you first heard about Black twitter and thought it was actually a separate website? Was that just me? | en |
-| [boitam.eu](https://boitam.eu) | **79 876** | 32 | ❌ | La petite instance qui dit “Meu !” au grand Fédiverse. | en |
-| [weatherishappening.network](https://weatherishappening.network) | **79 624** | 100 | ✅ | THE WEATHER IS HAPPENING MASTODON SERVER | en |
+| [boitam.eu](https://boitam.eu) | **79 945** | 32 | ❌ | La petite instance qui dit “Meu !” au grand Fédiverse. | en |
+| [weatherishappening.network](https://weatherishappening.network) | **79 883** | 100 | ✅ | THE WEATHER IS HAPPENING MASTODON SERVER | en |
+| [darmstadt.social](https://darmstadt.social) | **79 650** | 1 208 | ✅ | Willkommen in der digitalen Darmstädter Nachbarschaft aus dem Rhein-Main-Gebiet - komm doch mal auf einen Kaffee vorbei! | en |
+| [esq.social](https://esq.social) | **79 628** | 579 | ✅ | A Mastodon instance for legal professionals and folks in law-adjacent fields.   We abide by the Mastodon Server Covenant, available (here)[https://joinmastodon.org/covenant].  | en |
 | [mastodon.chrisduffley.com](https://mastodon.chrisduffley.com) | **79 623** | 21 | ✅ | A place to chat and hang out. | en |
-| [darmstadt.social](https://darmstadt.social) | **79 539** | 1 208 | ✅ | Willkommen in der digitalen Darmstädter Nachbarschaft aus dem Rhein-Main-Gebiet - komm doch mal auf einen Kaffee vorbei! | en |
-| [gs.leftic.club](https://gs.leftic.club) | **79 535** | 66 | ✅ | serveur mastodon | en |
-| [esq.social](https://esq.social) | **79 499** | 579 | ✅ | A Mastodon instance for legal professionals and folks in law-adjacent fields.   We abide by the Mastodon Server Covenant, available (here)[https://joinmastodon.org/covenant].  | en |
+| [gs.leftic.club](https://gs.leftic.club) | **79 585** | 66 | ✅ | serveur mastodon | en |
 | [koliosky.com](https://koliosky.com) | **79 462** | 49 | ❌ | ? | ? |
 | [opensocial.at](https://opensocial.at) | **79 246** | 790 | ❌ | ? | ? |
+| [mastodon.iriseden.eu](https://mastodon.iriseden.eu) | **78 935** | 11 147 | ✅ | Instance Mastodon hébergée en France chez OVH (AS16276) et maintenue par @iriseden. Vos données ne seront jamais partagées à qui que ce soit et sont sauvegardées tous les jours. Les inscriptions sont ouvertes, les sujets sont libres tant que vous respectez les quelques conditions. Vous pouvez aussi vous inscrire sur mon instance <a href="https://peertube.iriseden.eu"> Peertube</a> ou une autre :) | en |
 | [pl.kotobank.ch](https://pl.kotobank.ch) | **78 917** | 17 | ✅ | ? | ? |
-| [mastodon.iriseden.eu](https://mastodon.iriseden.eu) | **78 875** | 11 147 | ✅ | Instance Mastodon hébergée en France chez OVH (AS16276) et maintenue par @iriseden. Vos données ne seront jamais partagées à qui que ce soit et sont sauvegardées tous les jours. Les inscriptions sont ouvertes, les sujets sont libres tant que vous respectez les quelques conditions. Vous pouvez aussi vous inscrire sur mon instance <a href="https://peertube.iriseden.eu"> Peertube</a> ou une autre :) | en |
 | [leafposter.club](https://leafposter.club) | **78 326** | 152 | ❌ | ? | ? |
-| [androiddev.social](https://androiddev.social) | **78 249** | 3 039 | ✅ | Public sign ups limited. Please include reason for joining Mastodon server for Android Community https://androiddev.blog/#/portal/ if you want to help with a donation.  | en |
-| [mastodon.cc](https://mastodon.cc) | **78 178** | 1 895 | ✅ | Mastodon for Art | en |
+| [androiddev.social](https://androiddev.social) | **78 316** | 3 035 | ✅ | Public sign ups limited. Please include reason for joining Mastodon server for Android Community https://androiddev.blog/#/portal/ if you want to help with a donation.  | en |
+| [mastodon.cc](https://mastodon.cc) | **78 257** | 1 895 | ✅ | Mastodon for Art | en |
 | [bots.defencegeeks.net](https://bots.defencegeeks.net) | **78 062** | 36 | ❌ | ? | en |
 | [trunk.mad-scientist.club](https://trunk.mad-scientist.club) | **77 847** | 6 | ❌ | This is a private instance, for <a href="/@algernon">@algernon</a> and friends. | en |
 | [misskey.bubbletea.dev](https://misskey.bubbletea.dev) | **77 796** | 43 | ❌ | ? | ? |
 | [alpaca.dad](https://alpaca.dad) | **77 586** | 1 | ❌ | ? | ? |
 | [write.as](https://write.as) | **77 577** | 6 546 | ✅ | ? | ? |
 | [mycrowd.ca](https://mycrowd.ca) | **77 180** | 150 | ✅ | ? | ? |
-| [tiggi.es](https://tiggi.es) | **76 808** | 117 | ✅ | Tiggi.es🐯 is an LGBTQIA+🏳️‍🌈/BIPOC:bipoc:/Body Positive👍🏾/Furry🐶/Tech💻/Geek🤓/Creative🎨/Automotive🚘/Maker🛠️/Gaming-centric👾/Photog📸 instance run by Burrs and pals powered by ☀️ energy! | en |
-| [pagan.plus](https://pagan.plus) | **76 795** | 489 | ✅ | ? | ? |
+| [tiggi.es](https://tiggi.es) | **76 910** | 117 | ✅ | Tiggi.es🐯 is an LGBTQIA+🏳️‍🌈/BIPOC:bipoc:/Body Positive👍🏾/Furry🐶/Tech💻/Geek🤓/Creative🎨/Automotive🚘/Maker🛠️/Gaming-centric👾/Photog📸 instance run by Burrs and pals powered by ☀️ energy! | en |
+| [pagan.plus](https://pagan.plus) | **76 845** | 488 | ✅ | ? | ? |
 | [mastodon.lubar.me](https://mastodon.lubar.me) | **76 757** | 1 | ❌ | This server and all of its members live in the same basement. | en |
 | [beta.noyaskey.net](https://beta.noyaskey.net) | **75 859** | 236 | ❌ | ? | ? |
 | [crimew.gay](https://crimew.gay) | **75 510** | 58 | ❌ | ? | ? |
@@ -5821,26 +5844,26 @@
 | [mstdn.in.th](https://mstdn.in.th) | **70 325** | 1 379 | ✅ | สมัครฟรี เพื่อร่วมชุมชน Mastodon ของไทย | th |
 | [kopiti.am](https://kopiti.am) | **69 610** | 1 257 | ✅ | For Singaporeans by Singaporeans | en |
 | [kokonect.link](https://kokonect.link) | **69 588** | 402 | ✅ | ? | ? |
-| [oslo.town](https://oslo.town) | **69 528** | 2 260 | ✅ | An online home for the people of Oslo, Norway 🇳🇴 but a gateway to the world. | en |
+| [oslo.town](https://oslo.town) | **69 581** | 2 260 | ✅ | An online home for the people of Oslo, Norway 🇳🇴 but a gateway to the world. | en |
 | [flipping.rocks](https://flipping.rocks) | **69 526** | 82 | ✅ | ? | ? |
 | [mastodon.bayern](https://mastodon.bayern) | **69 494** | 560 | ✅ | ? | en |
 | [soc.punktrash.club](https://soc.punktrash.club) | **69 445** | 222 | ✅ | ? | ? |
-| [federate.social](https://federate.social) | **69 292** | 566 | ✅ | Cultivating a new billionaire-proof network of networks, the FEDERATE.SOCIAL community seeks to remake new social media alternatives and return to the internet's default settings. | en |
-| [epicure.social](https://epicure.social) | **69 243** | 908 | ✅ | A Mastodon community with a food and wine focus. Mainly English speaking, open to all epicurians. | en |
+| [federate.social](https://federate.social) | **69 373** | 566 | ✅ | Cultivating a new billionaire-proof network of networks, the FEDERATE.SOCIAL community seeks to remake new social media alternatives and return to the internet's default settings. | en |
+| [epicure.social](https://epicure.social) | **69 349** | 908 | ✅ | A Mastodon community with a food and wine focus. Mainly English speaking, open to all epicurians. | en |
 | [moppels.bar](https://moppels.bar) | **69 064** | 20 | ❌ | ? | ? |
 | [mstdn.es](https://mstdn.es) | **68 918** | 715 | ✅ | A free and federated social network for the Spanish community - and everyone else, too! | en |
 | [bear.community](https://bear.community) | **68 645** | 3 957 | ✅ | ? | ? |
+| [mapstodon.space](https://mapstodon.space) | **68 242** | 2 117 | ✅ | Mapstodon.space is a online community dedicated to cartography & geospatial enthusiasts. | en |
 | [en.osm.town](https://en.osm.town) | **68 241** | 804 | ✅ | An independent, community of OpenStreetMap people on the Fediverse/Mastodon.   Funding graciously provided by the OpenStreetMap Foundation. | en |
-| [mapstodon.space](https://mapstodon.space) | **68 092** | 2 112 | ✅ | Mapstodon.space is a online community dedicated to cartography & geospatial enthusiasts. | en |
 | [four-nine.club](https://four-nine.club) | **67 866** | 40 | ✅ | ダウナー系ノンジャンルサーバーです。 | en |
+| [tooters.org](https://tooters.org) | **67 624** | 703 | ✅ | Tooters is a New York and Puerto Rico based, queer owned and operated Mastodon instance providing a safe and moderated space on the fediverse for everyone under the rainbow. | en |
 | [social.luca.run](https://social.luca.run) | **67 613** | 6 | ❌ | Kleine Instanz für Freund*innen. | en |
 | [mastodon.yyyyy.world](https://mastodon.yyyyy.world) | **67 420** | 34 | ❌ | ? | ? |
 | [tldr.nettime.org](https://tldr.nettime.org) | **67 409** | 431 | ✅ | ? | ? |
-| [tooters.org](https://tooters.org) | **67 277** | 703 | ✅ | Tooters is a New York and Puerto Rico based, queer owned and operated Mastodon instance providing a safe and moderated space on the fediverse for everyone under the rainbow. | en |
-| [machteburch.social](https://machteburch.social) | **67 268** | 919 | ✅ | Magdeburg im Fediverse - Machteburch.social ist eine Mastodon-Instanz für Magdeburg und alle, die Magdeburg mögen, oder sich mit Magdeburg verbunden fühlen. Betrieben vom Softwerke Magdeburg e. V. | de |
+| [machteburch.social](https://machteburch.social) | **67 375** | 919 | ✅ | Magdeburg im Fediverse - Machteburch.social ist eine Mastodon-Instanz für Magdeburg und alle, die Magdeburg mögen, oder sich mit Magdeburg verbunden fühlen. Betrieben vom Softwerke Magdeburg e. V. | de |
 | [pixelfed.rzgierskopp.de](https://pixelfed.rzgierskopp.de) | **67 091** | 5 | ❌ | ? | ? |
 | [cannibal.cafe](https://cannibal.cafe) | **66 868** | 98 | ❌ | ? | ? |
-| [social.saarland](https://social.saarland) | **66 745** | 308 | ❌ | Mastodon Instanz rund um das #Saarland. Gemacht von Saarländern für Saarländer/innen. | de |
+| [social.saarland](https://social.saarland) | **66 832** | 308 | ❌ | Mastodon Instanz rund um das #Saarland. Gemacht von Saarländern für Saarländer/innen. | de |
 | [fem.social](https://fem.social) | **66 744** | 77 | ✅ | Eine Mastodon-Instanz gehostet im Thüringer Wald von FeM e.V. | de |
 | [ryona.agency](https://ryona.agency) | **66 677** | 92 | ✅ | ? | ? |
 | [warhammer.social](https://warhammer.social) | **66 638** | 977 | ✅ | A server for wargamers and hobbyists. Any topic welcome - we just have Warhammer in common! A Warhammer Community! | en |
@@ -5849,46 +5872,46 @@
 | [mikumikudance.cloud](https://mikumikudance.cloud) | **66 244** | 570 | ✅ | MikuMikuDanceで動画や静画を製作しているMMDerさん、MMDの鑑賞が好きな視聴者さん、誰もがMMD関連について気軽に交流できるインスタンスです。Since 2017/04/21 | ja |
 | [inherently.digital](https://inherently.digital) | **66 125** | 3 | ❌ | a very robotic single-user instance | en |
 | [bahn.social](https://bahn.social) | **65 773** | 337 | ✅ | Das Wir für ein Leben von, in und mit Zügen | de |
+| [mastodon.pnpde.social](https://mastodon.pnpde.social) | **65 706** | 223 | ✅ | Wir sind eine inklusive Mastodon-Community für alle Themen rund um Pen and Paper und Rollenspiel, oder kurz: #pnpde | de |
 | [lea.pet](https://lea.pet) | **65 658** | 118 | ✅ | ? | ? |
 | [don.naru.cafe](https://don.naru.cafe) | **65 477** | 8 | ✅ | sftblw가 운영하는 일반 주제의 naru.cafe의 마스토돈 서비스입니다. 백업이 없어서 데이터의 안전을 보장하지 않습니다. 일반적인 이용 목적의 계정만 허용하며, 역할놀이 등 특수한 이용 사례를 제한하고 있습니다. 핵심 규칙은 "싸우지 마세요, 괴롭히지 마세요"이며, 판단 기준은 규칙의 취지를 고려하여 운영진의 재량을 따릅니다. | ko |
-| [mastodon.pnpde.social](https://mastodon.pnpde.social) | **65 471** | 223 | ✅ | Wir sind eine inklusive Mastodon-Community für alle Themen rund um Pen and Paper und Rollenspiel, oder kurz: #pnpde | de |
 | [ak.kyaruc.moe](https://ak.kyaruc.moe) | **65 461** | 6 | ❌ | ? | ? |
 | [mstdn.id](https://mstdn.id) | **65 392** | 2 412 | ✅ | ? | ? |
 | [queer.garden](https://queer.garden) | **65 390** | 63 | ❌ | More queer, more garden. | en |
 | [decayable.ink](https://decayable.ink) | **65 155** | 47 | ✅ | ? | ? |
 | [teslapwners.club](https://teslapwners.club) | **65 068** | 11 | ✅ | The Tesla Pwners Club Mastodon server is for IT-Security researchers with a background in Tesla security | en |
 | [yuri.garden](https://yuri.garden) | **65 049** | 274 | ✅ | ? | ? |
-| [iosdev.space](https://iosdev.space) | **64 822** | 1 080 | ✅ | A Mastodon server for all swift developers. Donations are encouraged and accepted at https://opencollective.com/iosdevspace to keep this space running and healthy.  | en |
-| [gaygeek.social](https://gaygeek.social) | **64 523** | 933 | ✅ | This server is intended as a safe place for LGBTQIA+ individuals to socialize. You do not have to be LGBTQIA to join, so long as you are an ally.  | en |
+| [iosdev.space](https://iosdev.space) | **64 920** | 1 080 | ✅ | A Mastodon server for all swift developers. Donations are encouraged and accepted at https://opencollective.com/iosdevspace to keep this space running and healthy.  | en |
+| [gaygeek.social](https://gaygeek.social) | **64 724** | 934 | ✅ | This server is intended as a safe place for LGBTQIA+ individuals to socialize. You do not have to be LGBTQIA to join, so long as you are an ally.  | en |
 | [social.trom.tf](https://social.trom.tf) | **64 430** | 672 | ✅ | ? | ? |
-| [dftba.club](https://dftba.club) | **64 133** | 282 | ✅ | Mastodon Instance for Nerdfighers. dftba! Get more information at https://info.dftba.club Check service status at https://status.dftba.club | en |
-| [mastodonbooks.net](https://mastodonbooks.net) | **63 765** | 4 004 | ✅ | We are 'the' book-dedicated space on Mastodon. If you are an avid reader, an author, a librarian, a bookstore, a publisher or just a nice person and you love books! Then, this is home 🥰 | en |
+| [dftba.club](https://dftba.club) | **64 230** | 282 | ✅ | Mastodon Instance for Nerdfighers. dftba! Get more information at https://info.dftba.club Check service status at https://status.dftba.club | en |
+| [mastodonbooks.net](https://mastodonbooks.net) | **63 862** | 4 004 | ✅ | We are 'the' book-dedicated space on Mastodon. If you are an avid reader, an author, a librarian, a bookstore, a publisher or just a nice person and you love books! Then, this is home 🥰 | en |
 | [lemmynsfw.com](https://lemmynsfw.com) | **63 761** | 47 178 | ✅ | ? | ? |
-| [climatejustice.global](https://climatejustice.global) | **63 725** | 196 | ✅ | This is a Fediverse instance for climate justice groups.  If you're an individual please instead sign up at: climatejustice.social | en |
-| [macaw.social](https://macaw.social) | **63 609** | 1 062 | ❌ | A small server by some ex-tweeps mostly for other *tweeps and friends. | en |
+| [climatejustice.global](https://climatejustice.global) | **63 761** | 196 | ✅ | This is a Fediverse instance for climate justice groups.  If you're an individual please instead sign up at: climatejustice.social | en |
+| [macaw.social](https://macaw.social) | **63 640** | 1 062 | ❌ | A small server by some ex-tweeps mostly for other *tweeps and friends. | en |
+| [mastodon.thirring.org](https://mastodon.thirring.org) | **63 421** | 87 | ✅ | This server is a refuge from the collapse of Twitter. We are dedicated to floofs, physics and mathematics. That and friends, kindness and whatever comes to mind. | en |
 | [friendsofdesoto.social](https://friendsofdesoto.social) | **63 398** | 458 | ✅ | Greatest Trek Podcast Fans! This is a Star Trek Podcast Community for people a little embarrassed to be part of a Star Trek Podcast Community. A home for fans of Greatest Gen & Greatest Trek. | en |
 | [plasmatrap.com](https://plasmatrap.com) | **63 378** | 214 | ✅ | ? | ? |
-| [mastodon.thirring.org](https://mastodon.thirring.org) | **63 373** | 87 | ✅ | This server is a refuge from the collapse of Twitter. We are dedicated to floofs, physics and mathematics. That and friends, kindness and whatever comes to mind. | en |
 | [den.raccoon.quest](https://den.raccoon.quest) | **63 329** | 219 | ✅ | ? | ? |
-| [swiss-talk.net](https://swiss-talk.net) | **63 133** | 760 | ✅ | Swiss-Talk ist ein freundlicher und nützlicher Raum für Menschen in der Schweiz. Der Verein Swiss-Talk ist für diese Instanz verantwortlich. Menschen, die mithelfen, sind willkommen! | de |
-| [piipitin.fi](https://piipitin.fi) | **62 844** | 196 | ✅ | Suomalaisille vasemmistolaisille suunnattu mastodon instanssi, minkä pointtina on avata fediverseenkin paikka meille goblineille, jotka ollaan paossa Twitteristä! | fi |
+| [swiss-talk.net](https://swiss-talk.net) | **63 173** | 760 | ✅ | Swiss-Talk ist ein freundlicher und nützlicher Raum für Menschen in der Schweiz. Der Verein Swiss-Talk ist für diese Instanz verantwortlich. Menschen, die mithelfen, sind willkommen! | de |
+| [piipitin.fi](https://piipitin.fi) | **62 984** | 196 | ✅ | Suomalaisille vasemmistolaisille suunnattu mastodon instanssi, minkä pointtina on avata fediverseenkin paikka meille goblineille, jotka ollaan paossa Twitteristä! | fi |
+| [frontrange.co](https://frontrange.co) | **62 902** | 96 | ✅ | For anyone who values kindness and inclusivity. Named for those who live in the Front Range of the Rockies, and also those who wish they could :)  | en |
 | [cztwitter.cz](https://cztwitter.cz) | **62 587** | 769 | ✅ | Osada Tootřanů :-) | cs |
-| [frontrange.co](https://frontrange.co) | **62 576** | 96 | ✅ | For anyone who values kindness and inclusivity. Named for those who live in the Front Range of the Rockies, and also those who wish they could :)  | en |
 | [whinge.town](https://whinge.town) | **62 508** | 117 | ✅ | ? | ? |
 | [schaumburg.social](https://schaumburg.social) | **61 846** | 28 | ✅ | Schaumburg.Social ist eine Mastodon Instanz für alle in Schaumburg lebenden Menschen und alle, die sich mit Schaumburg verbunden fühlen. | en |
 | [truthsocial.co.in](https://truthsocial.co.in) | **61 805** | 7 210 | ✅ | Let's Make Social Media Great Again. Truth Social coin is run by AGK FIRE INC to provide a space that lets users be themselves.  | en |
+| [bolha.us](https://bolha.us) | **61 610** | 1 745 | ✅ | We're a Brazilian IT Community. We love IT/DevOps/Cloud, but we also love to talk about life, the universe, and more. | Nós somos uma comunidade de TI Brasileira, gostamos de Dev/DevOps/Cloud e mais! | en |
 | [kvlt.zone](https://kvlt.zone) | **61 593** | 2 | ❌ | The only fediverse instance for the trve kvlt lifestyle | en |
-| [bolha.us](https://bolha.us) | **61 437** | 1 745 | ✅ | We're a Brazilian IT Community. We love IT/DevOps/Cloud, but we also love to talk about life, the universe, and more. | Nós somos uma comunidade de TI Brasileira, gostamos de Dev/DevOps/Cloud e mais! | en |
 | [nota.404.mn](https://nota.404.mn) | **61 337** | 9 756 | ✅ | ? | ? |
 | [nekoplanet.xyz](https://nekoplanet.xyz) | **61 170** | 58 | ❌ | ? | ? |
-| [mast.lat](https://mast.lat) | **60 957** | 34 261 | ✅ | Servidor de Mastodon en Español de temática general para todos los hispanohablantes unidos. ¡Tu lugar ideal para empezar en esta red social! | es |
 | [ottawa.place](https://ottawa.place) | **60 428** | 218 | ✅ | ? | ? |
 | [cosocial.ca](https://cosocial.ca) | **60 043** | 149 | ✅ | A co-op run social media server for all Canadians. More info at https://cosocial.info/ | en |
 | [weird.autos](https://weird.autos) | **59 957** | 148 | ✅ | A server for weird car enthusiasts | en |
+| [mast.lat](https://mast.lat) | **59 890** | 34 268 | ✅ | Servidor de Mastodon en Español de temática general para todos los hispanohablantes unidos. ¡Tu lugar ideal para empezar en esta red social! | es |
 | [imsb.app](https://imsb.app) | **59 689** | 308 | ✅ | Share. Explore. Communicate. Social networking, back in your hands. <br> A <em>mastodon</em> instance hosts by @im.sb | en |
-| [fulda.social](https://fulda.social) | **59 366** | 3 197 | ✅ | Öffentliche Mastodon Instanz von dasnetzundich.de. Frei für alle die Spass an Mastodon haben und die eine andere Art des sozialen Netzwerks erleben wollen. Info für Gmail Nutzer: nutzt @googlemail.com | en |
+| [fulda.social](https://fulda.social) | **59 400** | 3 196 | ✅ | Öffentliche Mastodon Instanz von dasnetzundich.de. Frei für alle die Spass an Mastodon haben und die eine andere Art des sozialen Netzwerks erleben wollen. Info für Gmail Nutzer: nutzt @googlemail.com | en |
 | [niscii.xyz](https://niscii.xyz) | **59 177** | 14 | ❌ | ? | ? |
-| [toot.berlin](https://toot.berlin) | **59 066** | 931 | ✅ | The Mastodon instance for Berlin. Open to all. Die Mastoden-Instanz für Berlin, offen für Alle, selbst Brandenburger 😉 | en |
+| [toot.berlin](https://toot.berlin) | **59 101** | 931 | ✅ | The Mastodon instance for Berlin. Open to all. Die Mastoden-Instanz für Berlin, offen für Alle, selbst Brandenburger 😉 | en |
 | [vocalounge.cafe](https://vocalounge.cafe) | **58 965** | 1 257 | ❌ | A Mastodon instance specializing in Vocaloid, UTAU, and anything relevant to vocalsynth culture. | en |
 | [social.jesuislibre.net](https://social.jesuislibre.net) | **58 896** | 17 | ✅ | ? | fr |
 | [nya.coffee](https://nya.coffee) | **58 711** | 20 | ❌ | ? | ? |
@@ -5901,11 +5924,11 @@
 | [minidisc.tokyo](https://minidisc.tokyo) | **57 168** | 2 015 | ❌ | ? | ? |
 | [gnusocial.net](https://gnusocial.net) | **57 167** | 108 | ✅ | ? | ? |
 | [shitpost.cloud](https://shitpost.cloud) | **57 156** | 151 | ✅ | ? | ? |
+| [social.ridetrans.it](https://social.ridetrans.it) | **57 099** | 276 | ✅ | We are organizers, transit riders, renters, union members, tech workers, musicians, climate activists; we are passionate about mobility justice, a right to housing, and intersectional communities. | en |
 | [annihilation.social](https://annihilation.social) | **57 060** | 52 | ✅ | ? | ? |
-| [social.ridetrans.it](https://social.ridetrans.it) | **57 009** | 276 | ✅ | We are organizers, transit riders, renters, union members, tech workers, musicians, climate activists; we are passionate about mobility justice, a right to housing, and intersectional communities. | en |
 | [xxivproduction.video](https://xxivproduction.video) | **56 938** | 35 | ❌ | ? | ? |
 | [ak.kawen.space](https://ak.kawen.space) | **56 772** | 39 | ✅ | ? | ? |
-| [jasette.facil.services](https://jasette.facil.services) | **56 608** | 731 | ✅ | Jasette FACiLe est une instance de Mastodon opérée par FACiL (Québec). Vos dons et adhésions nous permettent de faire fonctionner cette instance, de même que tous nos autres Services FACiLes. | en |
+| [jasette.facil.services](https://jasette.facil.services) | **56 665** | 731 | ✅ | Jasette FACiLe est une instance de Mastodon opérée par FACiL (Québec). Vos dons et adhésions nous permettent de faire fonctionner cette instance, de même que tous nos autres Services FACiLes. | en |
 | [comicscamp.club](https://comicscamp.club) | **56 341** | 141 | ❌ | ? | ? |
 | [genix.ink](https://genix.ink) | **56 251** | 14 | ❌ | Ще один сервер мастодон | uk |
 | [social.skynetcloud.site](https://social.skynetcloud.site) | **56 069** | 2 | ❌ | Private Server. Registrations via Invitation open. Contact by Email. | en |
@@ -5916,15 +5939,15 @@
 | [social.imirhil.fr](https://social.imirhil.fr) | **54 994** | 2 | ❌ | ? | en |
 | [calc.bal.ovh](https://calc.bal.ovh) | **54 797** | 18 | ❌ | ? | ? |
 | [mastodon.acc.sunet.se](https://mastodon.acc.sunet.se) | **54 023** | 457 | ✅ | Mastodon @ SUNET is a public Mastodon instance operated by the Academic Computer Club in Umeå. Välkommen!  Majority of posts in English and Swedish, but we welcome language diversity! | en |
-| [witter.cz](https://witter.cz) | **53 686** | 1 449 | ✅ | Witter.cz je otevřený každému, kdo chce s respektem k ostatním sdílet, informovat a diskutovat.  Bez reklam, sbírání osobních informací a sledování uživatelů. | cs |
+| [witter.cz](https://witter.cz) | **53 753** | 1 449 | ✅ | Witter.cz je otevřený každému, kdo chce s respektem k ostatním sdílet, informovat a diskutovat.  Bez reklam, sbírání osobních informací a sledování uživatelů. | cs |
 | [musicians.today](https://musicians.today) | **53 621** | 523 | ✅ | Fediverse community for musicians of all levels, instruments, regions, languages, and genres. | en |
 | [legal.social](https://legal.social) | **53 517** | 345 | ❌ | Legal.Social is the Mastodon instance for legal debate. | en |
 | [fandom.garden](https://fandom.garden) | **53 505** | 294 | ❌ | Fandom Garden is a queer instance where you are free to gush about the content you like, whether it's books, comics, TV shows, movies or music. This is an LGBT+, anti-racist, anti-ableist space. | en |
-| [gaypirates.club](https://gaypirates.club) | **53 351** | 656 | ✅ | An instance for fans of Our Flag Means Death | en |
+| [gaypirates.club](https://gaypirates.club) | **53 448** | 656 | ✅ | An instance for fans of Our Flag Means Death | en |
 | [genart.social](https://genart.social) | **53 327** | 492 | ❌ | genart.social is a home on the fediverse for artists working in the #generative, #AI, and #glitch spaces.  Registration is currently invite-only. | en |
 | [mond-basis.eu](https://mond-basis.eu) | **53 185** | 13 | ❌ | ? | en |
+| [furries.club](https://furries.club) | **53 076** | 918 | ✅ | Another server for the furry community. We have some special features related to higher quality images and video on our instance. Check out https://furries.club/about | en |
 | [wolfgirl.bar](https://wolfgirl.bar) | **53 059** | 12 | ❌ | ? | ? |
-| [furries.club](https://furries.club) | **52 981** | 917 | ✅ | Another server for the furry community. We have some special features related to higher quality images and video on our instance. Check out https://furries.club/about | en |
 | [tube-sciences-technologies.apps.education.fr](https://tube-sciences-technologies.apps.education.fr) | **52 927** | 3 839 | ❌ | ? | ? |
 | [mstdn.rinsuki.net](https://mstdn.rinsuki.net) | **52 852** | 16 | ❌ | ? | ? |
 | [polyglot.city](https://polyglot.city) | **52 847** | 167 | ✅ | ? | ? |
@@ -5935,9 +5958,9 @@
 | [v.basspistol.org](https://v.basspistol.org) | **52 007** | 45 | ✅ | ? | ? |
 | [tyrol.social](https://tyrol.social) | **51 952** | 1 249 | ✅ | Die Social Media Plattform für Tirol und allen Menschen, die sich in den Alpen wohlfühlen. | de |
 | [lab.nyanide.com](https://lab.nyanide.com) | **51 843** | 44 | ✅ | ? | ? |
+| [pnw.zone](https://pnw.zone) | **51 747** | 1 562 | ✅ | Come join the Pacific Northwest (US/Canada) Community! A regional instance for anyone that lives in or enjoys the PNW. | en |
+| [cyberplace.social](https://cyberplace.social) | **51 692** | 9 416 | ✅ | Cybersecurity, fandom, video games, technology, dog photos and most importantly, you. | en |
 | [moar.cachapa.xyz](https://moar.cachapa.xyz) | **51 679** | 149 | ❌ | ? | ? |
-| [pnw.zone](https://pnw.zone) | **51 660** | 1 562 | ✅ | Come join the Pacific Northwest (US/Canada) Community! A regional instance for anyone that lives in or enjoys the PNW. | en |
-| [cyberplace.social](https://cyberplace.social) | **51 554** | 9 414 | ✅ | Cybersecurity, fandom, video games, technology, dog photos and most importantly, you. | en |
 | [bananachips.club](https://bananachips.club) | **51 539** | 36 | ❌ | ? | ? |
 | [gts.u8.is](https://gts.u8.is) | **51 472** | 3 | ❌ | ? | ? |
 | [bassam.social](https://bassam.social) | **51 445** | 786 | ✅ | ? | ? |
@@ -5945,14 +5968,14 @@
 | [kitty.social](https://kitty.social) | **51 157** | 412 | ✅ | ? | ? |
 | [pixelfed.bachgau.social](https://pixelfed.bachgau.social) | **51 079** | 1 063 | ✅ | ? | ? |
 | [hulvr.com](https://hulvr.com) | **51 063** | 49 | ❌ | ? | en |
-| [social.sdf.org](https://social.sdf.org) | **50 974** | 290 | ✅ | SDF Social is a private Mastodon instance for members of the SDF Public Access UNIX System | en |
+| [social.sdf.org](https://social.sdf.org) | **50 999** | 290 | ✅ | SDF Social is a private Mastodon instance for members of the SDF Public Access UNIX System | en |
 | [hoto.moe](https://hoto.moe) | **50 861** | 261 | ✅ | ? | ? |
 | [theres.life](https://theres.life) | **50 378** | 306 | ✅ | A family-friendly social network (Mastodon instance) devoted to the new life found in Christ.  | en |
 | [birb.site](https://birb.site) | **50 321** | 12 | ❌ | This is a tiny, friendly fedi server! | en |
+| [fedisabled.social](https://fedisabled.social) | **50 138** | 101 | ✅ | Hier ist Deine neue Heimat, wenn du eine Behinderung hast, chronisch/mental erkrankt bist oder dich unterstützend uns verbunden fühlst. Willkommen! | en |
 | [biologists.social](https://biologists.social) | **50 115** | 262 | ✅ | Run by The Company of Biologists, this is a space for biologists to discuss science, research, teaching, life, and more. We would like to build a community and support communication between biologists | en |
-| [fedisabled.social](https://fedisabled.social) | **49 841** | 102 | ✅ | Hier ist Deine neue Heimat, wenn du eine Behinderung hast, chronisch/mental erkrankt bist oder dich unterstützend uns verbunden fühlst. Willkommen! | en |
+| [assemblag.es](https://assemblag.es) | **49 829** | 581 | ✅ | ? | ? |
 | [vkl.world](https://vkl.world) | **49 781** | 1 780 | ✅ | Першы беларускамоўны сервер у сеціве Mastodon. Размовы з тымі, хто разумее 😏 Server only for Belarusian-language users.  | be |
-| [assemblag.es](https://assemblag.es) | **49 715** | 580 | ✅ | ? | ? |
 | [sciencemastodon.com](https://sciencemastodon.com) | **49 569** | 1 411 | ✅ | A mastodon instance designed primarily for science journalists and scientists. Those who wish to join: to avoid significant delays in accepting your application please let us know your real name, your affiliation, and your area of expertise. Thank you! | en |
 | [jubi.life](https://jubi.life) | **49 565** | 12 | ❌ | An invite-only Mastodon instance geared towards nerdiness and geekery with a mind for social justice. Slightly Pokémon themed. Has a Phanpy mascot! | en |
 | [mastd.racing](https://mastd.racing) | **49 527** | 174 | ✅ | 🇬🇧 Instance dedicated to Motorsports,any kind of topic is accepted. Moderation is done in English or in French.  🇫🇷 Petite instance dédiée aux Sports Mécaniques, tout type de sujet y est accepté. | en |
@@ -5962,140 +5985,141 @@
 | [lingo.lol](https://lingo.lol) | **48 989** | 307 | ✅ | A place for linguists, philologists, and other lovers of languages. | en |
 | [fgc.network](https://fgc.network) | **48 962** | 3 972 | ✅ | ? | ? |
 | [mastodon.murkworks.net](https://mastodon.murkworks.net) | **48 848** | 18 | ❌ | oh my god it's usenet but twitter | en |
+| [theatl.social](https://theatl.social) | **48 762** | 519 | ✅ | theATL.social is a regional-focused Mastodon server for those living, working, or otherwise interested in the Metro Atlanta, Georgia (USA) area. | en |
 | [mk.catgirlsfor.science](https://mk.catgirlsfor.science) | **48 761** | 36 | ❌ | ? | ? |
-| [theatl.social](https://theatl.social) | **48 753** | 519 | ✅ | theATL.social is a regional-focused Mastodon server for those living, working, or otherwise interested in the Metro Atlanta, Georgia (USA) area. | en |
 | [brettspiel.space](https://brettspiel.space) | **48 675** | 345 | ✅ | Von Brettspielern für Brettspieler. | en |
 | [federation.network](https://federation.network) | **48 564** | 267 | ✅ | ? | ? |
 | [mastodon.de](https://mastodon.de) | **48 297** | 444 | ✅ | Mastodon für die DACH Region (Deutschland, Österreich, Schweiz) - and everyone is welcome! | en |
 | [fedi.astrid.tech](https://fedi.astrid.tech) | **48 281** | 13 | ❌ | ? | ? |
 | [masto.brightfur.net](https://masto.brightfur.net) | **48 219** | 8 | ❌ | ? | ? |
 | [brotka.st](https://brotka.st) | **48 209** | 9 | ❌ | ? | ? |
-| [social.tulsa.ok.us](https://social.tulsa.ok.us) | **47 941** | 83 | ✅ | Green Country's regional fediverse instance. | en |
+| [social.tulsa.ok.us](https://social.tulsa.ok.us) | **48 051** | 83 | ✅ | Green Country's regional fediverse instance. | en |
 | [miraiverse.xyz](https://miraiverse.xyz) | **47 759** | 736 | ❌ | ? | ? |
 | [toot.si](https://toot.si) | **47 622** | 714 | ❌ | Toot.si je slovensko Mastodon vozlišče katere osnovni cilj je omogočati prijazno skupnost in varen prostor za vse. | en |
 | [t.chadole.com](https://t.chadole.com) | **47 590** | 175 | ❌ | 마스토돈 차돌이는 모두가 자유롭게 이용할수 있는 곳입니다(참고로 차돌이는 사진속 고양이 이름). 차돌이 인스턴스는 고양이를 키우는 집사님들을 위한 인스턴스 입니다. | ko |
 | [cr8r.gg](https://cr8r.gg) | **47 554** | 3 674 | ✅ | A community for all types of creators, those who consume the creations & everyone else (except for automated/bot accounts, they are highly discouraged). | en |
 | [eepy.moe](https://eepy.moe) | **47 154** | 36 | ❌ | ? | ? |
+| [frikiverse.zone](https://frikiverse.zone) | **47 143** | 235 | ✅ | El Frikiverse es una comunidad para frikis de todas las tendencias. Por defecto en castellano, pero todo idioma es bienvenido. Las solicitudes son revisadas lo antes posible. | es |
 | [social.cu2d.com](https://social.cu2d.com) | **47 101** | 17 | ✅ | Welcome @ cu2d.com - See You Today! | en |
-| [frikiverse.zone](https://frikiverse.zone) | **47 092** | 236 | ✅ | El Frikiverse es una comunidad para frikis de todas las tendencias. Por defecto en castellano, pero todo idioma es bienvenido. Las solicitudes son revisadas lo antes posible. | es |
 | [kitsunes.gay](https://kitsunes.gay) | **47 013** | 217 | ✅ | ? | ? |
 | [wank.social](https://wank.social) | **46 873** | 282 | ✅ | Looking for an adult-oriented social network?  This is it! | en |
 | [securitymastod.one](https://securitymastod.one) | **46 751** | 5 002 | ✅ | ? | ? |
-| [autistics.life](https://autistics.life) | **46 607** | 115 | ✅ | My name is Ashley Lauren Spencer, and I am the owner of The Autistic Innovator (an online store for autistics). Welcome to our own little corner of the online autistic community. | en |
+| [autistics.life](https://autistics.life) | **46 645** | 115 | ✅ | My name is Ashley Lauren Spencer, and I am the owner of The Autistic Innovator (an online store for autistics). Welcome to our own little corner of the online autistic community. | en |
 | [social.rebellion.global](https://social.rebellion.global) | **46 530** | 198 | ❌ | The Extinction Rebellion Mastodon, for use by XR Groups around the world. | en |
 | [tsukihi.me](https://tsukihi.me) | **46 186** | 64 | ✅ | Tsukihime (月姫, tsu-kee hee-mei) translation means Moon Princess. This server is ran by a Type-Moon fanatic as a safe haven for trans people by trans people | en |
 | [khiar.net](https://khiar.net) | **46 005** | 317 | ✅ | Khiar is a Mastodon instance for Farsi/English speakers   خیار یک نمونه ماستودون برای فارسی/انگلیسی‌زبانان است | en |
 | [infinimatix.net](https://infinimatix.net) | **45 642** | 4 993 | ✅ | ? | ? |
 | [dancingbanana.party](https://dancingbanana.party) | **45 642** | 4 993 | ✅ | ? | ? |
 | [neumastodon.com](https://neumastodon.com) | **45 642** | 4 993 | ✅ | ? | ? |
+| [dotnet.social](https://dotnet.social) | **45 488** | 1 064 | ✅ | <code>Console.WriteLine("Hello W🌍rld!");</code> .NET Community on Mastodon; not affiliated with Microsoft. We welcome all people interested in coding, technologies and .NET. | en |
 | [pleroma.salastil.com](https://pleroma.salastil.com) | **45 473** | 1 | ✅ | ? | ? |
-| [dotnet.social](https://dotnet.social) | **45 455** | 1 064 | ✅ | <code>Console.WriteLine("Hello W🌍rld!");</code> .NET Community on Mastodon; not affiliated with Microsoft. We welcome all people interested in coding, technologies and .NET. | en |
 | [oceanplayground.social](https://oceanplayground.social) | **45 404** | 126 | ✅ | A Mastodon server for Atlantic Canada (New Brunswick, Nova Scotia, PEI, Newfoundland & Labrador).  1500 character limit  NOTE: Hotmail/Outlook blocks our emails | en |
-| [linernotes.club](https://linernotes.club) | **45 222** | 391 | ✅ | The premiere Fediverse destination for music lovers who nod knowingly at each other from across the room when that song comes on. | en |
+| [linernotes.club](https://linernotes.club) | **45 248** | 391 | ✅ | The premiere Fediverse destination for music lovers who nod knowingly at each other from across the room when that song comes on. | en |
+| [fribygda.no](https://fribygda.no) | **45 243** | 106 | ✅ | Fribygda er ei anarkistisk / venstrelibertariansk bygd ute i fødiverset. Et lite koselig sted for fritt uttrykk, fri utfoldelse og trygge omgivelser. | en |
 | [social.atypique.net](https://social.atypique.net) | **45 177** | 2 | ❌ | ? | en |
 | [embracing.space](https://embracing.space) | **45 159** | 31 | ❌ | Basically a single-user instance. | en |
-| [fribygda.no](https://fribygda.no) | **45 158** | 106 | ✅ | Fribygda er ei anarkistisk / venstrelibertariansk bygd ute i fødiverset. Et lite koselig sted for fritt uttrykk, fri utfoldelse og trygge omgivelser. | en |
 | [cyberfurz.social](https://cyberfurz.social) | **45 110** | 384 | ✅ | A Mastodon Instance open to all! That said we do have a minor focus on Tech, 3D Art, VRChat, Resonite, ChillOut, SecondLife, etc... Come chill with other CyberFurz! | en |
 | [social.yesterweb.org](https://social.yesterweb.org) | **44 848** | 705 | ✅ | The Yesterweb is a community which acknowledges that today's internet is lacking in creativity, self-expression, and good digital social infrastructure and wants to change that. | en |
 | [social.spejset.org](https://social.spejset.org) | **44 674** | 182 | ✅ | Spejset är en instans för folk i Sverige som definierar sig som vänster | en |
+| [dragonchat.org](https://dragonchat.org) | **44 649** | 222 | ✅ | Dragonchat- By dragons, for dragons. | en |
 | [toot.mirbsd.org](https://toot.mirbsd.org) | **44 642** | 8 | ❌ | ? | ? |
 | [convo.casa](https://convo.casa) | **44 632** | 5 048 | ✅ | ? | ? |
-| [dragonchat.org](https://dragonchat.org) | **44 537** | 222 | ✅ | Dragonchat- By dragons, for dragons. | en |
 | [society.oftrolls.com](https://society.oftrolls.com) | **44 364** | 50 | ❌ | A nice little Mastodon instance. Mild trolling encouraged (keep it local), but not required.  Malicious behaviour is not tolerated. Follow Wheaton's law and you'll be fine. | en |
 | [archaeo.social](https://archaeo.social) | **44 329** | 798 | ✅ | archaeo.social is a Mastodon instance for archaeologists, ancient historians and anyone interested in scholarly communication about the human past. More: https://about.archaeo.social | en |
 | [novoa.nagoya](https://novoa.nagoya) | **44 148** | 242 | ✅ | ? | ? |
 | [5dollah.click](https://5dollah.click) | **44 124** | 9 | ❌ | ? | ? |
 | [social.nah.re](https://social.nah.re) | **44 053** | 9 | ❌ | ? | fr |
 | [fair.tube](https://fair.tube) | **44 047** | 520 | ❌ | ? | ? |
+| [don.linxx.net](https://don.linxx.net) | **44 025** | 92 | ✅ | don.linxx.net – Mastodon-Instanz des @linxxnet's in Leipzig. | de |
 | [magnificentbeardsfan.club](https://magnificentbeardsfan.club) | **44 016** | 11 | ❌ | ? | en |
-| [leftist.network](https://leftist.network) | **44 014** | 203 | ✅ | Leftist Network is an instance of Mastodon, the social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! This Mastodon instance is designed for those with Leftist politics to share posts with each other. We strongly recommend using secure and decentralized communications for your private discussions, and we have recommendations! | en |
-| [don.linxx.net](https://don.linxx.net) | **43 945** | 92 | ✅ | don.linxx.net – Mastodon-Instanz des @linxxnet's in Leipzig. | de |
+| [leftist.network](https://leftist.network) | **44 011** | 203 | ✅ | Leftist Network is an instance of Mastodon, the social network of the future: No ads, no corporate surveillance, ethical design, and decentralization! This Mastodon instance is designed for those with Leftist politics to share posts with each other. We strongly recommend using secure and decentralized communications for your private discussions, and we have recommendations! | en |
 | [smores.town](https://smores.town) | **43 830** | 4 | ✅ | ? | ? |
-| [towns.gay](https://towns.gay) | **43 680** | 218 | ✅ | Collectively managed by radical queers, who believe that cities are for us too. #VisionQueero #GayTowns #acab 🏳️‍🌈🚒🌆🌼🔰🐈♿️🍆🍭🗼⛺️🚡🌳🦋🕺🏽🌈♋ | en |
+| [towns.gay](https://towns.gay) | **43 707** | 218 | ✅ | Collectively managed by radical queers, who believe that cities are for us too. #VisionQueero #GayTowns #acab 🏳️‍🌈🚒🌆🌼🔰🐈♿️🍆🍭🗼⛺️🚡🌳🦋🕺🏽🌈♋ | en |
 | [friends.deko.cloud](https://friends.deko.cloud) | **43 636** | 30 | ❌ | ? | ? |
 | [quietplace.xyz](https://quietplace.xyz) | **43 589** | 534 | ✅ | ? | ? |
 | [procial.tchncs.de](https://procial.tchncs.de) | **43 571** | 393 | ✅ | ? | ? |
+| [dair-community.social](https://dair-community.social) | **43 507** | 399 | ❌ | A mastodon instance hosted by the Distributed AI Research Institute (DAIR) for those invested in independent, community-rooted AI research. | en |
 | [hidamari.apartments](https://hidamari.apartments) | **43 503** | 7 | ❌ | ? | ? |
-| [dair-community.social](https://dair-community.social) | **43 434** | 399 | ❌ | A mastodon instance hosted by the Distributed AI Research Institute (DAIR) for those invested in independent, community-rooted AI research. | en |
 | [jade.moe](https://jade.moe) | **43 252** | 10 | ✅ | ? | en |
 | [social.shadowkat.net](https://social.shadowkat.net) | **43 246** | 2 | ❌ | ? | ? |
 | [monsterfuckers.online](https://monsterfuckers.online) | **43 239** | 45 | ❌ | ? | ? |
-| [meteo.social](https://meteo.social) | **43 138** | 258 | ❌ | Mastodon-Instanz für alle Wetterverrückten, betrieben von der Kachelmann GmbH aus Sattel, Schweiz. | en |
+| [meteo.social](https://meteo.social) | **43 216** | 258 | ❌ | Mastodon-Instanz für alle Wetterverrückten, betrieben von der Kachelmann GmbH aus Sattel, Schweiz. | en |
+| [norrebro.space](https://norrebro.space) | **43 150** | 236 | ✅ | Nørrebro.space er et hyggeligt sted på nettet - uden reklamer eller unødvendig sporing. Ligesom virkelighedens Nørrebro, er alle velkomne her. Nørrebro.space er et etisk socialt medie - fordi vi kan. | da |
 | [aana.site](https://aana.site) | **43 118** | 204 | ❌ | ഫെഡറേറ്റഡ് സോഷ്യൽ വെബ്ബിലെ മലയാളിക്കൂട്ടം. | en |
 | [sakurajima.social](https://sakurajima.social) | **43 100** | 247 | ✅ | ? | ? |
-| [glitterkitten.co.uk](https://glitterkitten.co.uk) | **43 032** | 15 | ❌ | sparkle sparkle, bitches | en |
-| [norrebro.space](https://norrebro.space) | **43 020** | 236 | ✅ | Nørrebro.space er et hyggeligt sted på nettet - uden reklamer eller unødvendig sporing. Ligesom virkelighedens Nørrebro, er alle velkomne her. Nørrebro.space er et etisk socialt medie - fordi vi kan. | da |
-| [toot.portes-imaginaire.org](https://toot.portes-imaginaire.org) | **42 913** | 824 | ✅ | Une instance du réseau Mastodon ouverte à celles et ceux qui souhaitent y diffuser du contenu autour du jeu de rôle et de la culture de l'imaginaire. | en |
+| [glitterkitten.co.uk](https://glitterkitten.co.uk) | **43 071** | 15 | ❌ | sparkle sparkle, bitches | en |
+| [toot.portes-imaginaire.org](https://toot.portes-imaginaire.org) | **42 925** | 824 | ✅ | Une instance du réseau Mastodon ouverte à celles et ceux qui souhaitent y diffuser du contenu autour du jeu de rôle et de la culture de l'imaginaire. | en |
 | [orfodon.org](https://orfodon.org) | **42 897** | 18 | ❌ | ORF.at News-Dienst (inoffiziell) | de |
-| [masto.asonix.dog](https://masto.asonix.dog) | **42 632** | 8 | ❌ | The asonix of furry mastodon. For me and a few friends. DM me somewhere if u want an account lol | en-DG |
+| [masto.asonix.dog](https://masto.asonix.dog) | **42 677** | 8 | ❌ | The asonix of furry mastodon. For me and a few friends. DM me somewhere if u want an account lol | en-DG |
 | [mastodon.keks.club](https://mastodon.keks.club) | **42 610** | 8 | ✅ | ? | en |
 | [ciberlandia.pt](https://ciberlandia.pt) | **42 488** | 324 | ✅ | Uma instância 🇵🇹 dedicada à tecnopolítica e também a tudo o resto. Regras e termos em ciberlandia.pt ❤️ 🏳️‍🌈 | pt-PT |
 | [ajin.la](https://ajin.la) | **42 423** | 1 | ❌ | ? | en |
 | [moth.zone](https://moth.zone) | **42 052** | 67 | ❌ | ? | ? |
-| [mastodon.partipirate.org](https://mastodon.partipirate.org) | **41 930** | 2 533 | ✅ | Instance officielle du Parti Pirate Français. CW : Contenus éminemment politiques. / French Pirate Party official server. CW : Firstly Political Contents. | en |
+| [mastodon.partipirate.org](https://mastodon.partipirate.org) | **41 969** | 2 533 | ✅ | Instance officielle du Parti Pirate Français. CW : Contenus éminemment politiques. / French Pirate Party official server. CW : Firstly Political Contents. | en |
+| [cmm.fyi](https://cmm.fyi) | **41 935** | 50 | ✅ | ? | en |
 | [shitpost.poridge.club](https://shitpost.poridge.club) | **41 923** | 396 | ✅ | ? | ? |
+| [cultofshiv.wtf](https://cultofshiv.wtf) | **41 884** | 42 | ❌ | Invite only Mastodon instance for the Cult of Shiv community. | en |
 | [mockpaperscissors.com](https://mockpaperscissors.com) | **41 878** | 1 | ❌ | ? | ? |
-| [cultofshiv.wtf](https://cultofshiv.wtf) | **41 795** | 42 | ❌ | Invite only Mastodon instance for the Cult of Shiv community. | en |
 | [subversive.zone](https://subversive.zone) | **41 779** | 80 | ✅ | Subversive.zone ist eine linke, antiautoritäre Mastodoninstanz.  | en |
 | [fedi.xerz.one](https://fedi.xerz.one) | **41 597** | 1 | ❌ | ? | ? |
 | [social.heise.de](https://social.heise.de) | **41 581** | 66 | ❌ | Der Mastodon-Server von und für Heise Medien und insb. die Nachrichten von heise online. | de |
 | [demon.social](https://demon.social) | **41 520** | 5 | ❌ | Pocket-sized friends-only instance. Registrations closed. | en |
 | [toot.garden](https://toot.garden) | **41 449** | 373 | ✅ | A server for the creative mind. Focused primarily on casual gaming, art, and the general things in life. We are all linked through nature, kindness, humanity, and now- the internet. | en |
 | [compostintraining.club](https://compostintraining.club) | **41 127** | 4 | ❌ | We are all compost in training. | en |
-| [wandzeitung.xyz](https://wandzeitung.xyz) | **40 945** | 41 | ✅ | Wandzeitung - Kurznachrichtendienst im Internetz #w9g | en |
+| [wandzeitung.xyz](https://wandzeitung.xyz) | **41 010** | 41 | ✅ | Wandzeitung - Kurznachrichtendienst im Internetz #w9g | en |
 | [infosec.town](https://infosec.town) | **40 902** | 650 | ❌ | ? | ? |
 | [yggdrasil.social](https://yggdrasil.social) | **40 572** | 173 | ✅ | ? | ? |
-| [pkm.social](https://pkm.social) | **40 477** | 1 378 | ✅ | PKM.social is an Mastodon instance that is open to anyone who is interested in Personal Knowledge Management. | en |
+| [pkm.social](https://pkm.social) | **40 550** | 1 379 | ✅ | PKM.social is an Mastodon instance that is open to anyone who is interested in Personal Knowledge Management. | en |
 | [social.masto.host](https://social.masto.host) | **40 393** | 101 | ❌ | ? | en |
 | [wikis.world](https://wikis.world) | **40 340** | 174 | ❌ | Wikis World is a Mastodon server for wiki enthusiasts. | en |
 | [feddit.de](https://feddit.de) | **40 336** | 11 218 | ✅ | ? | ? |
 | [misfittoys.social](https://misfittoys.social) | **40 316** | 8 | ✅ | Mastodon instance for anyone who doesn't fit in, or who can empathize with & support the same. Antifascist/LGBTQ+/Equality/Democracy | en |
 | [plushies.social](https://plushies.social) | **40 268** | 68 | ❌ | plushies.social: A Mastodon instance for plushies | en |
+| [bunt.social](https://bunt.social) | **40 233** | 46 | ✅ | ? | en |
 | [canada.masto.host](https://canada.masto.host) | **40 230** | 297 | ❌ | Canadian Mastodon Server, eh! 🇨🇦 | en |
 | [is.badat.dev](https://is.badat.dev) | **40 228** | 19 | ❌ | ? | ? |
-| [bunt.social](https://bunt.social) | **40 162** | 46 | ✅ | ? | en |
+| [thepit.social](https://thepit.social) | **39 637** | 212 | ✅ | A Mastodon instance populated by the denizens of #bikeDC, #bikeVA, #bikeMD, and various other friends and communities. Share opinions, news, photos of your bike, food takes, and memes. There may be some horsing around. In this house, we #bancars. All hail The Pit! | en |
 | [circumstances.run](https://circumstances.run) | **39 607** | 21 | ❌ | a rather private instance with annoying culture theme applied all over; we don't speak marain (yet). | en |
-| [thepit.social](https://thepit.social) | **39 577** | 212 | ✅ | A Mastodon instance populated by the denizens of #bikeDC, #bikeVA, #bikeMD, and various other friends and communities. Share opinions, news, photos of your bike, food takes, and memes. There may be some horsing around. In this house, we #bancars. All hail The Pit! | en |
 | [misskey.heonian.org](https://misskey.heonian.org) | **39 530** | 33 | ❌ | ? | ? |
-| [pfalz.social](https://pfalz.social) | **39 364** | 113 | ✅ | Awwer annerschtwo is annerscht, und halt net wie in de Palz. Mastodon für die Pfalz! | de |
-| [moth.social](https://moth.social) | **39 316** | 6 745 | ✅ | Welcome to Moth.social. Our mission is to make Mastodon fun & user friendly for everyone. We also build Mammoth for iPhone, iPad & Mac --the easiest way to Mastodon. | en |
+| [pfalz.social](https://pfalz.social) | **39 480** | 113 | ✅ | Awwer annerschtwo is annerscht, und halt net wie in de Palz. Mastodon für die Pfalz! | de |
+| [moth.social](https://moth.social) | **39 455** | 6 748 | ✅ | Welcome to Moth.social. Our mission is to make Mastodon fun & user friendly for everyone. We also build Mammoth for iPhone, iPad & Mac --the easiest way to Mastodon. | en |
 | [mastodon.derveni.org](https://mastodon.derveni.org) | **39 166** | 54 | ✅ | ? | ? |
-| [mastodon.mim-libre.fr](https://mastodon.mim-libre.fr) | **39 059** | 866 | ❌ | Mutualisation Inter-Ministérielle Logiciels Libres | fr |
+| [mastodon.mim-libre.fr](https://mastodon.mim-libre.fr) | **39 085** | 866 | ❌ | Mutualisation Inter-Ministérielle Logiciels Libres | fr |
 | [md.ilyamikcoder.com](https://md.ilyamikcoder.com) | **38 896** | 96 | ✅ | ? | en |
 | [japix.schuerz.at](https://japix.schuerz.at) | **38 765** | 3 | ❌ | ? | ? |
+| [mastodo.neoliber.al](https://mastodo.neoliber.al) | **38 747** | 278 | ✅ | An instance for reddit.com/r/neoliberal | en |
 | [pod.dapor.net](https://pod.dapor.net) | **38 662** | 2 369 | ❌ | ? | ? |
-| [mastodo.neoliber.al](https://mastodo.neoliber.al) | **38 653** | 278 | ✅ | An instance for reddit.com/r/neoliberal | en |
 | [sh.itjust.works](https://sh.itjust.works) | **38 629** | 25 592 | ✅ | ? | ? |
 | [social.bund.de](https://social.bund.de) | **38 383** | 141 | ❌ | Dies ist der Mastodon-Server des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (BfDI). | en |
 | [uff.rip](https://uff.rip) | **38 351** | 13 | ❌ | small, friendly instance. no signups. | en |
+| [kanoa.de](https://kanoa.de) | **38 336** | 1 073 | ✅ | Eine deutschsprachige Mastodon Instanz um neue Leute kennenzulernen und Spaß zu haben. "ka noa" ist hawaiisch und bedeutet "die Freiheit". Ein Service von adminForge.de | de |
 | [woem.men](https://woem.men) | **38 305** | 51 | ✅ | ? | ? |
-| [kanoa.de](https://kanoa.de) | **38 257** | 1 073 | ✅ | Eine deutschsprachige Mastodon Instanz um neue Leute kennenzulernen und Spaß zu haben. "ka noa" ist hawaiisch und bedeutet "die Freiheit". Ein Service von adminForge.de | de |
 | [blahaj.social](https://blahaj.social) | **38 153** | 147 | ✅ | Just a mastodon for people who own at least 1 IKEA BLÅHAJ | en |
-| [allthingstech.social](https://allthingstech.social) | **37 906** | 366 | ✅ | AllThingsTech.social is a Mastodon instance geared for those that love all things tech/technology.  | en |
+| [super-gay.co](https://super-gay.co) | **38 014** | 185 | ✅ | A place for queer folk and allies to congregate. | en |
 | [kfem.cat](https://kfem.cat) | **37 866** | 2 350 | ✅ | La xarxa social del futur. Sense publicitats, feta per joves, pels joves de totes les edats. Servidors de proximitat. | en |
-| [super-gay.co](https://super-gay.co) | **37 862** | 185 | ✅ | A place for queer folk and allies to congregate. | en |
 | [szmer.info](https://szmer.info) | **37 821** | 2 257 | ✅ | ? | ? |
 | [kokuusa.club](https://kokuusa.club) | **37 794** | 92 | ✅ | ? | en |
 | [unfufadoo.net](https://unfufadoo.net) | **37 784** | 111 | ✅ | Mastodon source for nothing but memes | en |
 | [forall.social](https://forall.social) | **37 781** | 242 | ✅ | We are stronger together! We appreciate each others contributions and develop collaborations and teams to help each other and solve shared challenges.   | en |
-| [dosgame.club](https://dosgame.club) | **37 703** | 54 | ❌ | dosgame.club is the fediverse home of <a href="https://dosgameclub.com">DOS Game Club</a>. People here are all in one way or another involved with retro computing or retro gaming. | en |
+| [dosgame.club](https://dosgame.club) | **37 721** | 54 | ❌ | dosgame.club is the fediverse home of <a href="https://dosgameclub.com">DOS Game Club</a>. People here are all in one way or another involved with retro computing or retro gaming. | en |
 | [fedihum.org](https://fedihum.org) | **37 545** | 441 | ✅ | [EN] A community for Digital Humanities aficionados. \n [DE] Eine Community für Digital Humanities-Aficionados.<br/>  | en |
 | [mastodon.hams.social](https://mastodon.hams.social) | **37 538** | 646 | ✅ | A home on the Fediverse for Amateur Radio operators. | en |
 | [augsburg.social](https://augsburg.social) | **37 520** | 389 | ✅ | Augsburg.Social bietet diese Instanz an damit Du Deinen Weg ins Fediverse finden kannst. Der Dienst richtet sich an Augsburg und Umgebung. | de |
+| [mograph.social](https://mograph.social) | **37 470** | 1 257 | ✅ | mograph.social is a space for the Motion Design community. VFX artists, 3D artists, animators, designers and coders with an interest in moving images are all welcome. NO CRYPTOART / NFTs ALLOWED. | en |
 | [normal.style](https://normal.style) | **37 426** | 16 | ❌ | We are a think tank pursuing humanity's most ancient of dreams: using the internet normal style.   We are dedicated to the development and advancement of completely normal posting.  | en |
-| [mograph.social](https://mograph.social) | **37 402** | 1 257 | ✅ | mograph.social is a space for the Motion Design community. VFX artists, 3D artists, animators, designers and coders with an interest in moving images are all welcome. NO CRYPTOART / NFTs ALLOWED. | en |
 | [social.edist.ro](https://social.edist.ro) | **37 298** | 27 | ✅ | for anarchists and antifascists everywhere. we give a shit. Hopefully you do too. to sign up go to: social.edist.ro/auth/sign_up | en |
 | [opalstack.social](https://opalstack.social) | **37 296** | 1 485 | ✅ | For professionals and brands. Focus on your market, not administration. | en |
+| [darktundra.xyz](https://darktundra.xyz) | **37 181** | 11 | ✅ | darktundra is a small instance primarily for our family's personal use and the projects we are involved with.  | en |
 | [ddoskey.com](https://ddoskey.com) | **37 091** | 81 | ❌ | ? | ? |
-| [darktundra.xyz](https://darktundra.xyz) | **37 087** | 11 | ✅ | darktundra is a small instance primarily for our family's personal use and the projects we are involved with.  | en |
 | [social.v.st](https://social.v.st) | **37 059** | 17 | ❌ | ? | ? |
 | [freesoftwareextremist.com](https://freesoftwareextremist.com) | **37 041** | 140 | ✅ | ? | ? |
+| [gayfr.social](https://gayfr.social) | **37 034** | 91 | ✅ | Le serveur de la communauté gay francophone : partage de nos expériences, plaisirs, désirs et tous sujets de conversation. Liberté de nos échanges : érotisme mâle, nudité, sexe, BDSM et bienveillance. | fr |
 | [deacon.social](https://deacon.social) | **37 024** | 421 | ✅ | A respectful, loving, and diverse community of Christians of all traditions | en |
 | [skippers-bin.com](https://skippers-bin.com) | **36 948** | 740 | ✅ | ? | ? |
-| [gayfr.social](https://gayfr.social) | **36 886** | 91 | ✅ | Le serveur de la communauté gay francophone : partage de nos expériences, plaisirs, désirs et tous sujets de conversation. Liberté de nos échanges : érotisme mâle, nudité, sexe, BDSM et bienveillance. | fr |
 | [u-tokyo.social](https://u-tokyo.social) | **36 874** | 25 | ✅ | ? | ? |
 | [birds.town](https://birds.town) | **36 761** | 555 | ❌ | A server primarily meant for people who like birds, birding and nature in general, but obviously everyone is equally welcome here! 🪶 Have fun cawing about 🪶 | en |
-| [social.seattle.wa.us](https://social.seattle.wa.us) | **36 611** | 619 | ✅ | An instance for people who live in the Seattle region | en |
+| [allthingstech.social](https://allthingstech.social) | **36 723** | 365 | ✅ | AllThingsTech.social is a Mastodon instance geared for those that love all things tech/technology.  | en |
+| [social.seattle.wa.us](https://social.seattle.wa.us) | **36 641** | 619 | ✅ | An instance for people who live in the Seattle region | en |
 | [scalie.club](https://scalie.club) | **36 574** | 14 | ❌ | ? | en |
 | [kommunismus.social](https://kommunismus.social) | **36 472** | 149 | ✅ | Ein kleine Instanz für alle Linkstwitter-User und sonstige Kommunist*innen.   | de |
 | [wehavecookies.social](https://wehavecookies.social) | **36 469** | 1 407 | ✅ | Join us, we have cookies! Everything and everyone is welcome here: humor, technology, politics, cats, dogs, nerds, entertainment, incoherent thoughts, you name it.  | de |
@@ -6104,7 +6128,7 @@
 | [sandbox.skoji.jp](https://sandbox.skoji.jp) | **36 007** | 2 | ❌ | ? | en |
 | [pleroma.skyshanty.xyz](https://pleroma.skyshanty.xyz) | **35 931** | 13 | ✅ | ? | ? |
 | [code4lib.social](https://code4lib.social) | **35 887** | 171 | ❌ | code4lib.social is a GLAM-themed Mastodon Instance. | en |
-| [clacks.link](https://clacks.link) | **35 821** | 30 | ❌ | ? | en |
+| [clacks.link](https://clacks.link) | **35 862** | 30 | ❌ | ? | en |
 | [loma.ml](https://loma.ml) | **35 708** | 536 | ✅ | ? | ? |
 | [mastodon.jalgi.eus](https://mastodon.jalgi.eus) | **35 695** | 251 | ✅ | ? | ? |
 | [fluffy.family](https://fluffy.family) | **35 637** | 79 | ✅ | an instance for pets  thumbnail found via CreativeCommons search. Source: https://www.flickr.com/photos/8126330@N05/5636516286 | en |
@@ -6112,15 +6136,15 @@
 | [nayukana.info](https://nayukana.info) | **35 508** | 25 | ❌ | ? | ja |
 | [camp.smolnet.org](https://camp.smolnet.org) | **35 483** | 95 | ✅ | This is camp.smolnet.org, a Mastodon instance for the smol internet of friends. | en |
 | [sironi.tk](https://sironi.tk) | **35 471** | 8 | ❌ | ? | ? |
-| [x0r.be](https://x0r.be) | **35 417** | 268 | ✅ | ? | en |
+| [x0r.be](https://x0r.be) | **35 433** | 269 | ✅ | ? | en |
 | [mastodon.triggerphra.se](https://mastodon.triggerphra.se) | **35 416** | 798 | ✅ | A Mastodon instance for the hypnosis community; 18+, queer, and getting very sleepy. | en |
-| [kosmos.social](https://kosmos.social) | **35 349** | 51 | ✅ | kosmos.social is a friendly place for participating in the fediverse. It is run by the Kosmos open-source co-operative. | en |
+| [kosmos.social](https://kosmos.social) | **35 363** | 51 | ✅ | kosmos.social is a friendly place for participating in the fediverse. It is run by the Kosmos open-source co-operative. | en |
 | [pony.social](https://pony.social) | **35 287** | 411 | ✅ | Ponies on the Fediverse, Ponies on the Timeline, Ponies Everywhere.  No horsing around.  For nerds, LGBTQ+ or just people looking for a comfy place to call a home in this wild internet. | en |
 | [libera.tokyo](https://libera.tokyo) | **35 229** | 49 | ✅ | リベラルのリベラルによるリベラルのためのマストドン・サーバ。  自由主義の政治思想を掲げる人々が集い、緩やかに交流、議論を深めてゆく場として、ご活用いただければと思います。  登録前に必ず、利用規約をご確認ください。 https://info.libera.tokyo/about/libera-tokyo/policy/ | en |
 | [mastodon.pl](https://mastodon.pl) | **35 215** | 510 | ✅ | Mastodon Polska, to instancja wolnej i otwartej sieci społecznościowej, dostępna dla każdego kto chce dzielić się swoim światem z innymi. Zapraszamy! | pl |
-| [transfur.social](https://transfur.social) | **35 165** | 615 | ✅ | A space for the furry transformation community. | en |
+| [girldick.gay](https://girldick.gay) | **35 209** | 98 | ✅ | Welcome to girldick dot gay – a small, queer, left-wing instance for computer-touching catgirls and more! | en |
+| [transfur.social](https://transfur.social) | **35 204** | 615 | ✅ | A space for the furry transformation community. | en |
 | [anarres.family](https://anarres.family) | **35 158** | 16 | ❌ | This server is for Anarresti only, i.e. for rebels, misfits, round pegs in square holes. It is run in an anarcho-syndicalist style. Membership on invitation only. | en |
-| [girldick.gay](https://girldick.gay) | **35 121** | 98 | ✅ | Welcome to girldick dot gay – a small, queer, left-wing instance for computer-touching catgirls and more! | en |
 | [chirp.enworld.org](https://chirp.enworld.org) | **35 102** | 386 | ✅ | Tabletop gaming chatter in a moderated space. An inclusive community we'd like to hang out in. | en |
 | [the.asbestos.cafe](https://the.asbestos.cafe) | **35 017** | 47 | ✅ | ? | ? |
 | [rcsocial.net](https://rcsocial.net) | **34 998** | 585 | ✅ | RCsocial.net: a friendly social networking space for those with an interest in Catholicism. | en |
@@ -6128,7 +6152,7 @@
 | [data-folks.masto.host](https://data-folks.masto.host) | **34 961** | 2 310 | ✅ | A server for people interested in data professions, tooling and ecosystem. | en |
 | [lustigetiernamenbubble.de](https://lustigetiernamenbubble.de) | **34 938** | 30 | ✅ | ? | en |
 | [tea.codes](https://tea.codes) | **34 937** | 2 203 | ✅ | ? | ? |
-| [mstdn.isometry.group](https://mstdn.isometry.group) | **34 802** | 74 | ❌ | ? | en |
+| [mstdn.isometry.group](https://mstdn.isometry.group) | **34 848** | 74 | ❌ | ? | en |
 | [seafoam.space](https://seafoam.space) | **34 775** | 169 | ✅ | ? | ? |
 | [pouet.it](https://pouet.it) | **34 757** | 23 | ❌ | ? | en |
 | [pixelfed.meerjungfrauengrotte.de](https://pixelfed.meerjungfrauengrotte.de) | **34 730** | 8 | ❌ | ? | ? |
@@ -6141,22 +6165,22 @@
 | [the9thcircle.club](https://the9thcircle.club) | **34 403** | 306 | ✅ | ? | ? |
 | [iviv.hu](https://iviv.hu) | **34 324** | 3 201 | ✅ | ? | ? |
 | [spectra.video](https://spectra.video) | **34 291** | 440 | ✅ | ? | ? |
-| [mastodon.parleur.net](https://mastodon.parleur.net) | **34 215** | 6 | ❌ | ? | fr |
-| [mastodon.ar.al](https://mastodon.ar.al) | **34 123** | 1 | ❌ | This is my personal fediverse server. | en |
+| [mastodon.parleur.net](https://mastodon.parleur.net) | **34 235** | 6 | ❌ | ? | fr |
+| [mastodon.ar.al](https://mastodon.ar.al) | **34 160** | 1 | ❌ | This is my personal fediverse server. | en |
+| [gardenstate.social](https://gardenstate.social) | **33 855** | 640 | ✅ | A place for all things New Jersey. You don't have live in the Garden State to join because you can love New Jersey from anywhere in the world. | en |
 | [trans.enby.town](https://trans.enby.town) | **33 826** | 8 | ❌ | ? | ? |
-| [gardenstate.social](https://gardenstate.social) | **33 823** | 640 | ✅ | A place for all things New Jersey. You don't have live in the Garden State to join because you can love New Jersey from anywhere in the world. | en |
 | [xarxamontgri.masto.host](https://xarxamontgri.masto.host) | **33 769** | 11 | ✅ | Sobirania. Poder popular.  Els arxius multimèdia s'eliminen als 369 dies. En un planeta amb recursos finits no es pot guardar tot i sempre.  | en |
-| [norcal.social](https://norcal.social) | **33 618** | 1 433 | ✅ | Welcome to NorCal.social! This is a Mastodon instance specifically intended for  anyone who lives in or has a connection to Northern California. All are welcome, join today :) | en |
+| [norcal.social](https://norcal.social) | **33 614** | 1 434 | ✅ | Welcome to NorCal.social! This is a Mastodon instance specifically intended for  anyone who lives in or has a connection to Northern California. All are welcome, join today :) | en |
 | [lemm.ee](https://lemm.ee) | **33 503** | 27 332 | ✅ | ? | ? |
 | [i.peacht.art](https://i.peacht.art) | **33 452** | 38 | ✅ | ? | ? |
-| [mastodon.floe.earth](https://mastodon.floe.earth) | **33 167** | 161 | ✅ | Concerned about the climate, authoritarianism, war, billionaires and the power of big tech – but still looking for a community that posts about less scary things too? This is for you. | en |
+| [mastodon.floe.earth](https://mastodon.floe.earth) | **33 174** | 161 | ✅ | Concerned about the climate, authoritarianism, war, billionaires and the power of big tech – but still looking for a community that posts about less scary things too? This is for you. | en |
 | [masto.vy-let.software](https://masto.vy-let.software) | **33 132** | 6 | ❌ | This is a private instance for Vy-let and her close friends. | en |
 | [miau.jeder.pl](https://miau.jeder.pl) | **32 935** | 6 | ❌ | ? | ? |
 | [nojack.easydns.ca](https://nojack.easydns.ca) | **32 867** | 6 949 | ❌ | Clean, civil, clueful Mastodon instance for easyDNS members, techies and weirdos. SPAM BOTS WILL BE SUSPENDED | en |
 | [raggedfeathers.com](https://raggedfeathers.com) | **32 857** | 18 | ❌ | ? | en |
 | [diode.zone](https://diode.zone) | **32 614** | 3 354 | ❌ | ? | ? |
+| [osna.social](https://osna.social) | **32 402** | 530 | ✅ | Das soziale Netzwerk für Osnabrück und Umgebung: Umgesetzt mit freier Software, betrieben vom Chaostreff Osnabrück und frei von Massenüberwachung. Lokal und trotzdem mit der ganzen Welt verknüpft. | en |
 | [social.net.ua](https://social.net.ua) | **32 380** | 210 | ✅ | ? | ? |
-| [osna.social](https://osna.social) | **32 364** | 530 | ✅ | Das soziale Netzwerk für Osnabrück und Umgebung: Umgesetzt mit freier Software, betrieben vom Chaostreff Osnabrück und frei von Massenüberwachung. Lokal und trotzdem mit der ganzen Welt verknüpft. | en |
 | [mastobotti.eu](https://mastobotti.eu) | **32 316** | 18 | ✅ | Mastodon instanssi duukkiksen boteille ja kaipa tänne muitakin mahtuu. | en |
 | [evil.social](https://evil.social) | **32 310** | 274 | ❌ | ? | ? |
 | [don.neet.co.jp](https://don.neet.co.jp) | **32 235** | 107 | ✅ | 本サービスは日本語でニート（無職等）、もしくはだいたいニートである方、もしくは社会不適合者、社会的等弱者等、もしくはこれらの方とコミュニケーションを取られたい方が自由にコミュニケーションする場として提供するNEET株式会社の事業部のSNS（Mastodon）です。 | en |
@@ -6165,45 +6189,46 @@
 | [beekeeping.ninja](https://beekeeping.ninja) | **32 043** | 1 053 | ✅ | Friendly instance for those interested in gardening, beekeeping and the outdoors in general. Newcomers welcome! | en |
 | [comfyboy.club](https://comfyboy.club) | **31 873** | 8 | ✅ | ? | ? |
 | [mozilla.social](https://mozilla.social) | **31 730** | 1 286 | ❌ | ? | en |
-| [butts.team](https://butts.team) | **31 679** | 17 | ❌ | Butts: Everyone has one! | en |
-| [labyrinth.social](https://labyrinth.social) | **31 475** | 16 | ❌ | ? | ? |
-| [mas.town](https://mas.town) | **31 372** | 2 114 | ❌ | mas.town is a social media alternative focused on robust and responsible public dialogue. All information hosted in the USA and housed on AWS for data security, privacy, and resiliency.  | en |
-| [h-net.social](https://h-net.social) | **31 256** | 1 385 | ✅ | H-Net Humanities and Social Sciences Online | en |
+| [butts.team](https://butts.team) | **31 718** | 17 | ❌ | Butts: Everyone has one! | en |
+| [labyrinth.social](https://labyrinth.social) | **31 526** | 16 | ❌ | ? | ? |
+| [mas.town](https://mas.town) | **31 380** | 2 114 | ❌ | mas.town is a social media alternative focused on robust and responsible public dialogue. All information hosted in the USA and housed on AWS for data security, privacy, and resiliency.  | en |
+| [h-net.social](https://h-net.social) | **31 312** | 1 386 | ✅ | H-Net Humanities and Social Sciences Online | en |
 | [fedia.social](https://fedia.social) | **31 235** | 202 | ✅ | ? | ? |
-| [krefeld.life](https://krefeld.life) | **31 201** | 56 | ✅ | Hier können sich Menschen aus Krefeld und vom Niederrhein finden und austauschen. Hier wird über Veranstaltungen informiert und berichtet. Es gibt Tipps rund um Kunst, Kultur und Freizeit. | de |
+| [krefeld.life](https://krefeld.life) | **31 208** | 56 | ✅ | Hier können sich Menschen aus Krefeld und vom Niederrhein finden und austauschen. Hier wird über Veranstaltungen informiert und berichtet. Es gibt Tipps rund um Kunst, Kultur und Freizeit. | de |
 | [fedi.fullstuck.net](https://fedi.fullstuck.net) | **31 155** | 1 | ❌ | おひとり様サーバー | en |
 | [peculiar.florist](https://peculiar.florist) | **30 908** | 81 | ❌ | ? | ? |
 | [social.wake.st](https://social.wake.st) | **30 899** | 1 | ❌ | the personal instance of Liaizon Wakest | en |
 | [arsenalfc.social](https://arsenalfc.social) | **30 860** | 1 655 | ✅ | ArsenalFC.social is the world's FIRST and ONLY Arsenal Football Club-specific Mastodon Server - run BY Gooners FOR Gooners.  | en |
 | [app.wafrn.net](https://app.wafrn.net) | **30 838** | 618 | ✅ | ? | ? |
 | [fediverse.tv](https://fediverse.tv) | **30 819** | 551 | ✅ | ? | ? |
-| [chilemasto.casa](https://chilemasto.casa) | **30 623** | 263 | ✅ | Chilemasto quiere ser instancias agradables con un contexto chileno. Ex- chile.masto.host Ayuda en https://www.skrlet13.xyz/ayudame | es |
+| [chilemasto.casa](https://chilemasto.casa) | **30 652** | 264 | ✅ | Chilemasto quiere ser instancias agradables con un contexto chileno. Ex- chile.masto.host Ayuda en https://www.skrlet13.xyz/ayudame | es |
 | [persiansmastodon.com](https://persiansmastodon.com) | **30 605** | 8 265 | ✅ | Persians communities all around the world. بزرگترین سرور فارسی ماستودون  جامعه ای برای فارسی زبانان در سرتاسر جهان | en |
+| [teh.entar.net](https://teh.entar.net) | **30 577** | 35 | ❌ | teh.entar.net is part of the Mastodon network, a decentralized social network with no ads, no corporate surveillance, ethical design, and Oxford commas. | en |
+| [masto.nyc](https://masto.nyc) | **30 561** | 1 515 | ✅ | Regional New York City 🐘 🗽 instance! A place to engage with your local neighbors and friends | en |
 | [cville.online](https://cville.online) | **30 522** | 243 | ✅ | A small regional Mastodon server open to everyone interested in creating a more livable Cville area for all. We keep each other safe. | en |
-| [teh.entar.net](https://teh.entar.net) | **30 520** | 35 | ❌ | teh.entar.net is part of the Mastodon network, a decentralized social network with no ads, no corporate surveillance, ethical design, and Oxford commas. | en |
-| [masto.nyc](https://masto.nyc) | **30 480** | 1 515 | ✅ | Regional New York City 🐘 🗽 instance! A place to engage with your local neighbors and friends | en |
 | [social.mrjeda.de](https://social.mrjeda.de) | **30 460** | 6 | ✅ | ? | ? |
 | [wonkodon.com](https://wonkodon.com) | **30 299** | 309 | ✅ | ? | ? |
 | [ausglam.space](https://ausglam.space) | **30 285** | 235 | ✅ | ? | ? |
 | [wrestling.social](https://wrestling.social) | **30 243** | 15 | ❌ | It's just this Mastodon server, you know? | en |
 | [nixnet.social](https://nixnet.social) | **30 238** | 330 | ❌ | ? | ? |
-| [nutmeg.social](https://nutmeg.social) | **30 070** | 93 | ✅ | A regional Mastodon instance for those in (or interested in) Connecticut. Administered with love by a Connecticut native. | en |
-| [hoosier.social](https://hoosier.social) | **30 064** | 176 | ✅ | A small, independent Mastodon server focused on serving Indiana residents. | en |
+| [hoosier.social](https://hoosier.social) | **30 150** | 176 | ✅ | A small, independent Mastodon server focused on serving Indiana residents. | en |
+| [nutmeg.social](https://nutmeg.social) | **30 072** | 93 | ✅ | A regional Mastodon instance for those in (or interested in) Connecticut. Administered with love by a Connecticut native. | en |
 | [furactive.us](https://furactive.us) | **30 047** | 2 | ❌ | Mastodon Server for FurConAi, and FurActive | en |
 | [misskey.id](https://misskey.id) | **29 996** | 1 507 | ❌ | ? | ? |
-| [mastdn.social](https://mastdn.social) | **29 889** | 215 | ✅ | Generic Mastodon server for anyone to use.United Mastodon Instance of mastdn.social in union with mstodon/mstodn/mstdon/mstn/mastn.social and  welt/erde.social,fedi.center,fediverse.center | en |
+| [mastdn.social](https://mastdn.social) | **29 891** | 215 | ✅ | Generic Mastodon server for anyone to use.United Mastodon Instance of mastdn.social in union with mstodon/mstodn/mstdon/mstn/mastn.social and  welt/erde.social,fedi.center,fediverse.center | en |
 | [comunidad.nvda.es](https://comunidad.nvda.es) | **29 813** | 163 | ✅ | Una instancia de propósito general para interactuar con el fediverso mediante Mastodon, ofrecida y administrada por la comunidad hispanohablante de NVDA. | es |
-| [mastonederland.nl](https://mastonederland.nl) | **29 698** | 55 | ✅ | MastoNederland, een kleine en gezellige Mastodon server. Open to all, feel free to chat along. | en |
+| [mastonederland.nl](https://mastonederland.nl) | **29 735** | 55 | ✅ | MastoNederland, een kleine en gezellige Mastodon server. Open to all, feel free to chat along. | en |
 | [movsw.0x0.st](https://movsw.0x0.st) | **29 497** | 3 | ❌ | ? | ? |
 | [seocommunity.social](https://seocommunity.social) | **29 443** | 1 111 | ✅ | Mastodon server for the SEO (Search Engine Optimization) Community. | en |
 | [cooler.mom](https://cooler.mom) | **29 376** | 31 | ✅ | ? | ? |
 | [stoneartprod.xyz](https://stoneartprod.xyz) | **29 265** | 3 | ❌ | ? | fr |
 | [lemmy.ca](https://lemmy.ca) | **29 232** | 7 158 | ✅ | ? | ? |
+| [smutlandia.com](https://smutlandia.com) | **29 195** | 187 | ✅ | Welcome to the Smutlandia community! This space is for members of the adult content-driven literary arts community.  | en |
 | [possum.city](https://possum.city) | **29 182** | 125 | ✅ | ? | ? |
-| [smutlandia.com](https://smutlandia.com) | **29 155** | 187 | ✅ | Welcome to the Smutlandia community! This space is for members of the adult content-driven literary arts community.  | en |
 | [phire.place](https://phire.place) | **29 103** | 37 | ❌ | ? | ? |
 | [xscape.top](https://xscape.top) | **28 980** | 334 | ❌ | ? | ? |
-| [social.zdx.fr](https://social.zdx.fr) | **28 958** | 36 | ✅ | social.zdx.fr est une instance Mastodon essentiellement francophone. | en |
+| [chat.noelle.codes](https://chat.noelle.codes) | **28 967** | 2 | ❌ | Just Ellie (and perhaps some of her toys). | en |
+| [social.zdx.fr](https://social.zdx.fr) | **28 960** | 36 | ✅ | social.zdx.fr est une instance Mastodon essentiellement francophone. | en |
 | [podcasts.social](https://podcasts.social) | **28 955** | 408 | ✅ | podcasts.social - Mastodon für Podcasts  | en |
 | [social.fedcast.ch](https://social.fedcast.ch) | **28 941** | 7 | ❌ | ? | ? |
 | [wargamers.social](https://wargamers.social) | **28 785** | 642 | ✅ | Mastodon server for people who are interested in tabletop wargames of the board, card, and hex and counter variety.  | en |
@@ -6212,23 +6237,23 @@
 | [nu.federati.net](https://nu.federati.net) | **28 377** | 3 | ❌ | ? | ? |
 | [mstdn.dk](https://mstdn.dk) | **28 315** | 2 066 | ✅ | Just your average friendly Danish Mastodon server. New users tooting in Danish/English welcome. Administered from Denmark. Hosted on bare-metal Kubernetes in the EU.  | en |
 | [social.pmj.rocks](https://social.pmj.rocks) | **28 180** | 6 | ❌ | Dies ist die private Instanz von PMJ | en |
-| [mastodonnederland.online](https://mastodonnederland.online) | **28 017** | 12 | ✅ | Mastodon Nederland 🤎   <br> Created by Maureen Grünberg. | en |
+| [mastodonnederland.online](https://mastodonnederland.online) | **28 071** | 12 | ✅ | Mastodon Nederland 🤎   <br> Created by Maureen Grünberg. | en |
 | [xyzzy.link](https://xyzzy.link) | **27 997** | 19 | ❌ | ? | ? |
 | [borg.social](https://borg.social) | **27 985** | 7 | ❌ | ? | ? |
-| [genealysis.social](https://genealysis.social) | **27 881** | 535 | ✅ | Social interaction for anyone interested in #Genealogy. | en |
+| [genealysis.social](https://genealysis.social) | **27 920** | 535 | ✅ | Social interaction for anyone interested in #Genealogy. | en |
 | [fe.disroot.org](https://fe.disroot.org) | **27 843** | 1 580 | ❌ | ? | ? |
-| [colearn.social](https://colearn.social) | **27 723** | 722 | ✅ | Colearn.social wird von der Corporate Learning Community bereitgestellt. Als Kommunikationsplattform für alle, die sich mit Lernen in Organisationen beschäftigen. Als Beitrag zum Aufbau des Fediverse! | en |
-| [mastodon.lawprofs.org](https://mastodon.lawprofs.org) | **27 650** | 424 | ✅ | A Mastodon Instance for Legal Academics. Please provide your institutional affiliation when registering. | en |
+| [colearn.social](https://colearn.social) | **27 750** | 722 | ✅ | Colearn.social wird von der Corporate Learning Community bereitgestellt. Als Kommunikationsplattform für alle, die sich mit Lernen in Organisationen beschäftigen. Als Beitrag zum Aufbau des Fediverse! | en |
+| [mastodon.lawprofs.org](https://mastodon.lawprofs.org) | **27 668** | 425 | ✅ | A Mastodon Instance for Legal Academics. Please provide your institutional affiliation when registering. | en |
 | [press.anyaforger.art](https://press.anyaforger.art) | **27 640** | 71 | ❌ | ? | ? |
 | [m.einverne.info](https://m.einverne.info) | **27 593** | 18 | ✅ | EV Mastodon 是一个开源的、去中心化社交网络，本站提供了一个可以自由讨论的网络空间。 | en |
 | [physchem.science](https://physchem.science) | **27 491** | 8 | ✅ | A server run by early career Physical Chemists for other Physical Chemists! | en |
 | [mastodon.holeyfox.co](https://mastodon.holeyfox.co) | **27 428** | 804 | ✅ | A Mastodon instance for Nigerians. Everyone is welcome. | en |
 | [tube.kockatoo.org](https://tube.kockatoo.org) | **27 383** | 14 | ❌ | ? | ? |
+| [alaskan.social](https://alaskan.social) | **27 361** | 138 | ✅ | Alaskan.Social is an independent, ad-free, open-source, decentralized social media community; created, moderated, and owned by Alaskans.  | en |
 | [bookstodon.com](https://bookstodon.com) | **27 351** | 539 | ✅ | A place for bibliophiles, bookworms, book lovers, and all things bookish 📚📚📚 hosted by Thunderhost.com 📚📚📚 | en |
-| [alaskan.social](https://alaskan.social) | **27 315** | 137 | ✅ | Alaskan.Social is an independent, ad-free, open-source, decentralized social media community; created, moderated, and owned by Alaskans.  | en |
 | [mastodon.chasalin.nl](https://mastodon.chasalin.nl) | **27 246** | 10 | ✅ | ? | en |
+| [idlethumbs.social](https://idlethumbs.social) | **27 178** | 488 | ✅ | Idle Mastodon is brought to you by the Idle Thumbs team, for our community (or anyone who wants to join it). | en |
 | [hostsharing.coop](https://hostsharing.coop) | **27 170** | 74 | ❌ | hostsharing.coop ist die Mastodon-Instanz für Mitglieder der Hostsharing eG. Sie wird seit 2018 von der Hosting-Genossenschaft betrieben.  | de |
-| [idlethumbs.social](https://idlethumbs.social) | **27 147** | 488 | ✅ | Idle Mastodon is brought to you by the Idle Thumbs team, for our community (or anyone who wants to join it). | en |
 | [apotheke.social](https://apotheke.social) | **27 134** | 88 | ✅ | Wir bieten Personen, Vereinigungen und Organisationen aus dem Apothekenbereich eine offene und werbefreie Kommunikationsplattform an, frei von Tracking und unter Wahrung der Privatsphäre.  | de |
 | [node9.org](https://node9.org) | **27 126** | 340 | ❌ | ? | ? |
 | [mastodon.com.py](https://mastodon.com.py) | **27 089** | 4 143 | ✅ | Primer servidor federado de Mastodon en Paraguay: todos los latinos y hablantes de español bienvenidos! | es-AR |
@@ -6250,18 +6275,18 @@
 | [froggie.gay](https://froggie.gay) | **26 254** | 44 | ✅ | ? | ? |
 | [pleroma.noellabo.jp](https://pleroma.noellabo.jp) | **26 179** | 1 580 | ❌ | ? | ? |
 | [suya.place](https://suya.place) | **26 134** | 35 | ❌ | ? | ? |
-| [notacult.social](https://notacult.social) | **25 953** | 115 | ✅ | We're Not a Cult. Mildly obsessed with Obsidian, we also have affinities for mechanical keyboards, memes, computer programming, taco bell, video games, content creation, and occasionally music. | en |
+| [notacult.social](https://notacult.social) | **25 998** | 115 | ✅ | We're Not a Cult. Mildly obsessed with Obsidian, we also have affinities for mechanical keyboards, memes, computer programming, taco bell, video games, content creation, and occasionally music. | en |
 | [friendicarg.nsupdate.info](https://friendicarg.nsupdate.info) | **25 899** | 196 | ✅ | ? | ? |
-| [leftodon.social](https://leftodon.social) | **25 794** | 218 | ✅ | ? | ? |
-| [toots.matapacos.dog](https://toots.matapacos.dog) | **25 785** | 217 | ✅ | ? | ? |
+| [toots.matapacos.dog](https://toots.matapacos.dog) | **25 830** | 217 | ✅ | ? | ? |
+| [leftodon.social](https://leftodon.social) | **25 827** | 218 | ✅ | ? | ? |
+| [squawk.social](https://squawk.social) | **25 813** | 94 | ✅ | Welcome to Squawk.Social! This server is made with Bird/Avian/Gryphon furries in mind. But anyone is welcome! | en |
 | [anonsys.net](https://anonsys.net) | **25 772** | 146 | ✅ | ? | ? |
-| [squawk.social](https://squawk.social) | **25 772** | 94 | ✅ | Welcome to Squawk.Social! This server is made with Bird/Avian/Gryphon furries in mind. But anyone is welcome! | en |
 | [catswords.social](https://catswords.social) | **25 736** | 36 | ✅ | Catch your own words! 캐츠워즈 콜로세움, 당신이 이겨야 하는 곳 (Maintained by Catswords Research) | en |
 | [mstdn.digital](https://mstdn.digital) | **25 669** | 3 | ❌ | ? | en |
-| [x0f.org](https://x0f.org) | **25 652** | 36 | ❌ | ? | en |
+| [x0f.org](https://x0f.org) | **25 659** | 36 | ❌ | ? | en |
 | [mastodon.wurzelmann.at](https://mastodon.wurzelmann.at) | **25 594** | 12 | ❌ | Dies ist eine kleine Instanz für Freund*innen von Wurzelmann und wird als Hobby betrieben. | en |
 | [mstdn.ikebuku.ro](https://mstdn.ikebuku.ro) | **25 571** | 34 | ✅ | Mastodon Ikebukuro Division（マストドン イケブクロ・ディビジョン）は、「池袋」という単語が刺さる人向けのMastodonサーバーです。 | en |
-| [xn--baw-joa.social](https://xn--baw-joa.social) | **25 445** | 142 | ❌ | Dies ist die Mastodon-Instanz des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI Bawü). | en |
+| [xn--baw-joa.social](https://xn--baw-joa.social) | **25 495** | 142 | ❌ | Dies ist die Mastodon-Instanz des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI Bawü). | en |
 | [mstdn.media](https://mstdn.media) | **25 434** | 31 | ❌ | ? | ? |
 | [duk.space](https://duk.space) | **25 343** | 196 | ✅ | 한국어를 사용하는 유저들을 위한 마스토돈 서버입니다. 서로의 일상 및 덕질을 존중하는 공간을 지향합니다. | en |
 | [mastodon.derstandard.at](https://mastodon.derstandard.at) | **25 305** | 3 | ❌ | Offizieller Server der STANDARD Verlagsgesellschaft m.b.H. | en |
@@ -6270,17 +6295,17 @@
 | [kernkraft.social](https://kernkraft.social) | **25 044** | 52 | ✅ | A server for all progressive people ;-) | en |
 | [social.br-linux.org](https://social.br-linux.org) | **24 944** | 2 | ❌ | SOCIAL.BR-LINU𝕏.ORG - A instância do BR-Linux no Mastodon. Bem-vindos à federação! | en |
 | [spookygirl.boo](https://spookygirl.boo) | **24 856** | 19 | ❌ | ? | ? |
-| [mastodon.pub.solar](https://mastodon.pub.solar) | **24 841** | 74 | ✅ | Mastodon is a micro-blogging platform. This instance is operated by pub.solar. We are a non-registered association seated in Cologne, Germany. Our goal is to enable more people to use free software, have secure digital communications, and to take control over their private data. We offer free software for you and all the people you love. We do this transparently and democratically. | en |
+| [mastodon.pub.solar](https://mastodon.pub.solar) | **24 855** | 75 | ✅ | Mastodon is a micro-blogging platform. This instance is operated by pub.solar. We are a non-registered association seated in Cologne, Germany. Our goal is to enable more people to use free software, have secure digital communications, and to take control over their private data. We offer free software for you and all the people you love. We do this transparently and democratically. | en |
+| [mastodon.stickbear.me](https://mastodon.stickbear.me) | **24 813** | 23 | ✅ | This instance is ran by a couple of admins, with a wapping 8000 character limit! this server is a drama free zone, follow the rules and you'll be fine. | en |
 | [qnmd.info](https://qnmd.info) | **24 808** | 2 | ❌ | ? | en |
 | [press.coop](https://press.coop) | **24 786** | 95 | ❌ | A mirror of Twitter press accounts. | en |
 | [djsumdog.com](https://djsumdog.com) | **24 778** | 1 | ❌ | ? | ? |
 | [diaspora.koehn.com](https://diaspora.koehn.com) | **24 769** | 1 028 | ❌ | ? | ? |
 | [mastodon.muage.org](https://mastodon.muage.org) | **24 735** | 9 | ✅ | Instance Mastodon privée pour les membres de Muage #France #Québec #Montréal | fr |
+| [darkfriend.social](https://darkfriend.social) | **24 718** | 165 | ✅ | This is a social community inspired by the Wheel of Time. Talk about anything, connect with people and interests across the open social web, and swear your body and soul to the Great Lord of the Dark. | en |
 | [poliverso.org](https://poliverso.org) | **24 701** | 517 | ✅ | ? | ? |
-| [darkfriend.social](https://darkfriend.social) | **24 685** | 165 | ✅ | This is a social community inspired by the Wheel of Time. Talk about anything, connect with people and interests across the open social web, and swear your body and soul to the Great Lord of the Dark. | en |
-| [radiosocial.de](https://radiosocial.de) | **24 599** | 129 | ✅ | Server für deutsche Funkamateure und alle die was mit Funk Empfang oder Sendung zu tun haben.   | de |
+| [radiosocial.de](https://radiosocial.de) | **24 627** | 129 | ✅ | Server für deutsche Funkamateure und alle die was mit Funk Empfang oder Sendung zu tun haben.   | de |
 | [calckey.world](https://calckey.world) | **24 566** | 593 | ✅ | ? | ? |
-| [mastodon.stickbear.me](https://mastodon.stickbear.me) | **24 553** | 23 | ✅ | This instance is ran by a couple of admins, with a wapping 8000 character limit! this server is a drama free zone, follow the rules and you'll be fine. | en |
 | [mountains.social](https://mountains.social) | **24 536** | 494 | ✅ | Mastodon instance focusing on hiking, mountaineering, climbing, backpacking and the outdoors. | en |
 | [miss.mouse.services](https://miss.mouse.services) | **24 469** | 20 | ❌ | ? | ? |
 | [social.afront.org](https://social.afront.org) | **24 398** | 40 | ❌ | ? | en |
@@ -6290,25 +6315,25 @@
 | [nordicshutter.com](https://nordicshutter.com) | **24 272** | 29 | ❌ | ? | ? |
 | [rebel.ar](https://rebel.ar) | **24 208** | 501 | ✅ | Servidor Argentino de mastodon por la soberanía del cómputo y los datos. | es |
 | [mysportgallery.com](https://mysportgallery.com) | **24 197** | 26 | ✅ | A server for passionate sports fans to talk about sports, among other things. This server is new and independently run.  | en |
+| [river.group.lt](https://river.group.lt) | **24 103** | 86 | ✅ | Čia suprantam lietuviškai / We understand lithuanian | en |
 | [rankett.net](https://rankett.net) | **24 058** | 213 | ✅ | ? | ? |
 | [m.nintendojo.fr](https://m.nintendojo.fr) | **24 055** | 14 | ❌ | Ceci est l'instance du site NintendojoFR. Elle est réservée aux membres de la rédaction et à nos chers lecteurs qui souhaitent avoir un compte. | en |
 | [mastodon.london](https://mastodon.london) | **24 045** | 2 744 | ✅ | Hi, this is the fediverse instance for Londoners and for everyone associated with London | en |
-| [river.group.lt](https://river.group.lt) | **24 033** | 85 | ✅ | Čia suprantam lietuviškai / We understand lithuanian | en |
-| [woof.tech](https://woof.tech) | **23 899** | 232 | ✅ | Queer, tech and furry instance. Open to anyone that fits the atmosphere, come on in! | en |
+| [woof.tech](https://woof.tech) | **23 924** | 232 | ✅ | Queer, tech and furry instance. Open to anyone that fits the atmosphere, come on in! | en |
 | [wue.social](https://wue.social) | **23 859** | 136 | ✅ | Auf WUE.SOCIAL soll ein freies soziales Netzwerk für Würzburg und Umgebung angeboten werden. Diese Mastodon-Instanz ist privat geführt und nicht-kommerziell. | en |
 | [neue.city](https://neue.city) | **23 794** | 60 | ❌ | ? | ? |
 | [darkwitch.net](https://darkwitch.net) | **23 779** | 60 | ✅ | 站长爱好玄学，修炼占星、命理、占卜等等奇妙学科，欢迎玄学爱好者加入本站，共同探讨宇宙之奥秘。 站长和服务器均在海外。  本站八字 （供各位女巫参考） 壬寅 癸丑 庚寅 癸未  女巫站的灵异论坛：https://bbs.darkwitch.net/c/main | en |
-| [lewacki.space](https://lewacki.space) | **23 742** | 749 | ✅ | lewacki.space to fed skierowany przede wszystkim do osób o szeroko rozumianych poglądach lewicowych. | pl |
+| [lewacki.space](https://lewacki.space) | **23 750** | 748 | ✅ | lewacki.space to fed skierowany przede wszystkim do osób o szeroko rozumianych poglądach lewicowych. | pl |
 | [recurse.social](https://recurse.social) | **23 672** | 256 | ❌ | ? | ? |
-| [lily.network](https://lily.network) | **23 649** | 8 | ❌ | This is a single-user instance for @millenomi@lily.network. | en |
+| [lily.network](https://lily.network) | **23 654** | 8 | ❌ | This is a single-user instance for @millenomi@lily.network. | en |
 | [mastodon.tinyfox.dev](https://mastodon.tinyfox.dev) | **23 640** | 24 | ✅ | Server I'll use for hosting the Hourly Animals Bots. Feel free to share content of your own. | en |
-| [aipi.social](https://aipi.social) | **23 554** | 8 480 | ✅ | aipi ist Dienstleister in Sachen IT-Sicherheit und Kommunikation. Wir bieten hier eine Kommunikationsmöglichkeit mit der Mastodon-Föderation an.  | en |
-| [packmates.org](https://packmates.org) | **23 544** | 62 | ✅ | A queer and cozy instance for therians, anthro & feral furries, pups, and fans of animal fiction such as TLK, Warrior Cats, Felidae... Well federated via 4+ furry relays. Run by staff of yiffit.net | en |
+| [packmates.org](https://packmates.org) | **23 593** | 62 | ✅ | A queer and cozy instance for therians, anthro & feral furries, pups, and fans of animal fiction such as TLK, Warrior Cats, Felidae... Well federated via 4+ furry relays. Run by staff of yiffit.net | en |
+| [aipi.social](https://aipi.social) | **23 572** | 8 480 | ✅ | aipi ist Dienstleister in Sachen IT-Sicherheit und Kommunikation. Wir bieten hier eine Kommunikationsmöglichkeit mit der Mastodon-Föderation an.  | en |
 | [mstdn.fedi.kirigiri.me](https://mstdn.fedi.kirigiri.me) | **23 482** | 7 | ❌ | ? | en |
 | [videos.redeyes.site](https://videos.redeyes.site) | **23 474** | 22 | ✅ | ? | ? |
 | [masto.komintern.work](https://masto.komintern.work) | **23 225** | 27 | ✅ | ? | ? |
 | [stereodon.social](https://stereodon.social) | **23 165** | 1 255 | ✅ | <a href="https://stereodon.social/">Stereodon.social</a> è un social network autogestito e open source dedicato alla musica.<br> Stanchi di scambiarci informazioni tramite sistemi eticamente in contrasto con i nostri principi, abbiamo deciso di dar vita a questa istanza.<br> Siamo convinti che slegare la diffusione di musica da logiche competitive, possa favorire il fare comunità, quindi un maggiore e più sincero scambio di informazioni.<br><br><br>  [ENG]<br><br>  <a href="https://stereodon.social/">Stereodon.social</a> is a self-managed social network devoted to underground music.<br> Tired of exchanging information through systems that are ethically in contrast to our principles, we decided to give life to this instance.<br> We are convinced that unlink the diffusion of music from competitive logics can favor making communities, therefore a greater and more sincere exchange of information.<br><br><br>  languages accepted: Italian, English (for moderation reasons) <br><br> contact: admin [AT] stereodon.social <br><br>  | it |
-| [tooter.social](https://tooter.social) | **23 099** | 554 | ✅ | Tooter est un serveur Mastodon généraliste, principalement francophone. Illustration par David Revoy. | fr |
+| [tooter.social](https://tooter.social) | **23 132** | 554 | ✅ | Tooter est un serveur Mastodon généraliste, principalement francophone. Illustration par David Revoy. | fr |
 | [mastodon.lithium03.info](https://mastodon.lithium03.info) | **23 077** | 3 | ✅ | lithium03の管理するサーバーです | ja |
 | [free.gluten.space](https://free.gluten.space) | **23 041** | 13 | ✅ | Une petite instance Mastodon (en construction) | en |
 | [curmudgeon.cafe](https://curmudgeon.cafe) | **23 027** | 8 | ❌ | ? | en |
@@ -6316,30 +6341,30 @@
 | [mastodon.hypnoguys.com](https://mastodon.hypnoguys.com) | **22 987** | 1 130 | ✅ | A social network for guys who are into hypnosis. | en |
 | [social.furry.nz](https://social.furry.nz) | **22 963** | 73 | ✅ | ? | en |
 | [nerdica.net](https://nerdica.net) | **22 939** | 355 | ✅ | ? | ? |
-| [fursuits.online](https://fursuits.online) | **22 912** | 193 | ✅ | A server for fursuiters, fursuit makers, and fursuit enthusiasts. | en |
+| [fursuits.online](https://fursuits.online) | **22 898** | 193 | ✅ | A server for fursuiters, fursuit makers, and fursuit enthusiasts. | en |
+| [gamedev.lgbt](https://gamedev.lgbt) | **22 859** | 135 | ✅ | A twitter alternative for Queer gamedevs! | en |
 | [misskey.de](https://misskey.de) | **22 851** | 465 | ✅ | ? | ? |
+| [graphics.social](https://graphics.social) | **22 830** | 7 109 | ✅ | A gathering place for the computer graphics community to discuss 3D and 2D graphics, computer science, and any related topics. Everyone is welcome here. | en |
 | [mastodon.redgarterclub.com](https://mastodon.redgarterclub.com) | **22 801** | 4 | ✅ | ? | en |
 | [pl.valkyrie.world](https://pl.valkyrie.world) | **22 800** | 1 | ❌ | ? | ? |
-| [gamedev.lgbt](https://gamedev.lgbt) | **22 784** | 134 | ✅ | A twitter alternative for Queer gamedevs! | en |
 | [mstdn.animexx.de](https://mstdn.animexx.de) | **22 783** | 339 | ✅ | Die Mastodon-Instanz des Animexx e.V.  Die deutsche Community für Anime|Manga|Cosplay|Art|Japan|Events | de |
 | [librosphere.fr](https://librosphere.fr) | **22 782** | 206 | ✅ | ? | ? |
-| [graphics.social](https://graphics.social) | **22 767** | 7 109 | ✅ | A gathering place for the computer graphics community to discuss 3D and 2D graphics, computer science, and any related topics. Everyone is welcome here. | en |
 | [officiell-info.se](https://officiell-info.se) | **22 738** | 36 | ✅ | En mastodon-server för automatiserade RSS-flöden från svenska myndigheter och organisationer  | en |
 | [pleroma.envs.net](https://pleroma.envs.net) | **22 700** | 235 | ✅ | ? | ? |
 | [derg.social](https://derg.social) | **22 697** | 126 | ✅ | ? | ? |
+| [bagarrosphere.fr](https://bagarrosphere.fr) | **22 680** | 230 | ✅ | Bienvenue sur le serveur Mastodon orienté principalement sur la chose militaire mais vous êtes tous les bienvenues. | en |
 | [very.tastytea.de](https://very.tastytea.de) | **22 673** | 4 | ❌ | ? | ? |
 | [indieauthors.social](https://indieauthors.social) | **22 659** | 525 | ✅ | This server is dedicated to self-published, indie authors who want to help, encourage, and socialize with other indies. It's also for all the fans that love and support indie authors.  | en |
-| [bagarrosphere.fr](https://bagarrosphere.fr) | **22 626** | 230 | ✅ | Bienvenue sur le serveur Mastodon orienté principalement sur la chose militaire mais vous êtes tous les bienvenues. | en |
-| [neovibe.app](https://neovibe.app) | **22 609** | 611 | ✅ | LGBTQIA+ friendly community that aims to provide a safe and friendly environment for all members. Anyone is welcome to join! Love and respect are the vibes. | en |
+| [neovibe.app](https://neovibe.app) | **22 640** | 610 | ✅ | LGBTQIA+ friendly community that aims to provide a safe and friendly environment for all members. Anyone is welcome to join! Love and respect are the vibes. | en |
+| [bolha.one](https://bolha.one) | **22 607** | 57 | ❌ | A Bolhinha é uma comunidade moderada do Mastodon sem tema específico, voltada para falantes de português. | pt-BR |
 | [monk.ey.business](https://monk.ey.business) | **22 571** | 75 | ❌ | ? | ? |
-| [bolha.one](https://bolha.one) | **22 545** | 57 | ❌ | A Bolhinha é uma comunidade moderada do Mastodon sem tema específico, voltada para falantes de português. | pt-BR |
 | [tutoteket.no](https://tutoteket.no) | **22 506** | 11 | ❌ | Tutoteket er ein liten server med liten plass, men vi har lesestoff og god drikke, så vi klarar oss. | en |
-| [mastodon.cat](https://mastodon.cat) | **22 338** | 2 194 | ❌ | La teva xarxa social en català | ca |
+| [mastodon.cat](https://mastodon.cat) | **22 340** | 2 194 | ❌ | La teva xarxa social en català | ca |
 | [thefolklore.cafe](https://thefolklore.cafe) | **22 326** | 26 | ❌ | A server for the folklore and mythology tribe. A place for us to sit back, enjoy a drink and tell the stories that evoke the spells and the deepest of magics.  Please check the instance rules. | en |
 | [social.fbxl.net](https://social.fbxl.net) | **22 325** | 40 | ❌ | ? | ? |
 | [social.slat.org](https://social.slat.org) | **22 320** | 1 259 | ✅ | 這是中華民國軟體自由協會 (SLAT) 的 Mastodon 社交平台。 | en |
+| [rheinhessen.social](https://rheinhessen.social) | **22 304** | 91 | ✅ | rheinhessen.social ist eine Mastodon-Instanz für Nutzer*innen aus Rheinhessen. | en |
 | [mastodon.acm.org](https://mastodon.acm.org) | **22 265** | 979 | ✅ | This server is generally intended to provide a trustworthy space for computing professionals from around the world to connect and engage with each other in a meaningful way.  | en |
-| [rheinhessen.social](https://rheinhessen.social) | **22 232** | 91 | ✅ | rheinhessen.social ist eine Mastodon-Instanz für Nutzer*innen aus Rheinhessen. | en |
 | [grimgreenfo.rest](https://grimgreenfo.rest) | **22 214** | 48 | ✅ | ? | ? |
 | [mastodon.ozioso.online](https://mastodon.ozioso.online) | **22 198** | 16 | ✅ | A server for fun and profit, mainly my bots | en |
 | [pone.social](https://pone.social) | **22 097** | 390 | ✅ | Pone.Social is a Mastodon-enabled social network for bronies, pegasisters, and all the rest of you fellow pony degenerates. | en |
@@ -6350,17 +6375,17 @@
 | [tube.tchncs.de](https://tube.tchncs.de) | **21 893** | 2 211 | ✅ | ? | ? |
 | [cwb.social](https://cwb.social) | **21 776** | 381 | ✅ | Servidor Mastodon de propósito geral para pessoas ligadas a Curitiba. Português é a língua primária mas todas as línguas são permitidas. | en |
 | [mast.linuxgamecast.com](https://mast.linuxgamecast.com) | **21 739** | 46 | ❌ | We’re a group of volunteers helping the Linux community with gaming, podcasting, live streaming, and audio / video production since 2010.  | en |
+| [social.sargasso.nl](https://social.sargasso.nl) | **21 723** | 11 | ✅ | Sargasso is een community van gelijkgestemde mensen en heeft een progressieve signatuur, maar is niet dogmatisch. Onbeschaamd intellectueel en kosmopolitisch, maar tegelijkertijd hopeloos genuanceerd. | en |
 | [catposter.club](https://catposter.club) | **21 694** | 21 | ❌ | ? | ? |
-| [social.sargasso.nl](https://social.sargasso.nl) | **21 689** | 11 | ✅ | Sargasso is een community van gelijkgestemde mensen en heeft een progressieve signatuur, maar is niet dogmatisch. Onbeschaamd intellectueel en kosmopolitisch, maar tegelijkertijd hopeloos genuanceerd. | en |
 | [vnil.de](https://vnil.de) | **21 686** | 105 | ✅ | ? | ? |
-| [saturation.social](https://saturation.social) | **21 643** | 86 | ❌ | ? | ? |
+| [saturation.social](https://saturation.social) | **21 663** | 86 | ❌ | ? | ? |
 | [mastodon.cf](https://mastodon.cf) | **21 595** | 429 | ❌ | ? | ? |
 | [rants.au](https://rants.au) | **21 545** | 8 | ✅ | Hold forth | en |
 | [hyan.ink](https://hyan.ink) | **21 528** | 202 | ✅ | ? | ? |
 | [social.vasilis.nl](https://social.vasilis.nl) | **21 499** | 7 | ❌ | A private mastodon instance of Vasilis van Gemert and his bots. | en |
+| [podvibes.co](https://podvibes.co) | **21 486** | 299 | ✅ | A corner of the #Fediverse carved out and cared for by audio fiction creators and fans.  If you love audio dramas, fiction podcasts, audiobooks, radio plays, and more—welcome!  | en |
 | [comp.lain.la](https://comp.lain.la) | **21 486** | 77 | ✅ | ? | ? |
 | [mastodon.palewi.re](https://mastodon.palewi.re) | **21 486** | 15 | ✅ | A private Mastodon instance hosted by @palewire | en |
-| [podvibes.co](https://podvibes.co) | **21 467** | 299 | ✅ | A corner of the #Fediverse carved out and cared for by audio fiction creators and fans.  If you love audio dramas, fiction podcasts, audiobooks, radio plays, and more—welcome!  | en |
 | [pebble.social](https://pebble.social) | **21 429** | 391 | ✅ | Why "Pebble"? A tiny stone can cause ripples across a whole pond. Just like every one of you, sharing your stories and insights, can create waves in our online community. | en |
 | [fed.sbcloud.cc](https://fed.sbcloud.cc) | **21 412** | 33 | ✅ | A small server for spirited artists and friends, by a musician and free/open software advocate.  A safe space for artists, or people who work in the arts to call home. | en |
 | [mastodon-ero.xyz](https://mastodon-ero.xyz) | **21 376** | 46 | ✅ | マストドンJAPAN鯖　アダルト可能なマストドン。プロフィールに仮想通貨のウォレットを掲載する事も可能です。  | en |
@@ -6376,8 +6401,8 @@
 | [creativewriting.social](https://creativewriting.social) | **20 891** | 275 | ✅ | A Social space for creative writers. | en |
 | [squawk.mytransponder.com](https://squawk.mytransponder.com) | **20 871** | 366 | ✅ | myTransponder makes aviation more social. | en |
 | [post.naskya.net](https://post.naskya.net) | **20 861** | 9 | ❌ | ? | ? |
+| [mas.corq.co](https://mas.corq.co) | **20 761** | 8 | ✅ | Ukraine-supporting, LGBTQ-friendly, Mastodon server. | en |
 | [societas.online](https://societas.online) | **20 734** | 436 | ✅ | ? | ? |
-| [mas.corq.co](https://mas.corq.co) | **20 681** | 8 | ✅ | Ukraine-supporting, LGBTQ-friendly, Mastodon server. | en |
 | [lsbt.me](https://lsbt.me) | **20 668** | 141 | ✅ | Diese Mastodon-Instanz ist für alle* die LGBT+ oder Allies sind. Ein Safe Space für Dich! Betrieben von Christin Löhner, selbst trans Frau und Aktivistin für LSBT+ Rechte. #lsbt #lgbt #lgbtq #lgbtiq | de |
 | [nightshift.social](https://nightshift.social) | **20 612** | 43 | ✅ | ? | ? |
 | [mastodon.longlandclan.id.au](https://mastodon.longlandclan.id.au) | **20 594** | 2 | ❌ | A private server for my family members.  A longlandclan.id.au email address is required for registration. | en |
@@ -6389,39 +6414,40 @@
 | [photos.communitymedia.video](https://photos.communitymedia.video) | **20 529** | 3 | ❌ | ? | ? |
 | [pari.cafe](https://pari.cafe) | **20 528** | 361 | ✅ | ? | ? |
 | [greenjobs.social](https://greenjobs.social) | **20 518** | 5 | ❌ | ? | ? |
+| [mastodon.io.seg.br](https://mastodon.io.seg.br) | **20 517** | 26 | ✅ | As descrições gerais ainda sendo definidas. | en |
 | [potate.space](https://potate.space) | **20 503** | 54 | ❌ | Small french and english speaking queer and anarchist place. This server is operated as a hobby. It is supported by generous donations. | en |
 | [social.ds106.us](https://social.ds106.us) | **20 475** | 85 | ✅ | This is a Mastodon sandbox for ds106 folks. Play at your own creative risk. | en |
 | [newsmast.social](https://newsmast.social) | **20 456** | 1 429 | ✅ | Welcome to Newsmast. Knowledge-sharing social media with a conscience, built around communities and powered by Mastodon. | en |
 | [backend.newsmast.org](https://backend.newsmast.org) | **20 456** | 1 429 | ✅ | Welcome to Newsmast. Knowledge-sharing social media with a conscience, built around communities and powered by Mastodon. | en |
 | [bdx.town](https://bdx.town) | **20 421** | 89 | ✅ | ? | ? |
+| [438punk.house](https://438punk.house) | **20 361** | 205 | ❌ | ? | ? |
 | [mofu.kemo.no](https://mofu.kemo.no) | **20 301** | 194 | ✅ | かわいい感じのケモノ風のキャラクターや、頭身低めのマスコット的なキャラクターが嫌いじゃない方のためのマストドンサーバーです。おいでよ、もふけもの！ | en |
+| [ifwo.eu](https://ifwo.eu) | **20 299** | 41 | ✅ | Raum für Irritationen | en |
 | [mastodon.africa](https://mastodon.africa) | **20 293** | 231 | ✅ | Mastodon.Africa is run by South Africans, for South Africans, Africans and everybody else looking for a friendly and welcoming Mastodon instance. | en |
 | [smugglersbbs.com](https://smugglersbbs.com) | **20 279** | 10 | ✅ | Sequoia Mastodon User's Group BBS | en |
 | [earthstream.social](https://earthstream.social) | **20 277** | 1 348 | ✅ | earthstream federated social server running Mastodon - focus on environmental, trade, human rights, and other social and global issues | en |
-| [ifwo.eu](https://ifwo.eu) | **20 257** | 41 | ✅ | Raum für Irritationen | en |
 | [dimension.host](https://dimension.host) | **20 199** | 6 | ❌ | 서로의 차원을 서로에게 소개해 주세요. 당신이 주최자랍니다. | en |
-| [438punk.house](https://438punk.house) | **20 188** | 205 | ❌ | ? | ? |
+| [mastodon.trueten.de](https://mastodon.trueten.de) | **20 172** | 19 | ✅ | mastodon.trueten.de is just another anarchistic Mastodon server. Not elitist and not for salon anarchists. Adorno and Marcuse readers and trainees are welcome.  | en |
 | [kitsune.moe](https://kitsune.moe) | **20 121** | 432 | ✅ | ? | ? |
-| [mastodon.trueten.de](https://mastodon.trueten.de) | **20 118** | 19 | ✅ | mastodon.trueten.de is just another anarchistic Mastodon server. Not elitist and not for salon anarchists. Adorno and Marcuse readers and trainees are welcome.  | en |
 | [akkoma.flyerdonut.net](https://akkoma.flyerdonut.net) | **20 113** | 6 | ❌ | ? | ? |
 | [magnetic-ink.dk](https://magnetic-ink.dk) | **20 090** | 12 | ❌ | ? | ? |
 | [mk.nyaa.place](https://mk.nyaa.place) | **20 058** | 4 | ❌ | ? | ? |
 | [mastodon.scollectif.fr](https://mastodon.scollectif.fr) | **20 056** | 462 | ✅ | Instance éducative et pédagogique à destination des classes francophones et leur.s enseignants.s participant ou souhaitant participer aux projets proposés par l'association SCOllectif. | en |
 | [corneill.es](https://corneill.es) | **20 055** | 81 | ✅ | Instance Mastodon francophone queer-centrée à tendance gauchiste qui essaie d'être un endroit sympa. | fr |
+| [postchat.io](https://postchat.io) | **19 956** | 255 | ❌ | A place for all postproduction professionals, enthusiasts and anyone who wants to be part of Mastodon. | en |
 | [catodon.social](https://catodon.social) | **19 931** | 274 | ✅ | ? | ? |
 | [kasakoso.lol](https://kasakoso.lol) | **19 908** | 6 | ❌ | ? | ? |
-| [postchat.io](https://postchat.io) | **19 899** | 255 | ❌ | A place for all postproduction professionals, enthusiasts and anyone who wants to be part of Mastodon. | en |
+| [mastodon.berlin](https://mastodon.berlin) | **19 828** | 3 712 | ✅ | MIT ÖKOSTROM BETRIEBEN´: Erste Instanz, wenn dir Berliner Luft nicht reicht...! | en |
 | [stoat.zone](https://stoat.zone) | **19 813** | 31 | ❌ | The hottest lineage. | en |
-| [mastodon.berlin](https://mastodon.berlin) | **19 805** | 3 713 | ✅ | MIT ÖKOSTROM BETRIEBEN´: Erste Instanz, wenn dir Berliner Luft nicht reicht...! | en |
-| [social.troll.academy](https://social.troll.academy) | **19 754** | 132 | ❌ | ? | en |
+| [social.troll.academy](https://social.troll.academy) | **19 769** | 132 | ❌ | ? | en |
 | [progressives.social](https://progressives.social) | **19 725** | 16 | ✅ | ? | en |
 | [mastodon.bsd.cafe](https://mastodon.bsd.cafe) | **19 708** | 171 | ✅ | Welcome to the BSD Cafe! We're excited to serve you the best flavors of BSD, including FreeBSD, NetBSD, OpenBSD, and DragonflyBSD. But if you prefer Linux, you're welcome here too!  | en |
 | [systemli.social](https://systemli.social) | **19 665** | 128 | ❌ | This instance is home for progressive political movements that fight for a better and more (climate-)just future. It's run by systemli. | en |
 | [labyrinth.zone](https://labyrinth.zone) | **19 661** | 47 | ✅ | ? | ? |
-| [travelpandas.fr](https://travelpandas.fr) | **19 595** | 34 | ✅ | Bienvenue sur l'instance Travelpandas. Une instance francophone qui permet de s'évader où le respect est primordial! | fr |
+| [travelpandas.fr](https://travelpandas.fr) | **19 625** | 34 | ✅ | Bienvenue sur l'instance Travelpandas. Une instance francophone qui permet de s'évader où le respect est primordial! | fr |
 | [mk.phreedom.club](https://mk.phreedom.club) | **19 520** | 126 | ❌ | ? | ? |
 | [awful.systems](https://awful.systems) | **19 457** | 243 | ✅ | ? | ? |
-| [mastoot.fr](https://mastoot.fr) | **19 407** | 947 | ✅ | Serveur généraliste où la bienveillance, le respect, la fraternité et la sororité sont de mise.  | en |
+| [mastoot.fr](https://mastoot.fr) | **19 424** | 947 | ✅ | Serveur généraliste où la bienveillance, le respect, la fraternité et la sororité sont de mise.  | en |
 | [speedlines.stctp.zone](https://speedlines.stctp.zone) | **19 398** | 73 | ✅ | A Mastodon community for lovers of Sonic The Comic for the Sonic The Comic The Podcast listeners and our friends! https://patreon.com/speedlines | en |
 | [mastodonsuomi.fi](https://mastodonsuomi.fi) | **19 272** | 49 | ❌ | Mastodonsuomi.fi palvelin on kaikkien suomalaisten kohtaamispaikka. Luethan palvelimen säännöt ennen liittymishakemuksen lähettämistä! | en |
 | [mastodon.fedi.bzh](https://mastodon.fedi.bzh) | **19 269** | 99 | ✅ | Bienvenue sur l’instance <bold>Mastodon e Brezhoneg</bold> !  Cette instance inclusive rassemble des personnes qui parlent breton, gallo, ou bien qui sont sensibles à la promotion de ces deux langues.    | br |
@@ -6429,22 +6455,23 @@
 | [norwoodzero.net](https://norwoodzero.net) | **19 111** | 27 | ✅ | ? | ? |
 | [easymode.im](https://easymode.im) | **19 093** | 588 | ✅ | ? | ? |
 | [systerserver.town](https://systerserver.town) | **19 088** | 85 | ✅ | Systerserver.town is a feminist instance of the Mastodon network. Any contribution to support the server can go to https://opencollective.com/systerserver-town | en |
+| [mast.hpc.social](https://mast.hpc.social) | **19 087** | 579 | ✅ | Mastodon instance to support and encourage communication among the High Performance Computing community and related fields. (Personal use permitted.) More community features at https://hpc.social | en |
 | [mstd.seungjin.net](https://mstd.seungjin.net) | **19 072** | 8 | ❌ | Seungjin's personal mastodon account. The instance hosts some of his bots as well. | en |
-| [mast.hpc.social](https://mast.hpc.social) | **19 066** | 577 | ✅ | Mastodon instance to support and encourage communication among the High Performance Computing community and related fields. (Personal use permitted.) More community features at https://hpc.social | en |
 | [bertha.social](https://bertha.social) | **19 006** | 105 | ✅ | Bertha.social é uma comunidade de mensagens curtas curada por cientistas que visa promover a divulgação científica. É um ponto de encontro para cientistas, divulgadores e simpatizantes. | en |
 | [drupal.community](https://drupal.community) | **18 920** | 471 | ✅ | Mastodon instance focused on the Drupal CMS. | en |
-| [syringa.social](https://syringa.social) | **18 799** | 120 | ✅ | Named after the Idaho state flower, this server is intended primarily for those in (or with ties to) Idaho and surrounding areas of the Northern Rocky Mountains. | en |
+| [robertjames1971.blog](https://robertjames1971.blog) | **18 892** | 1 | ❌ | ? | ? |
+| [syringa.social](https://syringa.social) | **18 821** | 120 | ✅ | Named after the Idaho state flower, this server is intended primarily for those in (or with ties to) Idaho and surrounding areas of the Northern Rocky Mountains. | en |
 | [tube.nogafa.org](https://tube.nogafa.org) | **18 793** | 14 | ❌ | ? | ? |
-| [old.mermaid.town](https://old.mermaid.town) | **18 763** | 22 | ✅ | ? | ? |
+| [old.mermaid.town](https://old.mermaid.town) | **18 789** | 22 | ✅ | ? | ? |
+| [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca) | **18 735** | 4 | ❌ | This is a personal Mastodon server for me and my family only. We're nice. We hope you are too. :=) | en |
 | [zoner.work](https://zoner.work) | **18 717** | 15 | ✅ | ? | ? |
 | [plantex.top](https://plantex.top) | **18 703** | 63 | ✅ | Instance pour les vieilles et vieux twittos orphelins qui souhaitent rejoindre le fediverse | en |
 | [waterlily.tokyo](https://waterlily.tokyo) | **18 692** | 38 | ✅ | ✨❤️優しいホルガ村です❤️✨ | en |
-| [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca) | **18 690** | 4 | ❌ | This is a personal Mastodon server for me and my family only. We're nice. We hope you are too. :=) | en |
 | [social.restless.systems](https://social.restless.systems) | **18 678** | 73 | ✅ | RSS is a dedicated safe place for Twitter escapees, DisNCord users, and anyone who's looking for a safe place to hang their homeserver. We're a home to nonconforming individuals who, as a shared hobby, like watching paint dry on cursed computing. The Fediverse is a complicated and difficult place to navigate, but we hope to at least make it just a little easier. Run by NCommander, and staff. | en |
 | [hespere.de](https://hespere.de) | **18 643** | 3 | ❌ | ? | en |
 | [bertshouse.social](https://bertshouse.social) | **18 635** | 3 | ✅ | Welcome to Bertshouse.  I'm Bert, and this is my house.  Please conduct yourself as any good guest would.  All are welcome. | en |
 | [yeg.bike](https://yeg.bike) | **18 633** | 29 | ✅ | A small Fediverse/Mastodon community for the Edmonton (#yegBike) community and friends! | en |
-| [weirdo.network](https://weirdo.network) | **18 586** | 148 | ✅ | The Weirdo Network is a place for folks interested in the strange and unusual who put people first. | en |
+| [weirdo.network](https://weirdo.network) | **18 582** | 148 | ✅ | The Weirdo Network is a place for folks interested in the strange and unusual who put people first. | en |
 | [etidioh.wordpress.com](https://etidioh.wordpress.com) | **18 549** | 1 | ❌ | ? | ? |
 | [burnthis.town](https://burnthis.town) | **18 525** | 81 | ✅ | Olá, somos a Cidade em Chamas. Mas tá tudo bem. Somos uma instância brasileira. Aqui são bem-vindes todas as pessoas que não reproduzam discurso de ódio, racismo, lgtbfobia, machismo, misoginia. | en |
 | [toot.bldrweb.org](https://toot.bldrweb.org) | **18 454** | 171 | ✅ | This Mastodon instance is focused on Boulder (Colorado), but it is federated, thus interacts with all the other servers in the "fediverse" (similar to how Gmail interacts with Outlook and Yahoo).  | en |
@@ -6455,35 +6482,36 @@
 | [dsj-toot.com](https://dsj-toot.com) | **18 338** | 9 | ✅ | ソーシャリストの意見・情報交換のための開かれた小さな休憩所です。 ソーシャリストを容認できる人の参加も可能です。  | en |
 | [blobfox.coffee](https://blobfox.coffee) | **18 315** | 85 | ✅ | A cozy instance for people that like blobfoxes and/or coffee, not a requirement however :) | en |
 | [klog.tw](https://klog.tw) | **18 310** | 110 | ✅ | 分享流行音樂、影視作品與記錄生活。 | zh-TW |
+| [frankfurt.social](https://frankfurt.social) | **18 285** | 222 | ✅ | Willkommen bei der Frankfurter Mastodon-Instanz! Sie soll wie Frankfurt sein: Im Herzen von Europa, offen, bunt und mit klarer Kante gegen Rassisums, Sexismus, Homophobie und Transphobie. | en |
 | [burn.capital](https://burn.capital) | **18 259** | 20 | ❌ | ✨🌈📯 Toots for Friends 📯🌈✨ | en |
-| [frankfurt.social](https://frankfurt.social) | **18 253** | 222 | ✅ | Willkommen bei der Frankfurter Mastodon-Instanz! Sie soll wie Frankfurt sein: Im Herzen von Europa, offen, bunt und mit klarer Kante gegen Rassisums, Sexismus, Homophobie und Transphobie. | en |
 | [mastodon.dkl.jp](https://mastodon.dkl.jp) | **18 242** | 3 | ❌ | ようこそ、カメバースへ！ 「デジタルかめランド」は、カメ好き・生き物好きの方のためのMastodonサーバーです。 どなたでも参加できます（承認制）。 | en |
-| [oldfriends.live](https://oldfriends.live) | **18 111** | 7 | ❌ | A place where old friends can meet in the Fediverse! Home of the popular 9 o'clock #HashTagGames. Specialty server, invite only at this time.  | en |
+| [oldfriends.live](https://oldfriends.live) | **18 127** | 7 | ❌ | A place where old friends can meet in the Fediverse! Home of the popular 9 o'clock #HashTagGames. Specialty server, invite only at this time.  | en |
+| [india.goonj.xyz](https://india.goonj.xyz) | **18 106** | 216 | ✅ | Goonj India is an open, privacy conscious community focussed on Indians and India specific issues. | en |
+| [fedi.at](https://fedi.at) | **18 055** | 510 | ✅ | Der Mastodon Fediverse Server für Österreich. | de |
 | [forum-lucifer.com](https://forum-lucifer.com) | **18 040** | 547 | ✅ | ? | en |
-| [fedi.at](https://fedi.at) | **18 038** | 510 | ✅ | Der Mastodon Fediverse Server für Österreich. | de |
 | [beehaw.org](https://beehaw.org) | **18 004** | 13 370 | ✅ | ? | ? |
 | [idf.social](https://idf.social) | **17 991** | 148 | ❌ | Server for IR researchers and friends, hosted at the Radboud University Data Science section of iCIS (the Institute for Computing and Information Science), by Arjen P. de Vries. | en |
 | [firefish.imirhil.fr](https://firefish.imirhil.fr) | **17 987** | 2 | ❌ | ? | ? |
-| [india.goonj.xyz](https://india.goonj.xyz) | **17 984** | 214 | ✅ | Goonj India is an open, privacy conscious community focussed on Indians and India specific issues. | en |
 | [mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org) | **17 981** | 1 | ❌ | This is a private site and does not permit user signups. | en |
+| [skeptics.social](https://skeptics.social) | **17 906** | 45 | ✅ | A social network for lovers of science, rational thinkers and skeptics. Darwin portrait by David Revoy under CC license (https://www.davidrevoy.com/article145/portrait-of-charles-darwin) | en |
 | [kotobaphil-mtdn.eu](https://kotobaphil-mtdn.eu) | **17 894** | 10 | ✅ | ? | en |
 | [realsocial.life](https://realsocial.life) | **17 889** | 89 | ✅ | ? | ? |
-| [skeptics.social](https://skeptics.social) | **17 872** | 45 | ✅ | A social network for lovers of science, rational thinkers and skeptics. Darwin portrait by David Revoy under CC license (https://www.davidrevoy.com/article145/portrait-of-charles-darwin) | en |
 | [goblin.technology](https://goblin.technology) | **17 869** | 24 | ❌ | ? | ? |
-| [idic.social](https://idic.social) | **17 839** | 16 | ✅ | IDIC is a tenet of Vulcan philosophy from Star Trek: Infinite Diversity in Infinite Combinations. Our goal is to be a fun, welcoming place for everyone. | en |
+| [poweredbygay.social](https://poweredbygay.social) | **17 842** | 1 334 | ✅ | Server for those LGBTQIA+ (and Allies) that are into fun adventurous things, like playing/watching sports, hiking, camping, etc! #sports #hiking #camping #adventure #LGBT #LGBTQIA | en |
 | [firefish.community](https://firefish.community) | **17 834** | 46 | ❌ | ? | ? |
-| [poweredbygay.social](https://poweredbygay.social) | **17 829** | 1 334 | ✅ | Server for those LGBTQIA+ (and Allies) that are into fun adventurous things, like playing/watching sports, hiking, camping, etc! #sports #hiking #camping #adventure #LGBT #LGBTQIA | en |
 | [oomfie.city](https://oomfie.city) | **17 807** | 44 | ✅ | "Typical twitter users, only interested in consumerist pleasure and being totally unprincipled." Runs on Chuckya! | en |
 | [unstable.systems](https://unstable.systems) | **17 727** | 25 | ❌ | This is unstable.systems, a general-purpose invite-only Mastodon instance. We'll always be pretty small, and we hope to be a comfortable instance to be on. | en |
+| [idic.social](https://idic.social) | **17 671** | 16 | ✅ | IDIC is a tenet of Vulcan philosophy from Star Trek: Infinite Diversity in Infinite Combinations. Our goal is to be a fun, welcoming place for everyone. | en |
 | [fruef.social](https://fruef.social) | **17 666** | 40 | ✅ | Mastodon-Instanz von FRÜF – Frauen reden über Fußball. 💛💚 FLINTA*-Menschen werden bei Account-Requests bevorzugt behandelt. | en |
 | [duck.haus](https://duck.haus) | **17 659** | 9 | ❌ | ? | en |
 | [friendica.eskimo.com](https://friendica.eskimo.com) | **17 650** | 2 144 | ✅ | ? | ? |
+| [tomkahe.com](https://tomkahe.com) | **17 646** | 8 | ❌ | Glitch-Soc (with some minor tweaks) instance ran out of Columbus, Ohio | en |
+| [musician.social](https://musician.social) | **17 642** | 205 | ✅ | Mastodon site for Musicians and people into Music | en |
 | [wisskomm.social](https://wisskomm.social) | **17 579** | 281 | ✅ | Toots aus den Mitgliedseinrichtungen des Informationsdienstes Wissenschaft (idw)   | de |
-| [musician.social](https://musician.social) | **17 577** | 204 | ✅ | Mastodon site for Musicians and people into Music | en |
 | [mstdn.takuya-a.net](https://mstdn.takuya-a.net) | **17 570** | 6 | ❌ | ? | en |
-| [gearheads.social](https://gearheads.social) | **17 444** | 898 | ✅ | For gearheads, by gearheads — a federated network for those into gear: the heavy stuff, the light wear, the fetish made, the safety built, and everything in-between. | en |
+| [gearheads.social](https://gearheads.social) | **17 461** | 898 | ✅ | For gearheads, by gearheads — a federated network for those into gear: the heavy stuff, the light wear, the fetish made, the safety built, and everything in-between. | en |
 | [social.tcit.fr](https://social.tcit.fr) | **17 436** | 22 | ❌ | This is my personal Mastodon server, with a few extra people on it. | en |
-| [social.sp-codes.de](https://social.sp-codes.de) | **17 412** | 58 | ✅ | ? | de |
+| [social.sp-codes.de](https://social.sp-codes.de) | **17 427** | 58 | ✅ | ? | de |
 | [fediverse.one](https://fediverse.one) | **17 408** | 3 | ❌ | ? | ? |
 | [blacksun.social](https://blacksun.social) | **17 389** | 91 | ✅ | Anti-fascist. Science and Federation values. Liberal social-democratic activism. LGBTQ+ friendly and woke af. Institutionalist utilitarianism. Radically secular. Free of glurge and disinformation. | en |
 | [mapsupport.de](https://mapsupport.de) | **17 329** | 57 | ✅ | This is a Server for Queer People and Paraphilias & Allies, please Read & Respect the Rules especially about Illegal Content, upon Registering you will be Manually Activated. | en |
@@ -6491,7 +6519,6 @@
 | [mastodon.beer](https://mastodon.beer) | **17 279** | 307 | ✅ | An English speaking Mastodon instance that is a home for brewers, amateur and professional, and for people of all kinds who enjoy beer. | en |
 | [supernatural.fans](https://supernatural.fans) | **17 256** | 93 | ✅ | A Supernatural fandom space, run by fans for fans. All 18+ fans are welcome, you need only love Supernatural and care about other people. <3 | en |
 | [brands.town](https://brands.town) | **17 233** | 252 | ✅ | Brands Town is the first ever Mastodon Instance dedicated solely to corporate brand promotion. | en |
-| [tomkahe.com](https://tomkahe.com) | **17 198** | 8 | ❌ | Glitch-Soc (with some minor tweaks) instance ran out of Columbus, Ohio | en |
 | [tabletop.vip](https://tabletop.vip) | **17 186** | 270 | ✅ | A growing Mastodon community for all things tabletop gaming related as well as other geekery at large. | en |
 | [flyovercountry.social](https://flyovercountry.social) | **17 158** | 12 | ✅ | flyovercountry.social is a general interest, regional Mastodon instance, ostensibly focused on the United States heartland, but everyone is welcome here, as long as you adhere to the rules.  | en |
 | [brain.worm.pink](https://brain.worm.pink) | **17 137** | 55 | ✅ | ? | ? |
@@ -6504,29 +6531,30 @@
 | [lamp.leemoon.network](https://lamp.leemoon.network) | **16 901** | 94 | ✅ | ? | ? |
 | [nokinoki.net](https://nokinoki.net) | **16 865** | 2 | ❌ | ? | en |
 | [mastodon.acc.umu.se](https://mastodon.acc.umu.se) | **16 843** | 26 | ✅ | ? | en |
-| [nahe.social](https://nahe.social) | **16 714** | 127 | ✅ | Eine Mastodon-Instanz für die Naheregion. Frei von Werbung, mit chronologischem Feed, kein Tracking. Gemacht von Menschen für Menschen. | en |
+| [nahe.social](https://nahe.social) | **16 762** | 127 | ✅ | Eine Mastodon-Instanz für die Naheregion. Frei von Werbung, mit chronologischem Feed, kein Tracking. Gemacht von Menschen für Menschen. | en |
+| [mastodon.svgun.ru](https://mastodon.svgun.ru) | **16 692** | 26 | ✅ | ? | en |
 | [d-64.social](https://d-64.social) | **16 675** | 118 | ❌ | D64 ist das Zentrum für digitalen Fortschritt. Unser Ziel ist es, die Grundwerte Freiheit, Gerechtigkeit und Solidarität durch eine progressive Digitalpolitik zu verwirklichen. | en |
 | [soc.ua-fediland.de](https://soc.ua-fediland.de) | **16 637** | 200 | ✅ | Вітаємо в українськомовному федеративному інстансі "UA Fediland"! | uk |
 | [regenerate.social](https://regenerate.social) | **16 581** | 66 | ✅ | regenerate.social is a server for those practicing regenerative agriculture. That includes commercial producers, homesteaders, foresters and more. If you practice regenerative methods like Holistic Grazing, No-Till, No-Dig, Food Forestry, Cultural Burning, or others, feel free to request to join! | en |
-| [retrochat.online](https://retrochat.online) | **16 509** | 86 | ✅ | A niche channel about old stuff, especially retro computers and consoles  | en |
+| [retrochat.online](https://retrochat.online) | **16 514** | 86 | ✅ | A niche channel about old stuff, especially retro computers and consoles  | en |
 | [occult.institute](https://occult.institute) | **16 483** | 5 | ❌ | Private instance.  | en |
 | [ngmx.com](https://ngmx.com) | **16 421** | 12 | ❌ | An old building, like something a state-owned telco would have built in a previous century, yet surprisingly well-maintained. It has no windows at street level, and requires a keycard to enter. | en |
 | [nomanssky.social](https://nomanssky.social) | **16 380** | 167 | ✅ | A community for all No Man's Sky fans!🚀 We strive to keep this server safe & fun for all travelers!☄️  NOTE: This is a Fan Project & We are NOT affiliated with Hello Games | en |
+| [afterspace.rocks](https://afterspace.rocks) | **16 331** | 19 | ✅ | ? | en |
 | [framatube.org](https://framatube.org) | **16 317** | 6 | ❌ | ? | ? |
 | [erscheinung47.com](https://erscheinung47.com) | **16 312** | 1 | ❌ | ? | en |
 | [mastodon.infra.de](https://mastodon.infra.de) | **16 284** | 3 | ❌ | ? | ? |
 | [eattherich.club](https://eattherich.club) | **16 283** | 92 | ✅ | are ya hungry? 🦆 | en |
 | [void.lgbt](https://void.lgbt) | **16 247** | 27 | ✅ | ? | ? |
 | [hub.somaton.com](https://hub.somaton.com) | **16 234** | 133 | ❌ | ? | ? |
-| [afterspace.rocks](https://afterspace.rocks) | **16 203** | 19 | ✅ | ? | en |
 | [ubuntu.social](https://ubuntu.social) | **16 165** | 37 | ✅ | Mastodon server focused on Ubuntu related topics. A community-run initiative, not   endorsed by the Ubuntu project, nor is it hosted by Canonical. 👋 | en |
 | [idw-online.social](https://idw-online.social) | **16 135** | 13 | ❌ | ? | de |
 | [z0ne.social](https://z0ne.social) | **16 115** | 4 | ✅ | ? | ? |
 | [mastodon.deepthot.org](https://mastodon.deepthot.org) | **16 113** | 4 | ✅ | This is my little server.  You're welcome to register on it.  Although we don't have a specific niche most of the population is interested in Fiction, Politics, Race, and Trans things. | en |
 | [worm.horse](https://worm.horse) | **16 111** | 77 | ✅ | Even a worm will turn. | en |
 | [gotosocial-dev.svc.0x0a.network](https://gotosocial-dev.svc.0x0a.network) | **16 109** | 1 | ✅ | ? | ? |
-| [syndicat.solidaires.org](https://syndicat.solidaires.org) | **16 070** | 91 | ❌ | L'instance de l’Union syndicale Solidaires. | en |
-| [autonomous.zone](https://autonomous.zone) | **16 048** | 115 | ✅ | cozy anarchist social media for the coming days | en |
+| [syndicat.solidaires.org](https://syndicat.solidaires.org) | **16 102** | 91 | ❌ | L'instance de l’Union syndicale Solidaires. | en |
+| [autonomous.zone](https://autonomous.zone) | **16 063** | 115 | ✅ | cozy anarchist social media for the coming days | en |
 | [fediverse.blog](https://fediverse.blog) | **16 016** | 20 839 | ❌ | ? | ? |
 | [tastingtraffic.net](https://tastingtraffic.net) | **16 009** | 6 | ✅ | ? | ? |
 | [ambrosia.moe](https://ambrosia.moe) | **16 006** | 58 | ❌ | ? | ? |
@@ -6536,15 +6564,15 @@
 | [diaspora.permutationsofchaos.com](https://diaspora.permutationsofchaos.com) | **15 931** | 4 599 | ✅ | ? | ? |
 | [wspanialy.eu](https://wspanialy.eu) | **15 895** | 87 | ✅ | Nieoficjalna, polska instancja Mastodona, dla wszystkich. | en |
 | [haunted.computer](https://haunted.computer) | **15 870** | 47 | ❌ | This Mastodon instance is for ghosts. | en |
+| [crooklyn.social](https://crooklyn.social) | **15 859** | 11 | ❌ | This is where you'll find the writers for CrooksandLiars.com.  | en |
 | [fv.technogothic.net](https://fv.technogothic.net) | **15 848** | 2 | ❌ | A single user instance hosted by https://eldritch.cafe/@AgathaSorceress | en |
-| [crooklyn.social](https://crooklyn.social) | **15 830** | 11 | ❌ | This is where you'll find the writers for CrooksandLiars.com.  | en |
 | [hub.volse.no](https://hub.volse.no) | **15 809** | 51 | ❌ | ? | ? |
 | [idiomdrottning.org](https://idiomdrottning.org) | **15 771** | 7 | ✅ | ? | ? |
+| [techpolicy.social](https://techpolicy.social) | **15 764** | 132 | ✅ | techpolicy.social is a privately controlled Mastodon instance intended for use by technology and internet policy professionals. It is run on a volunteer basis by @mchris@techpolicy.social. | en |
 | [fashionsocial.host](https://fashionsocial.host) | **15 758** | 105 | ✅ | A community for fashion and luxury | en |
-| [techpolicy.social](https://techpolicy.social) | **15 738** | 132 | ✅ | techpolicy.social is a privately controlled Mastodon instance intended for use by technology and internet policy professionals. It is run on a volunteer basis by @mchris@techpolicy.social. | en |
+| [social.zwoelfdreifuenfundvierzig.net](https://social.zwoelfdreifuenfundvierzig.net) | **15 713** | 6 | ❌ | ? | en |
 | [noagendatube.com](https://noagendatube.com) | **15 710** | 804 | ✅ | ? | ? |
 | [pixelfed.hamdorf.org](https://pixelfed.hamdorf.org) | **15 695** | 1 | ✅ | ? | ? |
-| [social.zwoelfdreifuenfundvierzig.net](https://social.zwoelfdreifuenfundvierzig.net) | **15 694** | 6 | ❌ | ? | en |
 | [kamu.social](https://kamu.social) | **15 677** | 85 | ❌ | Mastodon server for a circle of friends and their friends. | en |
 | [gamerr.cyou](https://gamerr.cyou) | **15 676** | 122 | ✅ | gamerr.cyou是一个用于讨论一切游戏相关话题的中文实例,本站服务器位于美国旧金山。不禁止游戏无关的内容，但用户一般都为某个/类/些游戏的玩家。(注册确认邮件没有收到的话请检查一下垃圾邮箱)   为了避免广告账号现在注册需要管理员批准，请在申请理由里填写一点文字，只要管理员能够判断不是机器人就可以。 | en |
 | [social.wub.site](https://social.wub.site) | **15 672** | 20 | ❌ | ? | ? |
@@ -6556,11 +6584,11 @@
 | [orwell.fun](https://orwell.fun) | **15 491** | 200 | ✅ | ? | ? |
 | [bears.town](https://bears.town) | **15 488** | 78 | ❌ | A Mastodon instance for all ursine folk and friends. 🐻 Aimed at being an inclusive and cozy space for all, serving primarily the furry and LGBTQ communities. | en |
 | [xerrem.xyz](https://xerrem.xyz) | **15 482** | 9 | ❌ | Un servidor alegre i combatiu al Fedivers. De moment en proves, registres tancats, contacta amb l'admin per obtenir més informació! | en |
+| [aoir.social](https://aoir.social) | **15 414** | 386 | ✅ | The Association of Internet Researchers is sponsoring this Mastodon server for its members. Members in good standing are welcome to join and have a home on the fediverse! | en |
 | [ilja.space](https://ilja.space) | **15 408** | 15 | ❌ | ? | ? |
-| [aoir.social](https://aoir.social) | **15 384** | 386 | ✅ | The Association of Internet Researchers is sponsoring this Mastodon server for its members. Members in good standing are welcome to join and have a home on the fediverse! | en |
+| [tribe.net](https://tribe.net) | **15 394** | 2 561 | ✅ | Welcome (back) to tribe!  | en |
 | [pleroma.mercurial.blog](https://pleroma.mercurial.blog) | **15 383** | 2 | ❌ | ? | ? |
 | [friendica.myportal.social](https://friendica.myportal.social) | **15 375** | 42 | ✅ | ? | ? |
-| [tribe.net](https://tribe.net) | **15 365** | 2 554 | ✅ | Welcome (back) to tribe!  | en |
 | [social.yl.ms](https://social.yl.ms) | **15 332** | 11 | ❌ | ? | ? |
 | [catgirl.center](https://catgirl.center) | **15 327** | 8 | ✅ | ? | ? |
 | [peertube.tv](https://peertube.tv) | **15 308** | 615 | ❌ | ? | ? |
@@ -6572,15 +6600,15 @@
 | [ibe.social](https://ibe.social) | **15 222** | 73 | ✅ | ? | ? |
 | [social.tcpcat.net](https://social.tcpcat.net) | **15 190** | 54 | ✅ | a shitty mastodon instance that's open to all; | en |
 | [pl.ebin.zone](https://pl.ebin.zone) | **15 177** | 2 | ❌ | ? | ? |
+| [aut.social](https://aut.social) | **15 171** | 315 | ✅ | Die Mastodon-Instanz aus Österreich. Welcome to Austria! | de |
 | [social.ataxya.net](https://social.ataxya.net) | **15 140** | 117 | ✅ | Ataxya's Server.  | en |
-| [aut.social](https://aut.social) | **15 110** | 315 | ✅ | Die Mastodon-Instanz aus Österreich. Welcome to Austria! | de |
 | [mastodon.otherworldsink.com](https://mastodon.otherworldsink.com) | **15 082** | 27 | ❌ | This instance is owned by Other Worlds Ink, a group of LGBTQ+ book-related websites. We are progressive, friendly, and bake really good cookies. | en |
+| [sanjuans.life](https://sanjuans.life) | **15 073** | 57 | ✅ | A community of residents of Washington's San Juan Islands. Local conversation, globally federated with the rest of the world. Run by volunteers; say Thank You at https://ko-fi.com/sanjuanslife | en |
 | [xn--lofll-1sat.is](https://xn--lofll-1sat.is) | **15 066** | 740 | ✅ | loðfíll.is, íslenski mastodon vefþjónninn. Öll velkomin! | en |
 | [firebird.zone](https://firebird.zone) | **15 016** | 14 | ❌ | ? | ? |
 | [lemmy.dbzer0.com](https://lemmy.dbzer0.com) | **14 998** | 12 384 | ✅ | ? | ? |
 | [chalk.moe](https://chalk.moe) | **14 998** | 20 | ❌ | 제법이구나⋯⋯ 하지만 알테마 웨폰의 진정한 힘을 얕보지 마라! 소용돌이치는 생명의 빛이 일곱 문을 열고 힘의 탑 꼭대기에 이르리라! ⋯⋯알테마! | ko |
-| [sanjuans.life](https://sanjuans.life) | **14 995** | 57 | ✅ | A community of residents of Washington's San Juan Islands. Local conversation, globally federated with the rest of the world. Run by volunteers; say Thank You at https://ko-fi.com/sanjuanslife | en |
-| [carfree.city](https://carfree.city) | **14 966** | 28 | ✅ | ? | ? |
+| [carfree.city](https://carfree.city) | **14 993** | 28 | ✅ | ? | ? |
 | [mastodon.indie.host](https://mastodon.indie.host) | **14 958** | 26 | ✅ | ? | en |
 | [shonk.social](https://shonk.social) | **14 938** | 113 | ✅ | ? | ? |
 | [802.3ether.net](https://802.3ether.net) | **14 916** | 12 | ✅ | 실험적인 인프라를 테스트하는 서버입니다. 각종 봇들도 여기에 굴릴 예정입니다 | en |
@@ -6592,22 +6620,22 @@
 | [fanglitch.space](https://fanglitch.space) | **14 781** | 66 | ✅ | A glitch-soc fandom-focused instance. | en |
 | [hub.hubzilla.de](https://hub.hubzilla.de) | **14 780** | 1 030 | ✅ | ? | ? |
 | [arvr.social](https://arvr.social) | **14 745** | 1 646 | ✅ | arvr.social was started as a place where people that are interested in AR/VR can exchange information. However, anyone is welcome to join and post :-) | en |
-| [mcr.wtf](https://mcr.wtf) | **14 731** | 153 | ✅ | A community open to all whilst intended for people in, from, identify with or are just interested in Greater Manchester! | en |
+| [mcr.wtf](https://mcr.wtf) | **14 739** | 153 | ✅ | A community open to all whilst intended for people in, from, identify with or are just interested in Greater Manchester! | en |
 | [microblog.social](https://microblog.social) | **14 729** | 17 | ❌ | ? | ? |
 | [grumble.social](https://grumble.social) | **14 720** | 25 | ❌ | This server is only for people Charles Randall knows and trusts in some fashion.  I promise to keep the lights on, and give you a lot of warning if for some reason that changes. | en |
 | [tootr.co](https://tootr.co) | **14 702** | 19 | ✅ | where you do your toots | en |
+| [social.hackerspace.pl](https://social.hackerspace.pl) | **14 588** | 46 | ❌ | A server by and for the members of the Warsaw Hackerspace. | en |
 | [social.marud.fr](https://social.marud.fr) | **14 557** | 23 | ✅ | ? | ? |
 | [tube.jeena.net](https://tube.jeena.net) | **14 556** | 19 | ❌ | ? | ? |
-| [social.hackerspace.pl](https://social.hackerspace.pl) | **14 502** | 46 | ❌ | A server by and for the members of the Warsaw Hackerspace. | en |
+| [666.glitchwit.ch](https://666.glitchwit.ch) | **14 498** | 14 | ✅ | A server for kf and their friends! Open to folks kf has known pretty well for years. | en |
 | [rail.chat](https://rail.chat) | **14 490** | 322 | ✅ | Discussing passenger and freight rail, its connections to transit and other non-car options, and the economic, environmental and equity benefits of seamless mobility. | en |
-| [666.glitchwit.ch](https://666.glitchwit.ch) | **14 486** | 14 | ✅ | A server for kf and their friends! Open to folks kf has known pretty well for years. | en |
 | [dan.mastohon.com](https://dan.mastohon.com) | **14 484** | 9 | ✅ | Dan Hon's personal Mastohon instance. | en |
 | [cyberpunk.lol](https://cyberpunk.lol) | **14 474** | 94 | ✅ | cyberpunk.lol: putting the punk back in cyberpunk since 2023! | en |
 | [geofront.rocks](https://geofront.rocks) | **14 462** | 5 | ✅ | ? | ? |
 | [social.bim.land](https://social.bim.land) | **14 456** | 109 | ✅ | Le réseau social du BIM, fruit de la collaboration de 3 associations promouvant les Logiciels Libres et la Neutralité du net sur l'Hérault. | fr |
 | [boing.world](https://boing.world) | **14 429** | 49 | ✅ | A gateway into the global open conversation in the fediverse, for Boing folks and anyone they know. If you're friends with someone here, or the event, or were at the fabled old place, come join us. | en |
 | [social.apreslanu.it](https://social.apreslanu.it) | **14 405** | 94 | ✅ | ? | en |
-| [writeout.ink](https://writeout.ink) | **14 374** | 33 | ❌ | ? | ? |
+| [writeout.ink](https://writeout.ink) | **14 393** | 33 | ❌ | ? | ? |
 | [unbound.social](https://unbound.social) | **14 371** | 189 | ❌ | A general social gathering space to discuss a wide range of topics and thoughts. | en |
 | [krigskunst.social](https://krigskunst.social) | **14 363** | 99 | ✅ | En dansk Mastodon-server for folk med særlig interesse for militær og sikkerhedspolitik. | en |
 | [toot.thoughtworks.com](https://toot.thoughtworks.com) | **14 348** | 871 | ❌ | A Mastodon instance hosted on Thoughtworks’ infrastructure to connect our employees with the Fediverse and make an extraordinary impact on social networks. | en |
@@ -6615,12 +6643,12 @@
 | [kompost.cz](https://kompost.cz) | **14 214** | 33 | ❌ | Kompost.cz je fediverse server Františka Fuky. | en |
 | [mastodon.libre-entreprise.com](https://mastodon.libre-entreprise.com) | **14 199** | 46 | ✅ | Instance réservée aux membres ou observateurs du réseau Libre-Entreprise | fr |
 | [signs.codes](https://signs.codes) | **14 193** | 39 | ❌ | Signs & Codes is a private Mastodon instance built around a community of friends. | en |
+| [occitania.social](https://occitania.social) | **14 176** | 701 | ✅ | Servidor creat tà aufrir as occitans a amics un espaci pròpri en hilat sociau de Mastodon.  Eth hilat sociau deth futur, sense publicitat, hèt pes joeni, tàs joeni damb un servidor de proximitat. | oc |
 | [lounge.town](https://lounge.town) | **14 172** | 1 735 | ✅ | A chill server for folks to hang out. | en |
-| [occitania.social](https://occitania.social) | **14 165** | 700 | ✅ | Servidor creat tà aufrir as occitans a amics un espaci pròpri en hilat sociau de Mastodon.  Eth hilat sociau deth futur, sense publicitat, hèt pes joeni, tàs joeni damb un servidor de proximitat. | oc |
 | [metasocial.com](https://metasocial.com) | **14 154** | 70 | ✅ | If you know Jesse, hit him up for an account. | en |
 | [crab.garden](https://crab.garden) | **14 141** | 4 | ❌ | ? | en |
+| [raphus.social](https://raphus.social) | **14 119** | 194 | ✅ | Raphus Social 🦤 is a better bird site, a safe and inclusive place for bringing together open minded people interested in technology, open source, tabletop games, and other general geekery. | en |
 | [red.niboe.info](https://red.niboe.info) | **14 115** | 412 | ✅ | ? | ? |
-| [raphus.social](https://raphus.social) | **14 104** | 194 | ✅ | Raphus Social 🦤 is a better bird site, a safe and inclusive place for bringing together open minded people interested in technology, open source, tabletop games, and other general geekery. | en |
 | [io.mwl.io](https://io.mwl.io) | **14 093** | 1 | ❌ | ? | ? |
 | [social.skewed.de](https://social.skewed.de) | **14 077** | 11 | ❌ | ? | en |
 | [glub.slipfox.xyz](https://glub.slipfox.xyz) | **14 070** | 29 | ❌ | ? | ? |
@@ -6637,27 +6665,27 @@
 | [loutre.info](https://loutre.info) | **13 747** | 21 | ❌ | ? | en |
 | [serenityos.social](https://serenityos.social) | **13 708** | 35 | ✅ | A Mastodon server for friends of SerenityOS :^) | en |
 | [cuyes.mooo.com](https://cuyes.mooo.com) | **13 702** | 41 | ✅ | Instancia privada. Por favor no solicitar cuentas. | en |
+| [hear-me.social](https://hear-me.social) | **13 662** | 444 | ✅ | Speak your mind with respect. Administrated in the Boston, MA area, but open to the entire galaxy. Posting size is 12,000 characters because you have interesting things to say. | en |
 | [is-a.wyvern.rip](https://is-a.wyvern.rip) | **13 641** | 6 | ❌ | ? | ? |
-| [hear-me.social](https://hear-me.social) | **13 640** | 444 | ✅ | Speak your mind with respect. Administrated in the Boston, MA area, but open to the entire galaxy. Posting size is 12,000 characters because you have interesting things to say. | en |
 | [mstdn.my](https://mstdn.my) | **13 625** | 316 | ✅ | Mastodon Malaysia Community powered by TopBridge | en |
 | [coywolf.social](https://coywolf.social) | **13 618** | 6 | ❌ | The federated instance of Mastodon for Coywolf | en |
+| [deppenkessel.de](https://deppenkessel.de) | **13 487** | 19 | ✅ | Eine 0711-Instanz, die in Bayern steht und von Dänemark aus administriert wird. | en |
 | [worldc.one](https://worldc.one) | **13 473** | 12 | ❌ | ? | ? |
 | [crispsandwi.ch](https://crispsandwi.ch) | **13 467** | 10 | ❌ | VOLE.wtf’s Mastodon instance | en |
-| [deppenkessel.de](https://deppenkessel.de) | **13 464** | 19 | ✅ | Eine 0711-Instanz, die in Bayern steht und von Dänemark aus administriert wird. | en |
+| [mastodon.moule.world](https://mastodon.moule.world) | **13 401** | 32 | ❌ | Soundtracking the MOULE WORLD and its animal characters with multi-genre electronic music! | en |
 | [haqueers.com](https://haqueers.com) | **13 362** | 14 | ❌ | ? | en |
-| [mastodon.moule.world](https://mastodon.moule.world) | **13 348** | 32 | ❌ | Soundtracking the MOULE WORLD and its animal characters with multi-genre electronic music! | en |
 | [brain.d.on-t.work](https://brain.d.on-t.work) | **13 333** | 5 | ❌ | ? | ? |
 | [tty0.social](https://tty0.social) | **13 321** | 118 | ✅ | tty0.social is the federated Mastodon home for command line junkies. All are welcome, we ask that you be respectful in your activities and interactions with others. Server admin - Brian Ketelsen | en |
 | [geeknews.chat](https://geeknews.chat) | **13 319** | 48 | ✅ | This Mastodon Instance is for listeners of the Geek News Central Podcast.  | en |
 | [futuregadgetlab.cc](https://futuregadgetlab.cc) | **13 296** | 39 | ✅ | Mastodon server for fans of Steins;Gate and other Science Adventure Series titles. Tech- and anime-enthusiasts are welcome as well. Please <em>do not use hotmail/windows live/outlook.com e-mail addresses when registering</em> if possible. This organization tends to have problems with our e-mail server. | en |
 | [masto.lema.org](https://masto.lema.org) | **13 296** | 5 | ❌ | Santiago Lema‘s personal Mastodon server | en |
+| [mastoart.social](https://mastoart.social) | **13 269** | 45 | ✅ | mastoart.social is a creative space for you to share your art and be part of a friendly creative community. A Mastodon instance that's hosted in Germany and runs on 100% green energy. | en |
 | [mastodon.catwuschel.com](https://mastodon.catwuschel.com) | **13 268** | 15 | ✅ | Server is run by @mewawuschel and @habrok  | en |
 | [yapstreams.com](https://yapstreams.com) | **13 265** | 12 | ✅ | An alternative free speech platform.  | en |
 | [social.guckt.info](https://social.guckt.info) | **13 254** | 5 | ❌ | ? | ? |
 | [munochi.moe](https://munochi.moe) | **13 241** | 9 | ❌ | ? | ? |
 | [toots.dgplug.org](https://toots.dgplug.org) | **13 224** | 48 | ❌ | ? | en |
 | [social.makerforums.info](https://social.makerforums.info) | **13 212** | 75 | ✅ | Microblogging for Makers. Part of the Maker Forums community. Maker Forums Discourse: https://forum.makerforums.info/ | en |
-| [mastoart.social](https://mastoart.social) | **13 187** | 45 | ✅ | mastoart.social is a creative space for you to share your art and be part of a friendly creative community. A Mastodon instance that's hosted in Germany and runs on 100% green energy. | en |
 | [cijber.social](https://cijber.social) | **13 163** | 4 | ❌ | Cyber with an ĳ | en |
 | [pics.gayfr.online](https://pics.gayfr.online) | **13 119** | 8 | ✅ | ? | ? |
 | [someone.elses.computer](https://someone.elses.computer) | **13 110** | 60 | ❌ | This is a private server run by and for the benefit of a small group of friends. Academia and research, law and policy, society and the Internet. Contact: Michael Veale. | en |
@@ -6670,31 +6698,31 @@
 | [sully.site](https://sully.site) | **13 018** | 3 | ❌ | ? | ? |
 | [waag.social](https://waag.social) | **12 982** | 86 | ❌ | Technology for People, not Profit. | nl |
 | [433.world](https://433.world) | **12 979** | 31 | ✅ | Independent hosted server for members of the 4'33" Dangerposting community. | en |
-| [birdon.social](https://birdon.social) | **12 947** | 384 | ✅ | A Mastodon server dedicated to bird and nature lovers.  | en |
+| [birdon.social](https://birdon.social) | **12 962** | 384 | ✅ | A Mastodon server dedicated to bird and nature lovers.  | en |
 | [bayes.club](https://bayes.club) | **12 947** | 338 | ✅ | A community of statisticians using Bayesian methods. | en |
 | [heckin.how](https://heckin.how) | **12 922** | 16 | ❌ | ? | ? |
 | [mstdn.shihoya.tokyo](https://mstdn.shihoya.tokyo) | **12 893** | 4 | ❌ | おひとり様インスタンスです。 | en |
+| [mastodon.oeru.org](https://mastodon.oeru.org) | **12 889** | 2 200 | ✅ | This instance is run by the OER Foundation. It is a home for open educators & learners involved in the OERu. Accounts of learners not involved in OERu courses may be removed. | en |
 | [communitymedia.video](https://communitymedia.video) | **12 888** | 23 | ✅ | ? | ? |
-| [mastodon.oeru.org](https://mastodon.oeru.org) | **12 884** | 2 200 | ✅ | This instance is run by the OER Foundation. It is a home for open educators & learners involved in the OERu. Accounts of learners not involved in OERu courses may be removed. | en |
+| [toot.re](https://toot.re) | **12 856** | 215 | ✅ | Mastodon server gericht op Nederlandstalige gebruikers.  | nl |
 | [lesbi.in](https://lesbi.in) | **12 850** | 119 | ❌ | ? | ? |
 | [skoops.social](https://skoops.social) | **12 843** | 5 | ❌ | ? | en |
-| [toot.re](https://toot.re) | **12 832** | 215 | ✅ | Mastodon server gericht op Nederlandstalige gebruikers.  | nl |
+| [birdbutt.com](https://birdbutt.com) | **12 823** | 42 | ✅ | Welcome to birdbutt! This instance is home to avian/bird/featheries/furries and welcome to all! Introduce yourself when joining & please abide by rules! Our hashtag: #BirdButt | en |
 | [a11y.info](https://a11y.info) | **12 801** | 123 | ❌ | An open community for those interested in sharing and learning more about inclusion and digital accessibility.   "a11y" is short for "accessibility." There are 11 letters between the a and the y. | en |
 | [social.fedinet.de](https://social.fedinet.de) | **12 797** | 4 | ✅ | ? | ? |
-| [birdbutt.com](https://birdbutt.com) | **12 783** | 42 | ✅ | Welcome to birdbutt! This instance is home to avian/bird/featheries/furries and welcome to all! Introduce yourself when joining & please abide by rules! Our hashtag: #BirdButt | en |
 | [veenus.art](https://veenus.art) | **12 764** | 78 | ❌ | ? | ? |
 | [penfount.social](https://penfount.social) | **12 736** | 194 | ✅ | Welcome to Penfount, a community for fountain pen users, collectors, and enthusiasts! | en |
 | [fedi.nano.lgbt](https://fedi.nano.lgbt) | **12 729** | 20 | ✅ | ? | ? |
-| [rap.social](https://rap.social) | **12 720** | 124 | ✅ | ? | en |
+| [rap.social](https://rap.social) | **12 717** | 125 | ✅ | ? | en |
 | [m.ocsf.in](https://m.ocsf.in) | **12 660** | 3 | ❌ | Упырь упырю друг, товарищ и ужин. | en |
+| [boles.xyz](https://boles.xyz) | **12 651** | 3 | ❌ | Boles.xyz is a Mastodon server for David Boles and friends in the Fediverse! We discuss AI, Music, Publishing, Writing, Creativity, Philosophy, Tech and more! | en |
 | [kyou.social](https://kyou.social) | **12 639** | 2 | ❌ | ? | ? |
+| [kzoo.to](https://kzoo.to) | **12 637** | 60 | ✅ | A community Mastodon server for the Kalamazoo area. | en |
 | [wp-social.net](https://wp-social.net) | **12 636** | 241 | ✅ | WP-Social.Net - Social Media nicht nur für die WordPress-Community | de |
 | [toot.cm-social.com](https://toot.cm-social.com) | **12 626** | 13 | ❌ | Wir blockieren nicht den Verkehr - wir sind der Verkehr.  CM-Social.com hat das Ziel Radfahrer und Critical Mass Rides digital zu unterstützen und zu vernetzen. | en |
-| [boles.xyz](https://boles.xyz) | **12 620** | 3 | ❌ | Boles.xyz is a Mastodon server for David Boles and friends in the Fediverse! We discuss AI, Music, Publishing, Writing, Creativity, Philosophy, Tech and more! | en |
-| [kzoo.to](https://kzoo.to) | **12 619** | 60 | ✅ | A community Mastodon server for the Kalamazoo area. | en |
 | [ubiqueros.com](https://ubiqueros.com) | **12 618** | 7 | ❌ | ? | ? |
 | [childlove.space](https://childlove.space) | **12 597** | 1 792 | ✅ | ? | ? |
-| [animal.business](https://animal.business) | **12 548** | 45 | ❌ | A small server for a small group of dog things | en |
+| [animal.business](https://animal.business) | **12 561** | 45 | ❌ | A small server for a small group of dog things | en |
 | [donotsta.re](https://donotsta.re) | **12 522** | 80 | ✅ | ? | ? |
 | [xmau.com](https://xmau.com) | **12 510** | 1 | ❌ | ? | ? |
 | [slrpnk.net](https://slrpnk.net) | **12 500** | 1 127 | ✅ | ? | ? |
@@ -6720,7 +6748,7 @@
 | [faithcollapsing.com](https://faithcollapsing.com) | **12 170** | 8 | ✅ | Anti-bigot, anti-fascist, pro-privacy, pro-science, pro-wierdo, pro-freaks.  | en |
 | [friendica.me](https://friendica.me) | **12 169** | 426 | ❌ | ? | ? |
 | [fairmove.net](https://fairmove.net) | **12 162** | 164 | ✅ | We do, host and support fair moves!  ▶ GDPR compliant | green hosting | free registration with fairlogin | translations ▶ Für Menschen und Organisationen, die etwas bewegen wollen. | en |
-| [toot.dusepo.co.uk](https://toot.dusepo.co.uk) | **12 134** | 7 | ❌ | ? | en |
+| [toot.dusepo.co.uk](https://toot.dusepo.co.uk) | **12 156** | 7 | ❌ | ? | en |
 | [social.dinn.ca](https://social.dinn.ca) | **12 128** | 3 | ❌ | Hyper-local mastodon instance for a few people. | en |
 | [social.noleron.com](https://social.noleron.com) | **12 081** | 39 | ✅ | Українськомовний інстанс Mastodon. Не новий, існує з 1 січня 23 року, але був на Akkoma. Перед реєстрацією читайте правила, бо за порушення буде блокування. Успіхів. | uk |
 | [brandenburg.social](https://brandenburg.social) | **12 072** | 148 | ✅ | Alles rund um, über, aus & für das Land Brandenburg | en |
@@ -6737,10 +6765,10 @@
 | [6a02.digital](https://6a02.digital) | **11 852** | 2 | ❌ | ? | ? |
 | [ouroboros.gay](https://ouroboros.gay) | **11 850** | 14 | ❌ | ? | ? |
 | [fedi.layer02.net](https://fedi.layer02.net) | **11 839** | 14 | ✅ | ? | ? |
+| [attractive.space](https://attractive.space) | **11 824** | 45 | ✅ | For creative individuals and companies who love beautiful art, emotive writing, wonderful products, inspiring technology and enticing design. For those who build whole new worlds. | en |
 | [pgh.social](https://pgh.social) | **11 817** | 91 | ✅ | A place for folks in, around, or connected to Pittsburgh, Pennsylvania. | en |
 | [mastodon.mg](https://mastodon.mg) | **11 816** | 103 | ❌ | La première instance malgache de Mastodon. | fr |
 | [gorgon.city](https://gorgon.city) | **11 786** | 1 | ❌ | ? | en |
-| [attractive.space](https://attractive.space) | **11 779** | 45 | ✅ | For creative individuals and companies who love beautiful art, emotive writing, wonderful products, inspiring technology and enticing design. For those who build whole new worlds. | en |
 | [hooves.social](https://hooves.social) | **11 777** | 41 | ❌ | ? | ? |
 | [jazztodon.com](https://jazztodon.com) | **11 769** | 265 | ✅ | The Jazztodon instance is the home on Mastodon for jazz people! Join the discussion of all types of jazz and related music.   Donations for server expenses: https://tinyurl.com/3sc2y2fs  | en |
 | [radikal.social](https://radikal.social) | **11 762** | 288 | ✅ | radikal.social was created by a group of activists to offer federated social media for the radical left in and around Denmark. | en |
@@ -6765,13 +6793,13 @@
 | [mstdn.nrkn.fr](https://mstdn.nrkn.fr) | **11 459** | 8 | ❌ | Instance Mastodon personnelle. Juste parce qu'on est tellement bien chez soi, avec quelques copains. | en |
 | [libertynode.net](https://libertynode.net) | **11 455** | 9 | ❌ | The open source, decentralized social network we deserve. Powered by Mastodon. | en |
 | [fearness.org](https://fearness.org) | **11 445** | 5 | ✅ | ? | ? |
+| [elbmatsch.de](https://elbmatsch.de) | **11 431** | 2 | ❌ | Privatinstanz hier muss nix Beschrieben werden. | en |
 | [mastodon-swiss.org](https://mastodon-swiss.org) | **11 427** | 883 | ✅ | Dieser Mastodon-Server wird durch Lukas Frey betrieben (privat).  | en |
 | [orbital.horse](https://orbital.horse) | **11 426** | 4 | ❌ | ? | ? |
 | [twoot.site](https://twoot.site) | **11 414** | 46 | ✅ | Twootsite is a general instance with a focus on your safety. We have strict moderation and rules to promote accessibility. Twootsite is running glitch-soc! (RIP Tootsite) | en |
 | [federation.p1k3.com](https://federation.p1k3.com) | **11 406** | 3 | ❌ | federation.p1k3.com is brennen's several-user Mastodon instance (a few friends and family may have accounts at any given time; registrations will not be opened because I do not have the brainspace for real moderation tasks here). This instance runs on masto.host, and is thus bound by masto.host's ToS, which bar instances dedicated to racism, Nazi shit, transphobia, misogyny, incitement to violence, and the rest of the usual litany of horrors. | en |
-| [elbmatsch.de](https://elbmatsch.de) | **11 394** | 2 | ❌ | Privatinstanz hier muss nix Beschrieben werden. | en |
+| [musicworld.social](https://musicworld.social) | **11 402** | 434 | ✅ | Server for all music enthusiasts. Concerts, festivals, new music discovery, music collectors, artists, music charts etc. | en |
 | [m6n.io](https://m6n.io) | **11 378** | 92 | ✅ | M6n.io is a home for Kubernetes and Cloud Native and fun, diverse tech people on Mastodon. | en |
-| [musicworld.social](https://musicworld.social) | **11 377** | 433 | ✅ | Server for all music enthusiasts. Concerts, festivals, new music discovery, music collectors, artists, music charts etc. | en |
 | [soc0.outrnat.nl](https://soc0.outrnat.nl) | **11 372** | 4 | ❌ | ? | ? |
 | [meow.woem.cat](https://meow.woem.cat) | **11 371** | 11 | ❌ | ? | ? |
 | [lazybear.social](https://lazybear.social) | **11 366** | 3 | ✅ | ? | en |
@@ -6780,26 +6808,26 @@
 | [transmom.love](https://transmom.love) | **11 346** | 9 | ❌ | Personal server for trans moms <3 | en |
 | [pl.starnix.network](https://pl.starnix.network) | **11 339** | 26 | ✅ | ? | ? |
 | [mastodon.no2nd.earth](https://mastodon.no2nd.earth) | **11 334** | 76 | ✅ | Diese Mastodon Instanz widmet sich primär den Themen Nachhaltigkeit und Klimakrise. | en |
-| [bambuswald.social](https://bambuswald.social) | **11 296** | 32 | ✅ | Diese Instanz ist die Mastodon-Heimat einer kleinen aber feinen Community. | en |
+| [bambuswald.social](https://bambuswald.social) | **11 297** | 32 | ✅ | Diese Instanz ist die Mastodon-Heimat einer kleinen aber feinen Community. | en |
 | [mastodon.satoshishop.de](https://mastodon.satoshishop.de) | **11 295** | 14 | ❌ | rein private serverinstanz. keine registrierungen erlaubt. | en |
 | [thechimp.zone](https://thechimp.zone) | **11 279** | 6 | ❌ | ? | ? |
 | [angrytoday.com](https://angrytoday.com) | **11 271** | 66 | ✅ | ? | ? |
+| [fedifriends.social](https://fedifriends.social) | **11 235** | 2 | ❌ | Eine kleine Privatinstanz | en |
 | [social.telemetrydeck.com](https://social.telemetrydeck.com) | **11 230** | 5 | ❌ | Hi we're TelemetryDeck, a privacy-oriented company that makes app analytics with privacy built-in. We're exploring the fediverse! | en |
 | [mastodon.redstonelp2.com](https://mastodon.redstonelp2.com) | **11 217** | 1 | ❌ | Redstone's homeserver | en |
-| [seda.social](https://seda.social) | **11 210** | 300 | ✅ | Instancia de la comunidad S.E.D.A.  S.E.D.A. es un podcast chileno grabado simultáneamente desde Chile y Alemania gracias a la magia de la tecnología. Hecho por @carlitos_huerta y @Flipartico. | en |
+| [seda.social](https://seda.social) | **11 209** | 300 | ✅ | Instancia de la comunidad S.E.D.A.  S.E.D.A. es un podcast chileno grabado simultáneamente desde Chile y Alemania gracias a la magia de la tecnología. Hecho por @carlitos_huerta y @Flipartico. | en |
 | [guitar.rodeo](https://guitar.rodeo) | **11 177** | 2 238 | ✅ | For electric guitar, guitar pedal, synth, makers and enthusiasts. | en |
-| [ipv6.social](https://ipv6.social) | **11 147** | 64 | ✅ | ? | en |
-| [fedifriends.social](https://fedifriends.social) | **11 139** | 2 | ❌ | Eine kleine Privatinstanz | en |
+| [ipv6.social](https://ipv6.social) | **11 169** | 64 | ✅ | ? | en |
+| [jauntygoat.net](https://jauntygoat.net) | **11 162** | 32 | ✅ | Freedom needs horns! An expressive platform for today's modern, privacy-aware goat. | en |
 | [mastodon.ctseuro.com](https://mastodon.ctseuro.com) | **11 130** | 16 | ❌ | ? | de |
-| [jauntygoat.net](https://jauntygoat.net) | **11 129** | 32 | ✅ | Freedom needs horns! An expressive platform for today's modern, privacy-aware goat. | en |
 | [bv.umbrellix.org](https://bv.umbrellix.org) | **11 082** | 12 | ❌ | ? | ? |
 | [saronno.one](https://saronno.one) | **11 078** | 65 | ✅ | Mastodon è un social network non commerciale, federato e decentralizzato. Saronno One è una istanza italiana offerta e gestita dal quotidiano online IlSaronno. | en |
 | [queer.cool](https://queer.cool) | **11 054** | 20 | ✅ | A queer-friendly Mastodon instance. We strive to be inclusive and welcoming to everyone in the LGBTQ+ community. Be kind to each other. | en |
+| [furry.energy](https://furry.energy) | **11 052** | 200 | ✅ | Furry.Energy is a UK based Mastodon Server oriented towards those in the furry & LGBTQA+ communities.  Techie? Musician? Gamer? Hiking? Share your hobbies too, all are welcome! | en |
 | [toot.works](https://toot.works) | **11 052** | 72 | ✅ | Toot Works is for folks who make things. It provides a collaborative opportunity to build lasting relationships within a supportive creator community. | en |
 | [julialang.social](https://julialang.social) | **11 051** | 235 | ✅ | Come and chat with the Julia Programming Language Community! | en |
 | [feral.cafe](https://feral.cafe) | **11 049** | 363 | ✅ | We're a small feral furry space for those who want a calmer environment where they can express the all the diverse facets of who they are. | en |
 | [veronaxxx.masto.host](https://veronaxxx.masto.host) | **11 044** | 48 | ✅ | 欢迎来到维村垃圾填埋场！ 本站建立初衷以法罗朱相关内容为主，其他内容也无所谓，请大家随意的玩耍。 | en |
-| [furry.energy](https://furry.energy) | **11 040** | 200 | ✅ | Furry.Energy is a UK based Mastodon Server oriented towards those in the furry & LGBTQA+ communities.  Techie? Musician? Gamer? Hiking? Share your hobbies too, all are welcome! | en |
 | [asstodon.social](https://asstodon.social) | **11 040** | 7 | ✅ | Un serveur Mastodon dédié aux TDS, travailleuses et travailleurs du sexe, francophones. Parce que "Sex work is work" ! 🤟 | fr |
 | [toot.kuba-orlik.name](https://toot.kuba-orlik.name) | **11 028** | 9 | ✅ | ? | en |
 | [toki.social](https://toki.social) | **10 974** | 685 | ✅ | toki! ni li kulupu pi toki pona lon ilo Masoton. o kama! | en |
@@ -6807,13 +6835,13 @@
 | [neomobius.com](https://neomobius.com) | **10 966** | 10 | ❌ | This instance is run by NeoMobius for NeoMobius. I got tired of getting limited by other instances and being forced to bounce around, so I made my own home! | en |
 | [social.platypus-sandbox.com](https://social.platypus-sandbox.com) | **10 963** | 14 | ❌ | ? | ? |
 | [masto.chronos-tachyon.net](https://masto.chronos-tachyon.net) | **10 924** | 1 | ❌ | Private instance of Mastodon for @chronos and his personal friends. | en |
-| [loci.onl](https://loci.onl) | **10 856** | 20 | ✅ | This mastodon instance is for friendly people part of, or associated with, the geeky/roleplayer social group of Hanging Town (Lancaster) in the UK. | en |
-| [syzito.xyz](https://syzito.xyz) | **10 853** | 10 | ✅ | Express yourself freely.  Optional: Join the Robot Monkey Army, Cyborg Werewolf Ninjas, and Algebraic Velociraptors, in an epic war for the emancipation of the intergalactic proletariat. | en |
+| [syzito.xyz](https://syzito.xyz) | **10 901** | 10 | ✅ | Express yourself freely.  Optional: Join the Robot Monkey Army, Cyborg Werewolf Ninjas, and Algebraic Velociraptors, in an epic war for the emancipation of the intergalactic proletariat. | en |
+| [loci.onl](https://loci.onl) | **10 860** | 20 | ✅ | This mastodon instance is for friendly people part of, or associated with, the geeky/roleplayer social group of Hanging Town (Lancaster) in the UK. | en |
 | [nfld.me](https://nfld.me) | **10 842** | 67 | ✅ | Newfoundland and Labrador's Mastodon Server | en |
 | [argon.city](https://argon.city) | **10 804** | 18 | ❌ | ? | ? |
+| [hub.uckermark.social](https://hub.uckermark.social) | **10 780** | 20 | ✅ | Ein Mastodon Server für und von Menschen aus der Uckermark.  | de |
 | [franken.social](https://franken.social) | **10 773** | 61 | ✅ | Allmächd'na! Franggn is im Fediversum. Fei schee. | en |
 | [glitch.taks.garden](https://glitch.taks.garden) | **10 767** | 10 | ✅ | Experimentation instance<br/> | en |
-| [hub.uckermark.social](https://hub.uckermark.social) | **10 755** | 20 | ✅ | Ein Mastodon Server für und von Menschen aus der Uckermark.  | de |
 | [pleroma-in.ouda.space](https://pleroma-in.ouda.space) | **10 755** | 2 | ❌ | ? | ? |
 | [neurodiversity-in.au](https://neurodiversity-in.au) | **10 721** | 76 | ✅ | We are building network of neurodiverse individuals and giving a them a safe and inclusive area. You don’t have to be from Australia to join, and you don’t have to be neurodivergent. All are welcome. | en |
 | [hsnl.social](https://hsnl.social) | **10 697** | 157 | ✅ | A fediverse server for the community of Dutch hackerspaces (HSNL) contact: admin@hsnl.social | en |
@@ -6822,10 +6850,11 @@
 | [social.stlouist.com](https://social.stlouist.com) | **10 639** | 53 | ✅ | part of the stLouIST Better Bubble™ | en |
 | [fedi.video](https://fedi.video) | **10 638** | 3 | ❌ | ? | ? |
 | [msk.canor.kr](https://msk.canor.kr) | **10 620** | 4 | ❌ | ? | ? |
+| [503junk.house](https://503junk.house) | **10 610** | 18 | ✅ | ? | ? |
 | [akko.chir.rs](https://akko.chir.rs) | **10 610** | 12 | ✅ | ? | ? |
-| [social.raytec.co](https://social.raytec.co) | **10 603** | 4 | ✅ | Taking back the internet from the centralized corporatocracy. Leading by example in the revolution in socially aware and responsible business practices. | en |
+| [fedinerds.social](https://fedinerds.social) | **10 601** | 23 | ✅ | Wir sind eine aktive deutsche Community die sich zu den Themen: #Games, #Manga, #Filme, #Serien, #Technik, und #Anime austauscht. | en |
+| [social.raytec.co](https://social.raytec.co) | **10 600** | 4 | ✅ | Taking back the internet from the centralized corporatocracy. Leading by example in the revolution in socially aware and responsible business practices. | en |
 | [social.kernel.org](https://social.kernel.org) | **10 590** | 71 | ❌ | ? | ? |
-| [503junk.house](https://503junk.house) | **10 585** | 18 | ✅ | ? | ? |
 | [kitsunesoba.com](https://kitsunesoba.com) | **10 581** | 11 | ❌ | ? | ? |
 | [node.isonomia.net](https://node.isonomia.net) | **10 571** | 1 | ✅ | ? | ? |
 | [sns.minovsky.space](https://sns.minovsky.space) | **10 566** | 5 | ❌ | ? | ? |
@@ -6836,28 +6865,27 @@
 | [masto.fuzzy.systems](https://masto.fuzzy.systems) | **10 516** | 4 | ❌ | ? | ? |
 | [froggie.town](https://froggie.town) | **10 509** | 36 | ❌ | ? | ? |
 | [social.edu.nl](https://social.edu.nl) | **10 499** | 810 | ❌ | This is the Mastodon Pilot instance run by SURF for the Dutch research and education community - more info https://surf.nl/mastodon-pilot | en |
-| [fedinerds.social](https://fedinerds.social) | **10 496** | 23 | ✅ | Wir sind eine aktive deutsche Community die sich zu den Themen: #Games, #Manga, #Filme, #Serien, #Technik, und #Anime austauscht. | en |
 | [disobey.net](https://disobey.net) | **10 492** | 9 | ❌ | disobey.net is a mastodon server for cypherpunks, where crypto means cryptography. | en |
 | [mastodon.savvy.ch](https://mastodon.savvy.ch) | **10 461** | 6 | ❌ | ? | en |
 | [trekkies.social](https://trekkies.social) | **10 416** | 92 | ✅ | This is a mastodon instance for all the trekkies out there, feel free to share your love of Trek and geek out! | en |
 | [hat-eine.entenbru.st](https://hat-eine.entenbru.st) | **10 324** | 5 | ❌ | ? | ? |
-| [c3d2.social](https://c3d2.social) | **10 314** | 28 | ❌ | Chaos Computer Club Dresden, https://www.c3d2.de | de |
+| [c3d2.social](https://c3d2.social) | **10 316** | 28 | ❌ | Chaos Computer Club Dresden, https://www.c3d2.de | de |
 | [mastodon.underworld.fr](https://mastodon.underworld.fr) | **10 287** | 114 | ✅ | UNDERWORLD | en |
 | [suomi.social](https://suomi.social) | **10 276** | 56 | ✅ | Suomi.social on yksi monista Mastodon-palvelimista. Tällä palvelimella toimitaan oikeilla nimillä. Sen on tarkoitus olla luotettava suomalainen kotipesä osana globaalia Fediverse-verkostoa. | fi |
+| [noods.fun](https://noods.fun) | **10 254** | 91 | ✅ | A mastodon server for Twitter refugees | en |
+| [3615.computer](https://3615.computer) | **10 254** | 24 | ✅ | 3615.computer is a brand new community instance. We want to open other services once you signed-up, such as our Minecraft servers, for free.  See https://www.3615.computer for more information. | en |
 | [boymoder.biz](https://boymoder.biz) | **10 250** | 17 | ✅ | ? | ? |
 | [narrativ.es](https://narrativ.es) | **10 248** | 2 | ❌ | Personal Instance | en |
-| [noods.fun](https://noods.fun) | **10 232** | 91 | ✅ | A mastodon server for Twitter refugees | en |
+| [f.cz](https://f.cz) | **10 238** | 113 | ✅ | Hardware a software serveru f.cz spravují SPOJE.NET. Za obsah odpovídá moderátor Michael Polák. Zaměření je fšeobecné :-) Většinovým jazykem komunikace je čeština. Limit délky příspěvku je 2000 znaků. | en |
 | [recsys.social](https://recsys.social) | **10 232** | 89 | ✅ | ? | en |
 | [antabaka.me](https://antabaka.me) | **10 200** | 36 | ❌ | Hello ! This is a server for a small community but where everyone can share what they love. | en |
-| [vermont.masto.host](https://vermont.masto.host) | **10 188** | 250 | ✅ | A Mastodon instance for Vermonters and Vermonters at heart. | en |
+| [vermont.masto.host](https://vermont.masto.host) | **10 199** | 250 | ✅ | A Mastodon instance for Vermonters and Vermonters at heart. | en |
 | [emeraldsocial.org](https://emeraldsocial.org) | **10 187** | 47 | ✅ | Emerald Social is a social network for Eugene-Springfield (Oregon) and the surrounding area, and a gateway to the world. | en |
-| [3615.computer](https://3615.computer) | **10 182** | 24 | ✅ | 3615.computer is a brand new community instance. We want to open other services once you signed-up, such as our Minecraft servers, for free.  See https://www.3615.computer for more information. | en |
-| [f.cz](https://f.cz) | **10 173** | 113 | ✅ | Hardware a software serveru f.cz spravují SPOJE.NET. Za obsah odpovídá moderátor Michael Polák. Zaměření je fšeobecné :-) Většinovým jazykem komunikace je čeština. Limit délky příspěvku je 2000 znaků. | en |
 | [social.anartist.org](https://social.anartist.org) | **10 166** | 45 | ❌ | Servidor social de Mastodon de Anartist. Para registrarte puedes conseguir información en https://anartist.org | en |
 | [bonequest.net](https://bonequest.net) | **10 098** | 119 | ✅ | bonequest.net free-for-all hellscape | en |
 | [darkmoon.social](https://darkmoon.social) | **10 067** | 3 | ❌ | It's like a dark little world, all on its own. | en |
-| [semiosen.de](https://semiosen.de) | **10 055** | 43 | ✅ | Semiosen verbreitet Themen und Trends von www.semiosis.at sowie anderen Plattformen und dient dem Austausch - von Informationen, begründeten Meinungen, Ideen und Analysen. | en |
-| [fouroclockfarms.club](https://fouroclockfarms.club) | **10 038** | 9 | ❌ | A small, highly moderated, private server run by some wheat growing queers on the plains. | en |
+| [semiosen.de](https://semiosen.de) | **10 059** | 43 | ✅ | Semiosen verbreitet Themen und Trends von www.semiosis.at sowie anderen Plattformen und dient dem Austausch - von Informationen, begründeten Meinungen, Ideen und Analysen. | en |
+| [fouroclockfarms.club](https://fouroclockfarms.club) | **10 044** | 9 | ❌ | A small, highly moderated, private server run by some wheat growing queers on the plains. | en |
 | [owo.town](https://owo.town) | **10 002** | 41 | ✅ | Welcome to OwO Town!  This is a Mastodon instance targeted at members of the furry community but anyone is welcome to join!  Be sure to check our rules! The TLDR is be nice. | en |
 | [scfzfilm.org](https://scfzfilm.org) | **9 969** | 39 | ✅ | HI- this server is an offshoot of scfz film forum - welcome to all cinephiles  | en |
 | [pleroma.payfrit.com](https://pleroma.payfrit.com) | **9 944** | 10 | ✅ | ? | ? |
@@ -6875,12 +6903,12 @@
 | [writefreely.ethibox.fr](https://writefreely.ethibox.fr) | **9 800** | 4 336 | ✅ | ? | ? |
 | [fedi.codepenguin.io](https://fedi.codepenguin.io) | **9 741** | 12 | ❌ | ? | ? |
 | [i.transmit.love](https://i.transmit.love) | **9 713** | 22 | ✅ | I.Transmit.Love is based on the idea that we're all more alike than we are different | en |
+| [mastodon.derg.nz](https://mastodon.derg.nz) | **9 707** | 14 | ✅ | A server for myself (@Anthropy) and friends, running on the DragonHive infrastructure (dragonhive.net). Expect Geeky and Furry types of content, but most other types of subjects are also welcome! | en |
+| [reporter.social](https://reporter.social) | **9 702** | 29 | ✅ | Eine Mastodon-Instanz von Journalstïnnen, für Journalistïnnen. A Mastodon instance from journalists, for journalists. | de |
 | [gametoots.de](https://gametoots.de) | **9 700** | 1 809 | ✅ | German and English Mastodon server for gamers and streamers. Actively moderated and administrated. | en |
 | [scintilla.social](https://scintilla.social) | **9 689** | 1 | ❌ | ? | en |
-| [reporter.social](https://reporter.social) | **9 686** | 29 | ✅ | Eine Mastodon-Instanz von Journalstïnnen, für Journalistïnnen. A Mastodon instance from journalists, for journalists. | de |
 | [pod.automat.click](https://pod.automat.click) | **9 683** | 330 | ❌ | ? | ? |
 | [emacsen.net](https://emacsen.net) | **9 678** | 1 | ❌ | ? | en |
-| [mastodon.derg.nz](https://mastodon.derg.nz) | **9 649** | 14 | ✅ | A server for myself (@Anthropy) and friends, running on the DragonHive infrastructure (dragonhive.net). Expect Geeky and Furry types of content, but most other types of subjects are also welcome! | en |
 | [nya.otter.sh](https://nya.otter.sh) | **9 626** | 2 | ❌ | squeak squeak | en |
 | [tutut.delire.party](https://tutut.delire.party) | **9 608** | 18 | ❌ | Nous sommes des ami.e.s et connaissances IRL regroupés autour d'un même serveur Mastodon. Nos règles sont présentes sur https://delire.party/cgu.html | en |
 | [w3c.social](https://w3c.social) | **9 604** | 221 | ✅ | w3c.social is a friendly and respectful instance for people involved in the activities of the World Wide Web Consortium (W3C). The instance is run on a volunteer basis by a few of the W3C team.  | en |
@@ -6896,8 +6924,8 @@
 | [toot.poedelwitz.de](https://toot.poedelwitz.de) | **9 524** | 31 | ✅ | This is a Mastodon instance for everyone who feels connected to Pödelwitz and the climate justice movement. https://www.poedelwitz.de | en |
 | [fedimon.uk](https://fedimon.uk) | **9 518** | 6 | ✅ | UK instance, mostly for friends and others directly known to me already. | en |
 | [mastodon.chrispelli.fun](https://mastodon.chrispelli.fun) | **9 496** | 4 | ❌ | ? | en |
+| [shark.community](https://shark.community) | **9 494** | 43 | ✅ | All of good heart are welcome, regardless of their race, gender, or species. Membership is open—the approval is to weed out harmful bots and spam accounts. Come for a swim! The sharks don't bite. | en |
 | [posts.rat.pictures](https://posts.rat.pictures) | **9 490** | 1 | ❌ | a very small mastodon instance for pictures of rats | en |
-| [shark.community](https://shark.community) | **9 476** | 43 | ✅ | All of good heart are welcome, regardless of their race, gender, or species. Membership is open—the approval is to weed out harmful bots and spam accounts. Come for a swim! The sharks don't bite. | en |
 | [dialup.cafe](https://dialup.cafe) | **9 459** | 17 | ✅ | Grab a chai latté or an americano and have a seat at the Dialup Cybercafé. Our iMac G3's sport 56Kbaud modems, Internet Explorer 4, and your choice of tangerine, strawberry, grape, blueberry and lime. | en |
 | [mastodon.heavymusic.rocks](https://mastodon.heavymusic.rocks) | **9 454** | 5 | ✅ | A server chatting about all things heavy music (and other nonsense too!) | en |
 | [fanaticus.social](https://fanaticus.social) | **9 439** | 256 | ✅ | ? | ? |
@@ -6915,17 +6943,17 @@
 | [eepy.zone](https://eepy.zone) | **9 286** | 33 | ✅ | ? | ? |
 | [genderheretics.xyz](https://genderheretics.xyz) | **9 279** | 139 | ✅ | ? | ? |
 | [booktoot.club](https://booktoot.club) | **9 260** | 142 | ❌ | A place for book lovers to talk about books and whatever else is on their minds. | en |
-| [queernerds.social](https://queernerds.social) | **9 250** | 19 | ✅ | queernerds.social was started to provide a safe space and community for passionate people who share a common experience in being queer. That being said, everyone is welcome. | en |
+| [queernerds.social](https://queernerds.social) | **9 251** | 19 | ✅ | queernerds.social was started to provide a safe space and community for passionate people who share a common experience in being queer. That being said, everyone is welcome. | en |
 | [foojay.social](https://foojay.social) | **9 207** | 194 | ✅ | This Foojay.social Mastodon server is aimed at anyone active in the OpenJDK, Java, JavaFX, JVM, and related communities. | en |
 | [oddballs.online](https://oddballs.online) | **9 206** | 117 | ✅ | ? | ? |
-| [masto.yttrx.com](https://masto.yttrx.com) | **9 194** | 881 | ❌ | A community of Mastodon enthusiasts run by friends | en |
+| [astronomy.city](https://astronomy.city) | **9 200** | 15 | ✅ | Small server for astronomy and astronomy-adjacent users. All are welcome. Admin will expand server as necessary based on usage, and guarantees at least 1 year notice before retirement. | en |
+| [masto.yttrx.com](https://masto.yttrx.com) | **9 198** | 881 | ❌ | A community of Mastodon enthusiasts run by friends | en |
+| [links.potsda.mn](https://links.potsda.mn) | **9 193** | 96 | ✅ | Links.potsda.mn is a federated social network for Potsdam's Left.  Links.potsda.mn ist ein föderiertes soziales Netzwerk für Potsdams Linke. | en |
 | [anubis.social](https://anubis.social) | **9 193** | 7 | ✅ | Yet another Mastodon instance run by furries, for furries.  Hosted in Finland with Perkele 🇫🇮🔪 | en |
-| [astronomy.city](https://astronomy.city) | **9 189** | 15 | ✅ | Small server for astronomy and astronomy-adjacent users. All are welcome. Admin will expand server as necessary based on usage, and guarantees at least 1 year notice before retirement. | en |
 | [60228.dev](https://60228.dev) | **9 181** | 5 | ❌ | personal server for leo60228 (@leo@60228.dev) | en |
-| [links.potsda.mn](https://links.potsda.mn) | **9 177** | 96 | ✅ | Links.potsda.mn is a federated social network for Potsdam's Left.  Links.potsda.mn ist ein föderiertes soziales Netzwerk für Potsdams Linke. | en |
 | [tomo.airen-no-jikken.icu](https://tomo.airen-no-jikken.icu) | **9 177** | 1 | ❌ | ? | ? |
+| [nileane.fr](https://nileane.fr) | **9 167** | 9 | ❌ | a Mastodon instance for Niléane and her friends :) 🏳️‍⚧️🏳️‍🌈 | en |
 | [calculate.social](https://calculate.social) | **9 160** | 241 | ❌ | This is a Calculate Linux users community. | en |
-| [nileane.fr](https://nileane.fr) | **9 156** | 9 | ❌ | a Mastodon instance for Niléane and her friends :) 🏳️‍⚧️🏳️‍🌈 | en |
 | [eay.social](https://eay.social) | **9 150** | 7 | ❌ | ? | en |
 | [awaymessage.club](https://awaymessage.club) | **9 141** | 35 | ❌ | a little Mastodon service for people who miss when the most social we got was carefully choosing song lyrics for our AIM away messages | en |
 | [kino.schuerz.at](https://kino.schuerz.at) | **9 133** | 14 | ❌ | ? | ? |
@@ -6933,7 +6961,7 @@
 | [hol.ogra.ph](https://hol.ogra.ph) | **9 124** | 27 | ✅ | ? | ? |
 | [lumberjacks.social](https://lumberjacks.social) | **9 107** | 7 | ❌ | This is a private Mastodon instance that currently isn't accepting registration. | en |
 | [dataplatform.social](https://dataplatform.social) | **9 076** | 225 | ✅ | dataplatform.social is a social network for Microsoft Data Platform professionals. | en |
-| [el5.net](https://el5.net) | **9 023** | 32 | ✅ | 象吾是一个开放、包容、多元的联邦宇宙实例。无论您喜欢什么话题，都可以在这里找到志同道合的朋友。在这里，您可以发掘新的兴趣，与他人交流心得，共同成长。我们期待您的加入，一起探索一个温暖、多彩的社交空间。 | zh-CN |
+| [el5.net](https://el5.net) | **9 031** | 32 | ✅ | 象吾是一个开放、包容、多元的联邦宇宙实例。无论您喜欢什么话题，都可以在这里找到志同道合的朋友。在这里，您可以发掘新的兴趣，与他人交流心得，共同成长。我们期待您的加入，一起探索一个温暖、多彩的社交空间。 | zh-CN |
 | [karlsruhe-social.de](https://karlsruhe-social.de) | **9 022** | 51 | ✅ | Dieser Mastodon Server ist gedacht für alle Menschen, die sich für alles und alle rund um die Stadt und die Region Karlsruhe (Germany) interessieren. | en |
 | [extradienst.net](https://extradienst.net) | **9 021** | 5 | ❌ | ? | ? |
 | [wptoots.social](https://wptoots.social) | **8 969** | 100 | ✅ | This WordPress Mastodon instance wants to complement the strong WordPress community and to be a home for all WordPress enthusiasts, who want to talk, help, learn and share.  | en |
@@ -6941,13 +6969,14 @@
 | [mastodon.neilzone.co.uk](https://mastodon.neilzone.co.uk) | **8 960** | 4 | ❌ | ? | en |
 | [omoro.info](https://omoro.info) | **8 959** | 7 | ✅ | 「おもろいんふぉ」は、mastodon/mastodonをフォークしたkaias1jp/mastodonで動いています。 | en |
 | [orz.uno](https://orz.uno) | **8 955** | 15 | ❌ | ? | en |
-| [lipsia.casa](https://lipsia.casa) | **8 945** | 79 | ✅ | lipsia.casa ist eine Mastodon Instanz für jede:n Leipziger:in und alle, die sich mit Leipzig verbunden fühlen | en |
+| [lipsia.casa](https://lipsia.casa) | **8 947** | 79 | ✅ | lipsia.casa ist eine Mastodon Instanz für jede:n Leipziger:in und alle, die sich mit Leipzig verbunden fühlen | en |
 | [mastodon.bofhers.es](https://mastodon.bofhers.es) | **8 926** | 77 | ✅ | A mastodon instance for BOFHers. The Bastard Operator From Hell (BOFH) is a fictional rogue computer operator, who takes out their anger on users (who are "lusers" to them). | en |
 | [social.kithop.ca](https://social.kithop.ca) | **8 914** | 3 | ❌ | ? | en |
 | [greennuclear.online](https://greennuclear.online) | **8 908** | 52 | ✅ | This is the mastodon server of the nuclear community. | en |
 | [texasobserver.social](https://texasobserver.social) | **8 902** | 10 | ❌ | Founded in 1954, The Texas Observer is a progressive nonprofit news outlet and print magazine covering the Lone Star State.  | en |
 | [trees.social](https://trees.social) | **8 892** | 8 | ❌ | This is not a server about weed. :D  It is a private instance by a group of friends. We have no particular focus, but among the interest of its inhabitants are art, permaculture and politics (beyond parties). | en |
 | [simian.rodeo](https://simian.rodeo) | **8 887** | 14 | ❌ | ? | ? |
+| [tambayan.us](https://tambayan.us) | **8 880** | 56 | ✅ | ? | en |
 | [mtdn.anyqn.com](https://mtdn.anyqn.com) | **8 860** | 6 | ✅ | ? | ? |
 | [masto.1146.nohost.me](https://masto.1146.nohost.me) | **8 856** | 1 | ❌ | ? | en |
 | [mastodon.snmsoc.org](https://mastodon.snmsoc.org) | **8 841** | 2 | ✅ | We are a New Mexico-based group of socialist activists and organizers dedicated to bringing justice and equality to New Mexico and abroad. By way of our dedicated organizers, we are building a base of peaceful working-class opposition to capitalism, imperialism, and colonialism, wherever it may be found. | en |
@@ -6967,7 +6996,7 @@
 | [libori.social](https://libori.social) | **8 640** | 35 | ✅ | libori.social ist eine freie, digital nachhaltige und soziale Plattform für pastoral Interessierte im Erzbistum Paderborn.  Themen: Alltägliches, sowie Austausch über Kirche und Pastoral. | de |
 | [qaf.men](https://qaf.men) | **8 631** | 657 | ✅ | QAF (Queer as Folk) sincerely invites the LGBTQIA+ community to join us, where we offer a safe and friendly home. | en |
 | [microblog.shivering-isles.com](https://microblog.shivering-isles.com) | **8 614** | 1 | ❌ | This is my personal microblog. It's filled with my fun, joy and silliness. | en |
-| [social.audiovalentine.com](https://social.audiovalentine.com) | **8 600** | 47 | ✅ | Server operated by Riley Valentine. | en |
+| [social.audiovalentine.com](https://social.audiovalentine.com) | **8 604** | 47 | ✅ | Server operated by Riley Valentine. | en |
 | [poly.cybre.city](https://poly.cybre.city) | **8 584** | 2 | ❌ | ? | ? |
 | [social.oevents.co.za](https://social.oevents.co.za) | **8 549** | 9 | ✅ | A private, semi-ephemeral, probably unstable Mastodon instance for family (and maybe some friends). Oh, and things will probably auto-delete also. | en |
 | [mastodon.koehlercode.dev](https://mastodon.koehlercode.dev) | **8 548** | 2 | ❌ | We're here and we're queer | en |
@@ -6978,16 +7007,17 @@
 | [mastodon.boston](https://mastodon.boston) | **8 455** | 99 | ✅ | Mastodon instance for the people of Boston and those that love it | en |
 | [mastodon.free-solutions.org](https://mastodon.free-solutions.org) | **8 440** | 857 | ✅ | MASTODON 100% Suisse hébergé et géré par Free-Solutions sàrl Bienvenue aux francophones. Inscriptions libres et immédiates Suisse, Logiciels LIBRES, Fédiverse, Visioconférences et webRTC | fr |
 | [mk.arks.cafe](https://mk.arks.cafe) | **8 440** | 172 | ✅ | ? | ? |
+| [epistolary.org](https://epistolary.org) | **8 435** | 46 | ✅ | A server to share thoughts with friends and read what's going on in the world. | en |
 | [lazysocial.de](https://lazysocial.de) | **8 432** | 11 | ❌ | Very small server in my kitchen | en |
 | [brontosin.space](https://brontosin.space) | **8 417** | 19 | ✅ | Mastodons aren't the only prehistoric critters.  Here, Brontos and other survivors of the 7 deadly forums have a foothold in the fediverse.  Are we brontos in space? Or is this a bronto sin space? | en |
 | [spaceballs.masto.host](https://spaceballs.masto.host) | **8 411** | 17 | ❌ | I didn't like the other Mastodon servers. I wanted to hang with all my friends from online and real life. Laffs and laughs welcome. No jerks or creeps allowed. | en |
-| [researchbuzz.masto.host](https://researchbuzz.masto.host) | **8 405** | 32 | ✅ | Search engines, databases, archives, online information collections, cultural heritage, citizen science, citizen archivists, OSINT, endangered archives, transparency legislation, unsweet tea, MST3K, and New Orleans Bounce. | en |
+| [digitaldata.social](https://digitaldata.social) | **8 407** | 2 | ❌ | A Mastodon based social media server dedicated to the world of Digital Data including data layers, CDPs, analytics, optimisation, personalisation and campaign management. | en |
 | [quakers.social](https://quakers.social) | **8 401** | 158 | ❌ | A Mastodon server for Quakers and other folks who feel like they are part of the world of Quakers. Run by David Coletta of https://threeriversmeeting.org, New England Yearly Meeting. Boston, MA, USA. | en |
 | [mastodon.matrix.org](https://mastodon.matrix.org) | **8 396** | 186 | ❌ | ? | en |
-| [epistolary.org](https://epistolary.org) | **8 385** | 46 | ✅ | A server to share thoughts with friends and read what's going on in the world. | en |
+| [researchbuzz.masto.host](https://researchbuzz.masto.host) | **8 381** | 32 | ✅ | Search engines, databases, archives, online information collections, cultural heritage, citizen science, citizen archivists, OSINT, endangered archives, transparency legislation, unsweet tea, MST3K, and New Orleans Bounce. | en |
 | [socialnotwork.net](https://socialnotwork.net) | **8 373** | 36 | ❌ | Just some old nerds doin' their old nerd thing. | en |
+| [one.darnell.one](https://one.darnell.one) | **8 356** | 1 | ❌ | Just a personal instance of Mastodon that is intended for one person. :-) | en |
 | [neuss.social](https://neuss.social) | **8 336** | 5 | ✅ | Neuss im Fediverse für alle Neusser und Sympathisanten! | en |
-| [one.darnell.one](https://one.darnell.one) | **8 336** | 1 | ❌ | Just a personal instance of Mastodon that is intended for one person. :-) | en |
 | [mobilizon.fr](https://mobilizon.fr) | **8 315** | 9 595 | ✅ | ? | ? |
 | [broken.graphics](https://broken.graphics) | **8 310** | 2 | ❌ | This is where Alina Norakari resides. broken.graphics is a personal instance. If we know you, we trust you and you ask very nicely there might be a place for you on this instance. | en |
 | [nuvem.lgbt](https://nuvem.lgbt) | **8 283** | 9 | ❌ | Instância brasileira do Mastodon voltada para pessoas LGBTQIAPN+. | en |
@@ -6999,7 +7029,7 @@
 | [denton.social](https://denton.social) | **8 226** | 62 | ✅ | A space for the people of Denton, TX. | en |
 | [elonsucks.org](https://elonsucks.org) | **8 222** | 108 | ✅ | Welcome to the anti-billionaires club! We are an English-speaking Mastodon server that is open to anyone, especially those who are anti-capitalist, pro-democracy and strive to bridge inequality. | en |
 | [jlai.lu](https://jlai.lu) | **8 211** | 890 | ✅ | ? | ? |
-| [fedified.com](https://fedified.com) | **8 200** | 10 | ❌ | A U.S.-based Mastodon server for persons looking to engage in fact-based discussions about democracy, politics & policy, science & technology, national security, global markets, and sports. | en |
+| [fedified.com](https://fedified.com) | **8 201** | 10 | ❌ | A U.S.-based Mastodon server for persons looking to engage in fact-based discussions about democracy, politics & policy, science & technology, national security, global markets, and sports. | en |
 | [gladtech.social](https://gladtech.social) | **8 199** | 80 | ✅ | This Mastodon instance is for people interested in technology, particularly online privacy and open source software. Refugees from mastodon.technology welcome! Discussions aren't limited to technology though, because tech folks shouldn't be limited to technology either! | en |
 | [pl.kitsunemimi.club](https://pl.kitsunemimi.club) | **8 192** | 2 | ❌ | ? | ? |
 | [ps.s10y.eu](https://ps.s10y.eu) | **8 180** | 40 | ❌ | This instance is provided by <a href="https://ps.lesoiseaux.io/">Petites Singularités</a> ASBL for like-minded people in Brussels and elsewhere. We speak English, French, Dutch. | en |
@@ -7008,11 +7038,11 @@
 | [mastodon.rozhlas.cz](https://mastodon.rozhlas.cz) | **8 116** | 18 | ❌ | Server pro novinářky a novináře Českého rozhlasu. | en |
 | [astral.camp](https://astral.camp) | **8 093** | 104 | ❌ | The Mastodon instance of the Astral Campgrounds. Visit https://join.astral.camp for more information. | en |
 | [micro.baixllobregat.social](https://micro.baixllobregat.social) | **8 084** | 8 | ✅ | ? | en |
+| [fellies.social](https://fellies.social) | **8 081** | 18 | ❌ | Make the world a wild and fluffy place ~ | en |
 | [social.globalpirates.net](https://social.globalpirates.net) | **8 079** | 120 | ✅ | ? | en |
 | [mastodon.internet-czas-dzialac.pl](https://mastodon.internet-czas-dzialac.pl) | **8 067** | 4 | ❌ | Oficjalna instancja Mastodona inicjatywy „Internet. Czas działać!” | en |
 | [friendica.utzer.de](https://friendica.utzer.de) | **8 057** | 43 | ❌ | ? | ? |
-| [fellies.social](https://fellies.social) | **8 047** | 18 | ❌ | Make the world a wild and fluffy place ~ | en |
-| [fedi.kcore.org](https://fedi.kcore.org) | **8 047** | 3 | ❌ | Private server | en |
+| [fedi.kcore.org](https://fedi.kcore.org) | **8 050** | 3 | ❌ | Private server | en |
 | [transgirl.cafe](https://transgirl.cafe) | **8 040** | 74 | ✅ | ? | ? |
 | [discuss.tchncs.de](https://discuss.tchncs.de) | **8 013** | 5 754 | ✅ | ? | ? |
 | [sometimes.social](https://sometimes.social) | **8 013** | 5 | ❌ | A place for folks that like to be social, sometimes | en |
@@ -7023,8 +7053,8 @@
 | [gnusocial.jp](https://gnusocial.jp) | **7 968** | 219 | ✅ | ? | ? |
 | [zeppelin.flights](https://zeppelin.flights) | **7 963** | 26 | ❌ | A server for creators at The Incomparable Inc., which publishes The Incomparable podcast network and sixcolors.com. | en |
 | [mastodon.sg](https://mastodon.sg) | **7 960** | 217 | ✅ | Hosted in Singapore 🇸🇬 For Singaporeans local and abroad or friends of Singapore, welcome! | en |
+| [mastodon.llarian.net](https://mastodon.llarian.net) | **7 957** | 24 | ✅ | Llarian's Mastodon Instance | en |
 | [turtleisland.social](https://turtleisland.social) | **7 956** | 34 | ✅ | Native/Indigenous owned and operated for Native/Indigenous people in North America. TurtleIsland.social is ad-free, corporate-free, bigotry-free, and culture respectful. | en |
-| [mastodon.llarian.net](https://mastodon.llarian.net) | **7 954** | 24 | ✅ | Llarian's Mastodon Instance | en |
 | [social.lsnet.eu](https://social.lsnet.eu) | **7 938** | 4 | ❌ | ? | en |
 | [epsilon-ix.masto.host](https://epsilon-ix.masto.host) | **7 934** | 10 | ✅ | This Mastodon instance is for listeners/friends of Bomb Shelter Radio. BSR has been on the air in various incarnations since 2005. For more information see our website http://bomb.shelter.radio.am/ | en |
 | [localization.cafe](https://localization.cafe) | **7 929** | 259 | ✅ | A cozy little home for localization professionals on the fediverse. ☕ | en |
@@ -7033,18 +7063,18 @@
 | [sms.cybik.moe](https://sms.cybik.moe) | **7 896** | 3 | ❌ | My wee little corner of the Fediverse | en |
 | [p.girlc.at](https://p.girlc.at) | **7 895** | 8 | ❌ | ? | ? |
 | [carhenge.club](https://carhenge.club) | **7 875** | 38 | ✅ | A Mastodon instance for devotees of Carhenge, a pile of cars in Nebraska. | en |
+| [bewegung.social](https://bewegung.social) | **7 872** | 47 | ❌ | Server *ausschließlich* für zivilgesellschaftliche Bewegungen | betrieben von Digitalcourage | Kosten: 1 Euro/mtl. |  Privatpersonen nutzen bitte https://digitalcourage.social | de |
 | [click.ba.it](https://click.ba.it) | **7 869** | 2 | ❌ | 💾 Best social media since 1869 | en |
 | [ailbhean.co-shaoghal.net](https://ailbhean.co-shaoghal.net) | **7 864** | 80 | ✅ | This server is aimed at Gaelic speakers. Tha am frithealaiche seo ann do luchd na Gàidhlig. Ma tha duilgheadas agad leis a’ CAPTCHA, cuir post-d thugainn air rianaire@co-shaoghal.net | gd |
 | [mastodon.roundpond.net](https://mastodon.roundpond.net) | **7 862** | 27 | ✅ | This is a lovingly run mastodon instance for CartyBoston's friends. High performance, high empathy, no hate, no ads, no money. | en |
 | [fediverse.zachleat.com](https://fediverse.zachleat.com) | **7 861** | 1 | ❌ | ? | en |
 | [social.adlerweb.info](https://social.adlerweb.info) | **7 856** | 8 | ❌ | Dies ist eine private Instanz. Nur folgen, nicht anfassen. | de |
-| [bewegung.social](https://bewegung.social) | **7 846** | 47 | ❌ | Server *ausschließlich* für zivilgesellschaftliche Bewegungen | betrieben von Digitalcourage | Kosten: 1 Euro/mtl. |  Privatpersonen nutzen bitte https://digitalcourage.social | de |
 | [mentalhealth-masto.com](https://mentalhealth-masto.com) | **7 846** | 7 | ✅ | We are a community of mental health professionals and those seeking information. Engaging & collaborative discourse is highly encouraged. Managed instance in the United States.     | en |
 | [akko.cuddlegirls.cafe](https://akko.cuddlegirls.cafe) | **7 819** | 7 | ❌ | ? | ? |
 | [floofy.city](https://floofy.city) | **7 809** | 7 | ✅ | ? | ? |
 | [social.subversida.de](https://social.subversida.de) | **7 805** | 1 | ❌ | ? | ? |
 | [weatherby2378.social](https://weatherby2378.social) | **7 784** | 2 | ❌ | ? | en |
-| [terra.incognita.net](https://terra.incognita.net) | **7 768** | 19 | ❌ | ? | en |
+| [terra.incognita.net](https://terra.incognita.net) | **7 771** | 19 | ❌ | ? | en |
 | [auroraplanet.blue](https://auroraplanet.blue) | **7 765** | 31 | ❌ | ? | ? |
 | [masturbated.one](https://masturbated.one) | **7 762** | 19 | ❌ | ? | en |
 | [techfieldday.net](https://techfieldday.net) | **7 760** | 48 | ✅ | This is the Tech Field Day Mastodon instance, for delegates and friends of Gestalt IT's Tech Field Day event series | en |
@@ -7066,8 +7096,8 @@
 | [orctavern.pub](https://orctavern.pub) | **7 615** | 4 | ❌ | ? | ? |
 | [elizur.me](https://elizur.me) | **7 599** | 466 | ✅ | Wir bieten einen kleinen Gemeinschaftsraum zum Thema Bibel und Schöpfer. Die primäre Sprache ist Deutsch. | de |
 | [thesnakepostoffice.online](https://thesnakepostoffice.online) | **7 579** | 1 | ❌ | ? | en |
+| [social.finkhaeuser.de](https://social.finkhaeuser.de) | **7 567** | 3 | ✅ | A *private* instance for the Finkhäuser family. | en |
 | [s.basspistol.org](https://s.basspistol.org) | **7 559** | 21 | ❌ | ? | ? |
-| [social.finkhaeuser.de](https://social.finkhaeuser.de) | **7 553** | 3 | ✅ | A *private* instance for the Finkhäuser family. | en |
 | [port87.social](https://port87.social) | **7 543** | 56 | ✅ | This is Port87 Social, a place for people to share with each other. We are a general-purpose Mastodon server run by SciActive Inc. | en |
 | [poliversity.it](https://poliversity.it) | **7 519** | 155 | ✅ | Poliversity è una comunità dedicata alla ricerca scientifica e al giornalismo, all'università e all'istruzione ed è nata per promuovere il diritto alla conoscenza e la corretta informazione | en |
 | [toots.nu](https://toots.nu) | **7 513** | 112 | ✅ | Welcome to this open and positive server located in Sweden. Our main rule is: Choose to be kind.  Registrations are open for anyone, but please post in Swedish or English.  | en |
@@ -7077,12 +7107,12 @@
 | [mastodon.gurubert.de](https://mastodon.gurubert.de) | **7 467** | 1 | ❌ | ? | en |
 | [social.chaotikum.org](https://social.chaotikum.org) | **7 399** | 26 | ❌ | ? | en |
 | [growers.social](https://growers.social) | **7 382** | 115 | ✅ | Welcome to Growers Social, the perfect online community for green thumb enthusiasts! Whether you're a gardening pro an amateur grower or a newbie farmer, Come grow with us! We also love cats here. | en |
+| [thelife.boats](https://thelife.boats) | **7 352** | 100 | ✅ | thelife.boats is a sanctuary and contact point in case Twitter blows up. Maintained by the <a href="https://thebrick.house">Brick House</a> journalism cooperative. Conversation is very welcome, but optional.  | en |
 | [blueplanet.social](https://blueplanet.social) | **7 346** | 81 | ✅ | BluePlanet.Social ist eine Instanz für alle, die sich primär als Erdenbürger:in auf unserem blauen Planeten verstehen. | A place for all who see themselves primarily as citizens of our blue planet. | de |
 | [dementedandsadbut.social](https://dementedandsadbut.social) | **7 343** | 2 | ❌ | A small instance run by genehack, intended for friends and family. | en |
 | [alpaca.gold](https://alpaca.gold) | **7 340** | 83 | ✅ | A server for Laurie Voss and friends. | en |
 | [meerjungfrauengrotte.de](https://meerjungfrauengrotte.de) | **7 335** | 8 | ✅ | Eine queerfreundliche Mastodon-Instanz für alle, die das Meer lieben. | de |
-| [liverpoolfootballclub.social](https://liverpoolfootballclub.social) | **7 326** | 366 | ✅ | The world's first Mastodon server for supporters of Liverpool Football Club. 100% independent. By fans, for fans. Not affiliated to the club in any way. Non commercial and ad-free. All welcome. | en |
-| [thelife.boats](https://thelife.boats) | **7 326** | 100 | ✅ | thelife.boats is a sanctuary and contact point in case Twitter blows up. Maintained by the <a href="https://thebrick.house">Brick House</a> journalism cooperative. Conversation is very welcome, but optional.  | en |
+| [liverpoolfootballclub.social](https://liverpoolfootballclub.social) | **7 332** | 366 | ✅ | The world's first Mastodon server for supporters of Liverpool Football Club. 100% independent. By fans, for fans. Not affiliated to the club in any way. Non commercial and ad-free. All welcome. | en |
 | [happytobehe.re](https://happytobehe.re) | **7 325** | 4 | ✅ | ? | en |
 | [video.hardlimit.com](https://video.hardlimit.com) | **7 322** | 1 744 | ✅ | ? | ? |
 | [activitypub.garmy.jp](https://activitypub.garmy.jp) | **7 319** | 4 | ❌ | garmy's solo-user Mastodon server. | en |
@@ -7108,9 +7138,9 @@
 | [kitty.haus](https://kitty.haus) | **7 198** | 5 | ❌ | ? | ? |
 | [skastodon.com](https://skastodon.com) | **7 195** | 194 | ✅ | A Mastodon server for ska musicians, artists, fans, and anyone else in the ska community. | en |
 | [social.darc.de](https://social.darc.de) | **7 188** | 313 | ❌ | Offizielle Mastodon-Instanz des Deutschen Amateur-Radio-Clubs e. V. (DARC)  | en |
+| [body.social](https://body.social) | **7 175** | 295 | ✅ | Body positivity and acceptance social network celebrating our bodies. | en |
 | [video.dresden.network](https://video.dresden.network) | **7 140** | 54 | ✅ | ? | ? |
 | [cliptube.org](https://cliptube.org) | **7 137** | 5 | ✅ | ? | ? |
-| [body.social](https://body.social) | **7 132** | 295 | ✅ | Body positivity and acceptance social network celebrating our bodies. | en |
 | [soc.ottr.uk](https://soc.ottr.uk) | **7 127** | 3 | ❌ | A teeny tiny server run by @cooper@ottr.uk for himself and friends! | en |
 | [social.here.blue](https://social.here.blue) | **7 126** | 2 | ❌ | ? | ? |
 | [squad.town](https://squad.town) | **7 123** | 9 | ❌ | Fediverse server for a handful of friends who call themselves "squad". | en |
@@ -7148,13 +7178,14 @@
 | [g33ks.coffee](https://g33ks.coffee) | **6 791** | 23 | ❌ | g33ks.coffee est un serveur privé, francophone, qui héberge une communauté inclusive & férue de nouvelles technologies <3 | fr |
 | [frfsh.plus.st](https://frfsh.plus.st) | **6 767** | 30 | ✅ | ? | ? |
 | [social.espeweb.net](https://social.espeweb.net) | **6 760** | 13 | ❌ | ? | ? |
+| [unfug.social](https://unfug.social) | **6 747** | 15 | ✅ | Mastodon Server für die Unix Friends and Users Group (UnFUG) der Hochschule Furtwangen.   | en |
 | [conesphere.social](https://conesphere.social) | **6 742** | 13 | ✅ | This is the social network for Conesphere.com's community. | en |
 | [velocipederider.com](https://velocipederider.com) | **6 741** | 3 | ❌ | This is the personal server of Ruari (but Stu is here too). | en |
-| [unfug.social](https://unfug.social) | **6 740** | 15 | ✅ | Mastodon Server für die Unix Friends and Users Group (UnFUG) der Hochschule Furtwangen.   | en |
 | [roysbeer.place](https://roysbeer.place) | **6 739** | 2 | ❌ | ? | ? |
 | [socialserver.science](https://socialserver.science) | **6 731** | 22 | ❌ | This mastodon is dedicated to science. Specifically to the sciences and visual communication of the sciences.  | en |
 | [midwest.social](https://midwest.social) | **6 716** | 2 104 | ✅ | ? | ? |
 | [cats.city](https://cats.city) | **6 699** | 9 | ❌ | ? | ? |
+| [tchafia.be](https://tchafia.be) | **6 694** | 121 | ✅ | Une instance généraliste Mastodon en Belgique administrée par un collectif associatif venant  <br> Ouvert à tous et toutes <br>  | fr |
 | [fedi.halcyon-is.land](https://fedi.halcyon-is.land) | **6 694** | 41 | ✅ | SOCIAL MEDIA UNDERGROUND 4 PPL WHO CARE ABOUT THE INTERNET | en |
 | [geno.social](https://geno.social) | **6 693** | 63 | ❌ | geno.social bietet Genossenschaften aus deutschsprachigen Ländern und ihren Verbänden eine Heimat im Fediverse. Deine Genossenschaft und will mitmachen? Dann schreib an social@hostsharing.net | de |
 | [social.inmediahk.net](https://social.inmediahk.net) | **6 688** | 1 | ❌ | 我們是立足於香港的媒體。這是我們的萬象伺服器，只用作發佈新聞。 | en |
@@ -7164,10 +7195,9 @@
 | [social.circl.lu](https://social.circl.lu) | **6 670** | 66 | ✅ | The Computer Incident Response Center Luxembourg (CIRCL) is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents.  | en |
 | [toot.boston](https://toot.boston) | **6 659** | 16 | ❌ | ? | ? |
 | [lemmy.sdf.org](https://lemmy.sdf.org) | **6 652** | 4 070 | ✅ | ? | ? |
-| [tchafia.be](https://tchafia.be) | **6 652** | 121 | ✅ | Une instance généraliste Mastodon en Belgique administrée par un collectif associatif venant  <br> Ouvert à tous et toutes <br>  | fr |
 | [mk.gabe.rocks](https://mk.gabe.rocks) | **6 652** | 4 | ❌ | ? | ? |
 | [iqhina.org](https://iqhina.org) | **6 632** | 27 | ✅ | ? | ? |
-| [ellieayla.net](https://ellieayla.net) | **6 601** | 1 | ❌ | This is a solo instance. The server is owned, moderated, funded, and used exclusively by one person. A full Mastodon instance is probably excessive. | en |
+| [ellieayla.net](https://ellieayla.net) | **6 614** | 1 | ❌ | This is a solo instance. The server is owned, moderated, funded, and used exclusively by one person. A full Mastodon instance is probably excessive. | en |
 | [educhat.social](https://educhat.social) | **6 591** | 5 | ✅ | educhat.social - a Mastodon service for educators. | en |
 | [tbs.social](https://tbs.social) | **6 586** | 17 | ❌ | tbs.social is for people who have written for https://www.transdiffusion.org/   Just want to follow us? Sign up on one of the big servers listed at https://joinmastodon.org/servers | en |
 | [iceshrimp.social](https://iceshrimp.social) | **6 585** | 120 | ✅ | ? | ? |
@@ -7182,23 +7212,23 @@
 | [mstdn.myifn.de](https://mstdn.myifn.de) | **6 513** | 24 | ✅ | Instanz von myifn.de. Hier soll es jedem ermöglicht werden, dem Fediverse zu joinen. Der Server wird in Deutschland gehostet und unterliegt somit dem Deutschen Datenschutz und Recht. | en |
 | [mastodon.wssmagazine.com](https://mastodon.wssmagazine.com) | **6 509** | 134 | ✅ | Chat about any and all tabletop miniature wargaming. Games, minis & terrain, everything goes. Sponsored by Wargames, Soldiers & Strategy. Other kinds of tabletop wargaming, see wargaming.social | en |
 | [fediworld.de](https://fediworld.de) | **6 504** | 3 | ✅ | ? | ? |
-| [mstdn.strafpla.net](https://mstdn.strafpla.net) | **6 492** | 9 | ❌ | A cozy private Mastodon server for friends and family. If you are f&f and would like to have an account, get in touch. #!chris | en |
+| [mstdn.strafpla.net](https://mstdn.strafpla.net) | **6 502** | 9 | ❌ | A cozy private Mastodon server for friends and family. If you are f&f and would like to have an account, get in touch. #!chris | en |
+| [soc.kurator.tech](https://soc.kurator.tech) | **6 488** | 4 | ❌ | За все хорошее против всего плохого | en |
 | [social.dsmouse.net](https://social.dsmouse.net) | **6 480** | 5 | ❌ | ? | en |
 | [pb.todon.de](https://pb.todon.de) | **6 480** | 3 | ✅ | Small instance ran by Wisteria, with a max capacity of 5 members.  Status:   Emojis: emojos.in/pb.todon.de | en |
 | [slayers.online](https://slayers.online) | **6 475** | 15 | ❌ | ? | en |
 | [hoots.aldragon.net](https://hoots.aldragon.net) | **6 467** | 2 | ❌ | ? | ? |
 | [tamagothi.wordpress.com](https://tamagothi.wordpress.com) | **6 464** | 1 | ❌ | ? | ? |
+| [furs.social](https://furs.social) | **6 457** | 74 | ✅ | Furs.Social, a community for furries and friends! This is a place for all members of the furry community to connect and share content. | en |
 | [junkhub.org](https://junkhub.org) | **6 450** | 2 | ❌ | 某研究室OB向けのゆるーい(ほぼ個人的な)サーバです。 | en |
-| [furs.social](https://furs.social) | **6 440** | 74 | ✅ | Furs.Social, a community for furries and friends! This is a place for all members of the furry community to connect and share content. | en |
 | [shirtless.gay](https://shirtless.gay) | **6 435** | 2 | ❌ | I'm Jay. I'm Gay. I'm shirtless every day. This is my private instance just for me and my boyfriend. | en |
-| [soc.kurator.tech](https://soc.kurator.tech) | **6 414** | 4 | ❌ | За все хорошее против всего плохого | en |
-| [library.love](https://library.love) | **6 406** | 375 | ✅ | library.love is a mastodon instance for library workers and library lovers! Run by Califa Group (califa.org), a nonprofit library consortium in San Francisco, CA, USA.  | en |
+| [library.love](https://library.love) | **6 412** | 375 | ✅ | library.love is a mastodon instance for library workers and library lovers! Run by Califa Group (califa.org), a nonprofit library consortium in San Francisco, CA, USA.  | en |
+| [suma-ev.social](https://suma-ev.social) | **6 394** | 59 | ✅ | ? | en |
 | [indg.club](https://indg.club) | **6 374** | 130 | ✅ | Indigenous People Hosted server for Indigenous People/ Culture/ Language   banner image: @Nanibah  | en |
 | [thisis.mylegendary.quest](https://thisis.mylegendary.quest) | **6 370** | 2 | ❌ | ? | ? |
 | [gaybdsm.group](https://gaybdsm.group) | **6 367** | 229 | ✅ | This server is devoted to LGBTQ+ people into or interested in BDSM. Share your experiences and learn from others. Perhaps you'll make some connections and learn about BDSM events along the way. | en |
 | [borahae.love](https://borahae.love) | **6 367** | 66 | ✅ | BTS Army? Need a server? Please use mine! | en |
 | [hellhound.cc](https://hellhound.cc) | **6 366** | 8 | ✅ | !!! WARNING !!! HELLHOUND ALERT  This is a furry-focused instance. Approval is required.  Anyone can join! | en |
-| [suma-ev.social](https://suma-ev.social) | **6 362** | 59 | ✅ | ? | en |
 | [dembowski.social](https://dembowski.social) | **6 358** | 3 | ❌ | ? | en |
 | [jontka.fi](https://jontka.fi) | **6 357** | 1 | ❌ | ? | en |
 | [hayu.sh](https://hayu.sh) | **6 349** | 687 | ✅ | ? | ? |
@@ -7211,12 +7241,12 @@
 | [pkteerium.xyz](https://pkteerium.xyz) | **6 278** | 48 | ❌ | ? | ? |
 | [pouet.april.org](https://pouet.april.org) | **6 273** | 2 | ❌ | ? | fr |
 | [m.webtoo.ls](https://m.webtoo.ls) | **6 265** | 62 | ❌ | webtoo.ls is a small server dedicated to Open Source tools in the Web ecosystem and their maintainers, collaborators, and close community members. | en |
+| [astronomy.social](https://astronomy.social) | **6 265** | 23 | ✅ | This a digital contact point in the Fediverse for all those who want to inform themselves and exchange information on topics from astronomy, space travel and related fields of knowledge. CS!  | en |
+| [chaosfurs.social](https://chaosfurs.social) | **6 250** | 31 | ✅ | Mastodon instance for the chaosfurs telegram group; A bunch of IT furries.  Please note that this server is mainly for a closed group. Signup requests by unknowns will be rejected. | en |
 | [friendica.a-zwenkau.de](https://friendica.a-zwenkau.de) | **6 247** | 97 | ✅ | ? | ? |
 | [snowmans.land](https://snowmans.land) | **6 240** | 7 | ✅ | A lonely checkpoint in the middle of nowhere. A place to rest. Maybe a place for new stories to share? Who knows? Building a hut in the middle of nowhere maybe wasn't a mistake after all...  | en |
-| [chaosfurs.social](https://chaosfurs.social) | **6 235** | 31 | ✅ | Mastodon instance for the chaosfurs telegram group; A bunch of IT furries.  Please note that this server is mainly for a closed group. Signup requests by unknowns will be rejected. | en |
 | [yellowmustard.club](https://yellowmustard.club) | **6 231** | 134 | ✅ | For friends of Andre. | en |
 | [area51.social](https://area51.social) | **6 229** | 6 | ❌ | Personal server but fully part of the Fediverse. Do join Mastodon on any available servers & follow if you wish - this server is invite only.  Contrary to the domain name there are no aliens here... | en |
-| [astronomy.social](https://astronomy.social) | **6 224** | 23 | ✅ | This a digital contact point in the Fediverse for all those who want to inform themselves and exchange information on topics from astronomy, space travel and related fields of knowledge. CS!  | en |
 | [ck.katzen.cafe](https://ck.katzen.cafe) | **6 210** | 22 | ❌ | ? | ? |
 | [mastodon.hardcoredevs.com](https://mastodon.hardcoredevs.com) | **6 194** | 8 | ❌ | ? | es |
 | [witches.social](https://witches.social) | **6 191** | 1 | ❌ | ? | en |
@@ -7237,19 +7267,19 @@
 | [chillpeep.zone](https://chillpeep.zone) | **6 082** | 43 | ✅ | A LGBTQ+ friendly multi-fandom instance for newcomers to the fediverse. Open to furries, artists and techies! | en |
 | [social.screamingatmyscreen.com](https://social.screamingatmyscreen.com) | **6 080** | 4 | ❌ | ? | en |
 | [mst.universoalterno.es](https://mst.universoalterno.es) | **6 073** | 28 | ✅ | Bienvenido al Universo Alterno. otra instancia general. | es |
+| [fediver.de](https://fediver.de) | **6 068** | 9 | ✅ | A general purpose instance for open minded people who comply with the server rules. This instance is run by @tommy and @admin. | en |
 | [pug.ninja](https://pug.ninja) | **6 067** | 2 | ❌ | This is a private instance and not open to new members | en |
 | [ciecuo.club](https://ciecuo.club) | **6 065** | 22 | ❌ | 切磋社區（ciecuo.club）是基於 Mastodon 搭建的自主學習社區。Mastodon 是一個去中心化、無廣告的開源社交網絡軟件，任何人均可搭建自己的網站（instance）。 | en |
-| [fediver.de](https://fediver.de) | **6 056** | 9 | ✅ | A general purpose instance for open minded people who comply with the server rules. This instance is run by @tommy and @admin. | en |
 | [fedi.owo.justdied.com](https://fedi.owo.justdied.com) | **6 046** | 2 | ❌ | ? | ? |
 | [datasci.social](https://datasci.social) | **6 035** | 348 | ✅ | Community of researchers & practitioners in human-centric data science, broadly defined, like network science, computational social science, geospatial data science. | en |
 | [social.noyu.me](https://social.noyu.me) | **6 035** | 2 | ❌ | ? | ? |
 | [ack.nerdfight.online](https://ack.nerdfight.online) | **6 026** | 8 | ❌ | ? | ? |
+| [zusammenkunft.net](https://zusammenkunft.net) | **6 019** | 2 | ❌ | Die Mastodon-Instanz von Bernd und Mela Eckenfels | de |
 | [lediver.se](https://lediver.se) | **6 017** | 61 | ✅ | Für alle die einen gut moderierten Server suchen. Ganz egal ob ihr aus eurem Alltag postet, euch für queere Rechte stark macht oder etwas ganz anderes teilen wollt. In Leipzig entstanden, offen für al | de |
 | [toot.chez.gay](https://toot.chez.gay) | **6 007** | 3 | ❌ | A small private Mastodon server for our family. | en |
+| [thegem.city](https://thegem.city) | **6 005** | 35 | ✅ | Supporting the greater Dayton, Ohio community. | en |
 | [mastodon.cemea.org](https://mastodon.cemea.org) | **6 003** | 140 | ❌ | L'instance Mastodon des militant⋅e⋅s des CEMEA. | en |
 | [mastodon.orko.it](https://mastodon.orko.it) | **5 992** | 3 | ✅ | ? | ? |
-| [thegem.city](https://thegem.city) | **5 990** | 36 | ✅ | Supporting the greater Dayton, Ohio community. | en |
-| [zusammenkunft.net](https://zusammenkunft.net) | **5 989** | 2 | ❌ | Die Mastodon-Instanz von Bernd und Mela Eckenfels | de |
 | [genserver.social](https://genserver.social) | **5 982** | 991 | ✅ | ? | ? |
 | [follow.ethanmarcotte.com](https://follow.ethanmarcotte.com) | **5 976** | 2 | ❌ | ? | en |
 | [toots.cordelya.net](https://toots.cordelya.net) | **5 975** | 2 | ❌ | This is a single-user instance run by and for Cordelya. | en |
@@ -7279,13 +7309,13 @@
 | [metalverse.social](https://metalverse.social) | **5 837** | 946 | ✅ | metalverse.social is a Mastodon instance hosted in Germany from Metalheads for everybody.  -Where the Metal connects- | en |
 | [eu.mastodon.green](https://eu.mastodon.green) | **5 824** | 57 | ✅ | Plant trees while you use Mastodon. EU.mastodon.green is a membership based server for people in the EU/EEA region | en |
 | [fromm.social](https://fromm.social) | **5 818** | 3 | ❌ | tail -f /proc/social  Tiny personal micro-instance. | en |
+| [einbeck.social](https://einbeck.social) | **5 815** | 33 | ✅ | Mastodon Instanz für Einbeck, einer Stadt in Südniedersachsen. Betrieben vom nerdbridge e.V. Einbeck | de |
 | [catgirl.download](https://catgirl.download) | **5 812** | 2 | ❌ | ? | ? |
 | [namelesscitizen.space](https://namelesscitizen.space) | **5 805** | 3 | ❌ | ? | ? |
-| [einbeck.social](https://einbeck.social) | **5 798** | 33 | ✅ | Mastodon Instanz für Einbeck, einer Stadt in Südniedersachsen. Betrieben vom nerdbridge e.V. Einbeck | de |
+| [energiewende.social](https://energiewende.social) | **5 804** | 108 | ✅ | ? | en |
 | [beamship.mpaq.org](https://beamship.mpaq.org) | **5 798** | 11 | ✅ | Home to MPAQ/KMPQ internet radio station | en |
 | [bluelupine.social](https://bluelupine.social) | **5 792** | 20 | ✅ | The Wild Blue Lupine is the host plant for the endangered Karner butterfly, indigenous to the Albany Pine Bush. We hope to be an online community that serves as a host plant to those who feel they need somewhere to settle and grow in the fediverse and who have some connection to the Albany area or Upstate New York. | en |
 | [burma.social](https://burma.social) | **5 790** | 1 355 | ✅ | Burma Social. Our platform is free from censorship and we do not engage in advertising or promotion. Our aim is to provide a free and open environment. | en |
-| [energiewende.social](https://energiewende.social) | **5 789** | 108 | ✅ | ? | en |
 | [buff.tomboyfan.club](https://buff.tomboyfan.club) | **5 787** | 12 | ✅ | ? | ? |
 | [fops.cloud](https://fops.cloud) | **5 777** | 6 | ❌ | ? | ? |
 | [ms.vg](https://ms.vg) | **5 764** | 2 | ❌ | Private Instanz von Matthias Schmidt aus Düren. | de |
@@ -7300,12 +7330,12 @@
 | [pixelfed.cats-home.net](https://pixelfed.cats-home.net) | **5 721** | 21 | ❌ | ? | ? |
 | [mastodon.hccp.org](https://mastodon.hccp.org) | **5 703** | 6 | ✅ | A local Mastodon instance. | en |
 | [fantastic.earth](https://fantastic.earth) | **5 697** | 12 | ❌ | Private Mastodon server for a bunch of friends. | en |
+| [c7.io](https://c7.io) | **5 690** | 146 | ✅ | 希奇！是一个轻松的创作者乐园，我们相信任何从无到有的过程都是创作，包括每一条嘟文，每一次分享，每一篇作品。我们想成为能为任何形式的创作提供支持的社区，同时分享您创作过程中的欣喜。这里没有复杂的算法和规则，请把这里想象成您『自己』在 Mastodon 网络中的小家。 | zh-CN |
 | [webperf.social](https://webperf.social) | **5 674** | 163 | ✅ | webperf.social is a place for professionals working in the field of web development who care about web performance.  Sponsored by TWNSND.com | en |
 | [soc.noob.quest](https://soc.noob.quest) | **5 670** | 12 | ❌ | ? | ? |
 | [oye.social](https://oye.social) | **5 668** | 27 | ✅ | Esta es tu instancia para reunir y promover el pódcast producido en español desde cualquier lugar del mundo.  Bienvenidas todas las personas que de una u otra forma hacen pódcast.  | en |
 | [moessingen.social](https://moessingen.social) | **5 663** | 46 | ✅ | Eine Mastodon-Instanz für das Steinlachtal. Gäste willkommen. Betrieben und moderiert von Schüler:innen der Freifunk AG am Quenstedt-Gymnasium. | en |
 | [social.benny.de](https://social.benny.de) | **5 657** | 1 | ❌ | ? | en |
-| [c7.io](https://c7.io) | **5 628** | 144 | ✅ | 希奇！是一个轻松的创作者乐园，我们相信任何从无到有的过程都是创作，包括每一条嘟文，每一次分享，每一篇作品。我们想成为能为任何形式的创作提供支持的社区，同时分享您创作过程中的欣喜。这里没有复杂的算法和规则，请把这里想象成您『自己』在 Mastodon 网络中的小家。 | zh-CN |
 | [social.ordinal.garden](https://social.ordinal.garden) | **5 616** | 37 | ✅ | a server for members of ordinal.garden | en |
 | [lipn.info](https://lipn.info) | **5 614** | 64 | ✅ | Instance mise à disposition et opérée par le laboratoire d'informatique de Paris nord (LIPN). | en |
 | [indieapps.space](https://indieapps.space) | **5 587** | 369 | ✅ | indieapps.space is dedicated to hosting accounts for mobile and desktop applications developed by small, independent developers and development teams (no personal accounts, please). | en |
@@ -7316,8 +7346,8 @@
 | [retrogaming.social](https://retrogaming.social) | **5 567** | 35 | ✅ | ? | en |
 | [social.fossdle.org](https://social.fossdle.org) | **5 559** | 25 | ✅ | Hosted by the OER Foundation as part of the FOSSDLE initiative. Home for open educators wanting to collaborate on a better, open, benevolent, equitable digital future for higher education. | en |
 | [m.blank.org](https://m.blank.org) | **5 525** | 2 | ❌ | the bus that the bozos are on | en |
+| [phocks.eu.org](https://phocks.eu.org) | **5 497** | 1 | ❌ | Private Mastodon instance of Joshua Byrd. | en |
 | [uldegrova.com](https://uldegrova.com) | **5 493** | 19 | ✅ | Vreid var Tyrving. | en |
-| [phocks.eu.org](https://phocks.eu.org) | **5 489** | 1 | ❌ | Private Mastodon instance of Joshua Byrd. | en |
 | [sharkey.mv2k.com](https://sharkey.mv2k.com) | **5 486** | 7 | ❌ | ? | ? |
 | [y.cubalibre.social](https://y.cubalibre.social) | **5 467** | 5 | ✅ | ? | ? |
 | [noblogo.org](https://noblogo.org) | **5 464** | 655 | ❌ | ? | ? |
@@ -7331,18 +7361,18 @@
 | [firefish.crazy-to-bike.de](https://firefish.crazy-to-bike.de) | **5 419** | 4 | ❌ | ? | ? |
 | [ocw.social](https://ocw.social) | **5 417** | 11 | ✅ | The cool kids from the totally famous Nintendo Wi-Fi Connection community, OneClick Wi-Fi. | en |
 | [cailincat.cloud](https://cailincat.cloud) | **5 407** | 5 | ✅ | A Mastodon instance for catgirls | en |
-| [burningboard.net](https://burningboard.net) | **5 380** | 120 | ✅ | Willkommen bei Burningboard.net, der Mastodon Instanz für alle Technikbegeisterten! Wir sind eine offene und freundliche Community von Nerds. Die primäre Sprache ist Deutsch. Seit 2002 aktiv 💚   | de |
+| [burningboard.net](https://burningboard.net) | **5 401** | 120 | ✅ | Willkommen bei Burningboard.net, der Mastodon Instanz für alle Technikbegeisterten! Wir sind eine offene und freundliche Community von Nerds. Die primäre Sprache ist Deutsch. Seit 2002 aktiv 💚   | de |
 | [linh.social](https://linh.social) | **5 377** | 9 | ❌ | This is a Mastodon instance run exclusively for personal use only. | en |
 | [skrivel.se](https://skrivel.se) | **5 374** | 11 | ✅ | Skrivel.se is a bit of a play on words lost in translation. Hosted by two nerds from sweden but most posts are in english on here. We're a small instance with an active federated timeline. We'd love to have you on, but you should expect us to say hi, and to ask who you are 😉  The server is very active, but small. | en |
 | [tane.codes](https://tane.codes) | **5 372** | 2 | ❌ | A Personal Mastodon instance @tanepiper Tane Piper, a Scottish developer based in The Netherlands. | en |
-| [forfuture.social](https://forfuture.social) | **5 360** | 206 | ✅ | ForFuture@Mastodon   Ein neues Zuhause für alle ForFuture-Gruppen und -Aktivisten. | en |
+| [forfuture.social](https://forfuture.social) | **5 362** | 206 | ✅ | ForFuture@Mastodon   Ein neues Zuhause für alle ForFuture-Gruppen und -Aktivisten. | en |
 | [mastodon.earth](https://mastodon.earth) | **5 360** | 85 | ❌ | ? | en |
+| [bzh.social](https://bzh.social) | **5 359** | 143 | ✅ | "Chez les Bretons, il ne pleut que sur les cons" 🌦️ Ceci est un serveur pour les personnes qui vivent en Bretagne ou qui s'intéressent à la culture bretonne. | fr |
 | [tooters.fun](https://tooters.fun) | **5 350** | 28 | ❌ | ? | ? |
 | [tooters.wtf](https://tooters.wtf) | **5 350** | 28 | ❌ | ? | ? |
 | [tapenoise.cafe](https://tapenoise.cafe) | **5 346** | 18 | ❌ | private instance for members of tape noise café, a mixed-origin system | en |
 | [dook.business](https://dook.business) | **5 332** | 25 | ❌ | A community dedicated to mustelids, mustelid people, and folks who like them. | en |
 | [pars.ee](https://pars.ee) | **5 324** | 2 | ❌ | ? | ? |
-| [bzh.social](https://bzh.social) | **5 320** | 143 | ✅ | "Chez les Bretons, il ne pleut que sur les cons" 🌦️ Ceci est un serveur pour les personnes qui vivent en Bretagne ou qui s'intéressent à la culture bretonne. | fr |
 | [creators.social](https://creators.social) | **5 314** | 188 | ❌ | Friendly Creator Community 🙂 exclusively for YouTubers, Streamers and other people from the video, film, gaming and social media industry. 🇩🇪🇺🇸🇬🇧 | en |
 | [mikrotik.social](https://mikrotik.social) | **5 309** | 6 | ❌ | This is the official MikroTik Mastodon Server. Registrations are closed, all members are either Staff or Bots. Feel free to follow us from any Mastodon instance. | en |
 | [enby.life](https://enby.life) | **5 296** | 5 | ❌ | ? | ? |
@@ -7351,34 +7381,34 @@
 | [irsoluciones.social](https://irsoluciones.social) | **5 255** | 2 011 | ✅ | ¡¡¡ De La Rioja para el mundo !!! Mastodon alojado en los servidores de IR Soluciones. Iniciativa social sin ánimo de lucro, la mejor alternativa descentralizada a Twitter. | en |
 | [cornichon.me](https://cornichon.me) | **5 220** | 25 | ❌ | ? | en |
 | [sns.opencourse.kr](https://sns.opencourse.kr) | **5 199** | 7 | ✅ | 홈랩과 콘솔,휴대기기에 관심이 많은 사용자들을 위한 오픈코스 마스토돈입니다. | ko |
-| [paktodon.asia](https://paktodon.asia) | **5 182** | 222 | ✅ | Paktodon is an Independent social-platform for the Global South – an ‘azad’ space for ordinary citizens, students, and activists to share, learn, grow, and collaborate in. | en |
+| [paktodon.asia](https://paktodon.asia) | **5 193** | 225 | ✅ | Paktodon is an Independent social-platform for the Global South – an ‘azad’ space for ordinary citizens, students, and activists to share, learn, grow, and collaborate in. | en |
 | [social.beebl.es](https://social.beebl.es) | **5 181** | 3 | ❌ | ? | en |
 | [surf.cyberspace.club](https://surf.cyberspace.club) | **5 172** | 5 | ❌ | Hack the Gibson, surf the information superhighway, etc | en |
 | [rustedneuron.com](https://rustedneuron.com) | **5 148** | 5 | ❌ | Rusted Neuron is a Mastodon Instance operated by Jack William Bell | en |
 | [startrek.website](https://startrek.website) | **5 140** | 3 090 | ✅ | ? | ? |
+| [social.yakshed.org](https://social.yakshed.org) | **5 129** | 5 | ❌ | This is a special little place in the Fediverse for a small group of purveyors of finest yak wool. | en |
 | [pixelfed.romu.casa](https://pixelfed.romu.casa) | **5 129** | 1 | ✅ | ? | ? |
-| [social.yakshed.org](https://social.yakshed.org) | **5 128** | 5 | ❌ | This is a special little place in the Fediverse for a small group of purveyors of finest yak wool. | en |
+| [mastodon.iow.social](https://mastodon.iow.social) | **5 127** | 229 | ✅ | Server by @cleatsandcode's business Isitmeanttodothat.io. Keep it friendly, insulting Gallybagger will get you banned, probably.  Banner photo: https://unsplash.com/@lison | en |
 | [hal9.ooo](https://hal9.ooo) | **5 117** | 11 | ✅ | ? | en |
-| [mastodon.iow.social](https://mastodon.iow.social) | **5 115** | 229 | ✅ | Server by @cleatsandcode's business Isitmeanttodothat.io. Keep it friendly, insulting Gallybagger will get you banned, probably.  Banner photo: https://unsplash.com/@lison | en |
 | [inphotos.org](https://inphotos.org) | **5 107** | 1 | ❌ | ? | ? |
 | [mastodon.oysta.au](https://mastodon.oysta.au) | **5 104** | 2 | ❌ | This is a single user Mastodon instance for Christopher Owen (@oysta@oysta.au) | en |
 | [mastodon.n8vsi.com](https://mastodon.n8vsi.com) | **5 103** | 2 | ✅ | ? | ? |
 | [tokhmi.xyz](https://tokhmi.xyz) | **5 098** | 22 | ❌ | What is Tokhmi? We are a group that hosts free and privacy-friendly services for ourselves and others. | en |
 | [m.corduba.tech](https://m.corduba.tech) | **5 089** | 13 | ✅ | Este servidor está mantenido por la comunidad Corduba Tech. Su objetivo servir de foro abierto y punto de encuentro para las personas que formen o quieran formar parte de nuestro ecosistema. | en |
 | [mecha.garden](https://mecha.garden) | **5 084** | 40 | ✅ | ? | ? |
+| [queerspirituality.social](https://queerspirituality.social) | **5 083** | 7 | ✅ | A mastodon server for those primarily interested in discussing various forms of queer spirituality. | en |
 | [coolviruses.download](https://coolviruses.download) | **5 079** | 27 | ❌ | ? | ? |
 | [frankenwolke.com](https://frankenwolke.com) | **5 078** | 3 | ❌ | Instancia personal para cacharrear por el fediverso. Un pequeño nodo que busca aportar su granito de arena en la construcción de una red social libre, federada y descentralizada. | en |
 | [mstdn.mrmts.com](https://mstdn.mrmts.com) | **5 075** | 2 | ❌ | ? | en |
 | [mastodon.clinicians-exchange.org](https://mastodon.clinicians-exchange.org) | **5 072** | 13 | ❌ | This is a Mastodon instance for mental health professionals of all professions, graduate students, and retirees.  See also https://lem.clinicians-exchange.org and https://www.clinicians-exchange.org . | en |
-| [queerspirituality.social](https://queerspirituality.social) | **5 068** | 7 | ✅ | A mastodon server for those primarily interested in discussing various forms of queer spirituality. | en |
 | [toot.fedilab.app](https://toot.fedilab.app) | **5 067** | 7 | ❌ | A friendly instance about tech, apps and for having fun. | en |
 | [boothcomputing.social](https://boothcomputing.social) | **5 063** | 3 | ❌ | Personal Server for people associated with Booth Computing Center | en |
 | [mstdn.iroh.tv](https://mstdn.iroh.tv) | **5 057** | 1 | ❌ | ? | en |
 | [mastodon.1984.cz](https://mastodon.1984.cz) | **5 052** | 21 | ✅ | Server původně vznikl pro vlastní potřebu admina, ale je otevřen pro kohokoli, kdo také preferuje nezávislost na BigTech. Již od roku 2001. | cs |
 | [mastodon.escepticos.es](https://mastodon.escepticos.es) | **5 044** | 192 | ✅ | Esta instancia persigue el cumplimiento de los objetivos sociales de ARP Sociedad para el Avance del Pensamiento crítico. ARP-SAPC | en |
+| [metrobus.masto.host](https://metrobus.masto.host) | **5 043** | 5 | ✅ | Invite-only Server for internal use | en |
+| [wpbuilds.social](https://wpbuilds.social) | **5 037** | 132 | ✅ | Love WordPress? Love Open Source? Join the WP Builds Social! Built on a free, open platform! | en |
 | [tau-ceti.space](https://tau-ceti.space) | **5 035** | 2 | ❌ | Tau Ceti: They Live!! | en |
-| [wpbuilds.social](https://wpbuilds.social) | **5 031** | 132 | ✅ | Love WordPress? Love Open Source? Join the WP Builds Social! Built on a free, open platform! | en |
-| [metrobus.masto.host](https://metrobus.masto.host) | **5 027** | 5 | ✅ | Invite-only Server for internal use | en |
 | [citrus.farm](https://citrus.farm) | **5 027** | 3 | ❌ | a single user instance for isa and her alts (as in alternative accounts) | en |
 | [graeber.social](https://graeber.social) | **5 017** | 110 | ✅ | Is there anything more important than creating our own independent and distributed social networks?  | en |
 | [katzebot.space](https://katzebot.space) | **5 017** | 35 | ✅ | Инстанс, созданный с идеей собрать кацеботов на одном сервере в mastodon. | en |
@@ -7416,11 +7446,11 @@
 | [federated.saagarjha.com](https://federated.saagarjha.com) | **4 863** | 1 | ❌ | ? | ? |
 | [social.chiefgyk3d.com](https://social.chiefgyk3d.com) | **4 855** | 24 | ❌ | This is a private Mastodon server for ChiefGyk3D and his friends. We are a group of people who like technology at various levels. No bigotry, no hate speech, no scams, just good vibes and fun. | en |
 | [deremil.blogda.ch](https://deremil.blogda.ch) | **4 854** | 3 | ❌ | ? | ? |
-| [ma.fellr.net](https://ma.fellr.net) | **4 845** | 1 | ❌ | This is my personal single user instance.  | en |
+| [ma.fellr.net](https://ma.fellr.net) | **4 852** | 1 | ❌ | This is my personal single user instance.  | en |
 | [opencoaster.net](https://opencoaster.net) | **4 839** | 315 | ✅ | A community of coaster and themed entertainment enthusiasts. Coasters, churros, you name it we love it. We also run a number of theme park cross-posting bots. Spam not welcome here. | en |
 | [toot.houbahouba.de](https://toot.houbahouba.de) | **4 834** | 5 | ❌ | free thoughts * free speech * free coffee | en |
 | [shmg.online](https://shmg.online) | **4 831** | 4 | ❌ | Mastodon server run for Spanish Highs, Sierra Nevada and for our mountain guides and family members | en |
-| [social.veraciousnetwork.com](https://social.veraciousnetwork.com) | **4 819** | 2 130 | ✅ | Veracious Network hosted in central Ohio, US is comprised of folks interested in gaming, technology, science, and open source. 18+ content allowed (only with content warning included) | en |
+| [social.veraciousnetwork.com](https://social.veraciousnetwork.com) | **4 823** | 2 130 | ✅ | Veracious Network hosted in central Ohio, US is comprised of folks interested in gaming, technology, science, and open source. 18+ content allowed (only with content warning included) | en |
 | [social.ayco.io](https://social.ayco.io) | **4 817** | 1 | ❌ | Ayo Ayco's microblog | en |
 | [mastodon.bachgau.social](https://mastodon.bachgau.social) | **4 793** | 480 | ✅ | Das soziale Netzwerk, für den Bachgau und den bayrischen Untermain. Willkommen sind alle aus der Region und darüber hinaus. Werdet ein Teil unserer Gemeinschaft, seid Willkommen! | en |
 | [machines.social](https://machines.social) | **4 784** | 3 | ❌ | Machines.social is a Mastodon instance for people who Trevor Flowers knows and are of the machinist and/or manufacturer persuasion.  We block large instances like Mastodon.social and Threads. | en |
@@ -7428,14 +7458,14 @@
 | [mastodon.tokyo](https://mastodon.tokyo) | **4 755** | 41 | ✅ | ? | ja |
 | [frenfiverse.net](https://frenfiverse.net) | **4 742** | 141 | ✅ | Questo è il server Mastodon del Frenfi che fu | en |
 | [furry.horse](https://furry.horse) | **4 742** | 46 | ✅ | Furry server for equines and friends! 🐎 | en |
-| [leipzig.town](https://leipzig.town) | **4 739** | 90 | ✅ | Hier sind alle Willkommen, die Leipzig ihr zu Hause nennen und/oder die Stadt lieben. Bitte seid exzellent zueinander und haltet euch an die Regeln. Foto von F. Heiberger, Pixabay. | de |
+| [leipzig.town](https://leipzig.town) | **4 740** | 90 | ✅ | Hier sind alle Willkommen, die Leipzig ihr zu Hause nennen und/oder die Stadt lieben. Bitte seid exzellent zueinander und haltet euch an die Regeln. Foto von F. Heiberger, Pixabay. | de |
 | [mastodon.net2o.de](https://mastodon.net2o.de) | **4 739** | 2 | ❌ | ? | en |
 | [social.alster.space](https://social.alster.space) | **4 733** | 2 | ❌ | ? | ? |
 | [fedi.lecturify.net](https://fedi.lecturify.net) | **4 728** | 17 | ✅ | ? | ? |
 | [chatsubo.cbrpnk.dev](https://chatsubo.cbrpnk.dev) | **4 728** | 8 | ❌ | ? | ? |
 | [oomfie.world](https://oomfie.world) | **4 720** | 6 | ❌ | une petite instance privée principalement francophone. | fr |
 | [mastodon.wien](https://mastodon.wien) | **4 718** | 593 | ✅ | MIT ÖKOSTROM BETRIEBEN´: Von und für Wiener*innen und Wien-Liebhaber*innen. Und für Immer. Mastodon ist eine freie, quelloffene Software und eine Marke der Mastodon gGmbH. Mastodon.berlin ist dem Mastodon Server-Abkommen verpflichtet (https://joinmastodon.org/de/covenant). | en |
-| [pupy.cafe](https://pupy.cafe) | **4 711** | 17 | ✅ | hello! this is pupy.cafe!  if you'd like to apply to join, please put in your request how you know emmett, harriet, or a mutual friend! love you bye!! | en |
+| [pupy.cafe](https://pupy.cafe) | **4 714** | 17 | ✅ | hello! this is pupy.cafe!  if you'd like to apply to join, please put in your request how you know emmett, harriet, or a mutual friend! love you bye!! | en |
 | [tinkerbetter.tube](https://tinkerbetter.tube) | **4 708** | 2 | ❌ | ? | ? |
 | [k8s.social](https://k8s.social) | **4 692** | 212 | ✅ | Unofficial ⎈Kubernetes Mastodon instance for container and cloud native enthusiasts. | en |
 | [social.wildeboer.net](https://social.wildeboer.net) | **4 664** | 2 | ❌ | Mastodon instance for people with Wildeboer as their last name | en |
@@ -7452,11 +7482,11 @@
 | [saskodon.ca](https://saskodon.ca) | **4 631** | 9 | ❌ | Small Mastodon instance for people from Saskatchewan, Canada. | en |
 | [milliways.social](https://milliways.social) | **4 625** | 31 | ❌ | ? | en |
 | [feddit.nl](https://feddit.nl) | **4 620** | 2 533 | ✅ | ? | ? |
+| [piraten-partei.social](https://piraten-partei.social) | **4 617** | 21 | ❌ | Dies Instanz ist ein privates Angebot an all die, die Interesse an der Piraten-Partei haben und das Fediverse kennenlernen wollen. | de |
 | [atomicpoet.org](https://atomicpoet.org) | **4 615** | 2 | ❌ | ? | ? |
 | [mostodon.de](https://mostodon.de) | **4 607** | 2 | ❌ | Kleine private Instanz von Mo | en |
 | [social.servus.at](https://social.servus.at) | **4 606** | 50 | ❌ | ? | ? |
 | [social.hetzel.net](https://social.hetzel.net) | **4 603** | 1 | ❌ | <a href="http://bitsundso.de/impressum">Impressum</a> | en |
-| [piraten-partei.social](https://piraten-partei.social) | **4 599** | 21 | ❌ | Dies Instanz ist ein privates Angebot an all die, die Interesse an der Piraten-Partei haben und das Fediverse kennenlernen wollen. | de |
 | [yatil.social](https://yatil.social) | **4 598** | 4 | ❌ | This is the personal server of Eric Eggert @yatil@yatil.social | en |
 | [hutt.social](https://hutt.social) | **4 592** | 7 | ❌ | Privater Server. | en |
 | [bloor.tw](https://bloor.tw) | **4 591** | 3 | ❌ | Private server.  | en |
@@ -7466,12 +7496,12 @@
 | [fediverse.live](https://fediverse.live) | **4 570** | 6 | ✅ | ? | ? |
 | [ivoor.eu](https://ivoor.eu) | **4 568** | 2 | ✅ | ? | en |
 | [feuerfis.ch](https://feuerfis.ch) | **4 546** | 5 | ❌ | ? | ? |
+| [mastodon.bawue.social](https://mastodon.bawue.social) | **4 543** | 36 | ❌ | bawue.net e.V. Mastodon Server | de |
 | [pleroma.lord.re](https://pleroma.lord.re) | **4 542** | 1 | ❌ | ? | ? |
 | [mastodon.yuuta.moe](https://mastodon.yuuta.moe) | **4 540** | 28 | ✅ | Yuuta's Mastodon Instance | en |
-| [mastodon.bawue.social](https://mastodon.bawue.social) | **4 534** | 36 | ❌ | bawue.net e.V. Mastodon Server | de |
 | [podling.oksocial.net](https://podling.oksocial.net) | **4 532** | 690 | ✅ | ? | ? |
 | [ani.social](https://ani.social) | **4 530** | 561 | ✅ | ? | ? |
-| [leds.social](https://leds.social) | **4 520** | 44 | ✅ | A place for people that like LEDs. LEDs.social is hosted by ElectroMage. | en |
+| [leds.social](https://leds.social) | **4 523** | 44 | ✅ | A place for people that like LEDs. LEDs.social is hosted by ElectroMage. | en |
 | [blue-sky.world](https://blue-sky.world) | **4 520** | 4 | ✅ | ? | en |
 | [zerschnurrt.de](https://zerschnurrt.de) | **4 516** | 5 | ❌ | ? | ? |
 | [social.isekai-online.com](https://social.isekai-online.com) | **4 514** | 9 | ✅ | ? | ? |
@@ -7481,10 +7511,11 @@
 | [mkultra.x27.one](https://mkultra.x27.one) | **4 501** | 15 | ❌ | ? | ? |
 | [fediverse.krohsnest.com](https://fediverse.krohsnest.com) | **4 495** | 15 | ✅ | A general use instance with preference to Emergency Management, Public Safety, and Amateur Radio and General Mobile Radio Service operators. | en |
 | [social.van.buu.re](https://social.van.buu.re) | **4 486** | 4 | ❌ | Dit is mijn speeltuin, bedoeld voor persoonlijke meninkjes en experimentjes. | en |
+| [social.lizzy.rs](https://social.lizzy.rs) | **4 481** | 1 | ❌ | my personal place to be gay on the internet | en |
 | [bell.bz](https://bell.bz) | **4 479** | 1 | ❌ | Andy Bell’s personal Mastodon instance. | en |
-| [social.lizzy.rs](https://social.lizzy.rs) | **4 475** | 1 | ❌ | my personal place to be gay on the internet | en |
 | [friendica.xyz](https://friendica.xyz) | **4 470** | 13 | ❌ | ? | ? |
 | [mastodon.twictee.org](https://mastodon.twictee.org) | **4 469** | 150 | ✅ | Instance éducative et pédagogique à à destination des classes francophones souhaitant participer au dispositif Twictée. Elle est également ouverte aux adhérents de l'association. | en |
+| [vyrse.social](https://vyrse.social) | **4 463** | 10 | ✅ | A home for storytellers. Artists, authors, actors, scientists, journalists, musicians... anyone and everyone who is driven to use story and narrative to explain, entertain and understand.    | en |
 | [fedi.gaykitty.lol](https://fedi.gaykitty.lol) | **4 455** | 9 | ❌ | ? | ? |
 | [honks.io](https://honks.io) | **4 453** | 5 | ✅ | a small instance of friends | en |
 | [fedi.arkadi.one](https://fedi.arkadi.one) | **4 451** | 1 | ✅ | ? | ? |
@@ -7502,7 +7533,7 @@
 | [ttrpg-hangout.social](https://ttrpg-hangout.social) | **4 381** | 43 | ✅ | Welcome to the TableTop RolePlaying Games Hangout where we discuss all things related to our favorite roleplaying games! | en |
 | [intahnet.co.uk](https://intahnet.co.uk) | **4 379** | 6 | ✅ | This instance isn't focused on any theme or subject, feel free to talk about whatever you want. Everyone is welcome to request an account as long as you follow our code of conduct. | en |
 | [blop.social](https://blop.social) | **4 377** | 25 | ❌ | Blop is a semi-private UK-based Mastodon service for nice people.  An invitation is required to join. | en |
-| [mastodon.functional.computer](https://mastodon.functional.computer) | **4 362** | 1 | ❌ | This is Samir Talwar's personal Mastodon instance. | en |
+| [mastodon.functional.computer](https://mastodon.functional.computer) | **4 371** | 1 | ❌ | This is Samir Talwar's personal Mastodon instance. | en |
 | [mastodon.km6g.us](https://mastodon.km6g.us) | **4 360** | 1 | ❌ | Private server for my family. | en |
 | [things.uk](https://things.uk) | **4 350** | 3 | ❌ | Pictures and politics and other things. The new house eclectech Mastodon server launched November 2022. Let's see how this pans out. | en |
 | [social.xcetera.biz](https://social.xcetera.biz) | **4 340** | 5 | ❌ | Personal server for me, m'self and I because the wonderful thing about being me, is there's so many of me. | en |
@@ -7526,16 +7557,16 @@
 | [gigaohm.bio](https://gigaohm.bio) | **4 220** | 329 | ✅ | ? | ? |
 | [groupsebelah.com](https://groupsebelah.com) | **4 215** | 132 | ✅ | Segala Informasi selalu datang dari Group Sebelah, disini pusatnya sumber Informasi yang tidak dapat dipercaya | en |
 | [the.others.social](https://the.others.social) | **4 206** | 29 | ❌ | A Social for The Others, namely Prannon and friends. | en |
+| [mastodon.guerilla.studio](https://mastodon.guerilla.studio) | **4 205** | 2 | ❌ | ? | ? |
 | [neos.social](https://neos.social) | **4 198** | 47 | ❌ | This Mastodon instance serves as a platform for discussing Neos-related topics and as a connection to the Fediverse. | en |
 | [pleromer.net](https://pleromer.net) | **4 194** | 1 | ❌ | ? | ? |
-| [mastodon.guerilla.studio](https://mastodon.guerilla.studio) | **4 192** | 2 | ❌ | ? | ? |
 | [fedi.lat](https://fedi.lat) | **4 186** | 10 | ✅ | Servidor seguro, inclusivo y feminista orientado para (pero no exclusivo de) la comunidad latinoamericana | es |
 | [soc.nochn.net](https://soc.nochn.net) | **4 182** | 3 | ✅ | ? | en |
 | [curling.social](https://curling.social) | **4 180** | 61 | ✅ | A Mastodon life raft for Curling Twitter #twitterspiel  When creating an account, please mention what curling club you curl out of. (Helps weed out the spam.) | en |
 | [reddthat.com](https://reddthat.com) | **4 177** | 4 758 | ✅ | ? | ? |
+| [mastodon.tomaszdunia.pl](https://mastodon.tomaszdunia.pl) | **4 169** | 1 | ❌ | Private instance of Tomasz Dunia - @to3k tomaszdunia.pl | en |
 | [cuties.cloud](https://cuties.cloud) | **4 166** | 5 | ✅ | A space for Tay & Mel & friends | en |
 | [social.taupehat.com](https://social.taupehat.com) | **4 162** | 3 | ❌ | This here's my own instance. It's at least as much fun as running PHPBB was back in the day! | en |
-| [mastodon.tomaszdunia.pl](https://mastodon.tomaszdunia.pl) | **4 162** | 1 | ❌ | Private instance of Tomasz Dunia - @to3k tomaszdunia.pl | en |
 | [social.gnieh.org](https://social.gnieh.org) | **4 159** | 1 | ❌ | Ceci est mon instance personnelle, hébergée par moi même. | en |
 | [fuzzyfox.social](https://fuzzyfox.social) | **4 156** | 11 | ❌ | ? | ? |
 | [woofy.social](https://woofy.social) | **4 147** | 53 | ✅ | A Mastodon server for Pups, Handlers, and anyone else that is LGBTQ+ friendly | en |
@@ -7557,17 +7588,16 @@
 | [pkutalk.com](https://pkutalk.com) | **4 058** | 34 | ✅ | A Mastodon server for PKU people! --- C'est un petit serveur Mastodon pour les PKU ! | en |
 | [tdd.social](https://tdd.social) | **4 049** | 3 | ❌ | ? | en |
 | [fedi.computernewb.com](https://fedi.computernewb.com) | **4 041** | 13 | ❌ | Some nerds on the internet  Fake computers! | en |
-| [kopimi.space](https://kopimi.space) | **3 997** | 23 | ✅ | kopimi.space is a small and stable Mastodon server for people to find new friends and have a lot of fun. We are not tied to a specific topic, but mostly focus on DRM, software freedom, piracy etc. | en |
+| [kopimi.space](https://kopimi.space) | **4 009** | 23 | ✅ | kopimi.space is a small and stable Mastodon server for people to find new friends and have a lot of fun. We are not tied to a specific topic, but mostly focus on DRM, software freedom, piracy etc. | en |
 | [mastodon.dragoncave.dev](https://mastodon.dragoncave.dev) | **3 991** | 14 | ✅ | Small instance for me and some friends | en |
 | [lasersare.fun](https://lasersare.fun) | **3 988** | 16 | ❌ | A social platform inspired by the now defunct beam.pro streaming service. | en |
+| [social.secret-wg.org](https://social.secret-wg.org) | **3 982** | 26 | ❌ | The Social Working Group's Mastodon Instance.  | en |
 | [tassaron.com](https://tassaron.com) | **3 981** | 2 | ❌ | ? | en |
 | [io.waxandleather.com](https://io.waxandleather.com) | **3 979** | 4 | ❌ | This is a two-user instance. | en |
 | [infosec.pub](https://infosec.pub) | **3 972** | 3 742 | ✅ | ? | ? |
 | [friendica.opensocial.space](https://friendica.opensocial.space) | **3 968** | 509 | ✅ | ? | ? |
 | [mastodon.codingfield.com](https://mastodon.codingfield.com) | **3 964** | 170 | ❌ | ? | en |
 | [secretbearsociety.org](https://secretbearsociety.org) | **3 962** | 4 | ❌ | A private Fediverse instance. | en |
-| [mstdn.crispius.ca](https://mstdn.crispius.ca) | **3 961** | 1 | ❌ | ? | en |
-| [social.secret-wg.org](https://social.secret-wg.org) | **3 960** | 26 | ❌ | The Social Working Group's Mastodon Instance.  | en |
 | [mastodon.economiasocial.org](https://mastodon.economiasocial.org) | **3 958** | 47 | ✅ | (CAT) Aquest servidor ECONOMIASOCIAL està pensat per a persones, entitats i empreses de l'Economia Social i Solidària (ES) Este servidor ECONOMIASOCIAL está pensado para personas, entidades y empresas de la Economía Social y Solidaria. | ca |
 | [whitelion.me](https://whitelion.me) | **3 949** | 1 | ❌ | ? | ? |
 | [vltava.cloud](https://vltava.cloud) | **3 944** | 9 | ✅ | Česká instance (přípojný bod do) Mastodon sítě. Registrovat se může kdokoli.  Provozovatelem je soukromá osoba na dedikovaném serveru s přípojkou 1 Gbps se záložnim zdrojem. | en |
@@ -7576,11 +7606,12 @@
 | [aircrew.rocks](https://aircrew.rocks) | **3 938** | 76 | ✅ | aircrew.rocks is the Mastodon instance for and by pilots, flight attendants, air traffic controllers and flight enthusiasts. Be excellent to each other. | en |
 | [commune.anarchist.gay](https://commune.anarchist.gay) | **3 928** | 3 | ❌ | ? | en |
 | [mastodon.ninja](https://mastodon.ninja) | **3 918** | 6 | ❌ | ? | ? |
+| [sivar.cafe](https://sivar.cafe) | **3 916** | 27 | ✅ | Una instancia salvadoreña de Mastodon. Nuevos usuarios deben ser aprobados (para ayudarme a controlar costos del servidor). | en |
 | [thetransagenda.gay](https://thetransagenda.gay) | **3 915** | 10 | ❌ | ? | ? |
 | [social.masto.land](https://social.masto.land) | **3 914** | 19 | ✅ | Development server for getting Radio3 and other apps to work with Mastodon.  | en |
 | [mastodon.ee](https://mastodon.ee) | **3 912** | 306 | ✅ | Räägime Eestist, eestlaste tegevusest ja muust maailmast. Let's talk about Estonia, what do Estonians do and rest of the world. | et |
-| [sivar.cafe](https://sivar.cafe) | **3 911** | 27 | ✅ | Una instancia salvadoreña de Mastodon. Nuevos usuarios deben ser aprobados (para ayudarme a controlar costos del servidor). | en |
 | [some.evvk.fi](https://some.evvk.fi) | **3 910** | 3 | ❌ | ihan vaan pikku projekti | en |
+| [mstdn.crispius.ca](https://mstdn.crispius.ca) | **3 907** | 1 | ❌ | ? | en |
 | [carmelitequotes.blog](https://carmelitequotes.blog) | **3 892** | 1 | ❌ | ? | ? |
 | [clockwork.monster](https://clockwork.monster) | **3 889** | 42 | ✅ | Just a silly mstdn server setup for monster and fae types, and their friends~ | en |
 | [the-gathering.space](https://the-gathering.space) | **3 883** | 4 | ✅ | Just a server in the mastodon universe. Come on in, have a seat and enjoy yourself. | en |
@@ -7644,7 +7675,6 @@
 | [logoff.website](https://logoff.website) | **3 647** | 4 | ❌ | Tiny instance for a few people to use. Not open for signups. | en |
 | [energydon.fi](https://energydon.fi) | **3 644** | 13 | ✅ | Palvelin on tarkoitettu energia-aiheiseen keskusteluun kuluttajatasolta valtakunnan energiapolitiikkaan. Kotiautomaatio, energiatekniikka, -uutiset, -politiikka. Any language is OK. | en |
 | [tovari.ch](https://tovari.ch) | **3 643** | 2 277 | ✅ | ? | ? |
-| [mastodon.derpstra.nl](https://mastodon.derpstra.nl) | **3 641** | 7 | ❌ | Personal and friends Mastodon server of @diede@derpstra.nl  This server uses 100% green solar, wind and water energy (according to my energy supplier). | en |
 | [gravure.club](https://gravure.club) | **3 636** | 3 | ❌ | ? | ? |
 | [cherrykitten.gay](https://cherrykitten.gay) | **3 633** | 1 | ❌ | ? | ? |
 | [secuwing.social](https://secuwing.social) | **3 627** | 3 | ❌ | Themenserver für Datenschutz, Informationssicherheit, Compliance und Hinweisgeberschutz | en |
@@ -7666,6 +7696,7 @@
 | [pilote.me](https://pilote.me) | **3 576** | 4 | ✅ | Pilote.me by spontex.org's team. Family, friends and Folks. | en |
 | [frennet.xyz](https://frennet.xyz) | **3 574** | 12 | ❌ | ? | ? |
 | [mobilizon.it](https://mobilizon.it) | **3 567** | 4 005 | ✅ | ? | ? |
+| [mastodon.derpstra.nl](https://mastodon.derpstra.nl) | **3 564** | 7 | ❌ | Personal and friends Mastodon server of @diede@derpstra.nl  This server uses 100% green solar, wind and water energy (according to my energy supplier). | en |
 | [windbag.org](https://windbag.org) | **3 562** | 1 | ❌ | This is a personal Mastodon instance. | en |
 | [masto.alancfrancis.com](https://masto.alancfrancis.com) | **3 559** | 2 | ❌ | Nothing here really, Just alan messing around. | en |
 | [drumstodon.net](https://drumstodon.net) | **3 555** | 681 | ✅ | Server intended primarily for drummers of all kinds and ages, but all other musicians and music lovers are welcome here! | en |
@@ -7695,9 +7726,9 @@
 | [zaidin.lgbt](https://zaidin.lgbt) | **3 437** | 19 | ❌ | ? | ? |
 | [fediverse.gay](https://fediverse.gay) | **3 433** | 26 | ✅ | ? | ? |
 | [djs.social](https://djs.social) | **3 431** | 34 | ✅ | DJs.social is a friendly mastodon instance for DJs of any kind. Discuss your selections, techniques, equipment, and gigs. Share your mixes, videos and inspiration. | en |
+| [know.me.uk](https://know.me.uk) | **3 419** | 47 | ✅ | UK Based Mastodon Server - available to *humans* and *purposeful* automations. | en |
 | [tears.intherain.club](https://tears.intherain.club) | **3 413** | 3 | ❌ | ? | ? |
 | [kicou.info](https://kicou.info) | **3 412** | 2 | ❌ | This is a personal Fediverse instance. It is not open to registrations. ** IT DOES NOT FEDERATE WITH META'S THREADS.net ** | en |
-| [know.me.uk](https://know.me.uk) | **3 403** | 47 | ✅ | UK Based Mastodon Server - available to *humans* and *purposeful* automations. | en |
 | [pdx.sh](https://pdx.sh) | **3 402** | 119 | ✅ | Portland-ish metro area people toot here. | en |
 | [onycha.monster](https://onycha.monster) | **3 397** | 1 | ❌ | ? | ? |
 | [alt.lawndale.space](https://alt.lawndale.space) | **3 383** | 2 | ❌ | This is my personal instance. I'm running it and it's for me :)  "There is no aspect, no facet, no moment of life that can't be improved with pizza." - Daria Morgendorffer | en |
@@ -7707,9 +7738,10 @@
 | [flaki.social](https://flaki.social) | **3 370** | 7 | ❌ | A personal Flaki-server | en |
 | [thx.gg](https://thx.gg) | **3 369** | 4 | ✅ | A restricted signup Mastodon instance run by Phil. | en |
 | [banjo.town](https://banjo.town) | **3 366** | 8 | ❌ | ? | en |
-| [closednetwork.social](https://closednetwork.social) | **3 359** | 53 | ✅ | Closed Network Privacy Podcast Mastodon | en |
+| [closednetwork.social](https://closednetwork.social) | **3 360** | 53 | ✅ | Closed Network Privacy Podcast Mastodon | en |
 | [muensterland.social](https://muensterland.social) | **3 347** | 193 | ✅ | Ein kostenloses und werbefreies soziales Netzwerk f&uuml;r Personen aus M&uuml;nster und Umgebung - und auch alle anderen! | en |
 | [skyland.social](https://skyland.social) | **3 343** | 5 | ❌ | ? | ? |
+| [masto.krashboyz.org](https://masto.krashboyz.org) | **3 340** | 9 | ✅ | Krashboyz Association Soundz, Noiz, Freakz | fr |
 | [squirrelmob.com](https://squirrelmob.com) | **3 334** | 4 | ✅ | Welcome To The Squirrel Mob | en |
 | [social.ornella.xyz](https://social.ornella.xyz) | **3 334** | 1 | ❌ | This is a 1-person Mastodon instance (just me, being@social.ornella.xyz) to discuss stuff related to my site, ornella.xyz! | en |
 | [mastotut.cat](https://mastotut.cat) | **3 331** | 7 | ✅ | ? | ca |
@@ -7717,10 +7749,9 @@
 | [firefish.city](https://firefish.city) | **3 328** | 6 | ❌ | ? | ? |
 | [zahnpasta.tube](https://zahnpasta.tube) | **3 327** | 1 | ❌ | Sebs eigene Mastodon-Instanz. | en |
 | [m.phase.org](https://m.phase.org) | **3 326** | 2 | ❌ | Small server for a small flock.  | en |
+| [social.gfsc.studio](https://social.gfsc.studio) | **3 325** | 13 | ❌ | ? | ? |
 | [werd.social](https://werd.social) | **3 323** | 1 | ❌ | https://werd.io/ | en |
 | [bookstodon.thestorygraph.com](https://bookstodon.thestorygraph.com) | **3 319** | 219 | ✅ | A fun place to discuss reading, and all things books!  Hosted by The StoryGraph | en |
-| [social.gfsc.studio](https://social.gfsc.studio) | **3 319** | 13 | ❌ | ? | ? |
-| [masto.krashboyz.org](https://masto.krashboyz.org) | **3 316** | 9 | ✅ | Krashboyz Association Soundz, Noiz, Freakz | fr |
 | [essjax.com](https://essjax.com) | **3 311** | 1 | ❌ | This is a single user instance | en |
 | [clj.social](https://clj.social) | **3 309** | 205 | ✅ | Clojure Community on Fediverse, the accounts on this server are managed by the community, it will not post only about Clojure related content. | en |
 | [social.sengotta.net](https://social.sengotta.net) | **3 308** | 2 | ✅ | ? | ? |
@@ -7728,16 +7759,16 @@
 | [techtoots.com](https://techtoots.com) | **3 300** | 237 | ✅ | An english Mastodon community focused around technology (any vintage!). We welcome technologists, coders, engineers, gadget lovers, self professed “geeks” and anyone with an interest and love of tech. | en |
 | [mstdn.itsnero.com](https://mstdn.itsnero.com) | **3 298** | 1 | ❌ | A personal, single-user instance for myself. Check out my adult art and erotic comics at itsnero.com!   | en |
 | [m.hirad.it](https://m.hirad.it) | **3 295** | 3 | ❌ | ? | en |
+| [ice-lolly.social](https://ice-lolly.social) | **3 293** | 12 | ❌ | At the intersection of rocketposting and liking elevators a bit too much: the social ramblings of ice-lolly-tasted in 500 characters or less. | en |
 | [andalucia.social](https://andalucia.social) | **3 290** | 39 | ✅ | Todo dentro de un marco académico y social para establecer un ambiente positivo e innovador de Andalucía en el mundo.  | es |
 | [fedi.triodug.com](https://fedi.triodug.com) | **3 290** | 2 | ✅ | ? | ? |
 | [final.town](https://final.town) | **3 287** | 5 | ❌ | ? | ? |
 | [hub.hayfidelity.de](https://hub.hayfidelity.de) | **3 286** | 6 | ❌ | ? | ? |
-| [ice-lolly.social](https://ice-lolly.social) | **3 285** | 12 | ❌ | At the intersection of rocketposting and liking elevators a bit too much: the social ramblings of ice-lolly-tasted in 500 characters or less. | en |
 | [tomes.tchncs.de](https://tomes.tchncs.de) | **3 284** | 132 | ❌ | ? | ? |
 | [mastodon.mauve.moe](https://mastodon.mauve.moe) | **3 283** | 12 | ❌ | ? | ? |
 | [coma.social](https://coma.social) | **3 279** | 1 | ❌ | This is a single-user instance whose inhabitant describes himself as a music lover, vinyl enthusiast, guitar player, street photographer, whisky maniac and caffeine junkie, based in Hamburg, Germany. | en |
 | [3rdstone.cc](https://3rdstone.cc) | **3 277** | 1 | ❌ | A personal mastodon instance. | en |
-| [digitaldarkage.cc](https://digitaldarkage.cc) | **3 276** | 12 | ✅ | a return to an older and better internet | en |
+| [digitaldarkage.cc](https://digitaldarkage.cc) | **3 275** | 12 | ✅ | a return to an older and better internet | en |
 | [craftgoblin.club](https://craftgoblin.club) | **3 275** | 6 | ✅ | ? | en |
 | [singsingsing.party](https://singsingsing.party) | **3 274** | 2 | ❌ | 一个人唱歌也要嗨(｡･∀･)ﾉﾞ | en |
 | [mastodon.thomaspreece.net](https://mastodon.thomaspreece.net) | **3 272** | 6 | ❌ | ? | en |
@@ -7788,7 +7819,7 @@
 | [mastodon.bierschutzpartei.de](https://mastodon.bierschutzpartei.de) | **3 069** | 2 | ❌ | ? | en |
 | [thehappyfamily.stream](https://thehappyfamily.stream) | **3 066** | 33 | ✅ | Welcome to the official Happy Family Mastodon server! Here is where you can contact & interact w/ your favorite Happy Family streamers both core family and extended on the fediverse! | en |
 | [zoroark.cafe](https://zoroark.cafe) | **3 055** | 3 | ❌ | zoroarks cafe is a small personal instance run by the engaged punk-artistic duo cecil & luis! this cafe is run by at least 1 (one) zoroark with average barista credentials. | en |
-| [hofra.rocks](https://hofra.rocks) | **3 054** | 55 | ✅ | Dies ist die soziale Blase in der "ned g'mauld und g'nuch g'lobd wird"! | en |
+| [hofra.rocks](https://hofra.rocks) | **3 053** | 55 | ✅ | Dies ist die soziale Blase in der "ned g'mauld und g'nuch g'lobd wird"! | en |
 | [indymotion.fr](https://indymotion.fr) | **3 052** | 72 | ✅ | ? | ? |
 | [366.koyomi.online](https://366.koyomi.online) | **3 050** | 1 | ❌ | ここは暦の上。松浦はこによる個人用サーバーです。hostdonを使用しています。 （ユーザーは募集していないので、他のサーバーをお探しください） | en |
 | [mastodon.philtanner.com](https://mastodon.philtanner.com) | **3 042** | 2 | ❌ | ? | en |
@@ -7812,11 +7843,11 @@
 | [notnow.dev](https://notnow.dev) | **2 974** | 2 | ❌ | ? | ? |
 | [bladerunner.social](https://bladerunner.social) | **2 970** | 11 | ❌ | ? | ? |
 | [blat.at](https://blat.at) | **2 969** | 6 | ❌ | Mike's private instance. Just me and a very few others.  | en |
+| [az.social](https://az.social) | **2 968** | 42 | ✅ | A community Mastodon server for Arizonans, though anyone who can follow the rules is welcome.  See also lemmy.az.social. | en |
 | [birdity.club](https://birdity.club) | **2 967** | 69 | ✅ | ? | ? |
 | [social.kendoo.eu](https://social.kendoo.eu) | **2 967** | 7 | ✅ | ken doo can do | en |
 | [jittr.click](https://jittr.click) | **2 964** | 1 | ❌ | ? | ? |
 | [takoverse.syutin.com](https://takoverse.syutin.com) | **2 963** | 4 | ❌ | うっかり者の🐙が住んでいるマストドンな🏺。主にこちらから発信しています。fedibirdとの間をうろうろしています。 | en |
-| [az.social](https://az.social) | **2 962** | 42 | ✅ | A community Mastodon server for Arizonans, though anyone who can follow the rules is welcome.  See also lemmy.az.social. | en |
 | [shkspr.mobi](https://shkspr.mobi) | **2 959** | 1 | ❌ | ? | ? |
 | [masto.astrra.space](https://masto.astrra.space) | **2 958** | 35 | ✅ | Welcome to Astradon! Everyone who's not harmful to other people is welcome here, especially LGBTQ+ and other minorities :) | en |
 | [social.praxis.nyc](https://social.praxis.nyc) | **2 955** | 5 | ✅ | Praxis is a not-for-profit design studio with a primary interest of delivering tools for the commons, mainly through open-source technologies. | en |
@@ -7855,19 +7886,19 @@
 | [janerationx.social](https://janerationx.social) | **2 822** | 1 | ❌ | ? | ? |
 | [daydream.ink](https://daydream.ink) | **2 820** | 9 | ✅ | 스스로 꿈꾸고, 어딘가로 떠날 수 있는 사람을 위한 장소입니다. | en |
 | [noot.pingu4.me](https://noot.pingu4.me) | **2 818** | 14 | ✅ | Eine kleine Mastodon Instanz, für den Austausch innerhalb meiner kleinen Community. Gehostet von Blocko | de |
+| [0x3c.pl](https://0x3c.pl) | **2 817** | 93 | ❌ | Spokojna przystań dla hakerów, mejkerów, i wszelkiej maści kreatywnych i technicznych osób z okolic trójmiasta.  Celem 0x3c.pl jest łączyć osoby zaangażowane w różne społeczności na terenie trójmiasta i pozwalać na wymianę wspólnych zainteresowań. | en |
+| [tams.tech](https://tams.tech) | **2 816** | 7 | ✅ | ? | en |
 | [jvm.social](https://jvm.social) | **2 815** | 285 | ✅ | This is a JVM technologies related mastodon server. Our goal is to have a place to talk about our beloved ecosystem.  | en |
 | [aperture.ink](https://aperture.ink) | **2 814** | 1 | ❌ | ? | ? |
 | [lemmus.org](https://lemmus.org) | **2 813** | 562 | ✅ | ? | ? |
 | [unmute.community](https://unmute.community) | **2 813** | 3 | ❌ | ? | en |
 | [soc.jrconlin.com](https://soc.jrconlin.com) | **2 811** | 2 | ❌ | A shack alongside the freeway that is the Federation.  This server is for personal use, because I should not be an admin for anyone else.  | en |
-| [tams.tech](https://tams.tech) | **2 810** | 7 | ✅ | ? | en |
 | [social.joelle.us](https://social.joelle.us) | **2 805** | 4 | ❌ | This is Joelle's personal Mastodon instance. Signups are not open. | en |
 | [pl.salushnes.solutions](https://pl.salushnes.solutions) | **2 804** | 6 | ❌ | ? | ? |
 | [theweird.space](https://theweird.space) | **2 802** | 15 | ✅ | Basically a group of miscreant friends. As such, we're not open for sign-ups | en |
 | [mastodon.lovetux.net](https://mastodon.lovetux.net) | **2 800** | 5 | ✅ | Serveur Mastodon auto-hébergé en France. Ce serveur est destiné à toutes personnes. | en |
 | [learnk8s.news](https://learnk8s.news) | **2 799** | 8 | ❌ | Broadcasting Kubernetes news, events and jobs | en |
 | [pleroma.debian.social](https://pleroma.debian.social) | **2 793** | 67 | ❌ | ? | ? |
-| [0x3c.pl](https://0x3c.pl) | **2 792** | 94 | ❌ | Spokojna przystań dla hakerów, mejkerów, i wszelkiej maści kreatywnych i technicznych osób z okolic trójmiasta.  Celem 0x3c.pl jest łączyć osoby zaangażowane w różne społeczności na terenie trójmiasta i pozwalać na wymianę wspólnych zainteresowań. | en |
 | [sharkey.social](https://sharkey.social) | **2 791** | 4 | ❌ | ? | ? |
 | [mostlygood.xyz](https://mostlygood.xyz) | **2 791** | 3 | ❌ | ? | en |
 | [fedi.ikeran.org](https://fedi.ikeran.org) | **2 785** | 4 | ❌ | ? | ? |
@@ -7890,10 +7921,10 @@
 | [hell.social](https://hell.social) | **2 727** | 46 | ❌ | ? | ? |
 | [social.sanfranciscan.org](https://social.sanfranciscan.org) | **2 727** | 2 | ❌ | ? | ? |
 | [cartoons.guido-kuehn.de](https://cartoons.guido-kuehn.de) | **2 724** | 2 | ❌ | ? | ? |
+| [irrelephant.co](https://irrelephant.co) | **2 721** | 10 | ✅ | Private instance for my friends and i. | en |
 | [freifunk.social](https://freifunk.social) | **2 718** | 36 | ✅ | ? | de |
 | [amami.paradigm-x.tokyo](https://amami.paradigm-x.tokyo) | **2 718** | 5 | ✅ | ? | ? |
 | [social.stefanberger.net](https://social.stefanberger.net) | **2 718** | 1 | ❌ | ? | en |
-| [irrelephant.co](https://irrelephant.co) | **2 717** | 10 | ✅ | Private instance for my friends and i. | en |
 | [mastodon.doufen.org](https://mastodon.doufen.org) | **2 714** | 3 | ❌ | ? | ? |
 | [mewblog.thepolarbear.co.uk](https://mewblog.thepolarbear.co.uk) | **2 714** | 3 | ✅ | ? | ? |
 | [mastodon.tmm.cx](https://mastodon.tmm.cx) | **2 710** | 5 | ❌ | TMM.CX private server. | en |
@@ -7921,7 +7952,7 @@
 | [morehammer.uk](https://morehammer.uk) | **2 658** | 3 | ❌ | More hammer more better. This is a private server. Don't be a dick. | en |
 | [hax0rbana.social](https://hax0rbana.social) | **2 656** | 18 | ❌ | Mostly hackers, mostly in Urbana, IL, talking to each other & our friends on like-minded servers without giving our personal data to the marketing machine. | en |
 | [social.openrightsgroup.org](https://social.openrightsgroup.org) | **2 655** | 8 | ❌ | ? | en |
-| [social.netz.org](https://social.netz.org) | **2 642** | 16 | ✅ | This Instance was built as a home for all kinds of Hackers / Nerds / geeks.  We don't bother with too many rules. Just be a cool person. Don't mess things up. Be excellent to each other. | en |
+| [social.netz.org](https://social.netz.org) | **2 647** | 16 | ✅ | This Instance was built as a home for all kinds of Hackers / Nerds / geeks.  We don't bother with too many rules. Just be a cool person. Don't mess things up. Be excellent to each other. | en |
 | [tardis.team](https://tardis.team) | **2 635** | 5 | ❌ | A single-user (for now) instance for TARDIS.guide. | en |
 | [pawb.social](https://pawb.social) | **2 633** | 1 281 | ✅ | ? | ? |
 | [mstdn.mv2k.com](https://mstdn.mv2k.com) | **2 633** | 1 | ❌ | Single user instance only. No registration. | en |
@@ -7967,17 +7998,17 @@
 | [publishing.social](https://publishing.social) | **2 510** | 43 | ✅ | For anyone interested in or working in managerial, editorial, rights, design, marketing and publicity positions in the global trade publishing industry, and related organizations and companies. | en |
 | [fedi.dysphoric.space](https://fedi.dysphoric.space) | **2 510** | 3 | ❌ | ? | ? |
 | [swecyb.com](https://swecyb.com) | **2 509** | 108 | ✅ | Home to the Swedish Cyber Security Community, and is open only to those working and living in Sweden.  ALL users will be verified by Christoffer S. (the admin). | en |
+| [drk.network](https://drk.network) | **2 508** | 53 | ✅ | DRK.Network ist die Mastodongemeinschaft für alle Rotkreuzler:innen und denen die sich dem DRK verbunden fühlen | de |
 | [artatomic.social](https://artatomic.social) | **2 508** | 1 | ❌ | This instance is dedicated to boosting the work of artists, especially #SciArt. The founder of this instance can also be found at @kristinHenry@vis.social | en |
 | [m.galaxybound.com](https://m.galaxybound.com) | **2 507** | 2 | ❌ | Private server for GalaxyBound.com  | en |
-| [drk.network](https://drk.network) | **2 505** | 53 | ✅ | DRK.Network ist die Mastodongemeinschaft für alle Rotkreuzler:innen und denen die sich dem DRK verbunden fühlen | de |
 | [payravi.xyz](https://payravi.xyz) | **2 503** | 2 | ❌ | Personal server of Kevin Payravi (kevinpayravi.com) | en |
 | [social.aguilera.soy](https://social.aguilera.soy) | **2 502** | 1 | ❌ | ? | ? |
 | [adventurousbeastie.eu](https://adventurousbeastie.eu) | **2 495** | 2 | ❌ | ? | en |
 | [jit.social](https://jit.social) | **2 491** | 44 | ✅ | ? | en |
 | [toot-toot.wyrihaxim.us](https://toot-toot.wyrihaxim.us) | **2 491** | 1 | ❌ | Personal instance of Cees-Jan Kiewiet | en |
 | [vancity.social](https://vancity.social) | **2 489** | 185 | ✅ | ? | ? |
+| [maeh.social](https://maeh.social) | **2 489** | 1 | ❌ | New server after messing around on social.schafweide.org | en |
 | [alinke.com](https://alinke.com) | **2 485** | 2 | ❌ | This is a private server for Andrew Linke.  All original posts by @Andrew are copyright Andrew Linke on the date of the post. See the ABOUT page for additional copyright and licensing info. | en |
-| [maeh.social](https://maeh.social) | **2 483** | 1 | ❌ | New server after messing around on social.schafweide.org | en |
 | [mxtthxw.art](https://mxtthxw.art) | **2 477** | 1 | ❌ | ? | en |
 | [nekosat.work](https://nekosat.work) | **2 476** | 2 | ❌ | ? | ? |
 | [iam.reasonably.social](https://iam.reasonably.social) | **2 471** | 2 | ❌ | A tiny private instance running on a toaster. | en |
@@ -7986,6 +8017,7 @@
 | [tauri.earth](https://tauri.earth) | **2 468** | 1 | ❌ | This is mine. No really. This is just for me and my ramblings. | en |
 | [m.campfi.rs](https://m.campfi.rs) | **2 466** | 7 | ❌ | ? | en |
 | [friendica.mrpetovan.com](https://friendica.mrpetovan.com) | **2 466** | 1 | ❌ | ? | ? |
+| [beautifullosers.org](https://beautifullosers.org) | **2 456** | 5 | ✅ | This server is being run for the owner and his friends. | en |
 | [akkoma.mercurywork.shop](https://akkoma.mercurywork.shop) | **2 452** | 394 | ✅ | ? | ? |
 | [toot.kottman.xyz](https://toot.kottman.xyz) | **2 451** | 3 | ❌ | This is my place for online rambling. | en |
 | [cackl.io](https://cackl.io) | **2 448** | 45 | ✅ | A Twitter alternative for cacklers! Run by hyenas, participated by hyenas. All furry species allowed. A safe space for all shapes, sizes, and species. | en |
@@ -8001,9 +8033,9 @@
 | [san-junipero.gimme-sympathy.org](https://san-junipero.gimme-sympathy.org) | **2 432** | 1 | ❌ | Private instance for madeline (@gewt) | en |
 | [snailedit.social](https://snailedit.social) | **2 429** | 57 | ✅ | A "nice place on the internet" for the communities Snailed It loves | en |
 | [okpeace.org](https://okpeace.org) | **2 426** | 11 | ✅ | An experimental server created by James M. Branum for the Okla. Objector Community, friends & some other projects he is involved with. At this time, this server is invitation-only. | en |
+| [crashloop.social](https://crashloop.social) | **2 424** | 8 | ✅ | ? | en |
 | [social.sdfeu.org](https://social.sdfeu.org) | **2 423** | 52 | ✅ | SDFeu Social is a Mastodon instance for members of the SDFeu Public Access UNIX System | en |
 | [karlsruhe.social](https://karlsruhe.social) | **2 414** | 52 | ✅ | Betrieben von:  Andreas Gräber Pfeiferäcker 14 76287 Rheinstetten  Server Titelfoto: AdobeStock / tichr   | en |
-| [crashloop.social](https://crashloop.social) | **2 413** | 8 | ✅ | ? | en |
 | [cybersecurity.theater](https://cybersecurity.theater) | **2 410** | 11 | ✅ | Taking the "Twitter" out of "InfoSec Twitter." | en |
 | [mastodon-nieuwspaal.nl](https://mastodon-nieuwspaal.nl) | **2 410** | 1 | ❌ | Volg @nieuwspaal@mastodon-nieuwspaal.nl | en |
 | [share.elouworld.org](https://share.elouworld.org) | **2 409** | 1 | ❌ | ? | en |
@@ -8014,10 +8046,10 @@
 | [mastodon.projetretro.io](https://mastodon.projetretro.io) | **2 385** | 2 | ✅ | Une instance mastodon française généraliste ouverte à tous et à toutes destinée aux nouveaux arrivants sur le Fédivers  | fr |
 | [blackrock.city](https://blackrock.city) | **2 384** | 203 | ❌ | You don't have to go to burning man to be a Burner. <P>  A community of doers celebrating life, creativity, and self-expression.   | en |
 | [dood.net](https://dood.net) | **2 384** | 1 | ❌ | ? | ? |
+| [troet.fediverse.at](https://troet.fediverse.at) | **2 383** | 25 | ✅ | Die Instanz für engagierte Menschen und kritische Geister mit Österreich-Bezug - unabhängig von Wohnort oder Staatsbürgerschaft. Persönlich & nutzerfinanziert, Betreiber ist Ingo Lantschner. | de |
 | [them.cheeky.wales](https://them.cheeky.wales) | **2 375** | 3 | ❌ | ? | ? |
 | [particle.lol](https://particle.lol) | **2 374** | 2 | ❌ | ? | en |
 | [mastodon.tekdmn.me](https://mastodon.tekdmn.me) | **2 372** | 3 | ❌ | Personal instance run by Teknikal_Domain. | en |
-| [troet.fediverse.at](https://troet.fediverse.at) | **2 365** | 25 | ✅ | Die Instanz für engagierte Menschen und kritische Geister mit Österreich-Bezug - unabhängig von Wohnort oder Staatsbürgerschaft. Persönlich & nutzerfinanziert, Betreiber ist Ingo Lantschner. | de |
 | [social.lukas-schieren.de](https://social.lukas-schieren.de) | **2 363** | 6 | ❌ | ? | en |
 | [smithtodon.org](https://smithtodon.org) | **2 356** | 3 | ✅ | A small server run by Mark Smith, a chaplain living in New Jersey, USA. Running for the benefit of its users. | en |
 | [agilodon.social](https://agilodon.social) | **2 352** | 5 | ✅ | It doesn't have to be crazy at work!<br/> A place for folks interested in (small-a) agile and lean ways of working, with a strong slant towards software delivery craft.  | en |
@@ -8031,7 +8063,7 @@
 | [istheguy.com](https://istheguy.com) | **2 333** | 11 | ❌ | A social network for you (if you are the guy) | en |
 | [misskey.codingneko.com](https://misskey.codingneko.com) | **2 330** | 8 | ✅ | ? | ? |
 | [whitesmokebbq.social](https://whitesmokebbq.social) | **2 328** | 15 | ✅ | We unite people through our mutual love of food! Come see what we're smoking! | en |
-| [tukkers.online](https://tukkers.online) | **2 326** | 57 | ✅ | Dit is een sociaal netwerk voor tukkers! Maar dan zonder advertenties, zonder algoritme voor je tijdlijn en zonder dat je data verkocht wordt :)   | en |
+| [tukkers.online](https://tukkers.online) | **2 327** | 57 | ✅ | Dit is een sociaal netwerk voor tukkers! Maar dan zonder advertenties, zonder algoritme voor je tijdlijn en zonder dat je data verkocht wordt :)   | en |
 | [cafe.mycelium.locahlo.st](https://cafe.mycelium.locahlo.st) | **2 321** | 4 | ❌ | ? | ? |
 | [marctodon.marci.one](https://marctodon.marci.one) | **2 319** | 6 | ✅ | A server for a limited circle only. You know who. | en |
 | [social.in-purple.de](https://social.in-purple.de) | **2 318** | 7 | ❌ | Die private Mastodon Instanz von The Duke In Purple, seinen Freunden und Bekannten. | en |
@@ -8067,6 +8099,7 @@
 | [s.zholnay.name](https://s.zholnay.name) | **2 264** | 30 | ✅ | Private server | ru |
 | [flx.masto.host](https://flx.masto.host) | **2 262** | 3 | ❌ | ? | en |
 | [freja.zone](https://freja.zone) | **2 262** | 1 | ❌ | My own little artsy space 🐰 | en |
+| [toots.niark.nexus](https://toots.niark.nexus) | **2 260** | 4 | ✅ | Coming soon | en |
 | [stefankoopmanschap.nl](https://stefankoopmanschap.nl) | **2 251** | 1 | ❌ | Prive server van Stefan Koopmanschap | en |
 | [pl.fediverse.pl](https://pl.fediverse.pl) | **2 233** | 37 | ✅ | ? | ? |
 | [ad-astra.moe](https://ad-astra.moe) | **2 233** | 1 | ❌ | Ad Astra is a one person instance for personal use.  | en |
@@ -8090,7 +8123,6 @@
 | [social.detektor.fm](https://social.detektor.fm) | **2 177** | 7 | ❌ | Wir betreiben diesen Server um Leuten aus dem Umfeld des Podcast-Radios detektor.fm eine eigene Mastodon-Heimat anbieten zu können. | en |
 | [wpmastodon.es](https://wpmastodon.es) | **2 176** | 32 | ✅ | [CA] Una instància Mastodon per a la Comunitat WordPress. [EN] A Mastodon instance for the WordPress Community. [ES] Una instancia Mastodon para la Comunidad WordPress. | en |
 | [mastodon.conquestuniverse.com](https://mastodon.conquestuniverse.com) | **2 170** | 62 | ✅ | Innovators Welcome! Every month we meet new creators and help develop new projects.  Our Concept is simple, provide assistance to help creators develop and get into our industry. | en |
-| [toots.niark.nexus](https://toots.niark.nexus) | **2 163** | 4 | ✅ | Coming soon | en |
 | [mastodon.blaster.com.ar](https://mastodon.blaster.com.ar) | **2 160** | 19 | ✅ | Quería conocer ésta nueva red social y que mejor que hacerlo mientras creo mi propia instancia.  Online desde Neuquén Capital Argentina. | es |
 | [egirl.social](https://egirl.social) | **2 157** | 3 | ✅ | A small server hosted by Mastohost and Administered by Digitalspork for friends and friends of friends who want a smaller and quieter existence.  We do not federate with Meta, Inc. | en |
 | [elephant.crime.group](https://elephant.crime.group) | **2 155** | 4 | ❌ | ELEPHANTS! DOING CRIMES! | en |
@@ -8148,6 +8180,7 @@
 | [rebased.io](https://rebased.io) | **1 997** | 4 | ❌ | ? | ? |
 | [sp.kub2091.ru](https://sp.kub2091.ru) | **1 993** | 34 | ✅ | ? | ? |
 | [nyan.lol](https://nyan.lol) | **1 992** | 10 | ❌ | for friends of the cat | en |
+| [eepy.life](https://eepy.life) | **1 992** | 3 | ❌ | Small personal server.  Possibly for friends too?  Idk. | en |
 | [social.alexn.org](https://social.alexn.org) | **1 992** | 1 | ❌ | This is a personal Mastodon instance. It's only me here, I'm not allowing any other sign-ups. | en |
 | [fedi.ioangogo.dev](https://fedi.ioangogo.dev) | **1 989** | 2 | ❌ | ? | ? |
 | [changelog.social](https://changelog.social) | **1 988** | 10 | ❌ | News and podcasts for developers | en |
@@ -8170,8 +8203,8 @@
 | [fedi.pupbrained.xyz](https://fedi.pupbrained.xyz) | **1 951** | 3 | ✅ | ? | ? |
 | [goreslut.xyz](https://goreslut.xyz) | **1 950** | 5 | ❌ | ? | ? |
 | [fire.asta.lgbt](https://fire.asta.lgbt) | **1 948** | 4 | ❌ | ? | ? |
-| [eepy.life](https://eepy.life) | **1 946** | 3 | ❌ | Small personal server.  Possibly for friends too?  Idk. | en |
 | [social.hispabot.freemyip.com](https://social.hispabot.freemyip.com) | **1 945** | 5 | ❌ | ? | en |
+| [mastodon.half-shot.uk](https://mastodon.half-shot.uk) | **1 944** | 2 | ❌ | Personal server of @halfy@half-shot.uk | en |
 | [zocial.ee](https://zocial.ee) | **1 943** | 23 | ✅ | ? | en |
 | [wallonie-bruxelles.social](https://wallonie-bruxelles.social) | **1 942** | 4 | ✅ | ? | en |
 | [scalie.zone](https://scalie.zone) | **1 940** | 8 | ❌ | Hello, this is an instance for AksDev community, which is a tiny Matrix community I have for my friends.  | en |
@@ -8181,10 +8214,9 @@
 | [social.ksite.de](https://social.ksite.de) | **1 934** | 17 | ❌ | ? | en |
 | [linux.social](https://linux.social) | **1 933** | 451 | ✅ | Official Mastodon for the Linux.Chat multi-platform community, for people who are passionate about, support, or work with Linux. See https://Linux.Chat for more info. | en |
 | [degrowth.social](https://degrowth.social) | **1 932** | 12 | ❌ | 🌿 Fediverse for activists, academics and artists in the degrowth networks. Run by Ecobytes. 🌟 | en |
-| [mastodon.half-shot.uk](https://mastodon.half-shot.uk) | **1 928** | 2 | ❌ | Personal server of @halfy@half-shot.uk | en |
+| [an.errant.cloud](https://an.errant.cloud) | **1 928** | 12 | ✅ | A private server | en |
 | [toulouse.social](https://toulouse.social) | **1 927** | 11 | ❌ | Instance Mastodon dédiée aux Toulousain·es. | fr |
 | [social.diva.exchange](https://social.diva.exchange) | **1 922** | 326 | ✅ | Willkommen - teile, lerne und erweitere dein Wissen. Welcome - share, learn and grow your knowledge.  Tags: #FOSS #banking #blockchain #DIVA #privacy #I2P #science | en |
-| [an.errant.cloud](https://an.errant.cloud) | **1 919** | 12 | ✅ | A private server | en |
 | [mastodon.myocci.social](https://mastodon.myocci.social) | **1 917** | 7 | ✅ | Server for Clergy and laity of the Old Catholic Churches International.  | en |
 | [gabvp.masto.host](https://gabvp.masto.host) | **1 917** | 5 | ✅ | ? | en |
 | [akkos.fritu.re](https://akkos.fritu.re) | **1 916** | 3 | ❌ | ? | ? |
@@ -8199,9 +8231,9 @@
 | [hugs.lgbt](https://hugs.lgbt) | **1 892** | 2 | ❌ | For the time being, hugs.lgbt is a one person instance. Once I'm more comfortable using the Mastodon tools, I hope to open the server to any LGBTQIA+ and allies.  | en |
 | [nwb.social](https://nwb.social) | **1 890** | 280 | ✅ | Nieuw West-Brabant is een initiatief van Brabantse burgers en ondernemers die een lokale en regionale zelfdragende samenleving bouwen. #gelijkwaardig #positiviteit #verbinding #respect | nl |
 | [faf.social](https://faf.social) | **1 890** | 17 | ❌ | ? | ? |
+| [rukii.net](https://rukii.net) | **1 889** | 7 | ✅ | A small server in Spain, administered by an old software engineer. | en |
 | [mamut.social](https://mamut.social) | **1 888** | 17 | ✅ | ? | en |
 | [eponaauthor.social](https://eponaauthor.social) | **1 888** | 14 | ✅ | EponaAuthor.Social is created for authors to connect and network. Keep us live by visiting https://patreon.com/eponaauthor and supporting the community. If you need support, please visit https://support.eponaauthorsolutions.com. | en |
-| [rukii.net](https://rukii.net) | **1 887** | 7 | ✅ | A small server in Spain, administered by an old software engineer. | en |
 | [eworld.social](https://eworld.social) | **1 887** | 2 | ❌ | A little server for Stephen Hackett and his web projects, including 512 Pixels. | en |
 | [unipar.online](https://unipar.online) | **1 884** | 256 | ✅ | ? | ? |
 | [mediapart.social](https://mediapart.social) | **1 884** | 21 | ✅ | L’instance Mastodon de Mediapart est publique et héberge les comptes du journal, de notre club participatif, ainsi que ceux de l’équipe Mediapart. | en |
@@ -8236,10 +8268,10 @@
 | [jaesharp.social](https://jaesharp.social) | **1 830** | 2 | ❌ | A personal mastodon server for @j@jaesharp.social. | en |
 | [social.jacobian.org](https://social.jacobian.org) | **1 830** | 1 | ❌ | jkm's personal mastodon | en |
 | [don.kofuk.org](https://don.kofuk.org) | **1 828** | 3 | ✅ | kofuk が身勝手に運用するサーバです。 | ja |
+| [bath.social](https://bath.social) | **1 826** | 60 | ✅ | ? | ? |
 | [dasforum.org](https://dasforum.org) | **1 826** | 18 | ❌ | Invite only for "Das Forum" aka "Green Hell". | en |
 | [mstdn.bitwalker.eu](https://mstdn.bitwalker.eu) | **1 823** | 4 | ❌ | Private Mastodon instance. Accounts only per invite. | en |
 | [mastodon.thenewoil.org](https://mastodon.thenewoil.org) | **1 821** | 6 | ✅ | A Mastodon instance hosted by The New Oil Media. | en |
-| [bath.social](https://bath.social) | **1 818** | 60 | ✅ | ? | ? |
 | [mastodon.r3pek.org](https://mastodon.r3pek.org) | **1 817** | 1 | ❌ | Personal server for r3pek.org | en |
 | [subculture.chat](https://subculture.chat) | **1 816** | 96 | ✅ | ? | en |
 | [livingblindfully.social](https://livingblindfully.social) | **1 812** | 1 | ❌ | ? | en |
@@ -8291,6 +8323,7 @@
 | [ansico.dk](https://ansico.dk) | **1 709** | 1 | ❌ | En single user instans tilhørende @aphandersen@ansico.dk. | en |
 | [parcero.bond](https://parcero.bond) | **1 700** | 3 | ✅ | ? | ? |
 | [art-software.fr](https://art-software.fr) | **1 698** | 3 | ❌ | Personal fediverse server for the Lair (It’s my home he he U,..,U) | en |
+| [einestages.friediversum.de](https://einestages.friediversum.de) | **1 695** | 2 | ❌ | Die private und persönliche Mastodon-Instanz von Friedi. | en |
 | [cute.is](https://cute.is) | **1 694** | 12 | ✅ | a quiet spot for lgbtq+uties to hang out.  | en |
 | [thinktanki.social](https://thinktanki.social) | **1 690** | 56 | ✅ | The Thinktanki Community Server | en |
 | [hacksrus.xyz](https://hacksrus.xyz) | **1 687** | 9 | ✅ | ? | ? |
@@ -8303,10 +8336,10 @@
 | [gts.ferreo.dev](https://gts.ferreo.dev) | **1 673** | 2 | ✅ | A simple self-hosted don instance, mainly just for people I know but anyone is welcome. | en |
 | [thepage.house](https://thepage.house) | **1 671** | 2 | ❌ | ? | ? |
 | [social.fricklers.org](https://social.fricklers.org) | **1 669** | 1 | ❌ | ? | ? |
+| [toonvandeputte.be](https://toonvandeputte.be) | **1 668** | 1 | ❌ | My personal server | en |
 | [an.exchange](https://an.exchange) | **1 667** | 10 | ✅ | A chill New Mexico based server with a focus on cybersecurity and general usage. It's overly provisioned, if you'd like to join send a request. | en |
 | [voidwood.online](https://voidwood.online) | **1 664** | 7 | ❌ | ? | ? |
 | [purengom.kr](https://purengom.kr) | **1 662** | 1 | ❌ | ? | en |
-| [toonvandeputte.be](https://toonvandeputte.be) | **1 659** | 1 | ❌ | My personal server | en |
 | [spaceup.city](https://spaceup.city) | **1 658** | 4 | ✅ | SpaceUp City is a small corner of the Mastodon federated social community. We're space supporters and futurists, and we welcome you too! | en |
 | [fedi.caliandroid.de](https://fedi.caliandroid.de) | **1 658** | 3 | ❌ | ? | ? |
 | [malenfant.net](https://malenfant.net) | **1 657** | 1 | ❌ | This is my personal instance. | en |
@@ -8336,7 +8369,6 @@
 | [social.lightbeamapps.com](https://social.lightbeamapps.com) | **1 612** | 3 | ❌ | This is the Fediverse instance for lightbeamapps.com | en |
 | [sharetron.com](https://sharetron.com) | **1 611** | 20 | ❌ | ? | ? |
 | [toot.melonland.net](https://toot.melonland.net) | **1 611** | 15 | ❌ | Greetings! This server is in by the MelonLand arts project and is for enthusiasts of weird and cool web art! - Come say hello! https://melonland.net | en |
-| [einestages.friediversum.de](https://einestages.friediversum.de) | **1 611** | 2 | ❌ | Die private und persönliche Mastodon-Instanz von Friedi. | en |
 | [mastodon.bentasker.co.uk](https://mastodon.bentasker.co.uk) | **1 610** | 5 | ❌ | The [Privacy Policy](/privacy-policy) gives more information.   Note: consent is explicitly not given for scraping and inclusion in search indexes of any toot or media content. | en |
 | [mikrobloggen.no](https://mikrobloggen.no) | **1 608** | 4 | ✅ | Mikrobloggen er en liten lekegrind på det store internettet for medlemmer av Topdogs Sosietetsforening. Alle betalende medlemmer kan fritt benytte seg av Mikrobloggen. Meld deg inn idag! | en |
 | [mielke.social](https://mielke.social) | **1 608** | 3 | ❌ | Das ist der private Server von Thomas Mielke | de |
@@ -8360,16 +8392,16 @@
 | [vampiremaid.cafe](https://vampiremaid.cafe) | **1 565** | 1 | ❌ | ? | ? |
 | [micro.deadringing.blog](https://micro.deadringing.blog) | **1 565** | 1 | ❌ | It's a server run by me for me.  | en |
 | [mastodon.fixermark.com](https://mastodon.fixermark.com) | **1 563** | 1 | ❌ | Personal server for Mark Tomczak (fixermark.com). | en |
-| [welt.all.de](https://welt.all.de) | **1 559** | 5 | ❌ | mastodon Instanz der d-hosting GmbH aus Berlin. | en |
+| [welt.all.de](https://welt.all.de) | **1 560** | 5 | ❌ | mastodon Instanz der d-hosting GmbH aus Berlin. | en |
 | [fedi.cyberwitches.club](https://fedi.cyberwitches.club) | **1 558** | 1 | ❌ | ? | fr |
 | [meshed.cloud](https://meshed.cloud) | **1 552** | 5 | ❌ | Welcome to the ActivityPub short message server Meshed Insights runs for its staff and contractors as part of the Fediverse. | en |
 | [soc.psynet.me](https://soc.psynet.me) | **1 552** | 3 | ❌ | I've built my own Twitter, with blackjack, and hookers! | en |
 | [chirp.zadzmo.org](https://chirp.zadzmo.org) | **1 552** | 2 | ❌ | ? | ? |
 | [fomobremen.info](https://fomobremen.info) | **1 550** | 593 | ✅ | ? | ? |
+| [social.harukizaemon.com](https://social.harukizaemon.com) | **1 545** | 1 | ❌ | ? | en |
 | [piazza.today](https://piazza.today) | **1 543** | 13 | ✅ | ? | ? |
-| [social.harukizaemon.com](https://social.harukizaemon.com) | **1 543** | 1 | ❌ | ? | en |
+| [2c.taoetc.org](https://2c.taoetc.org) | **1 539** | 2 | ❌ | Personal Mastodon instance of Beto Dealmeida | en |
 | [social.colectif.de](https://social.colectif.de) | **1 538** | 11 | ❌ | ? | en |
-| [2c.taoetc.org](https://2c.taoetc.org) | **1 537** | 2 | ❌ | Personal Mastodon instance of Beto Dealmeida | en |
 | [piou.foolbazar.eu](https://piou.foolbazar.eu) | **1 536** | 3 | ❌ | ( EN ) A self-hosted instance providing ActivityPub service for personal uses. ( FR ) Mon instance ActivityPub personnelle auto-hébergée.  The "flan" emojis were created by @pamela@bsd.network. | en |
 | [plaerdemavida.cat](https://plaerdemavida.cat) | **1 531** | 56 | ❌ | ? | ? |
 | [re.lire.im](https://re.lire.im) | **1 529** | 31 | ✅ | Réseau Éclectique des Actaires du Livre : maisons d'édition et librairies indépendantes, diffusaires et distributaires alternatiz, imprimaires militantz, autaires, traductaires, etc...  | fr |
@@ -8461,10 +8493,10 @@
 | [status.pointless.one](https://status.pointless.one) | **1 378** | 1 | ❌ | ? | en |
 | [uoh.cx](https://uoh.cx) | **1 376** | 24 | ✅ | ? | ? |
 | [social.woefdram.nl](https://social.woefdram.nl) | **1 374** | 12 | ✅ | ? | ? |
+| [radicalsocial.work](https://radicalsocial.work) | **1 373** | 57 | ✅ | For social workers across the globe. Join us to be part developing the first social work community on Mastodon. | en |
 | [muuzikku.produkti.se](https://muuzikku.produkti.se) | **1 373** | 4 | ❌ | ? | ? |
 | [toot.igniterealtime.org](https://toot.igniterealtime.org) | **1 370** | 17 | ✅ | We are a community composed of end-users, developers and service providers around the world who are interested in applying innovative, open-standards-based Real Time Collaboration to the world! | en |
 | [social.amd.im](https://social.amd.im) | **1 370** | 1 | ❌ | A personal server for @amd | en |
-| [radicalsocial.work](https://radicalsocial.work) | **1 366** | 57 | ✅ | For social workers across the globe. Join us to be part developing the first social work community on Mastodon. | en |
 | [mastodon.catgirl.cloud](https://mastodon.catgirl.cloud) | **1 366** | 22 | ✅ | catgirl.cloud - All catgirls and other creatures welcome. | en |
 | [m.fedica.com](https://m.fedica.com) | **1 363** | 5 | ❌ | This is the official Mastodon instance for The Fedica Team!   Optimize, Visualize & Strategize With AI: All-in-One Social Media Publishing, Analytics, Listening & Analysis Platform.  | en |
 | [mastodon.makotoworkshop.org](https://mastodon.makotoworkshop.org) | **1 359** | 1 | ❌ | Serveur Privé.  Vous aussi installez le votre, avec https://yunohost.org c'est facile ;) | fr |
@@ -8535,12 +8567,12 @@
 | [artsandculture.social](https://artsandculture.social) | **1 206** | 26 | ✅ | Eine Instanz für alle Kunst-, Kultur- und Museumsinteressierte! An instance for everyone interested in arts, culture and museums!  | de |
 | [uwu.alex0.net](https://uwu.alex0.net) | **1 206** | 12 | ❌ | ? | ? |
 | [mastodon.bitsandlinux.com](https://mastodon.bitsandlinux.com) | **1 206** | 8 | ✅ | Un servidor para contribuir a la red federada de Mastodon y todas las redes libres. Va dirigido a todas, todos y todes. Si eres racistas, clasista u homofobo este no es tu sitio. | en |
+| [social.dib.de](https://social.dib.de) | **1 204** | 7 | ✅ | DEMOKRATIE IN BEWEGUNG (DiB) betreibt diesen Server um das freie Mastodon / Fediverse Netzwerk zu unterstützen. Logins nur für Parteimitglieder und verifizierte Beweger*innen. | de |
 | [scoat.es](https://scoat.es) | **1 204** | 2 | ❌ | Personal server | en |
 | [lemmy.today](https://lemmy.today) | **1 203** | 932 | ✅ | ? | ? |
 | [collar.place](https://collar.place) | **1 203** | 3 | ❌ | Tech and furry | en |
 | [mastodon.linuxmuster.net](https://mastodon.linuxmuster.net) | **1 202** | 32 | ✅ | Mastodon-Instanz des gemeinnützigen Vereins linuxmuster.net e.V. https://www.linuxmuster.net | en |
 | [restof.social](https://restof.social) | **1 201** | 37 | ✅ | We're a global nonprofit publication covering technology beyond the Western bubble. | en |
-| [social.dib.de](https://social.dib.de) | **1 200** | 7 | ✅ | DEMOKRATIE IN BEWEGUNG (DiB) betreibt diesen Server um das freie Mastodon / Fediverse Netzwerk zu unterstützen. Logins nur für Parteimitglieder und verifizierte Beweger*innen. | de |
 | [sleepy.cool](https://sleepy.cool) | **1 200** | 3 | ✅ | just a chill, tiny server for some friends ✿ | en |
 | [mastodon.thi.ng](https://mastodon.thi.ng) | **1 196** | 1 | ❌ | ? | en |
 | [neko.cat](https://neko.cat) | **1 196** | 1 | ❌ | ฅ^•ﻌ•^ฅ neko.cat | en |
@@ -8552,6 +8584,7 @@
 | [gotosocial.linuxkompis.se](https://gotosocial.linuxkompis.se) | **1 185** | 2 | ✅ | ? | ? |
 | [cavalina.net](https://cavalina.net) | **1 184** | 2 | ✅ | ? | en |
 | [velour.social](https://velour.social) | **1 174** | 1 | ❌ | Lily's Mastodon server, run by Lily, for Lily. | en |
+| [recordplug.club](https://recordplug.club) | **1 173** | 82 | ✅ | Mastodon server based in Atlanta & Athens Georgia for musicians, music fans, and music journalists. Hosted by Record Plug Magazine. | en |
 | [thoughts.tf](https://thoughts.tf) | **1 173** | 3 | ❌ | ? | ? |
 | [social.martiabernathey.com](https://social.martiabernathey.com) | **1 171** | 1 | ❌ | ? | en |
 | [shark.cyber77.de](https://shark.cyber77.de) | **1 166** | 2 | ❌ | ? | ? |
@@ -8562,8 +8595,8 @@
 | [masto.craftcms.com](https://masto.craftcms.com) | **1 151** | 7 | ❌ | Mastodon server for the folks behind @craftcms. | en |
 | [fedi.limes.pink](https://fedi.limes.pink) | **1 149** | 2 | ❌ | A single-user self-hosted glitch-soc server, engineered to let me commit limes against humanity. | en |
 | [nc.social](https://nc.social) | **1 145** | 38 | ✅ | A cooperative, community-governed instance for anyone who has a connection to North Carolina.  | en |
+| [vinzenz.social](https://vinzenz.social) | **1 144** | 1 | ❌ | Just for private use. | de |
 | [social.rdl.ph](https://social.rdl.ph) | **1 143** | 2 | ❌ | social.rdl.ph is a server running social networking software just for Thomas Randolph (and Thomas Randolph-adjacent people). | en |
-| [vinzenz.social](https://vinzenz.social) | **1 143** | 1 | ❌ | Just for private use. | de |
 | [nuernberg.social](https://nuernberg.social) | **1 141** | 59 | ✅ | Eine Instanz für alles aus Nürnberg und Umgebung.  | de |
 | [plumes.io](https://plumes.io) | **1 141** | 15 | ✅ | Plumes.io est une communauté d'auteur•ices, de scénaristes et d'illustrateur•ices avec un intérêt pour le domaine de l'imaginaire: science-fiction, fantasy, fantastique, polar et thriller. | en |
 | [flownative.social](https://flownative.social) | **1 140** | 5 | ❌ | This instance serves the Flownative team as connection to the Fediverse. | en |
@@ -8590,9 +8623,9 @@
 | [tor.lat](https://tor.lat) | **1 109** | 2 | ✅ | Публичный русскоязычный сервер Mastodon в созвездии Fediverse. Место, свободное от рекламы и алгоритмов. Сервер не имеет конкретной тематики и открыт для всех. | en |
 | [axbom.me](https://axbom.me) | **1 109** | 1 | ❌ | ? | ? |
 | [social.elbespace.de](https://social.elbespace.de) | **1 108** | 8 | ❌ | Das ist die Mastodon-Instanz des elbespace, der als Raum für Kommunikation online und offline Seminare und Beratung anbietet. Wir sitzen in Wittenberge, genau zwischen Hamburg und Berlin. | en |
+| [betagravity.com](https://betagravity.com) | **1 107** | 1 | ❌ | Another single user instance | en |
 | [elefanti.co](https://elefanti.co) | **1 105** | 5 | ✅ | Founded in January 2023, this has been a one-person instance. But I'm open to letting it grow into a space for fellow advocates of human rights, democracy, peacebuilding, and justice. | en |
 | [yeen.exposed](https://yeen.exposed) | **1 104** | 4 | ✅ | a small silly yeen, with a small silly instance.  if u wanna join just hit me. we do not tend to grow but if u insist... | en |
-| [betagravity.com](https://betagravity.com) | **1 104** | 1 | ❌ | Another single user instance | en |
 | [mastodon.tz.is](https://mastodon.tz.is) | **1 103** | 1 | ❌ | Tian's private server | en |
 | [toot.foundation](https://toot.foundation) | **1 101** | 11 | ✅ | A trans-owned general(ish) instance meant as a home for LGBTQIA people, anti-fascists, feminists, activists, and anyone who wants to make the world a better place and values kindness and respect. | en |
 | [sozial.cyberpunk.gmbh](https://sozial.cyberpunk.gmbh) | **1 101** | 2 | ❌ | A personal Mastodon instance | en |
@@ -8600,6 +8633,7 @@
 | [leuno.kr](https://leuno.kr) | **1 099** | 2 | ✅ | 한국어 마스토돈 인스턴스인 터미널(Termi'null) 입니다 | en |
 | [web.gnusocial.jp](https://web.gnusocial.jp) | **1 097** | 1 | ❌ | ? | ? |
 | [shouldagoneoffroad.com](https://shouldagoneoffroad.com) | **1 092** | 8 | ❌ | A small off-road community. | en |
+| [video.canadiancivil.com](https://video.canadiancivil.com) | **1 089** | 6 | ✅ | ? | ? |
 | [social.jugendhacker.de](https://social.jugendhacker.de) | **1 088** | 4 | ✅ | ? | ? |
 | [urda.social](https://urda.social) | **1 088** | 1 | ❌ | A Mastodon ran by Urda | en |
 | [hails.org](https://hails.org) | **1 086** | 1 | ❌ | This is @hailey's personal Mastodon instance! | en |
@@ -8633,9 +8667,10 @@
 | [dog-pound.de](https://dog-pound.de) | **1 041** | 9 | ✅ | Ein kleiner Hundezwinger | en |
 | [masto.machlis.com](https://masto.machlis.com) | **1 040** | 2 | ❌ | Sharon's self-hosted personal Mastodon server. | en |
 | [social.publicspaces.net](https://social.publicspaces.net) | **1 037** | 9 | ❌ | ? | en |
+| [donkey.social](https://donkey.social) | **1 037** | 2 | ✅ | ? | ? |
+| [masto.ink](https://masto.ink) | **1 036** | 12 | ✅ | A general-purpose Ukrainian Mastodon server with a 4096 character limit. | uk |
 | [digitalcourage.video](https://digitalcourage.video) | **1 035** | 23 | ❌ | ? | ? |
 | [fyrfli.social](https://fyrfli.social) | **1 030** | 9 | ❌ | ? | ? |
-| [donkey.social](https://donkey.social) | **1 030** | 2 | ✅ | ? | ? |
 | [smnn.ch](https://smnn.ch) | **1 029** | 2 | ❌ | Privater Server, keine Registrierungen möglich. | de |
 | [gyatt.cc](https://gyatt.cc) | **1 024** | 12 | ✅ | this isn't a single-user instance, but it is a work in progress, feel free to request a sign up (based in australia) | en |
 | [vran.as](https://vran.as) | **1 024** | 1 | ❌ | ? | ? |
@@ -8689,6 +8724,7 @@
 | [status.kinlan.me](https://status.kinlan.me) | **931** | 4 | ❌ | This is the mastodon server for the Kinlan's. :D | en |
 | [social.bacardi55.io](https://social.bacardi55.io) | **929** | 7 | ❌ | ? | ? |
 | [buc.ci](https://buc.ci) | **929** | 1 | ❌ | ? | ? |
+| [mastodon.ste.no](https://mastodon.ste.no) | **925** | 4 | ✅ | My own server | en |
 | [bbs.fedibox.com](https://bbs.fedibox.com) | **925** | 3 | ❌ | ? | ? |
 | [moytura.org](https://moytura.org) | **924** | 1 | ❌ | ? | en |
 | [iconfactory.world](https://iconfactory.world) | **923** | 4 | ❌ | A Mastodon server for the Iconfactory and its products. | en |
@@ -8751,27 +8787,26 @@
 | [social.researchanddestroy.technology](https://social.researchanddestroy.technology) | **858** | 2 | ❌ | Friends who break technology together | en |
 | [podlibre.social](https://podlibre.social) | **857** | 1 | ❌ | ? | ? |
 | [notnull.space](https://notnull.space) | **854** | 3 | ❌ | ? | ? |
-| [fuerth.social](https://fuerth.social) | **853** | 11 | ✅ | Kleine Instanz für jegliche Entitäten aus Fürth. | en |
 | [ohjames.eu](https://ohjames.eu) | **853** | 1 | ❌ | I'm here on my own little instance. | en |
 | [masto.goblackcat.com](https://masto.goblackcat.com) | **852** | 1 | ❌ | This is a single person, general purpose instance. | en |
 | [bunbers.org](https://bunbers.org) | **851** | 71 | ✅ | ? | ? |
 | [1password.social](https://1password.social) | **851** | 17 | ❌ | Welcome to 1password.social, the home on Mastodon for 1Password. We're building a safer, simpler digital future for everyone. | en |
 | [social.anaproy.nl](https://social.anaproy.nl) | **851** | 5 | ❌ | private server | en |
 | [ohnepunktundkomma.org](https://ohnepunktundkomma.org) | **849** | 4 | ✅ | Eine offene Instanz, für Menschen die ohnepunktundkomma schreiben möchten.  | de |
+| [social.lemue.org](https://social.lemue.org) | **848** | 9 | ✅ | social.lemue.org ist eine Mastodon Instanz für alle und jeden, der sich in hier zuhause fühlt. (Medien und Tröts die älter als 21 Tage sind werden automatisch verworfen. Ausnahme: >5 Boosts/Favoriten) | en |
 | [social.balpha.de](https://social.balpha.de) | **848** | 1 | ❌ | ? | de |
 | [mastodon.electric-goat.net](https://mastodon.electric-goat.net) | **847** | 10 | ✅ | Serveur géré par l'éditeur de jeux de rôle Electric Goat. Accès libre. | en |
 | [awawa.cat](https://awawa.cat) | **847** | 2 | ❌ | ? | ? |
+| [fuerth.social](https://fuerth.social) | **845** | 11 | ✅ | Kleine Instanz für jegliche Entitäten aus Fürth. | en |
 | [reshet.social](https://reshet.social) | **845** | 10 | ❌ | שרת "רשת" המיתולוגי מהניינטיז התגלגל ל"רשת.סושיאל" ומופעל בשידורי נסיון ע"י עידו אמין עם עזרה מידידים. | he |
 | [soc.bosio.info](https://soc.bosio.info) | **844** | 8 | ❌ | Piero Bosio social network - Social Network, federato, decentralizzato.  | en |
 | [ebildungslabor.de](https://ebildungslabor.de) | **843** | 1 | ❌ | ? | ? |
-| [social.lemue.org](https://social.lemue.org) | **842** | 9 | ✅ | social.lemue.org ist eine Mastodon Instanz für alle und jeden, der sich in hier zuhause fühlt. (Medien und Tröts die älter als 21 Tage sind werden automatisch verworfen. Ausnahme: >5 Boosts/Favoriten) | en |
 | [unreliable.associates](https://unreliable.associates) | **841** | 3 | ❌ | Do you really need more unreliable associates? | en |
 | [pleroma.jezra.net](https://pleroma.jezra.net) | **841** | 1 | ❌ | ? | ? |
 | [masto.henchmonkey.org](https://masto.henchmonkey.org) | **840** | 1 | ❌ | Personal. | en |
 | [mastodon.scop.coop](https://mastodon.scop.coop) | **839** | 102 | ✅ | Cette instance a pour vocation de faire progresser et rayonner la connaissance du modèle coopératif (Société coopérative et participative et Société coopérative d'intérêt collective). | en |
 | [mstdn.omer.land](https://mstdn.omer.land) | **839** | 2 | ❌ | This is Omer's personal Mastodon instance. | en |
 | [annalist.noblogs.org](https://annalist.noblogs.org) | **837** | 2 | ❌ | ? | ? |
-| [mastodon.flockofnazguls.com](https://mastodon.flockofnazguls.com) | **836** | 2 | ❌ | This is a personal server.  | en |
 | [amok.recoil.org](https://amok.recoil.org) | **834** | 7 | ✅ | The Recoil collective hangs out here | en |
 | [fedi.esgeroth.org](https://fedi.esgeroth.org) | **833** | 3 | ❌ | This is a single-family instance for Pete and Jamie. | en |
 | [town.friendmaterial.lgbt](https://town.friendmaterial.lgbt) | **832** | 8 | ❌ | ? | ? |
@@ -8787,6 +8822,7 @@
 | [mastodon.geekery.org](https://mastodon.geekery.org) | **825** | 6 | ✅ | ? | en |
 | [firefish.fedibikes.de](https://firefish.fedibikes.de) | **825** | 5 | ❌ | ? | ? |
 | [mastodo.it](https://mastodo.it) | **823** | 7 | ❌ | ? | en |
+| [mastodon.flockofnazguls.com](https://mastodon.flockofnazguls.com) | **822** | 2 | ❌ | This is a personal server.  | en |
 | [techbacon.social](https://techbacon.social) | **821** | 4 | ✅ | ? | en |
 | [mastodon.lifebystills.co.uk](https://mastodon.lifebystills.co.uk) | **820** | 1 | ❌ | ? | ? |
 | [duckpon.de](https://duckpon.de) | **818** | 1 | ✅ | ? | ? |
@@ -8799,7 +8835,7 @@
 | [were.social](https://were.social) | **812** | 10 | ❌ | ? | ? |
 | [teqqy.social](https://teqqy.social) | **812** | 2 | ❌ | Die private Instanz von teqqy. | en |
 | [social.joshdick.net](https://social.joshdick.net) | **812** | 1 | ❌ | This is a private, single-user Mastodon server for @josh@joshdick.net. | en |
-| [vixen.zone](https://vixen.zone) | **807** | 12 | ✅ | Just a little Mastodon instance for myself and my friends :3c | en |
+| [vixen.zone](https://vixen.zone) | **808** | 12 | ✅ | Just a little Mastodon instance for myself and my friends :3c | en |
 | [feg-ffb.de](https://feg-ffb.de) | **804** | 61 | ❌ | ? | ? |
 | [mastodon.order-of-gathering.de](https://mastodon.order-of-gathering.de) | **804** | 4 | ✅ | ? | en |
 | [norberteder.photography](https://norberteder.photography) | **804** | 1 | ❌ | ? | ? |
@@ -8869,12 +8905,14 @@
 | [tubular.social](https://tubular.social) | **730** | 2 | ❌ | ? | ? |
 | [social.unitoo.it](https://social.unitoo.it) | **728** | 4 | ❌ | ? | ? |
 | [a1.miclear.casa](https://a1.miclear.casa) | **726** | 58 | ✅ | ? | ? |
+| [verified.coop](https://verified.coop) | **725** | 118 | ✅ | For people that want verified identities. | en |
 | [mstdn.o-nature-culture.net](https://mstdn.o-nature-culture.net) | **722** | 5 | ❌ | オホーツク自然・文化ネットワーク | ja |
 | [toot.zof.sh](https://toot.zof.sh) | **722** | 1 | ❌ | It's my private single user instance. | en |
 | [social.aleteoryx.me](https://social.aleteoryx.me) | **721** | 6 | ❌ | A personal instance, proxied through apache instead of nginx cause nginx is annoying. I'm running it, for me and a few people I'm close to. | en |
 | [maidsin.space](https://maidsin.space) | **721** | 2 | ❌ | ? | ? |
 | [friendica.hubup.pro](https://friendica.hubup.pro) | **720** | 15 | ✅ | ? | ? |
 | [brucknerite.net](https://brucknerite.net) | **719** | 1 | ❌ | ? | ? |
+| [cryofault.net](https://cryofault.net) | **718** | 1 | ❌ | The science itself may prove cynical However one mustn't forget that there's a scientific element in all things the important truth is this: I am the master of my fate. I am the captain of my soul. | en |
 | [jbo.social](https://jbo.social) | **717** | 33 | ✅ | jbo.social ist die Mastodon-Instanz von J.B.O. für J.B.O., Freunde und Fans der Band. Technisch wird diese Instanz von der Leo Skull GmbH betreut. | en |
 | [b65.me.in](https://b65.me.in) | **717** | 1 | ❌ | ? | ? |
 | [tuffidon.de](https://tuffidon.de) | **716** | 14 | ✅ | Mastodon für die Tuffistadt Wuppertal und Umgebung | en |
@@ -8889,7 +8927,6 @@
 | [plud.re](https://plud.re) | **704** | 2 | ❌ | ? | ? |
 | [claws.blue](https://claws.blue) | **702** | 23 | ❌ | Welcome to Blue Claws!  A small server for fluffy creatures.  | en |
 | [asocial.grimstack.xyz](https://asocial.grimstack.xyz) | **701** | 5 | ❌ | ? | ? |
-| [cryofault.net](https://cryofault.net) | **699** | 1 | ❌ | The science itself may prove cynical However one mustn't forget that there's a scientific element in all things the important truth is this: I am the master of my fate. I am the captain of my soul. | en |
 | [mitra.anon-kenkai.com](https://mitra.anon-kenkai.com) | **696** | 25 | ✅ | ? | ? |
 | [whitehouse.org](https://whitehouse.org) | **692** | 5 | ❌ | The official Mastodon instance for Whitehouse.org.  | en |
 | [social.crablab.uk](https://social.crablab.uk) | **692** | 5 | ❌ | CrabLab's server. May have other folks on it by request. | en |
@@ -8946,6 +8983,7 @@
 | [primitivebits.social](https://primitivebits.social) | **628** | 1 | ❌ | ? | ? |
 | [goddess.fedicity.net](https://goddess.fedicity.net) | **628** | 1 | ❌ | 自分を護る心のめがみ達をテーマにした一次創作をやってるケータさんのおひとり様インスタンス。 思ったこと呟いたり創作イラストアップしたりメシテロしてみたり... おひとり様インスタンス想定なので当然単独活用です。故に登録はできませんので悪しからず。 | en |
 | [artistalley.space](https://artistalley.space) | **627** | 35 | ✅ | ArtistAlley.space is a place for professional and amateur artists and creators to share their work and build an audience on Mastodon and the Fediverse. | en |
+| [garlic.social](https://garlic.social) | **627** | 11 | ✅ | ? | ? |
 | [social.spicyweb.dev](https://social.spicyweb.dev) | **627** | 3 | ❌ | An instance for The Spicy Web website. (Public registrations are closed.) | en |
 | [mastodon.vanlife.is](https://mastodon.vanlife.is) | **625** | 48 | ✅ | This is a Mastodon server meant for those who are living or are curious about living the #vanlife. But all are welcome! | en |
 | [kokoro.shugetsu.space](https://kokoro.shugetsu.space) | **625** | 5 | ❌ | A Mega Apartment for every soul longing for freedom and care.  | en |
@@ -8953,9 +8991,9 @@
 | [charr.engineer](https://charr.engineer) | **623** | 1 | ❌ | Micca's personal nerding out corner | en |
 | [fedi.monkee.ch](https://fedi.monkee.ch) | **620** | 6 | ❌ | ? | ? |
 | [posts.dumb.stuff.donaberger.xyz](https://posts.dumb.stuff.donaberger.xyz) | **619** | 1 | ❌ | Hello. This is Mitch's private Mastodon server. It is single-user, and running via Docker, managed by Cloudron. | en |
+| [niagara.social](https://niagara.social) | **618** | 15 | ✅ | ? | ? |
 | [nonsense.direct](https://nonsense.direct) | **618** | 2 | ❌ | Reality allowed, but not not encouraged. | en |
 | [calckey.anzui.dev](https://calckey.anzui.dev) | **617** | 2 | ❌ | ? | ? |
-| [niagara.social](https://niagara.social) | **615** | 15 | ✅ | ? | ? |
 | [mastodon.gesteves.com](https://mastodon.gesteves.com) | **614** | 1 | ❌ | This is Guillermo Esteves's private Mastodon server. | en |
 | [mastodon.defiantjc.synology.me](https://mastodon.defiantjc.synology.me) | **613** | 3 | ✅ | ? | en |
 | [ff.doskel.net](https://ff.doskel.net) | **612** | 3 | ❌ | ? | ? |
@@ -8996,16 +9034,17 @@
 | [social.agnos.is](https://social.agnos.is) | **586** | 4 | ❌ | ? | ? |
 | [mstdn.cool](https://mstdn.cool) | **586** | 2 | ✅ | ? | en |
 | [ilbery.family](https://ilbery.family) | **583** | 4 | ❌ | ? | en |
-| [ooe.social](https://ooe.social) | **582** | 37 | ✅ | Dies hier ist die Oberösterreichische Instanz des dezentralen Netzwerks Mastodon.   | en |
 | [nacchan.ca](https://nacchan.ca) | **582** | 2 | ❌ | ? | ? |
 | [cyb3r.social](https://cyb3r.social) | **581** | 2 | ❌ | ? | ? |
+| [ooe.social](https://ooe.social) | **580** | 37 | ✅ | Dies hier ist die Oberösterreichische Instanz des dezentralen Netzwerks Mastodon.   | en |
 | [md.epiphyte.ie](https://md.epiphyte.ie) | **580** | 4 | ✅ | Mastodon Server based in and hosted in Cork Ireland  | en |
 | [iusearchlinux.fyi](https://iusearchlinux.fyi) | **579** | 2 009 | ✅ | ? | ? |
 | [social.extremelyoffline.org](https://social.extremelyoffline.org) | **579** | 3 | ✅ | turn on, tune in, drop out. | en |
 | [notes.tasche.me](https://notes.tasche.me) | **578** | 2 | ❌ | ? | ? |
+| [socialtodon.de](https://socialtodon.de) | **573** | 4 | ✅ | socialtodon.de, ein Mastodon Server von C-onner, dem Autor des Cybersecurityblogs https://c-onner.de/blog. | en |
 | [hub.winslow.cloud](https://hub.winslow.cloud) | **572** | 18 | ✅ | Welcome to the private Mastodon instance of WinslowCloud, owned by Winslow "Tengu Youkai" S.  This server is not available for public registration. Contact i@winslow.cloud for more info. | en |
 | [social.amsterdam.nl](https://social.amsterdam.nl) | **572** | 5 | ❌ | Welkom op de officiële Mastodon-server van de gemeente Amsterdam. Blijf op de hoogte van het nieuws uit de stad via amsterdam.nl/nieuws. | nl |
-| [wiesbaden.social](https://wiesbaden.social) | **567** | 27 | ✅ | Ein öffentlicher Server für alle Fediverse Interessierten aus Wiesbaden oder Umgebung | de |
+| [wiesbaden.social](https://wiesbaden.social) | **570** | 27 | ✅ | Ein öffentlicher Server für alle Fediverse Interessierten aus Wiesbaden oder Umgebung | de |
 | [bihar.social](https://bihar.social) | **567** | 24 | ✅ | ? | ? |
 | [drewtoot.com](https://drewtoot.com) | **567** | 1 | ❌ | ? | en |
 | [akkoma.flitpix.net](https://akkoma.flitpix.net) | **565** | 4 | ❌ | ? | ? |
@@ -9035,19 +9074,18 @@
 | [troet.church](https://troet.church) | **546** | 6 | ✅ | Troet.Church ist eine christliche Mastodon Instanz mit dem Schwerpunkt christlicher Themen. Born Again Christen, Gemeinden und Kirchen sind herzlich Willkommen hier ein Konto zu eröffnen. | en |
 | [lemmy.fmhy.net](https://lemmy.fmhy.net) | **545** | 652 | ❌ | ? | ? |
 | [abraum.social](https://abraum.social) | **545** | 13 | ❌ | ? | en |
-| [toot.hoyle.me.uk](https://toot.hoyle.me.uk) | **545** | 2 | ❌ | ? | en |
 | [social.kylebronsdon.com](https://social.kylebronsdon.com) | **544** | 1 | ❌ | ? | ? |
+| [toot.hoyle.me.uk](https://toot.hoyle.me.uk) | **543** | 2 | ❌ | ? | en |
 | [freezepeach.online](https://freezepeach.online) | **542** | 5 | ❌ | ? | ? |
 | [nfb.social](https://nfb.social) | **539** | 22 | ❌ | Welcome to nfb.social! This is the official Mastodon instance for the National Federation of the Blind. We are the transformative membership and advocacy organization of blind people in the U.S.  | en |
 | [margaras.k47.cz](https://margaras.k47.cz) | **538** | 3 | ❌ | ? | ? |
 | [mstdn.doern.tech](https://mstdn.doern.tech) | **537** | 1 | ❌ | ? | ? |
 | [pl.jugregator.org](https://pl.jugregator.org) | **537** | 1 | ❌ | ? | ? |
 | [leminal.space](https://leminal.space) | **536** | 267 | ✅ | ? | ? |
-| [socialtodon.de](https://socialtodon.de) | **535** | 4 | ✅ | socialtodon.de, ein Mastodon Server von C-onner, dem Autor des Cybersecurityblogs https://c-onner.de/blog. | en |
+| [social.fairphone.community](https://social.fairphone.community) | **535** | 16 | ✅ | A Mastodon/Fediverse server for the Fairphone community | en |
 | [mastodon.voidconspiracy.com](https://mastodon.voidconspiracy.com) | **534** | 3 | ✅ | ? | en |
 | [posts.leftarchive.ie](https://posts.leftarchive.ie) | **533** | 1 | ❌ | ? | ? |
 | [republik.social](https://republik.social) | **532** | 17 | ✅ | Instanz für die Republik-Redaktion. | de |
-| [social.fairphone.community](https://social.fairphone.community) | **532** | 16 | ✅ | A Mastodon/Fediverse server for the Fairphone community | en |
 | [vael.town](https://vael.town) | **532** | 6 | ❌ | Vael Town is a Mastodon instance for artists, musicians, developers, and other like-minded creatives who practice and identify with concepts such as sustainability, open & independent web standards, human & animal rights, and divestment from dominant tech & power structures. We endeavor to build a community that energizes rather than drains, and mutually inspires expression through creative output. | en |
 | [malt.social](https://malt.social) | **532** | 1 | ✅ | A server for Malt Club members and friends.  Better living through malted beverage technologies. | en |
 | [sbg-social.at](https://sbg-social.at) | **529** | 27 | ❌ | Der Mastodon Server für all jene die sich mit Salzburg verbunden fühlen. | en |
@@ -9071,6 +9109,7 @@
 | [relib.re](https://relib.re) | **514** | 5 | ✅ | ? | ? |
 | [typetura.social](https://typetura.social) | **514** | 3 | ❌ | ? | en |
 | [dotart.blog](https://dotart.blog) | **511** | 110 | ❌ | ? | ? |
+| [i.audon.space](https://i.audon.space) | **511** | 3 | ❌ | This is a Mastodon server dedicated to Audon. | en |
 | [rene.seindal.dk](https://rene.seindal.dk) | **511** | 1 | ✅ | ? | ? |
 | [toot.fan](https://toot.fan) | **510** | 7 | ✅ | Yet another mastodon server located in Germany. Love the idea of decentralized and federated services and I want to contribute something. The server toot.fan is pretty new (January 26, 2023) | en |
 | [chatterchannel.social](https://chatterchannel.social) | **509** | 19 | ✅ | ? | ? |
@@ -9083,12 +9122,12 @@
 | [onephoto.club](https://onephoto.club) | **503** | 18 | ✅ | One Photo Club is a semi-private photo-sharing community focused *solely* on travel + outdoor adventures; all posts are limited to those topics. Please see https://about.onephoto.club before joining. | en |
 | [naapurinpoika.com](https://naapurinpoika.com) | **501** | 6 | ❌ | Suomalainen Mastodon-palvelin noheville naapurinhenkilöille. | fi |
 | [mastodon-blablalinux.be](https://mastodon-blablalinux.be) | **500** | 2 | ❌ | "mastodon-blablalinux.be" est un serveur Mastodon privé, francophone, non accessible (personne ne peut s'inscrire), en phase de test et orienté tech ! Je dirais même orienté tech libre !! | fr |
+| [bytearray.eu](https://bytearray.eu) | **500** | 2 | ❌ | ? | en |
 | [sparkly.uni.horse](https://sparkly.uni.horse) | **500** | 1 | ❌ | ? | en |
 | [toots.benpro.fr](https://toots.benpro.fr) | **500** | 1 | ❌ | Single-user instance for me. | en |
 | [freiewaehler.social](https://freiewaehler.social) | **499** | 45 | ✅ | Herzlich Willkommen auf der Mastodon Instanz der FREIEN WÄHLER. Dieser Server ist für alle offiziellen Parteigliederungen und alle interessierten Mitglieder gedacht. | en |
 | [mastodon.vhome.info](https://mastodon.vhome.info) | **499** | 2 | ✅ | ? | en |
 | [social.kryta.app](https://social.kryta.app) | **497** | 17 | ✅ | 如你所见，人类最原始的快乐，就是围着一堆篝火聊天。 | en |
-| [bytearray.eu](https://bytearray.eu) | **497** | 2 | ❌ | ? | en |
 | [social.rand0m.fail](https://social.rand0m.fail) | **497** | 1 | ✅ | private mastodon instance of rand0m.fail | en |
 | [blog.stegemann.de](https://blog.stegemann.de) | **496** | 12 | ✅ | Eine Plattform der beiden Firmen STEGEMANN Landtechnik und STEGEMANN Maschinenbau zum Austausch von Ideen und Information zwischen unsere Kunden, Mitarbeiter und den Herstellern.  | en |
 | [correctiv.social](https://correctiv.social) | **494** | 7 | ❌ | correctiv.social – betrieben vom gemeinnützigen Recherchezentrum CORRECTIV  | de |
@@ -9168,6 +9207,7 @@
 | [lioncourt.social](https://lioncourt.social) | **418** | 1 | ❌ | Server for and by Josh de Lioncourt. | en |
 | [very.stupid.fish](https://very.stupid.fish) | **417** | 4 | ❌ | ? | ? |
 | [social.uibk.ac.at](https://social.uibk.ac.at) | **416** | 20 | ❌ | Die Universität Innsbruck nutzt Mastodon für ihre institutionelle Wissenschaftskommunikation und betreibt mit social.uibk.ac.at in dessen dezentraler Architektur eine Instanz. | de |
+| [social.alexhyett.com](https://social.alexhyett.com) | **414** | 2 | ❌ | Alex Hyett's Mastodon Server | en |
 | [social.wohlfarth.name](https://social.wohlfarth.name) | **414** | 2 | ✅ | Dies ist die Mastodon Instanz der Familie Wohlfarth. | de |
 | [m.dsnv.net](https://m.dsnv.net) | **414** | 1 | ❌ | Private instance to interact with the rest of the Fediverse. | en |
 | [blog.igelko.space](https://blog.igelko.space) | **413** | 1 | ❌ | ? | ? |
@@ -9179,7 +9219,6 @@
 | [ibesocial.space](https://ibesocial.space) | **410** | 15 | ❌ | ? | ? |
 | [akk2.eniehack.net](https://akk2.eniehack.net) | **410** | 6 | ❌ | ? | ? |
 | [social.riversouldiers.dk](https://social.riversouldiers.dk) | **410** | 5 | ✅ | ? | en |
-| [social.alexhyett.com](https://social.alexhyett.com) | **410** | 2 | ❌ | Alex Hyett's Mastodon Server | en |
 | [solarsystem.social](https://solarsystem.social) | **409** | 15 | ✅ | A Mastodon server for the planetary science community. | en |
 | [mstdn.tacowolf.net](https://mstdn.tacowolf.net) | **409** | 4 | ❌ | taco's cool fediverse server for awesome people | en |
 | [slop.social](https://slop.social) | **407** | 5 | ❌ | ? | ? |
@@ -9198,6 +9237,7 @@
 | [wasnever.cool](https://wasnever.cool) | **401** | 2 | ❌ | This is the home of Schmutzie and Palinode, two intrepid netizens who may or may not have ever been cool. | en |
 | [activitypub.stigatle.no](https://activitypub.stigatle.no) | **401** | 1 | ❌ | ? | ? |
 | [akkoma.simulacrum-emporium.eu](https://akkoma.simulacrum-emporium.eu) | **399** | 2 | ❌ | ? | ? |
+| [hollypop.xyz](https://hollypop.xyz) | **399** | 2 | ❌ | ? | ? |
 | [nostream.mastodon.uno](https://nostream.mastodon.uno) | **398** | 1 | ❌ | ? | ? |
 | [pleroma.namar.ie](https://pleroma.namar.ie) | **397** | 1 | ❌ | ? | ? |
 | [www.phante.com](https://www.phante.com) | **397** | 1 | ❌ | ? | ? |
@@ -9236,7 +9276,6 @@
 | [social.vleij.com](https://social.vleij.com) | **371** | 4 | ✅ | The Vleij family instance for extended friends and family. No specific topic, located in Haarlem, The Netherlands. Keep it nice. | en |
 | [fedi.lawngno.me](https://fedi.lawngno.me) | **371** | 1 | ❌ |   | en |
 | [social.abraum.de](https://social.abraum.de) | **370** | 49 | ✅ | ? | ? |
-| [pertsch.social](https://pertsch.social) | **368** | 1 | ❌ | Mastodon-Instanz des Journalisten, Buchautors und Herausgebers Sebastian Pertsch aus Berlin. | de |
 | [blog.sn4il.site](https://blog.sn4il.site) | **368** | 1 | ❌ | ? | ? |
 | [wayne.social](https://wayne.social) | **366** | 23 | ✅ | A server by and for members of the Wayne State University community.  We are not affiliated or run by Wayne State University, the institution. We are a community of students, alumni, and staff. | en |
 | [fediverse.leavingorbit.de](https://fediverse.leavingorbit.de) | **366** | 1 | ❌ | Topics: Spaceflight, space agencies, astronomy |  Posts are mainly written in English, German, or French. |   Blocking threads.net to prevent data scraping, spam, harrassment, etc. | en |
@@ -9267,6 +9306,7 @@
 | [mastodon.ti-fr.com](https://mastodon.ti-fr.com) | **348** | 3 | ❌ | ? | fr |
 | [puddle.town](https://puddle.town) | **347** | 4 | ❌ | This is a private instance. | en |
 | [univention.social](https://univention.social) | **346** | 21 | ❌ | Diese Mastodon-Instanz wird von der Univention GmbH betrieben. | en |
+| [pertsch.social](https://pertsch.social) | **345** | 1 | ❌ | Mastodon-Instanz des Journalisten, Buchautors und Herausgebers Sebastian Pertsch aus Berlin. | de |
 | [social.brucknerite.net](https://social.brucknerite.net) | **342** | 1 | ❌ | Centro de la actividad social de Iván Rivera (¡ese soy yo!). | en |
 | [flimp.ie](https://flimp.ie) | **341** | 3 | ❌ | ? | ? |
 | [vod.newellijay.tv](https://vod.newellijay.tv) | **340** | 2 | ❌ | ? | ? |
@@ -9297,10 +9337,10 @@
 | [social.datenschutz-guru.de](https://social.datenschutz-guru.de) | **323** | 2 | ❌ | Eine Mastodon-Instanz der Datenschutz-Guru GmbH | en |
 | [schmus.is](https://schmus.is) | **323** | 1 | ❌ | ? | ? |
 | [snabel.party](https://snabel.party) | **322** | 4 | ❌ | This server is private. | en |
+| [whale.party](https://whale.party) | **322** | 2 | ✅ | An instance afloat on the fediverse. | en |
 | [shark.fedinet.de](https://shark.fedinet.de) | **322** | 2 | ❌ | ? | ? |
 | [socialcoders.org](https://socialcoders.org) | **321** | 4 | ✅ | ? | en |
 | [mastodon.iftas.org](https://mastodon.iftas.org) | **321** | 4 | ❌ | IFTAS is a non-profit organisation created to support the Fediverse moderator community | en |
-| [whale.party](https://whale.party) | **321** | 2 | ✅ | An instance afloat on the fediverse. | en |
 | [kerala.party](https://kerala.party) | **319** | 73 | ❌ | ? | ? |
 | [vidasana.social](https://vidasana.social) | **318** | 40 | ✅ | Red social libre, sin anuncios ni algoritmos, para los amantes de la vida sana hispanohablantes. Bienestar, nutrición, cosmética natural, deporte, osteopatía, fisioterapia, yoga, pilates, meditación. | en |
 | [social.spiezmaestro.ch](https://social.spiezmaestro.ch) | **318** | 1 | ❌ | ? | en |
@@ -9347,10 +9387,11 @@
 | [noctalgia.space](https://noctalgia.space) | **287** | 1 | ✅ | Science Fiction, Books, Astronomy, Ecology, Music.  This instance blocks all forms of bigotry.  | en |
 | [ck.fedcast.ch](https://ck.fedcast.ch) | **286** | 3 | ❌ | ? | ? |
 | [mastodon.luemy.eu](https://mastodon.luemy.eu) | **286** | 3 | ❌ | ? | fr |
+| [social.klein.ruhr](https://social.klein.ruhr) | **286** | 2 | ❌ | ? | de |
+| [m.nithou.net](https://m.nithou.net) | **285** | 1 | ❌ | Welcome to Nithou's own little part of the Fediverse! | en |
 | [social.brothertec.eu](https://social.brothertec.eu) | **284** | 1 | ❌ | Diese Instanz ist eine single-user Instanz. Hauptsächlich für mich und eventuell für meinem Bruder und meine Freunde bestimmt. | en |
 | [zecko.social](https://zecko.social) | **283** | 4 | ❌ | zecko.social ist die Mastodon Instanz von ZECKO. Aktuell ist die Registrierung nur auf Einladung möglich. | de |
 | [troettroet.de](https://troettroet.de) | **283** | 2 | ✅ | Ein so richtig privater Server im Fediverse | en |
-| [m.nithou.net](https://m.nithou.net) | **283** | 1 | ❌ | Welcome to Nithou's own little part of the Fediverse! | en |
 | [video.maechler.cloud](https://video.maechler.cloud) | **281** | 2 | ❌ | ? | ? |
 | [media.fsfe.org](https://media.fsfe.org) | **280** | 2 | ❌ | ? | ? |
 | [social.gorritodeplata.xyz](https://social.gorritodeplata.xyz) | **279** | 2 | ❌ | Una islita más del fediverso. | en |
@@ -9358,7 +9399,6 @@
 | [mastodon.themarkup.org](https://mastodon.themarkup.org) | **278** | 2 | ❌ | The Markup's Mastodon instance | en |
 | [muffin.industries](https://muffin.industries) | **278** | 1 | ❌ | Colin's personal server. If you're a friend and looking for a place to host your account, let me know! | en |
 | [elytra15.com](https://elytra15.com) | **277** | 3 | ❌ | A powerful mastodon server | en |
-| [social.klein.ruhr](https://social.klein.ruhr) | **277** | 2 | ❌ | ? | de |
 | [trash.boutique](https://trash.boutique) | **276** | 4 | ❌ | ? | en |
 | [landwirtschaft.todon.de](https://landwirtschaft.todon.de) | **275** | 3 | ✅ | Privater Server für Landwirtinnen und Landwirte aus dem DACH Raum. | en |
 | [plopp.utzer.de](https://plopp.utzer.de) | **275** | 2 | ❌ | ? | ? |
@@ -9517,6 +9557,7 @@
 | [social.ventora.net](https://social.ventora.net) | **173** | 3 | ❌ | ? | ? |
 | [corp.social](https://corp.social) | **172** | 14 | ✅ | Mastodon server for businesses and brands, operated by Cloudplane. | en |
 | [the.tonytiger.club](https://the.tonytiger.club) | **172** | 2 | ✅ | A general Mastodon instance celebrating the life and work of Tony the Tiger. It's GRRREAT! | en |
+| [xn--8r9a.com](https://xn--8r9a.com) | **172** | 1 | ❌ | IDN and Punycode support testing instance. | en |
 | [sasa.africa](https://sasa.africa) | **171** | 10 | ✅ | Sasa.Africa is a social networking place for all people interested in distributed systems. The social aspects of decentralization are essential here, and especially how they are imagined and enacted. Bring your authentic self, your africaness, your blackness, your pride, and your humanity.  | en |
 | [evanp.me](https://evanp.me) | **171** | 2 | ❌ | ? | ? |
 | [misp-community.org](https://misp-community.org) | **170** | 34 | ✅ | MISP Community - People using, contributing to the MISP project. The server is run by the MISP core team.  | en |
@@ -9528,7 +9569,6 @@
 | [media.undeadnetwork.de](https://media.undeadnetwork.de) | **168** | 3 | ❌ | ? | ? |
 | [mastodon.tarmil.fr](https://mastodon.tarmil.fr) | **168** | 1 | ❌ | ? | en |
 | [otp.akkoma.dev](https://otp.akkoma.dev) | **166** | 32 | ❌ | ? | ? |
-| [xn--8r9a.com](https://xn--8r9a.com) | **166** | 1 | ❌ | IDN and Punycode support testing instance. | en |
 | [quickfix.es](https://quickfix.es) | **165** | 3 | ❌ | ? | ? |
 | [social.pyngu.com](https://social.pyngu.com) | **165** | 3 | ❌ | Dies ist der interne Mastodon-Server von Pyngu Digital. Wir nutzen Mastodon als unseren Social Media Auftritt. You can't find us on "Big Tech" Social Media | de |
 | [social.litehell.info](https://social.litehell.info) | **165** | 2 | ❌ | LiteHell의 개인 마스토돈 인스턴스입니다. LiteHell's personal mastodon instance | ko |
@@ -9600,8 +9640,10 @@
 | [rant.vpalepu.com](https://rant.vpalepu.com) | **131** | 1 | ❌ | ? | ? |
 | [hades.town](https://hades.town) | **131** | 1 | ❌ | A small server for friends. We are left wing and generally queer. | en |
 | [no.lastname.nz](https://no.lastname.nz) | **130** | 39 | ✅ | ? | ? |
+| [junimo.party](https://junimo.party) | **130** | 4 | ❌ | ? | ? |
 | [mastodon.goldenhillsoftware.com](https://mastodon.goldenhillsoftware.com) | **130** | 3 | ❌ | Golden Hill Software develops apps for Apple platforms and for the web. | en |
 | [myonlinepi.uk](https://myonlinepi.uk) | **130** | 2 | ✅ | A personal Mastodon server self-hosted on a Raspberry Pi 5 | en |
+| [moments.hidupmanis.studio](https://moments.hidupmanis.studio) | **130** | 1 | ❌ | ? | ? |
 | [social.techn1k.de](https://social.techn1k.de) | **129** | 5 | ❌ | ? | ? |
 | [write.echoless.space](https://write.echoless.space) | **129** | 3 | ❌ | A starting point for shouting into the void. If you somehow stumble upon this message and want an account on this tiny server, you may ask. | en |
 | [fedi-01.starlight.quest](https://fedi-01.starlight.quest) | **129** | 2 | ❌ | ? | ? |
@@ -9641,6 +9683,7 @@
 | [trapped.genoq.org](https://trapped.genoq.org) | **112** | 2 | ❌ | ? | ? |
 | [aus-marzahn.de](https://aus-marzahn.de) | **112** | 1 | ❌ | Mastodon Instanz von Schumi aus Marzahn | de |
 | [mastodon.maswag.net](https://mastodon.maswag.net) | **112** | 1 | ❌ | このサーバはMasWagの個人インスタンスです。基本的に他のユーザの登録は受け付けていません。 | en |
+| [andrew.masto.host](https://andrew.masto.host) | **112** | 1 | ❌ | ? | en |
 | [m.flaem.ing](https://m.flaem.ing) | **111** | 4 | ✅ | Stay connected in and with the Fläming | en |
 | [social.cadusilva.com](https://social.cadusilva.com) | **111** | 1 | ❌ | ? | ? |
 | [aspettandolestinzioneumana.wordpress.com](https://aspettandolestinzioneumana.wordpress.com) | **111** | 1 | ❌ | ? | ? |
@@ -9666,7 +9709,6 @@
 | [social.snfsx.xyz](https://social.snfsx.xyz) | **104** | 3 | ✅ | ? | ? |
 | [onpartage.autroisieme.top](https://onpartage.autroisieme.top) | **104** | 2 | ❌ | ? | fr |
 | [msd.fedcast.ch](https://msd.fedcast.ch) | **104** | 1 | ❌ | Das ist eine Mastodon Instanz im Netzwerk #Fediverse, läuft auf einem Raspberry 4 mit einem externen SSD Drive. Getestet wird, ob eine Einpersonen-Instanz mit dieser einfachen Hardware möglich ist. | en |
-| [andrew.masto.host](https://andrew.masto.host) | **104** | 1 | ❌ | ? | en |
 | [social.yorkshiregeek.xyz](https://social.yorkshiregeek.xyz) | **103** | 1 | ❌ | personal instance  | en |
 | [bonito.cafe](https://bonito.cafe) | **102** | 5 | ✅ | ? | ? |
 | [ff.swrlab.org](https://ff.swrlab.org) | **102** | 3 | ❌ | ? | ? |
@@ -9809,6 +9851,7 @@
 | [roytanck.com](https://roytanck.com) | **56** | 1 | ❌ | ? | ? |
 | [pleroma.tenkoff.ru](https://pleroma.tenkoff.ru) | **55** | 2 | ❌ | ? | ? |
 | [lemmy.blackeco.com](https://lemmy.blackeco.com) | **55** | 2 | ❌ | ? | ? |
+| [davewinter.dev](https://davewinter.dev) | **55** | 1 | ❌ | ? | ? |
 | [ice.pepecyb.de](https://ice.pepecyb.de) | **54** | 4 | ✅ | ? | ? |
 | [blog.rozman.info](https://blog.rozman.info) | **54** | 2 | ❌ | ? | ? |
 | [friendica.cord.de](https://friendica.cord.de) | **54** | 1 | ❌ | ? | ? |
@@ -9829,6 +9872,7 @@
 | [social.rubber.family](https://social.rubber.family) | **46** | 2 | ❌ | NSFW. A private Mastodon server for our kinky rubber family. Expect rubber (lots of it), bondage, kink, scally. Gay af (but we'll still violate ya!) | en |
 | [social.kijy.net](https://social.kijy.net) | **46** | 1 | ✅ | ? | ? |
 | [beyond.forum](https://beyond.forum) | **45** | 13 | ✅ | Beyond.forum was created by the Beyond Ranch Foundation, and is a supportive space for those aiding nonverbal autistic individuals while also welcoming the wider autism community. | en |
+| [fed.alexvan.in](https://fed.alexvan.in) | **45** | 3 | ❌ | ? | ru |
 | [spirelli.net](https://spirelli.net) | **45** | 1 | ❌ | ? | ? |
 | [social.thej.in](https://social.thej.in) | **45** | 1 | ❌ | ? | en |
 | [social.jyrgi.de](https://social.jyrgi.de) | **44** | 4 | ❌ | ? | ? |
@@ -9853,11 +9897,11 @@
 | [social.dolphin-emu.org](https://social.dolphin-emu.org) | **36** | 1 | ❌ | Official Fediverse server for the Dolphin Emulator. | en |
 | [jillsreads.com](https://jillsreads.com) | **35** | 2 | ❌ | ? | ? |
 | [netcup.cafe](https://netcup.cafe) | **35** | 1 | ❌ | netcup.cafe ist die offizielle Mastodon-Instanz der netcup GmbH.  | en |
+| [fedilab.de](https://fedilab.de) | **35** | 1 | ❌ | Diese Instanz ist ein Experimentier- und Entwicklungsraum im Fediverse von Nele (eBildungslabor). Es sind keine offenen Registrierungen möglich. Nicht verbunden mit fedilab.app. | en |
 | [surfzone.nz](https://surfzone.nz) | **35** | 1 | ❌ | ? | ? |
 | [datak.duckdns.org](https://datak.duckdns.org) | **34** | 2 | ❌ | Questo è un server casalingo, nel senso che è proprio qui di fianco alla mia scrivania. Non ha molta potenza di calcolo (la corrente costa) ma sufficiente a rendermi indipendente dagli altri server. | en |
 | [social.alfredbuehler.ch](https://social.alfredbuehler.ch) | **34** | 1 | ❌ | ? | ? |
 | [tele.kenobit.it](https://tele.kenobit.it) | **34** | 1 | ❌ | ? | ? |
-| [fedilab.de](https://fedilab.de) | **34** | 1 | ❌ | Diese Instanz ist ein Experimentier- und Entwicklungsraum im Fediverse von Nele (eBildungslabor). Es sind keine offenen Registrierungen möglich. Nicht verbunden mit fedilab.app. | en |
 | [kjas.no](https://kjas.no) | **33** | 13 | ✅ | Server for norsktalende brukere fra hele verden. La oss kjase litt over en digital kaffe ☕💬  👋😃 Velkommen! | en |
 | [techbites.info](https://techbites.info) | **33** | 1 | ❌ | ? | ? |
 | [events.tchncs.de](https://events.tchncs.de) | **32** | 53 | ❌ | ? | ? |
@@ -9896,6 +9940,7 @@
 | [adventcalendar.vivaldi.net](https://adventcalendar.vivaldi.net) | **24** | 1 | ❌ | ? | ? |
 | [notes.opensourcegardens.info](https://notes.opensourcegardens.info) | **24** | 1 | ❌ | ? | ? |
 | [blog.writefreely.org](https://blog.writefreely.org) | **24** | 1 | ❌ | ? | ? |
+| [vilelasagna.ddns.net](https://vilelasagna.ddns.net) | **24** | 1 | ❌ | ? | ? |
 | [kvetch.kibbutz.gay](https://kvetch.kibbutz.gay) | **23** | 7 | ❌ | ? | ? |
 | [lemmy.starlightkel.xyz](https://lemmy.starlightkel.xyz) | **23** | 3 | ❌ | ? | ? |
 | [blog.pohlers-web.de](https://blog.pohlers-web.de) | **23** | 1 | ❌ | ? | ? |
@@ -9994,6 +10039,7 @@
 | [lemmy.fosshost.com](https://lemmy.fosshost.com) | **2** | 8 | ✅ | ? | ? |
 | [lemmy.mws.rocks](https://lemmy.mws.rocks) | **2** | 6 | ❌ | ? | ? |
 | [lemmy.roembol.nl](https://lemmy.roembol.nl) | **2** | 5 | ❌ | ? | ? |
+| [lemmy.zxcvn.xyz](https://lemmy.zxcvn.xyz) | **2** | 5 | ❌ | ? | ? |
 | [comms.thedigitallancabin.net](https://comms.thedigitallancabin.net) | **2** | 3 | ❌ | ? | ? |
 | [lemmy.korz.dev](https://lemmy.korz.dev) | **2** | 3 | ❌ | ? | ? |
 | [lemmy.emphisia.nl](https://lemmy.emphisia.nl) | **2** | 2 | ✅ | ? | ? |

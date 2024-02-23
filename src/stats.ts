@@ -18,12 +18,12 @@ for(const instance of instances) {
   if(file.total?.users) {
     const value = Number(file.total.users)
     usersByInstance[instance] = value
-    users += value
+    if(value > 0) users += value
   }
   if(file.total?.posts) {
     const value = Number(file.total.posts)
     postsByInstance[instance] = value
-    posts += value
+    if(value > 0) posts += value
   }
   if(file.open) {
     open += 1
@@ -89,8 +89,8 @@ let file = `
 - **${formatNumber(instances.length)}** total instances
 - **${formatNumber(users)}** total users
 - **${formatNumber(posts)}** total posts
-- **${(open / instances.length * 100).toFixed(2)}%** of instances are open
-- **${formatNumber(links)}** in average per instance links with other instances
+- **${(open / instances.length * 100).toFixed(2)}%** instances are open
+- **${formatNumber((links / instances.length).toFixed(2))}** average links with other instances
 
 ### Softwares used
 | Software | Users | Instances |

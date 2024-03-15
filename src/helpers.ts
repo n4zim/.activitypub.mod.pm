@@ -96,6 +96,7 @@ async function nodeInfo(manifestDomain: string) {
       console.log("/!\\ Aborted instance discovery for", url)
     } else {
       console.error("Error discovering", url)
+      appendFailedDiscovery(manifestDomain)
     }
   }
 }
@@ -117,4 +118,16 @@ export async function chunkPromises(promises: (() => Promise<void>)[]) {
     console.log(`Executing ${i + 1}-${i + CONCURRENCY + 1} of ${promises.length} promises...`)
     await Promise.all(promises.slice(i, i + CONCURRENCY).map(promise => promise()))
   }
+}
+
+function appendFailedDiscovery(instance: string) {
+  let fails = JSON.parse(Deno.readTextFileSync("fails.json"))
+  if(typeof fails[instance] === "undefined") {
+    fails = Object.keys(fails).sort().reduce((obj, key) => {
+      obj[key] = instance === key ? 0 : fails[key]
+      return obj
+    })
+  }
+  fails[instance]++
+  Deno.writeTextFileSync("fails.json", JSON.stringify(fails))
 }

@@ -126,7 +126,7 @@ function appendFailedDiscovery(instance: string) {
     fails = Object.keys(fails).sort().reduce((obj, key) => {
       obj[key] = instance === key ? 0 : fails[key]
       return obj
-    })
+    }, {})
   }
   fails[instance]++
   Deno.writeTextFileSync("fails.json", JSON.stringify(fails))

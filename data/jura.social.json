@@ -1,1 +1,1 @@
-{"open":true,"total":{"users":2,"posts":888},"hostname":"jura.social","software":{"name":"mastodon","version":"4.3.3"},"name":"Jura.social","description":"A Mastodon instance to connect people living on, or nearby, the Jura mountains to the fediverse. We write in French, Swiss German and English.","languages":["en"],"links":["mastodon.social"]}
+{"open":false,"total":{"users":0,"posts":375},"hostname":"jura.social","software":{"name":"pixelfed","version":"0.12.4"},"name":"Jura.social","links":["mastodon.social"]}

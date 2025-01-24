@@ -1,1 +1,1 @@
-{"open":false,"total":{"users":1,"posts":135},"hostname":"snowfinch.zone","software":{"name":"mastodon","version":"4.3.2"},"name":"Snowfinch","description":"A small private Mastodon Server","languages":["en"],"links":["flipping.rocks"]}
+{"open":true,"total":{"users":"1","posts":"3"},"hostname":"snowfinch.zone","software":{"name":"NodeBB","version":"4.0.0"},"name":"SnowfinchBB","links":["flipping.rocks"]}

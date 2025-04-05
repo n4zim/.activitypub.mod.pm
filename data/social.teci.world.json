@@ -1,1 +1,1 @@
-{"total":{},"hostname":"social.teci.world","software":{}}
+{"total":{"users":147,"posts":45125},"hostname":"social.teci.world","software":{"name":"pleroma","version":"2.5.51-436-ge8928e22.develop+soapbox"},"open":true,"name":"TECI Social"}

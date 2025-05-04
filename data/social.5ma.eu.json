@@ -1,1 +1,1 @@
-{"open":true,"total":{"users":4,"posts":529},"hostname":"social.5ma.eu","software":{"name":"mastodon","version":"4.2.13"},"name":"joemats mastodon server","description":"A private server for family members","languages":["en"],"links":["norden.social","social.bau-ha.us","infosec.exchange"]}
+{"open":false,"total":{"users":2,"posts":1},"hostname":"social.5ma.eu","software":{"name":"gotosocial","version":"0.19.0+git-ab2044e"},"links":["norden.social","social.bau-ha.us","infosec.exchange"]}

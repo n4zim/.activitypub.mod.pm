@@ -1,1 +1,1 @@
-{"total":{},"hostname":"pleroma.elinvention.ovh","software":{}}
+{"total":{"users":5,"posts":1965},"hostname":"pleroma.elinvention.ovh","software":{"name":"akkoma","version":"3.15.2"},"open":false,"name":"Akkoma hosted by Elinvention"}
